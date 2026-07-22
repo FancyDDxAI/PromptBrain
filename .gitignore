@@ -1,0 +1,10 @@
+package/
+*.zip
+*.pdb
+data/
+models/
+backups/
+runtime/
+runtimes/
+promptbrain-state*.json
+*.tmp
