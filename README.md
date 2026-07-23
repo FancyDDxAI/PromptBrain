@@ -17,7 +17,12 @@ PromptBrain is a local-first Windows prompt studio for ComfyUI. It turns a short
 - Supports SFW and adult workflows while excluding underage and illegal content.
 - Works without a cloud API or bundled language model. An external local AI backend is optional.
 
-## Version 1.1.1
+## Version 1.1.2
+
+- Added brief-intent reasoning so short subject prompts stay focused.
+- Preserves complete generic subjects such as `cute elf girl` and `dark elf woman`.
+- Prevents unrequested actions, professions, outfits, settings, camera directions, and art recipes.
+- Keeps explicit scene direction and authored recipe triggers fully available.
 
 - Rebuilt Workspace around a compact context bar, searchable control library, scene board, and semantic prompt inspector.
 - Added Subject, Look, and Scene tabs with Recommended, Learned, and Recent filters.
@@ -60,4 +65,4 @@ No AI model is bundled. PromptBrain's deterministic engine works without one. Us
 
 ## Version
 
-Current release: **v1.1.1**
+Current release: **v1.1.2**

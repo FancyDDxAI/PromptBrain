@@ -3,7 +3,7 @@ const $$ = (selector) => Array.from(document.querySelectorAll(selector));
 
 const storageKey = "promptbrain.v2.backup";
 const legacyStorageKey = "promptbrain.v1";
-const APP_VERSION = "1.1.1";
+const APP_VERSION = "1.1.2";
 const APPEARANCE_DEFAULTS = {
   colors: {
     canvas: "#0b1017", surface: "#111822", elevated: "#18212c", border: "#293543",

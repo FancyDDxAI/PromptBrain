@@ -141,6 +141,15 @@
     return slots;
   }
 
+  function inferScope(text, goals, explicit, artDirectionRequested = false) {
+    const wordCount = text ? text.split(/\s+/).filter(Boolean).length : 0;
+    const sceneGoal = artDirectionRequested
+      || goals.some((goal) => ["action", "relationship", "narrative", "art-direction", "adult", "portrait"].includes(goal));
+    if (wordCount > 0 && wordCount <= 10 && !sceneGoal) return "brief";
+    if (wordCount >= 18 || goals.length >= 3 || Object.keys(explicit).length >= 5) return "detailed";
+    return "standard";
+  }
+
   function compileIntent(intent, options = {}) {
     const text = normalize(intent?.normalizedText || intent?.rawText);
     const goals = inferGoals(text);
@@ -165,6 +174,7 @@
       goals,
       themes,
       archetype: inferArchetype(goals),
+      scope: inferScope(text, goals, explicit, intent?.artDirection?.requested === true),
       requestedParticipants,
       relationships,
       explicitSlots: explicit,

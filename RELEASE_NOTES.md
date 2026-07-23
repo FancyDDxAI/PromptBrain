@@ -1,26 +1,29 @@
-# PromptBrain v1.1.1
+# PromptBrain v1.1.2
 
-PromptBrain v1.1.1 is a corrective interface release that replaces the legacy workspace layout with the approved v1.1 design.
+PromptBrain v1.1.2 improves how the local reasoning engine handles short, underspecified requests.
 
-## Interface
+## Changes
 
-- Rebuilt Workspace around a compact context bar, searchable control library, scene board, and semantic live-prompt inspector.
-- Added Subject, Look, and Scene library tabs plus Recommended, Learned, and Recent filters.
-- Added real scene summaries inferred from the current request and generated prompt.
-- Moved style tokens and compatible LoRAs into a compact context popover.
-- Rebuilt Models as a checkpoint list, live rule detail, and compatible LoRA inspector.
-- Rebuilt Prompt Training as a focused correction editor and local learning view.
-- Restyled Result Lab, Insights, Settings, and secondary surfaces to use the same restrained visual system.
-- Improved responsive behavior for desktop, resized windows, and compact screens.
+- Added intent scope classification for brief, standard, and detailed requests.
+- Brief subject prompts now preserve the complete subject phrase instead of reducing it to a generic noun.
+- Generic fantasy traits such as `elf` add appropriate anatomy without inventing a named character, profession, or franchise.
+- Short requests no longer trigger unrelated actions, outfits, environments, camera angles, motifs, or epic art recipes.
+- Explicit settings remain intact without causing unrelated scene expansion.
+- Exact authored recipe triggers and richer action or art-direction requests still use the full knowledge engine.
+- Added regression coverage across randomized short prompts and nearby fantasy, portrait, and scene requests.
 
-## Customization
+## Example
 
-- Fixed Appearance Studio tokens so palette, semantic colors, radius, density, sidebar width, and motion affect the new interface.
-- Preserved Graphite, Porcelain, and Midnight Plum presets plus theme import and export.
+Input:
 
-## Reliability
+`cute elf girl`
 
-- Preserves the existing local prompt engine, catalog, sessions, image memory, feedback, and saved settings.
-- Keeps all analytics tied to real local usage.
-- Includes the new stylesheet in the desktop executable host.
-- Passed 55 engine and persistence tests, 600 generation stress cases, responsive UI smoke tests, packaging checks, and desktop build validation.
+Output shape:
+
+`masterpiece, best quality, premium illustration, clean polished anime shading, anime style, cute elf girl, pointed elf ears, BREAK, gentle smile, soft magical lighting, clean character-focused composition`
+
+## Verification
+
+- 57 engine and application tests passed.
+- 600 randomized generation stress cases passed.
+- Phase 8 catalog remains intact: 26,200 concepts, 330 entities, and 1,446 recipes.

@@ -1,11 +1,11 @@
 $ErrorActionPreference = "Stop"
 
 $port = 43121
-$testData = Join-Path (Resolve-Path ".\output") ("launch-state-1.1.1-" + [guid]::NewGuid().ToString("N"))
+$testData = Join-Path (Resolve-Path ".\output") ("launch-state-1.1.2-" + [guid]::NewGuid().ToString("N"))
 New-Item -ItemType Directory -Path $testData -Force | Out-Null
 $env:PROMPTBRAIN_PORT = [string]$port
 $env:PROMPTBRAIN_DATA_DIR = $testData
-$exe = (Resolve-Path ".\output\publish-PromptBrain-1.1.1\PromptBrain.exe").Path
+$exe = (Resolve-Path ".\output\publish-PromptBrain-1.1.2\PromptBrain.exe").Path
 $process = Start-Process -FilePath $exe -WindowStyle Hidden -PassThru
 
 try {
@@ -16,7 +16,7 @@ try {
         }
         Start-Sleep -Milliseconds 250
         $process.Refresh()
-        if ($process.MainWindowTitle -match "PromptBrain 1\.1\.1") {
+        if ($process.MainWindowTitle -match "PromptBrain 1\.1\.2") {
             $ready = $true
             break
         }

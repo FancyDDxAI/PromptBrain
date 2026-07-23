@@ -307,6 +307,7 @@
         exact.push({ concept: item, alias, score: 100 + Math.min(alias.length, 30) + semanticSpecificity });
         return;
       }
+      if (options.allowFuzzy === false) return;
       if (options.contentMode !== "adult" && item.contentMode === "adult") return;
       if (!conceptCompatibility(item, options.checkpointId).compatible) return;
       if (item.kind === "lora") return;
@@ -397,7 +398,9 @@
     const explicit = collectExplicitConcepts(normalized.matchText, forbidden, {
       checkpointId,
       contentMode,
-      seed: calculatedSeed
+      seed: calculatedSeed,
+      allowFuzzy: normalized.matchText.split(/\s+/).filter(Boolean).length > 10
+        || /\b(?:action|artistic|artwork|attack|battle|charging|combat|fight|fighting|illustration|painting|poster|portrait|running|scene)\b/.test(normalized.matchText)
     });
 
     forbidden.phrases.forEach((phrase) => intent.directives.forbidden.push({ phrase }));
@@ -489,6 +492,10 @@
       }
     }
     const directed = artDirector.direct(intent, { memoryScores: options.memoryScores || {} });
+    if (intent.reasoning?.intentModel?.scope === "brief") {
+      const familyScore = directed?.analysis?.familyScores?.[directed.recipe?.familyId];
+      return directed?.recipe?.provenance && familyScore?.triggerHits > 0 ? directed : null;
+    }
     if (directed) return directed;
     return seed.ART_RECIPES
       .map((recipe) => {
@@ -877,6 +884,7 @@
   function applySemanticInferences(selection, intent, random, selectedEntityIds) {
     const ids = selection.byId;
     const entityIds = selectedEntityIds || new Set(intent.entities.map((item) => item.id));
+    const requestText = intent.normalizedText || "";
 
     if (ids.has("subject.oni-woman")) addIfMissing(selection, "anatomy.oni-horns", "oni anatomy dependency");
     if (ids.has("subject.dragon-girl")) {
@@ -887,6 +895,9 @@
     if (ids.has("subject.mouse-woman")) {
       addIfMissing(selection, "anatomy.mouse-ears", "mouse anatomy dependency");
       addIfMissing(selection, "anatomy.mouse-tail", "mouse anatomy dependency");
+    }
+    if (/\belf\b/.test(requestText)) {
+      addIfMissing(selection, "anatomy.pointed-elf-ears", "generic elf anatomy dependency");
     }
 
     if (ids.has("action.combat")) {
@@ -1037,6 +1048,43 @@
       "phase9.staging.quiet-interior-moment",
       "phase9.staging.street-candid"
     ].includes(selection.plan.artRecipe?.familyId);
+
+    if (selection.plan.reasoning?.intentModel?.scope === "brief") {
+      const themes = selection.plan.reasoning.intentModel.themes || [];
+      const expressionChoices = themes.includes("cute")
+        ? ["gentle smile", "soft cheerful expression", "warm playful smile"]
+        : themes.includes("horror")
+          ? ["quiet serious expression", "subtle intense gaze", "calm mysterious expression"]
+          : ["natural relaxed expression", "calm attentive expression", "subtle confident expression"];
+      const lightingChoices = themes.includes("fantasy")
+        ? ["soft magical lighting", "gentle diffused lighting", "subtle luminous lighting"]
+        : ["soft natural lighting", "gentle diffused lighting", "clean balanced lighting"];
+      if (!has("expression")) {
+        addLiteral(selection, "expression", expressionChoices[Math.floor(random() * expressionChoices.length)], {
+          source: "inferred",
+          score: 20,
+          locked: false,
+          reason: "added restrained mood detail for a brief subject request"
+        });
+      }
+      if (!has("lighting")) {
+        addLiteral(selection, "lighting", lightingChoices[Math.floor(random() * lightingChoices.length)], {
+          source: "inferred",
+          score: 18,
+          locked: false,
+          reason: "added restrained lighting for a brief subject request"
+        });
+      }
+      if (!has("composition")) {
+        addLiteral(selection, "composition", "clean character-focused composition", {
+          source: "inferred",
+          score: 16,
+          locked: false,
+          reason: "kept a brief subject request visually focused"
+        });
+      }
+      return;
+    }
 
     if (!has("action") && !has("interaction") && !preservedRequest) {
       if (adultRequested) {
@@ -1264,7 +1312,7 @@
     if (intent.rejectedEntities?.length || selection.plan.rejected.some((item) => item.source === "entity")) return;
     const normalized = intent.normalizedText;
     if (!selection.plan.blocks.subject.length) {
-      const subjectPattern = /\b(?:(?:generic|adult|anime|fantasy|female|male|masked|armored|cyberpunk|gothic|oni|dragon|demon|mouse|vampire|ice elf|science fiction)\s+){0,3}(?:androids?|archers?|assassins?|characters?|girls?|hero|heroes|knights?|mages?|man|men|mechanics?|ninjas?|people|persons?|pilots?|priestess|priestesses|samurai|soldiers?|sorcerers?|swordsman|swordsmen|swordswoman|swordswomen|vampires?|villains?|warriors?|witch|witches|woman|women)\b/g;
+      const subjectPattern = /\b(?:(?:adorable|armored|anime|cute|cyberpunk|dark|demon|elf|female|fantasy|generic|gothic|ice|kawaii|male|masked|mouse|oni|science fiction|vampire|witch)\s+){0,4}(?:androids?|archers?|assassins?|catgirls?|characters?|girls?|hero|heroes|knights?|mages?|man|men|mechanics?|ninjas?|people|persons?|pilots?|priestess|priestesses|samurai|soldiers?|sorcerers?|swordsman|swordsmen|swordswoman|swordswomen|vampires?|villains?|warriors?|witch|witches|woman|women)\b/g;
       const subjects = normalized.match(subjectPattern) || [];
       subjects.forEach((subject) => addLiteral(selection, "subject", subject, {
         source: "explicit",
