@@ -3,6 +3,31 @@ const $$ = (selector) => Array.from(document.querySelectorAll(selector));
 
 const storageKey = "promptbrain.v2.backup";
 const legacyStorageKey = "promptbrain.v1";
+const APP_VERSION = "1.1.0";
+const APPEARANCE_DEFAULTS = {
+  colors: {
+    canvas: "#0b1017", surface: "#111822", elevated: "#18212c", border: "#293543",
+    primary: "#55cce6", secondary: "#a88be8", text: "#f2f6f8", muted: "#94a3b3",
+    positive: "#4ed39a", warning: "#f4bd61", danger: "#ed6f7c", selection: "#193947"
+  },
+  radius: 6,
+  density: 1,
+  sidebar: 224,
+  motion: 1
+};
+const APPEARANCE_PRESETS = {
+  graphite: APPEARANCE_DEFAULTS.colors,
+  porcelain: {
+    canvas: "#eef1f5", surface: "#f9fafb", elevated: "#ffffff", border: "#cbd3dc",
+    primary: "#2864dc", secondary: "#7a55ba", text: "#17202b", muted: "#637181",
+    positive: "#16855d", warning: "#ad6a12", danger: "#c94151", selection: "#dbe7fb"
+  },
+  plum: {
+    canvas: "#111017", surface: "#18151e", elevated: "#211c29", border: "#393043",
+    primary: "#ad8ae8", secondary: "#5fd1c2", text: "#f4eff8", muted: "#a69caf",
+    positive: "#5fd1a0", warning: "#e2b96e", danger: "#e87989", selection: "#2d2440"
+  }
+};
 const apiClientHeaders = Object.freeze({ "X-PromptBrain-Client": "PromptBrainDesktop" });
 const defaultNegative = "low quality, blurry, bad anatomy, extra fingers, missing fingers, deformed hands, distorted face, watermark, text, logo, jpeg artifacts, duplicate limbs";
 const defaultRules = "Use clear comma-separated prompt chunks. Put quality and style first, then subject, action, pose, expression, wardrobe, environment, lighting, camera, and finishing details.";
@@ -926,6 +951,18 @@ const els = {
   settingsExportBtn: $("#settingsExportBtn"),
   settingsImportBtn: $("#settingsImportBtn"),
   resetMemoryBtn: $("#resetMemoryBtn"),
+  resetAppearanceBtn: $("#resetAppearanceBtn"),
+  exportAppearanceBtn: $("#exportAppearanceBtn"),
+  importAppearanceBtn: $("#importAppearanceBtn"),
+  importAppearanceInput: $("#importAppearanceInput"),
+  appearanceRadius: $("#appearanceRadius"),
+  appearanceDensity: $("#appearanceDensity"),
+  appearanceSidebar: $("#appearanceSidebar"),
+  appearanceMotion: $("#appearanceMotion"),
+  appearanceRadiusValue: $("#appearanceRadiusValue"),
+  appearanceDensityValue: $("#appearanceDensityValue"),
+  appearanceSidebarValue: $("#appearanceSidebarValue"),
+  appearanceMotionValue: $("#appearanceMotionValue"),
   importDataInput: $("#importDataInput"),
   toast: $("#toast")
 };
@@ -1010,6 +1047,22 @@ function normalizeState() {
   state.settings.minGalleryRating ||= 4;
   state.settings.learnFromChats = state.settings.learnFromChats !== false;
   state.settings.learnFromResearch = state.settings.learnFromResearch !== false;
+  if (!state.settings.appearance) {
+    const migratedPreset = state.settings.theme === "daylight"
+      ? "porcelain"
+      : state.settings.theme === "deep-purple"
+        ? "plum"
+        : "graphite";
+    state.settings.appearance = {
+      ...JSON.parse(JSON.stringify(APPEARANCE_DEFAULTS)),
+      colors: { ...APPEARANCE_PRESETS[migratedPreset] }
+    };
+  }
+  state.settings.appearance.colors = { ...APPEARANCE_DEFAULTS.colors, ...(state.settings.appearance.colors || {}) };
+  state.settings.appearance.radius = Number.isFinite(Number(state.settings.appearance.radius)) ? Number(state.settings.appearance.radius) : 6;
+  state.settings.appearance.density = Math.max(0, Math.min(2, Number(state.settings.appearance.density ?? 1)));
+  state.settings.appearance.sidebar = Math.max(188, Math.min(300, Number(state.settings.appearance.sidebar ?? 224)));
+  state.settings.appearance.motion = Math.max(0, Math.min(2, Number(state.settings.appearance.motion ?? 1)));
   state.builder ||= {};
   state.builder.checkpointId ||= "waiIllustriousXL";
   state.builder.vibe ||= "Free";
@@ -1186,6 +1239,66 @@ function switchChat(chatId) {
   saveState();
 }
 
+const APPEARANCE_INPUTS = {
+  canvas: "colorCanvas",
+  surface: "colorSurface",
+  elevated: "colorElevated",
+  border: "colorBorder",
+  primary: "colorPrimary",
+  secondary: "colorSecondary",
+  text: "colorText",
+  muted: "colorMuted",
+  positive: "colorPositive",
+  warning: "colorWarning",
+  danger: "colorDanger",
+  selection: "colorSelection"
+};
+
+function applyAppearance(appearance = APPEARANCE_DEFAULTS) {
+  const colors = { ...APPEARANCE_DEFAULTS.colors, ...(appearance.colors || {}) };
+  const tokenNames = {
+    canvas: "--v11-canvas", surface: "--v11-surface", elevated: "--v11-elevated",
+    border: "--v11-border", primary: "--v11-primary", secondary: "--v11-secondary",
+    text: "--v11-text", muted: "--v11-muted", positive: "--v11-positive",
+    warning: "--v11-warning", danger: "--v11-danger", selection: "--v11-selection"
+  };
+  Object.entries(colors).forEach(([name, value]) => {
+    document.documentElement.style.setProperty(tokenNames[name], value);
+    const input = document.getElementById(APPEARANCE_INPUTS[name]);
+    if (input && input.value !== value) input.value = value;
+  });
+  const radius = Math.max(0, Math.min(16, Number(appearance.radius ?? 6)));
+  const density = Math.max(0, Math.min(2, Number(appearance.density ?? 1)));
+  const sidebar = Math.max(188, Math.min(300, Number(appearance.sidebar ?? 224)));
+  const motion = Math.max(0, Math.min(2, Number(appearance.motion ?? 1)));
+  document.documentElement.style.setProperty("--v11-radius", `${radius}px`);
+  document.documentElement.style.setProperty("--v11-space", [0.88, 1, 1.12][density]);
+  document.documentElement.style.setProperty("--v11-sidebar", `${sidebar}px`);
+  document.documentElement.style.setProperty("--v11-motion", ["0ms", "160ms", "280ms"][motion]);
+  if (els.appearanceRadius) els.appearanceRadius.value = radius;
+  if (els.appearanceDensity) els.appearanceDensity.value = density;
+  if (els.appearanceSidebar) els.appearanceSidebar.value = sidebar;
+  if (els.appearanceMotion) els.appearanceMotion.value = motion;
+  if (els.appearanceRadiusValue) els.appearanceRadiusValue.textContent = `${radius}px`;
+  if (els.appearanceDensityValue) els.appearanceDensityValue.textContent = ["Compact", "Comfortable", "Spacious"][density];
+  if (els.appearanceSidebarValue) els.appearanceSidebarValue.textContent = `${sidebar}px`;
+  if (els.appearanceMotionValue) els.appearanceMotionValue.textContent = ["Off", "Balanced", "Expressive"][motion];
+}
+
+function readAppearanceControls() {
+  const colors = {};
+  Object.entries(APPEARANCE_INPUTS).forEach(([name, id]) => {
+    colors[name] = document.getElementById(id)?.value || APPEARANCE_DEFAULTS.colors[name];
+  });
+  return {
+    colors,
+    radius: Number(els.appearanceRadius?.value ?? 6),
+    density: Number(els.appearanceDensity?.value ?? 1),
+    sidebar: Number(els.appearanceSidebar?.value ?? 224),
+    motion: Number(els.appearanceMotion?.value ?? 1)
+  };
+}
+
 function renderAll() {
   renderChats();
   renderSidebarSessions();
@@ -1227,6 +1340,7 @@ function renderAll() {
   document.body.classList.toggle("dense-sidebar", !!state.settings.denseSidebar);
   document.body.classList.toggle("sidebar-collapsed", !!state.settings.sidebarCollapsed);
   document.body.dataset.theme = state.settings.theme || "night-cyan";
+  applyAppearance(state.settings.appearance);
   els.likedCount.textContent = state.liked.length;
   els.referenceCount.textContent = state.references.length;
   els.profileCount.textContent = state.profiles.length;
@@ -3570,7 +3684,67 @@ function wireEvents() {
   els.themeSelect?.addEventListener("change", () => {
     state.settings.theme = els.themeSelect.value || "night-cyan";
     document.body.dataset.theme = state.settings.theme;
+    const preset = state.settings.theme === "daylight"
+      ? "porcelain"
+      : state.settings.theme === "deep-purple"
+        ? "plum"
+        : "graphite";
+    state.settings.appearance = {
+      ...JSON.parse(JSON.stringify(APPEARANCE_DEFAULTS)),
+      colors: { ...APPEARANCE_PRESETS[preset] }
+    };
+    applyAppearance(state.settings.appearance);
     saveState();
+  });
+  Object.values(APPEARANCE_INPUTS).forEach((id) => {
+    document.getElementById(id)?.addEventListener("input", () => {
+      state.settings.appearance = readAppearanceControls();
+      applyAppearance(state.settings.appearance);
+    });
+  });
+  [els.appearanceRadius, els.appearanceDensity, els.appearanceSidebar, els.appearanceMotion].filter(Boolean).forEach((input) => {
+    input.addEventListener("input", () => {
+      state.settings.appearance = readAppearanceControls();
+      applyAppearance(state.settings.appearance);
+    });
+    input.addEventListener("change", () => saveState());
+  });
+  $$("[data-appearance-preset]").forEach((button) => button.addEventListener("click", () => {
+    state.settings.appearance = {
+      ...JSON.parse(JSON.stringify(APPEARANCE_DEFAULTS)),
+      colors: { ...APPEARANCE_PRESETS[button.dataset.appearancePreset] }
+    };
+    applyAppearance(state.settings.appearance);
+    saveState();
+  }));
+  els.resetAppearanceBtn?.addEventListener("click", () => {
+    state.settings.appearance = JSON.parse(JSON.stringify(APPEARANCE_DEFAULTS));
+    applyAppearance(state.settings.appearance);
+    saveState();
+  });
+  els.exportAppearanceBtn?.addEventListener("click", () => {
+    downloadJson({ version: APP_VERSION, appearance: state.settings.appearance }, "promptbrain-theme.json");
+  });
+  els.importAppearanceBtn?.addEventListener("click", () => els.importAppearanceInput?.click());
+  els.importAppearanceInput?.addEventListener("change", async () => {
+    const file = els.importAppearanceInput.files?.[0];
+    if (!file) return;
+    try {
+      const parsed = JSON.parse(await file.text());
+      const appearance = parsed.appearance || parsed;
+      state.settings.appearance = {
+        ...JSON.parse(JSON.stringify(APPEARANCE_DEFAULTS)),
+        ...appearance,
+        colors: { ...APPEARANCE_DEFAULTS.colors, ...(appearance.colors || {}) }
+      };
+      applyAppearance(state.settings.appearance);
+      saveState();
+      toast("Theme imported.");
+    } catch {
+      toast("That theme file could not be read.");
+    } finally {
+      els.importAppearanceInput.value = "";
+    }
   });
   els.settingsModal?.addEventListener("click", (event) => {
     if (event.target === els.settingsModal) els.settingsModal.hidden = true;
@@ -4055,6 +4229,8 @@ function wireEvents() {
     state.settings.minGalleryRating = Math.max(1, Math.min(5, Number(els.minGalleryRatingInput?.value || 4)));
     state.settings.learnFromChats = !!els.learnFromChatsToggle?.checked;
     state.settings.learnFromResearch = !!els.learnFromResearchToggle?.checked;
+    state.settings.appearance = readAppearanceControls();
+    applyAppearance(state.settings.appearance);
     saveState();
     els.settingsModal.hidden = true;
     toast("Settings saved.");

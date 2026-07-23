@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>PromptBrain</title>
+    <title>PromptBrain 1.1.0</title>
     <link rel="icon" href="./app-icon.png" />
     <link rel="stylesheet" href="./promptbrain.css" />
   </head>
@@ -14,6 +14,8 @@
           <button class="logo-btn" id="homeLogoBtn" type="button" title="Workspace">
             <img src="./app-icon.png" alt="" />
           </button>
+          <strong class="brand-name">PromptBrain</strong>
+          <span class="app-version">v1.1.0</span>
           <button class="sidebar-toggle" id="sidebarToggle" type="button" title="Collapse sidebar" aria-label="Collapse sidebar">&#8249;</button>
         </div>
 
@@ -527,6 +529,45 @@
               <label class="check-row"><input id="reduceMotionToggle" type="checkbox" /> Reduce motion</label>
               <label class="check-row"><input id="denseSidebarToggle" type="checkbox" /> Dense sidebar</label>
               <label class="check-row"><input id="sidebarCollapsedToggle" type="checkbox" /> Start with collapsed sidebar</label>
+            </section>
+            <section class="panel appearance-studio-panel">
+              <div class="section-title-row">
+                <div>
+                  <h2>Appearance Studio</h2>
+                  <p class="meta">Customize every semantic interface color.</p>
+                </div>
+                <button class="tiny-btn" id="resetAppearanceBtn" type="button">Reset</button>
+              </div>
+              <div class="appearance-presets">
+                <button type="button" data-appearance-preset="graphite"><i class="preset-swatches graphite"></i>Graphite</button>
+                <button type="button" data-appearance-preset="porcelain"><i class="preset-swatches porcelain"></i>Porcelain</button>
+                <button type="button" data-appearance-preset="plum"><i class="preset-swatches plum"></i>Midnight Plum</button>
+              </div>
+              <div class="appearance-colors">
+                <label>Canvas<input id="colorCanvas" type="color" /></label>
+                <label>Surface<input id="colorSurface" type="color" /></label>
+                <label>Elevated<input id="colorElevated" type="color" /></label>
+                <label>Border<input id="colorBorder" type="color" /></label>
+                <label>Primary<input id="colorPrimary" type="color" /></label>
+                <label>Secondary<input id="colorSecondary" type="color" /></label>
+                <label>Text<input id="colorText" type="color" /></label>
+                <label>Muted text<input id="colorMuted" type="color" /></label>
+                <label>Positive<input id="colorPositive" type="color" /></label>
+                <label>Warning<input id="colorWarning" type="color" /></label>
+                <label>Danger<input id="colorDanger" type="color" /></label>
+                <label>Selection<input id="colorSelection" type="color" /></label>
+              </div>
+              <div class="appearance-ranges">
+                <label>Corner radius <output id="appearanceRadiusValue">6px</output><input id="appearanceRadius" type="range" min="0" max="16" step="1" /></label>
+                <label>Density <output id="appearanceDensityValue">Comfortable</output><input id="appearanceDensity" type="range" min="0" max="2" step="1" /></label>
+                <label>Sidebar width <output id="appearanceSidebarValue">224px</output><input id="appearanceSidebar" type="range" min="188" max="300" step="4" /></label>
+                <label>Motion <output id="appearanceMotionValue">Balanced</output><input id="appearanceMotion" type="range" min="0" max="2" step="1" /></label>
+              </div>
+              <div class="copy-row">
+                <button class="ghost-btn" id="exportAppearanceBtn" type="button">Export theme</button>
+                <button class="ghost-btn" id="importAppearanceBtn" type="button">Import theme</button>
+                <input id="importAppearanceInput" type="file" accept="application/json" hidden />
+              </div>
             </section>
             <section class="panel">
               <h2>AI Defaults</h2>
