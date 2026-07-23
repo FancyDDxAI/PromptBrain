@@ -11,10 +11,10 @@
     <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
     <ApplicationIcon>Assets\app-icon.ico</ApplicationIcon>
     <Authors>phoenix_eagle21</Authors>
-    <Version>1.1.0</Version>
-    <AssemblyVersion>1.1.0.0</AssemblyVersion>
-    <FileVersion>1.1.0.0</FileVersion>
-    <InformationalVersion>1.1.0</InformationalVersion>
+    <Version>1.1.1</Version>
+    <AssemblyVersion>1.1.1.0</AssemblyVersion>
+    <FileVersion>1.1.1.0</FileVersion>
+    <InformationalVersion>1.1.1</InformationalVersion>
   </PropertyGroup>
 
   <ItemGroup>
@@ -32,6 +32,7 @@
   <ItemGroup>
     <EmbeddedResource Include="..\..\promptbrain.html" LogicalName="promptbrain.html" />
     <EmbeddedResource Include="..\..\promptbrain.css" LogicalName="promptbrain.css" />
+    <EmbeddedResource Include="..\..\promptbrain-v1.1.css" LogicalName="promptbrain-v1.1.css" />
     <EmbeddedResource Include="..\..\promptbrain.js" LogicalName="promptbrain.js" />
     <EmbeddedResource Include="Assets\app-icon.png" LogicalName="app-icon.png" />
     <EmbeddedResource Include="Assets\app-icon.ico" LogicalName="app-icon.ico" />

@@ -173,12 +173,12 @@ async function run() {
     assert.ok(positive.startsWith(waiHead), `WAI prompt head drifted: ${positive.slice(0, 160)}`);
     assert.ok(!/tohru|maid.?dragon/i.test(positive), "generic dragon girl resolved to a named Maid Dragon character");
 
+    await page.locator(".lora-context").evaluate((node) => { node.open = true; });
     await page.locator('#styleTokenPicker [data-style-token="usnr"]').click();
     positive = await page.locator("#positivePromptOutput").innerText();
     assert.match(positive, /(?:^|, )usnr(?:,|$)/);
     assert.doesNotMatch(positive, /<lora:usnr/i);
 
-    await page.locator(".lora-disclosure").evaluate((node) => { node.open = true; });
     const firstLora = page.locator("#loraPicker [data-lora]").first();
     assert.ok(await firstLora.count(), "no compatible installed LoRA was rendered");
     await firstLora.click();
@@ -195,9 +195,10 @@ async function run() {
     assert.equal(await page.locator("#userPrompt").inputValue(), request, "generation cleared the working request");
     await waitForSave(page, beforeGenerate);
     assert.equal(persistedState.usageStats.totalPrompts, 1, "real prompt counter did not increment");
+    await page.locator(".session-drawer > details").evaluate((node) => { node.open = true; });
     const reasoningSummary = page.locator(".message.assistant .reasoning-details summary").last();
     assert.ok(await reasoningSummary.count(), "generated prompt did not expose scene reasoning");
-    assert.match(await reasoningSummary.innerText(), /Scene reasoning\s+\d+\/100/i);
+    assert.match(await reasoningSummary.textContent(), /Scene reasoning\s+\d+\/100/i);
     const savedReasoning = persistedState.chats
       .flatMap((chat) => chat.messages || [])
       .findLast((message) => message.promptPack)?.promptPack?.engine?.reasoning;
@@ -221,7 +222,13 @@ async function run() {
     ]);
     adultOptions.forEach((name) => assert.ok(allowed.has(name), `unreviewed adult character leaked into UI: ${name}`));
     assert.ok(!adultOptions.some((name) => /Anya|Momo Ayase|Nezuko/i.test(name)), "known ineligible character leaked into adult mode");
+    const sfwSave = saveCount;
     await page.locator("#contentModeSelect").selectOption("sfw");
+    await waitForSave(page, sfwSave);
+    await page.locator(".lora-context").evaluate((node) => { node.open = false; });
+    await page.locator(".session-drawer > details").evaluate((node) => { node.open = false; });
+    await page.locator(".creative-stage").evaluate((node) => { node.scrollTop = 0; });
+    await page.locator(".library-panel").evaluate((node) => { node.scrollTop = 0; });
 
     await assertNoOverflow(page, "desktop");
     await page.screenshot({ path: path.join(outputRoot, "ui-final-desktop.png"), fullPage: false });

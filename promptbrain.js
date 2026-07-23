@@ -3,7 +3,7 @@ const $$ = (selector) => Array.from(document.querySelectorAll(selector));
 
 const storageKey = "promptbrain.v2.backup";
 const legacyStorageKey = "promptbrain.v1";
-const APP_VERSION = "1.1.0";
+const APP_VERSION = "1.1.1";
 const APPEARANCE_DEFAULTS = {
   colors: {
     canvas: "#0b1017", surface: "#111822", elevated: "#18212c", border: "#293543",
@@ -844,6 +844,24 @@ const els = {
   selectedLoras: $("#selectedLoras"),
   styleTokenPicker: $("#styleTokenPicker"),
   builderCategoryGrid: $("#builderCategoryGrid"),
+  libraryTabs: $("#libraryTabs"),
+  librarySearchInput: $("#librarySearchInput"),
+  libraryFilters: $("#libraryFilters"),
+  sceneBriefTitle: $("#sceneBriefTitle"),
+  sceneBriefMeta: $("#sceneBriefMeta"),
+  sceneSubjectTitle: $("#sceneSubjectTitle"),
+  sceneSubjectDetail: $("#sceneSubjectDetail"),
+  sceneMovementTitle: $("#sceneMovementTitle"),
+  sceneMovementDetail: $("#sceneMovementDetail"),
+  sceneWorldTitle: $("#sceneWorldTitle"),
+  sceneWorldDetail: $("#sceneWorldDetail"),
+  selectedDirectionCount: $("#selectedDirectionCount"),
+  selectedDirectionStrip: $("#selectedDirectionStrip"),
+  livePromptScore: $("#livePromptScore"),
+  liveTagCount: $("#liveTagCount"),
+  liveSelectedCount: $("#liveSelectedCount"),
+  liveCheckpointFit: $("#liveCheckpointFit"),
+  liveReasoning: $("#liveReasoning"),
   customNegativeInput: $("#customNegativeInput"),
   positivePromptOutput: $("#positivePromptOutput"),
   negativePromptOutput: $("#negativePromptOutput"),
@@ -861,6 +879,9 @@ const els = {
   realLearningNote: $("#realLearningNote"),
   historyLearningList: $("#historyLearningList"),
   checkpointLibrary: $("#checkpointLibrary"),
+  modelSearchInput: $("#modelSearchInput"),
+  selectedModelTitle: $("#selectedModelTitle"),
+  selectedModelMeta: $("#selectedModelMeta"),
   modelRuleDetails: $("#modelRuleDetails"),
   loraLibrary: $("#loraLibrary"),
   modelSelectedLoras: $("#modelSelectedLoras"),
@@ -965,6 +986,19 @@ const els = {
   appearanceMotionValue: $("#appearanceMotionValue"),
   importDataInput: $("#importDataInput"),
   toast: $("#toast")
+};
+
+const workspaceUi = {
+  tab: "subject",
+  filter: "recommended",
+  search: ""
+};
+let livePreviewPack = null;
+
+const WORKSPACE_TAB_CATEGORIES = {
+  subject: ["Character", "Act", "Pose", "Expression", "Clothing", "Hair"],
+  look: ["Style", "Quality", "Lighting", "Color Palette"],
+  scene: ["Environment", "Camera/Composition", "Negative"]
 };
 
 normalizeState();
@@ -1397,6 +1431,7 @@ function renderBuilder() {
   renderLoraPicker();
   renderCategoryGrid();
   renderLivePrompt();
+  renderWorkspaceScene();
 }
 
 function renderCharacterList() {
@@ -1459,26 +1494,40 @@ function renderLoraPicker() {
 
 function renderCategoryGrid() {
   if (!els.builderCategoryGrid) return;
-  const visibleCategories = BUILDER_CATEGORIES.filter((category) =>
+  const tabCategories = WORKSPACE_TAB_CATEGORIES[workspaceUi.tab] || WORKSPACE_TAB_CATEGORIES.subject;
+  const globalQuery = workspaceUi.search.trim().toLowerCase();
+  const visibleCategories = tabCategories.filter((category) =>
     category !== "Negative" || state.settings.enableNegativePrompt === true);
   els.builderCategoryGrid.innerHTML = visibleCategories.map((category) => {
     const pool = tagPoolFor(category);
-    const query = (state.builder.categorySearches[category] || "").toLowerCase();
+    const query = ((state.builder.categorySearches[category] || "").trim() || globalQuery).toLowerCase();
     const maxTags = state.builder.vibe === "Free" ? 120 : 56;
-    const sorted = sortTagsByMemory(pool)
+    const selectedTags = state.builder.selectedTags[category] || [];
+    let candidates = sortTagsByMemory(pool);
+    if (workspaceUi.filter === "learned") {
+      candidates = candidates.filter((tag) => (state.usageStats.tagScores[tag] || 0) > 0 || selectedTags.includes(tag));
+    } else if (workspaceUi.filter === "recent") {
+      const recentPromptText = (state.history || []).slice(0, 12).map((item) => item.positive || item.prompt || "").join(" ").toLowerCase();
+      candidates = candidates.filter((tag) => selectedTags.includes(tag) || recentPromptText.includes(tag.toLowerCase()));
+    }
+    const sorted = candidates
       .filter((tag) => !query || tag.toLowerCase().includes(query))
       .slice(0, maxTags);
+    const selectedCount = selectedTags.length;
     return `
-      <section class="panel category-panel">
-        <div class="section-title-row">
-          <h2>${escapeHtml(category)}</h2>
-          <button class="text-btn" data-clear-category="${escapeAttr(category)}">Clear</button>
+      <details class="tag-category" ${selectedCount || category === visibleCategories[0] ? "open" : ""}>
+        <summary class="tag-category-head">
+          <span>${escapeHtml(category)}</span>
+          <small>${selectedCount ? `${selectedCount} selected` : `${sorted.length} choices`}</small>
+        </summary>
+        <div class="tag-category-tools">
+          <input class="tag-search" data-category-search="${escapeAttr(category)}" value="${escapeAttr(state.builder.categorySearches[category] || "")}" placeholder="Search ${escapeAttr(category.toLowerCase())}" />
+          ${selectedCount ? `<button class="text-btn" data-clear-category="${escapeAttr(category)}">Clear</button>` : ""}
         </div>
-        <input class="category-search" data-category-search="${escapeAttr(category)}" value="${escapeAttr(state.builder.categorySearches[category] || "")}" placeholder="Search ${escapeAttr(category.toLowerCase())} tags" />
-        <div class="pill-grid">
-          ${sorted.length ? sorted.map((tag) => tagChipMarkup(category, tag)).join("") : `<span class="empty-state">No matches. Try another search.</span>`}
+        <div class="tag-cloud">
+          ${sorted.length ? sorted.map((tag) => tagChipMarkup(category, tag)).join("") : `<span class="empty-state">Nothing here yet for this filter.</span>`}
         </div>
-      </section>`;
+      </details>`;
   }).join("");
 }
 
@@ -1522,11 +1571,124 @@ function renderLivePrompt() {
     const pack = hasDirection
       ? buildPromptPackEngine(input, { seed: stablePreviewSeed(input), preview: true })
       : emptyBuilderPreview();
-    if (els.positivePromptOutput) els.positivePromptOutput.textContent = pack.positive || "Describe an image or choose a tag.";
+    livePreviewPack = pack;
+    if (els.positivePromptOutput) {
+      renderSemanticPrompt(pack.positive || "Describe an image or choose a tag.");
+    }
     if (els.negativePromptOutput) els.negativePromptOutput.textContent = pack.negative || "";
+    renderPromptDiagnostics(pack, hasDirection);
   } catch (error) {
     console.error("Live prompt preview failed", error);
     if (els.positivePromptOutput) els.positivePromptOutput.textContent = `Preview error: ${error.message || error}`;
+  }
+}
+
+function renderSemanticPrompt(positive) {
+  if (!els.positivePromptOutput) return;
+  const classByTag = new Map();
+  const assign = (values, className) => values.forEach((value) => {
+    const normalized = normalizePromptToken(value);
+    if (normalized) classByTag.set(normalized, className);
+  });
+  const rule = activeCheckpointRule();
+  assign([...(qualityPrefixForRule(rule) || []), ...(rule.qualitySuffix || [])], "prompt-quality");
+  assign((state.builder.selectedTags.Style || []), "prompt-style");
+  assign((state.builder.selectedTags.Quality || []), "prompt-quality");
+  assign([...(state.builder.selectedTags.Character || []), ...(state.builder.selectedTags.Clothing || []), ...(state.builder.selectedTags.Hair || []), state.builder.character || ""], "prompt-subject");
+  assign([...(state.builder.selectedTags.Act || []), ...(state.builder.selectedTags.Pose || []), ...(state.builder.selectedTags.Expression || [])], "prompt-action");
+  assign([...(state.builder.selectedTags.Environment || []), ...(state.builder.selectedTags.Lighting || []), ...(state.builder.selectedTags["Color Palette"] || []), ...(state.builder.selectedTags["Camera/Composition"] || [])], "prompt-world");
+  assign(selectedStyleTokenObjects().map((token) => token.prompt), "prompt-style");
+
+  const pieces = String(positive).split(/(,\s*|\bBREAK\b)/g).filter(Boolean);
+  els.positivePromptOutput.innerHTML = pieces.map((piece) => {
+    if (/^,\s*$/.test(piece)) return escapeHtml(piece);
+    if (piece === "BREAK") return `<span class="prompt-break">BREAK</span>`;
+    const normalized = normalizePromptToken(piece);
+    const className = classByTag.get(normalized)
+      || [...classByTag.entries()].find(([tag]) => normalized.includes(tag) || tag.includes(normalized))?.[1]
+      || (piece.includes("<lora:") ? "prompt-style" : "");
+    return className ? `<span class="${className}">${escapeHtml(piece)}</span>` : escapeHtml(piece);
+  }).join("");
+}
+
+function normalizePromptToken(value) {
+  return String(value || "")
+    .replace(/<lora:[^>]+>/gi, "")
+    .replace(/^\(+|\)+$/g, "")
+    .replace(/:\s*[0-9.]+$/g, "")
+    .replace(/[_-]+/g, " ")
+    .trim()
+    .toLowerCase();
+}
+
+function renderPromptDiagnostics(pack, hasDirection) {
+  const positive = String(pack?.positive || "");
+  const tagCount = positive ? positive.split(",").map((tag) => tag.trim()).filter(Boolean).length : 0;
+  const selectedCount = selectedBuilderTags().filter((item) => item.category !== "Negative").length
+    + selectedStyleTokenObjects().length
+    + selectedLoraObjects().length
+    + (state.builder.character ? 1 : 0);
+  const coverageAreas = [
+    state.builder.character || (state.builder.selectedTags.Character || []).length,
+    (state.builder.selectedTags.Act || []).length || (state.builder.selectedTags.Pose || []).length,
+    (state.builder.selectedTags.Environment || []).length,
+    (state.builder.selectedTags.Lighting || []).length,
+    (state.builder.selectedTags["Camera/Composition"] || []).length
+  ].filter(Boolean).length;
+  const score = hasDirection ? Math.min(100, 40 + (coverageAreas * 10) + Math.min(10, selectedCount)) : 0;
+  if (els.livePromptScore) els.livePromptScore.textContent = String(score);
+  if (els.liveTagCount) els.liveTagCount.textContent = String(tagCount);
+  if (els.liveSelectedCount) els.liveSelectedCount.textContent = String(selectedCount);
+  if (els.liveCheckpointFit) els.liveCheckpointFit.textContent = hasDirection ? (coverageAreas >= 4 ? "High" : "Partial") : "Ready";
+  if (els.liveReasoning) {
+    const rule = activeCheckpointRule();
+    const missing = [];
+    if (!(state.builder.selectedTags.Act || []).length && !(state.builder.selectedTags.Pose || []).length) missing.push("movement");
+    if (!(state.builder.selectedTags.Environment || []).length) missing.push("world");
+    if (!(state.builder.selectedTags["Camera/Composition"] || []).length) missing.push("camera");
+    els.liveReasoning.textContent = hasDirection
+      ? `${rule.name} uses ${rule.promptStyle.replace("_", " ")} structure. ${missing.length ? `Add ${missing.join(", ")} for a more directed scene.` : "Subject, movement, world, and camera are all defined."}`
+      : "Choose controls or describe a scene to see how PromptBrain structures it.";
+  }
+}
+
+function renderWorkspaceScene() {
+  const selected = (category) => state.builder.selectedTags[category] || [];
+  const positive = String(livePreviewPack?.positive || "").toLowerCase();
+  const requested = (els.userPrompt?.value || state.builder.draft || "").trim().toLowerCase();
+  const inferred = (category) => tagPoolFor(category)
+    .filter((tag) => {
+      const normalized = normalizePromptToken(tag);
+      return normalized.length > 2 && positive.includes(normalized);
+    })
+    .sort((a, b) => Number(requested.includes(b.toLowerCase())) - Number(requested.includes(a.toLowerCase())) || b.length - a.length)
+    .slice(0, 8);
+  const first = (items, fallback) => items.find(Boolean) || fallback;
+  const inferredCharacters = inferred("Character").sort((a, b) =>
+    Number(/\b(girl|woman|boy|man|warrior|mage|knight|character)\b/i.test(b)) -
+    Number(/\b(girl|woman|boy|man|warrior|mage|knight|character)\b/i.test(a)));
+  const character = state.builder.character || first([...selected("Character"), ...inferredCharacters], "No subject selected");
+  const subjectDetails = unique([...selected("Character"), ...inferred("Character"), ...selected("Hair"), ...inferred("Hair"), ...selected("Clothing"), ...inferred("Clothing")])
+    .filter((tag) => tag !== character).slice(0, 5);
+  const movement = unique([...selected("Act"), ...inferred("Act"), ...selected("Pose"), ...inferred("Pose"), ...selected("Expression"), ...inferred("Expression")]);
+  const world = unique([...selected("Environment"), ...inferred("Environment"), ...selected("Lighting"), ...inferred("Lighting"), ...selected("Camera/Composition"), ...inferred("Camera/Composition"), ...selected("Color Palette"), ...inferred("Color Palette")]);
+  const prompt = (els.userPrompt?.value || state.builder.draft || "").trim();
+  const allSelected = selectedBuilderTags().filter((item) => item.category !== "Negative");
+
+  if (els.sceneBriefTitle) els.sceneBriefTitle.textContent = prompt ? prompt.split(/[.!?\n]/)[0].slice(0, 74) : first([character !== "No subject selected" && character, movement[0]], "Start with an idea");
+  if (els.sceneBriefMeta) els.sceneBriefMeta.textContent = `${activeCheckpointRule().name} · ${state.builder.vibe} · ${state.builder.contentMode === "adult" ? "Adult 18+" : "SFW"}`;
+  if (els.sceneSubjectTitle) els.sceneSubjectTitle.textContent = character;
+  if (els.sceneSubjectDetail) els.sceneSubjectDetail.textContent = subjectDetails.join(", ") || "Choose character, body, hair, and clothing details.";
+  if (els.sceneMovementTitle) els.sceneMovementTitle.textContent = first(movement, "No action selected");
+  if (els.sceneMovementDetail) els.sceneMovementDetail.textContent = movement.slice(1, 5).join(", ") || "Choose an act, pose, or expression.";
+  const environment = first([...selected("Environment"), ...inferred("Environment")], "No setting selected");
+  if (els.sceneWorldTitle) els.sceneWorldTitle.textContent = environment;
+  if (els.sceneWorldDetail) els.sceneWorldDetail.textContent = world.filter((tag) => tag !== environment).slice(0, 5).join(", ") || "Choose environment, light, color, and camera.";
+  if (els.selectedDirectionCount) els.selectedDirectionCount.textContent = `${allSelected.length} ${allSelected.length === 1 ? "choice" : "choices"}`;
+  if (els.selectedDirectionStrip) {
+    els.selectedDirectionStrip.innerHTML = allSelected.length
+      ? allSelected.map(({ category, tag }) => `<button type="button" data-category="${escapeAttr(category)}" data-tag="${escapeAttr(tag)}" title="Remove ${escapeAttr(tag)}">${escapeHtml(tag)} ×</button>`).join("")
+      : `<span class="empty-inline">Your selected controls will appear here.</span>`;
   }
 }
 
@@ -1556,14 +1718,21 @@ function emptyBuilderPreview() {
 
 function renderModelLibrary() {
   if (els.checkpointLibrary) {
-    els.checkpointLibrary.innerHTML = CHECKPOINT_ORDER.map((id) => CHECKPOINT_RULES[id]).filter(Boolean).map((rule) => `
-      <button class="checkpoint-card ${state.builder.checkpointId === rule.id ? "is-selected" : ""}" data-checkpoint-card="${rule.id}">
-        <strong>${escapeHtml(rule.name)}</strong>
-        <span>${escapeHtml(rule.base)} / ${escapeHtml(rule.type)} / ${escapeHtml(rule.promptStyle)}</span>
+    const query = (els.modelSearchInput?.value || "").trim().toLowerCase();
+    els.checkpointLibrary.innerHTML = CHECKPOINT_ORDER.map((id) => CHECKPOINT_RULES[id])
+      .filter(Boolean)
+      .filter((rule) => !query || `${rule.name} ${rule.base} ${rule.type} ${rule.promptStyle}`.toLowerCase().includes(query))
+      .map((rule) => `
+      <button class="checkpoint-card model-row ${state.builder.checkpointId === rule.id ? "is-selected" : ""}" data-checkpoint-card="${rule.id}">
+        <span class="model-badge">${escapeHtml(rule.base.slice(0, 3))}</span>
+        <span class="model-row-copy"><strong>${escapeHtml(rule.name)}</strong><small>${escapeHtml(rule.base)} · ${escapeHtml(rule.type)} · ${escapeHtml(rule.promptStyle.replace("_", " "))}</small></span>
+        <i>${state.builder.checkpointId === rule.id ? "✓" : ""}</i>
       </button>`).join("");
   }
   if (els.modelRuleDetails) {
     const rule = activeCheckpointRule();
+    if (els.selectedModelTitle) els.selectedModelTitle.textContent = rule.name;
+    if (els.selectedModelMeta) els.selectedModelMeta.textContent = `${rule.base} · ${rule.type} · ${rule.promptStyle.replace("_", " ")}`;
     els.modelRuleDetails.innerHTML = `
       <div class="knowledge-grid">
         <span>Quality prefix</span><strong>${escapeHtml(qualityPrefixForRule(rule).join(rule.separator) || "none")}</strong>
@@ -1574,7 +1743,10 @@ function renderModelLibrary() {
   }
   if (els.loraLibrary) {
     const loras = compatibleLoras(activeCheckpointRule());
-    els.loraLibrary.innerHTML = loras.map((lora) => `
+    const query = (els.modelSearchInput?.value || "").trim().toLowerCase();
+    els.loraLibrary.innerHTML = loras
+      .filter((lora) => !query || `${lora.label} ${lora.category} ${lora.description}`.toLowerCase().includes(query))
+      .map((lora) => `
       <article class="lora-card ${state.builder.selectedLoras.includes(lora.name) ? "is-selected" : ""}" data-lora="${escapeAttr(lora.name)}">
         <strong>${escapeHtml(lora.label)}</strong>
         <code>${escapeHtml(loraCommand(lora, lora.recommendedWeight))}</code>
@@ -3774,6 +3946,27 @@ function wireEvents() {
     const button = $(`.nav-btn[data-view="${target}"]`);
     if (button) button.click();
   }));
+  els.libraryTabs?.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-library-tab]");
+    if (!button) return;
+    workspaceUi.tab = button.dataset.libraryTab;
+    els.libraryTabs.querySelectorAll("[data-library-tab]").forEach((item) =>
+      item.classList.toggle("is-active", item === button));
+    renderCategoryGrid();
+  });
+  els.libraryFilters?.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-library-filter]");
+    if (!button) return;
+    workspaceUi.filter = button.dataset.libraryFilter;
+    els.libraryFilters.querySelectorAll("[data-library-filter]").forEach((item) =>
+      item.classList.toggle("is-active", item === button));
+    renderCategoryGrid();
+  });
+  els.librarySearchInput?.addEventListener("input", () => {
+    workspaceUi.search = els.librarySearchInput.value || "";
+    renderCategoryGrid();
+  });
+  els.modelSearchInput?.addEventListener("input", renderModelLibrary);
   document.body.addEventListener("click", (event) => {
     const jump = event.target.closest("[data-jump-button]");
     const copy = event.target.closest("[data-copy-text]");

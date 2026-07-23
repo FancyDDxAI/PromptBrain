@@ -17,13 +17,16 @@ PromptBrain is a local-first Windows prompt studio for ComfyUI. It turns a short
 - Supports SFW and adult workflows while excluding underage and illegal content.
 - Works without a cloud API or bundled language model. An external local AI backend is optional.
 
-## Version 1.1
+## Version 1.1.1
 
-- Redesigned creative-workstation interface with responsive desktop and compact layouts.
-- Three-column Workspace for controls, composition, output, and LoRA inspection.
-- Fully customizable semantic colors, density, corner radius, sidebar width, and motion.
-- Graphite, Porcelain, and Midnight Plum presets with JSON theme import and export.
-- Migration-safe appearance persistence in the protected local state file.
+- Rebuilt Workspace around a compact context bar, searchable control library, scene board, and semantic prompt inspector.
+- Added Subject, Look, and Scene tabs with Recommended, Learned, and Recent filters.
+- Rebuilt Models as a checkpoint list, live rule detail, and compatible LoRA inspector.
+- Rebuilt Prompt Training as a focused correction editor and local learning view.
+- Restyled Result Lab, Insights, Settings, and secondary surfaces around one restrained interface system.
+- Added fully customizable semantic colors, density, corner radius, sidebar width, and motion.
+- Preserved Graphite, Porcelain, and Midnight Plum presets with JSON theme import and export.
+- Added responsive desktop, resized-window, and compact-screen layouts.
 
 ## Technology
 
@@ -57,4 +60,4 @@ No AI model is bundled. PromptBrain's deterministic engine works without one. Us
 
 ## Version
 
-Current release: **v1.1.0**
+Current release: **v1.1.1**

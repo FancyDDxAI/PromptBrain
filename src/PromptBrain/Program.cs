@@ -1052,6 +1052,7 @@ public sealed class EmbeddedAppServer : IDisposable
         {
             "promptbrain.html" or "index.html" => "promptbrain.html",
             "promptbrain.css" => "promptbrain.css",
+            "promptbrain-v1.1.css" => "promptbrain-v1.1.css",
             "promptbrain.js" => "promptbrain.js",
             "app-icon.png" => "app-icon.png",
             "favicon.ico" => "app-icon.ico",

@@ -3,9 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>PromptBrain 1.1.0</title>
+    <title>PromptBrain 1.1.1</title>
     <link rel="icon" href="./app-icon.png" />
     <link rel="stylesheet" href="./promptbrain.css" />
+    <link rel="stylesheet" href="./promptbrain-v1.1.css" />
   </head>
   <body>
     <main class="app-shell">
@@ -15,7 +16,7 @@
             <img src="./app-icon.png" alt="" />
           </button>
           <strong class="brand-name">PromptBrain</strong>
-          <span class="app-version">v1.1.0</span>
+          <span class="app-version">v1.1.1</span>
           <button class="sidebar-toggle" id="sidebarToggle" type="button" title="Collapse sidebar" aria-label="Collapse sidebar">&#8249;</button>
         </div>
 
@@ -61,70 +62,99 @@
         </header>
 
         <section class="view is-visible workspace-view" id="chatView">
-          <div class="builder-layout">
-            <section class="builder-main">
-              <div class="builder-heading">
+          <div class="workspace-context" aria-label="Generation context">
+            <label class="context-control">
+              <span>Checkpoint</span>
+              <select id="checkpointSelect"></select>
+            </label>
+            <label class="context-control">
+              <span>Vibe</span>
+              <select id="vibeSelect"></select>
+            </label>
+            <label class="context-control">
+              <span>Content</span>
+              <select id="contentModeSelect">
+                <option value="sfw">SFW</option>
+                <option value="adult">Adult 18+</option>
+              </select>
+            </label>
+            <div class="context-control character-context">
+              <span>Character</span>
+              <div class="context-character-row">
+                <select id="characterModeSelect" aria-label="Character mode">
+                  <option value="female">Female list</option>
+                  <option value="male">Male list</option>
+                  <option value="manual">Manual</option>
+                </select>
+                <select id="animeSeriesSelect" aria-label="Anime series"></select>
+              </div>
+              <input id="characterSearch" placeholder="Search or type a character" />
+              <select class="character-list" id="characterList" aria-label="Character"></select>
+            </div>
+            <details class="context-control lora-context">
+              <summary><span>LoRAs</span><strong id="loraPickerCount">0 available</strong></summary>
+              <div class="context-popover">
+                <h3>Style tokens</h3>
+                <div class="style-token-picker" id="styleTokenPicker"></div>
+                <h3>Compatible LoRAs</h3>
+                <div class="lora-picker" id="loraPicker"></div>
+              </div>
+            </details>
+          </div>
+
+          <div class="workspace-grid">
+            <section class="library-panel" aria-label="Prompt control library">
+              <div class="segmented-tabs" id="libraryTabs" role="tablist">
+                <button class="is-active" type="button" data-library-tab="subject">Subject</button>
+                <button type="button" data-library-tab="look">Look</button>
+                <button type="button" data-library-tab="scene">Scene</button>
+              </div>
+              <label class="library-search">
+                <span aria-hidden="true">⌕</span>
+                <input id="librarySearchInput" type="search" placeholder="Search controls" />
+              </label>
+              <div class="library-filters" id="libraryFilters">
+                <button class="is-active" type="button" data-library-filter="recommended">Recommended</button>
+                <button type="button" data-library-filter="learned">Learned</button>
+                <button type="button" data-library-filter="recent">Recent</button>
+              </div>
+              <div class="builder-category-grid" id="builderCategoryGrid"></div>
+            </section>
+
+            <section class="creative-stage">
+              <header class="stage-header">
                 <div>
-                  <h2>Build the prompt here.</h2>
-                  <p>Choose checkpoint, LoRAs, vibe, tags, weights, character, and custom notes. The prompt updates live.</p>
+                  <span class="eyebrow">Scene brief</span>
+                  <h1 id="sceneBriefTitle">Start with an idea</h1>
+                  <p id="sceneBriefMeta">PromptBrain will organize the subject, movement, and world as you choose.</p>
                 </div>
+                <span class="status-pill" id="sessionSaveStatus">Saved locally</span>
+              </header>
+
+              <div class="scene-board">
+                <article class="scene-block">
+                  <span class="scene-block-icon">S</span>
+                  <div><small>Subject</small><strong id="sceneSubjectTitle">No subject selected</strong><p id="sceneSubjectDetail">Choose a character or describe one below.</p></div>
+                </article>
+                <i class="scene-connector"></i>
+                <article class="scene-block">
+                  <span class="scene-block-icon">M</span>
+                  <div><small>Movement</small><strong id="sceneMovementTitle">No action selected</strong><p id="sceneMovementDetail">Pose, action, and expression appear here.</p></div>
+                </article>
+                <i class="scene-connector"></i>
+                <article class="scene-block">
+                  <span class="scene-block-icon">W</span>
+                  <div><small>World</small><strong id="sceneWorldTitle">No setting selected</strong><p id="sceneWorldDetail">Environment, light, and camera appear here.</p></div>
+                </article>
               </div>
 
-              <section class="panel builder-top">
-                <div class="builder-cluster cluster-model">
-                  <h3>Model</h3>
-                <div class="builder-control">
-                  <label>Checkpoint</label>
-                  <select id="checkpointSelect"></select>
-                </div>
-                <div class="builder-control">
-                  <label>Vibe</label>
-                  <select id="vibeSelect"></select>
-                </div>
-                <div class="builder-control">
-                  <label>Content mode</label>
-                  <select id="contentModeSelect">
-                    <option value="sfw">SFW</option>
-                    <option value="adult">Adult 18+</option>
-                  </select>
-                </div>
-                </div>
-                <div class="builder-cluster cluster-character">
-                  <h3>Character</h3>
-                <div class="builder-control">
-                  <label>Character mode</label>
-                  <select id="characterModeSelect">
-                    <option value="female">Female list</option>
-                    <option value="male">Male list</option>
-                    <option value="manual">Manual</option>
-                  </select>
-                </div>
-                <div class="builder-control">
-                  <label>Anime series</label>
-                  <select id="animeSeriesSelect"></select>
-                </div>
-                <div class="builder-control wide-control">
-                  <label>Character search / manual</label>
-                  <input id="characterSearch" placeholder="Search character or type a manual subject" />
-                  <select class="character-list" id="characterList" aria-label="Character"></select>
-                </div>
-                </div>
-                <div class="builder-cluster cluster-loras">
-                  <h3>Style Tokens</h3>
-                  <div class="style-token-picker" id="styleTokenPicker"></div>
-                  <h3>Compatible LoRAs</h3>
-                  <details class="lora-disclosure">
-                    <summary>Choose LoRAs <span id="loraPickerCount">0 available</span></summary>
-                    <div class="lora-picker" id="loraPicker"></div>
-                  </details>
-                </div>
+              <section class="selected-direction">
+                <div><span class="eyebrow">Selected direction</span><small id="selectedDirectionCount">0 choices</small></div>
+                <div class="selected-direction-scroll" id="selectedDirectionStrip"><span class="empty-inline">Your selected controls will appear here.</span></div>
               </section>
 
-              <section class="builder-category-grid" id="builderCategoryGrid"></section>
-
-              <section class="panel workspace-composer" id="workspaceComposer">
-                <label class="prompt-control" for="userPrompt">What you want</label>
-                <textarea id="userPrompt" rows="3" placeholder="Describe the subject, action, setting, and any details that must be present."></textarea>
+              <section class="workspace-composer" id="workspaceComposer">
+                <textarea id="userPrompt" rows="3" aria-label="What you want" placeholder="Describe what you want to create, change, or emphasize..."></textarea>
                 <div class="composer-footer">
                   <div class="composer-options">
                     <select id="learningPull" aria-label="Learning strength">
@@ -136,35 +166,50 @@
                     <label class="pill-check"><input id="useResearchToggle" type="checkbox" /> Research</label>
                     <label class="pill-check"><input id="useReferenceToggle" type="checkbox" checked /> References</label>
                   </div>
-                  <button class="primary-btn composer-generate" id="generateBtn">Generate Prompt</button>
+                  <button class="primary-btn composer-generate" id="generateBtn">Generate prompt <span aria-hidden="true">↑</span></button>
                 </div>
               </section>
 
-              <section class="panel output-dock workspace-output">
-                <div class="section-title-row">
-                  <h2>Session Output</h2>
-                  <span class="status-pill" id="sessionSaveStatus">Saved locally</span>
-                </div>
-                <div class="messages" id="messages"></div>
+              <section class="session-drawer">
+                <details>
+                  <summary>Session activity</summary>
+                  <div class="messages" id="messages"></div>
+                </details>
               </section>
             </section>
 
-            <aside class="builder-side">
-              <section class="panel live-prompt-panel">
-                <div class="section-title-row">
-                  <h2>Positive Prompt</h2>
-                  <button class="tiny-btn" id="copyPositiveLive">Copy</button>
+            <aside class="output-panel">
+              <header class="output-panel-head">
+                <div>
+                  <span class="eyebrow">Live prompt</span>
+                  <strong class="prompt-score" id="livePromptScore">0</strong>
                 </div>
-                <pre id="positivePromptOutput"></pre>
-              </section>
-              <section class="panel">
+                <button class="icon-btn" id="copyPositiveLive" title="Copy positive prompt" aria-label="Copy positive prompt">Copy</button>
+              </header>
+              <pre class="semantic-prompt" id="positivePromptOutput"></pre>
+              <div class="prompt-legend">
+                <span><i class="quality"></i>Quality</span>
+                <span><i class="subject"></i>Subject</span>
+                <span><i class="action"></i>Action</span>
+                <span><i class="world"></i>Scene</span>
+              </div>
+              <div class="prompt-diagnostics">
+                <div><span>Tags</span><strong id="liveTagCount">0</strong></div>
+                <div><span>Selected</span><strong id="liveSelectedCount">0</strong></div>
+                <div><span>Checkpoint fit</span><strong id="liveCheckpointFit">Ready</strong></div>
+              </div>
+              <details class="reasoning-box" open>
+                <summary>Scene reasoning</summary>
+                <p id="liveReasoning">Choose controls or describe a scene to see how PromptBrain structures it.</p>
+              </details>
+              <section class="lora-output">
                 <div class="section-title-row">
-                  <h2>Selected LoRAs</h2>
+                  <h2>Active LoRAs</h2>
                   <span class="status-pill">live weights</span>
                 </div>
                 <div class="selected-loras" id="selectedLoras"></div>
               </section>
-              <section class="panel live-prompt-panel" id="negativePromptPanel" hidden>
+              <section class="live-prompt-panel" id="negativePromptPanel" hidden>
                 <div class="section-title-row">
                   <h2>Negative Prompt</h2>
                   <button class="tiny-btn" id="copyNegativeLive">Copy</button>
@@ -276,13 +321,21 @@
         </section>
 
         <section class="view" id="trainingView">
-          <div class="page-heading">
-            <h2>Prompt Training</h2>
-            <p>Teach the app what worked, what failed, and how to correct similar requests next time.</p>
+          <div class="page-title">
+            <div>
+              <span class="eyebrow">Feedback memory</span>
+              <h1>Prompt training</h1>
+              <p>Teach PromptBrain what to repeat and what to repair.</p>
+            </div>
+            <span class="status-pill">Local only</span>
           </div>
-          <div class="training-grid">
-            <section class="panel">
-              <h2>Add Training Rule</h2>
+          <div class="training-layout">
+            <section class="review-stage">
+              <header>
+                <span class="eyebrow">New correction</span>
+                <h2>Describe the pattern, not just one result</h2>
+                <p>The rule is matched against future requests before the prompt is assembled.</p>
+              </header>
               <label>When request contains
                 <input id="trainingTriggerInput" placeholder="catgirl, cyberpunk, portrait, forest" />
               </label>
@@ -294,8 +347,13 @@
               </label>
               <button class="primary-btn" id="saveTrainingBtn">Save Training Rule</button>
             </section>
-            <section class="panel wide">
-              <h2>Active Training Rules</h2>
+            <section class="learning-preview">
+              <div class="section-title-row">
+                <div>
+                  <span class="eyebrow">Active memory</span>
+                  <h2>Learned preferences</h2>
+                </div>
+              </div>
               <div class="training-list" id="trainingList"></div>
             </section>
           </div>
@@ -417,60 +475,73 @@
         </section>
 
         <section class="view" id="loraView">
-          <div class="page-heading">
-            <h2>Models</h2>
-            <p>Choose generation checkpoints and compatible LoRAs. PromptBrain uses each model's rules to structure prompts correctly.</p>
+          <div class="page-title">
+            <div>
+              <span class="eyebrow">Model library</span>
+              <h1>Checkpoint and LoRA setup</h1>
+              <p>Every choice changes the real prompt grammar used in Workspace.</p>
+            </div>
+            <label class="model-search">
+              <span aria-hidden="true">⌕</span>
+              <input id="modelSearchInput" type="search" placeholder="Search models and LoRAs" />
+            </label>
           </div>
-          <div class="model-library-layout">
-            <section class="panel checkpoint-library-panel">
-              <div class="section-title-row">
-                <h2>Checkpoint Library</h2>
-                <span class="status-pill">17 built in</span>
-              </div>
+          <div class="model-layout">
+            <aside class="model-list">
+              <div class="model-column-head"><span>Checkpoints</span><small>17 built in</small></div>
               <div id="checkpointLibrary"></div>
+            </aside>
+            <section class="model-detail">
+              <div class="model-detail-head">
+                <span class="model-badge">AI</span>
+                <div>
+                  <span class="eyebrow">Selected checkpoint</span>
+                  <h2 id="selectedModelTitle">Prompt model</h2>
+                  <p id="selectedModelMeta">Prompt grammar and compatibility rules</p>
+                </div>
+              </div>
+              <h3>Prompt structure</h3>
+              <div id="modelRuleDetails"></div>
+              <div class="style-token-section">
+                <div class="section-title-row">
+                  <h3>Prompt style tokens</h3>
+                  <span class="status-pill">prompt only</span>
+                </div>
+                <div class="style-token-library" id="styleTokenLibrary"></div>
+              </div>
             </section>
-            <section class="panel lora-library-panel">
+            <aside class="lora-inspector">
               <div class="section-title-row">
-                <h2>Compatible LoRA Library</h2>
-                <span class="status-pill">filtered by checkpoint</span>
+                <div>
+                  <span class="eyebrow">Compatible LoRAs</span>
+                  <h2>Model controls</h2>
+                </div>
+                <span class="status-pill">filtered</span>
               </div>
               <div class="lora-library" id="loraLibrary"></div>
-            </section>
-            <section class="panel">
-              <h2>Selected Checkpoint Rules</h2>
-              <div id="modelRuleDetails"></div>
-            </section>
-            <section class="panel">
-              <div class="section-title-row">
-                <h2>Selected LoRAs</h2>
-                <span class="status-pill">slider writes prompt</span>
-              </div>
+              <h3 class="selected-lora-heading">Selected LoRAs</h3>
               <div class="selected-loras" id="modelSelectedLoras"></div>
-            </section>
-            <section class="panel wide">
-              <h2>Prompt Style Tokens</h2>
-              <div class="style-token-library" id="styleTokenLibrary"></div>
-            </section>
-            <section class="panel hidden-settings">
+            </aside>
+            <section class="hidden-settings">
               <h2>AI Backend</h2>
               <label>Ollama model<input id="ollamaModelInput" placeholder="qwen2.5:7b" /></label>
               <label>Workflow type<select id="workflowTypeInput"><option value="basic">Basic text workflow</option><option value="sdxl">SDXL-style text workflow</option></select></label>
             </section>
-            <section class="panel hidden-settings">
+            <section class="hidden-settings">
               <h2>Custom LoRA Preset</h2>
               <input id="loraNameInput" placeholder="Preset name" />
               <textarea id="loraTagsInput" rows="5" placeholder="<lora:name:0.8>, trigger words"></textarea>
               <textarea id="loraNotesInput" rows="3" placeholder="When to use it"></textarea>
               <button class="primary-btn" id="saveLoraBtn">Save Preset</button>
             </section>
-            <section class="panel hidden-settings">
+            <section class="hidden-settings">
               <h2>Character/Profile Vault</h2>
               <input id="profileNameInput" placeholder="Character or profile name" />
               <textarea id="profileDescInput" rows="5" placeholder="Appearance, personality, outfit rules"></textarea>
               <input id="profileTagsInput" placeholder="tags" />
               <button class="primary-btn" id="saveProfileBtn">Save Profile</button>
             </section>
-            <section class="panel hidden-settings">
+            <section class="hidden-settings">
               <h2>OC Builder</h2>
               <textarea id="ocSeedInput" rows="5" placeholder="Seed prompt"></textarea>
               <div class="field-grid">
@@ -479,9 +550,9 @@
               </div>
               <button class="primary-btn" id="buildOcBtn">Build OC</button>
             </section>
-            <section class="panel wide hidden-settings"><h2>Presets</h2><div class="library-grid" id="loraGrid"></div></section>
-            <section class="panel wide hidden-settings"><h2>Profiles</h2><div class="library-grid" id="profileGrid"></div></section>
-            <section class="panel wide hidden-settings"><h2>OC Sheet</h2><div class="oc-output" id="ocOutput"></div></section>
+            <section class="hidden-settings"><h2>Presets</h2><div class="library-grid" id="loraGrid"></div></section>
+            <section class="hidden-settings"><h2>Profiles</h2><div class="library-grid" id="profileGrid"></div></section>
+            <section class="hidden-settings"><h2>OC Sheet</h2><div class="oc-output" id="ocOutput"></div></section>
           </div>
         </section>
 

@@ -1,49 +1,26 @@
-# PromptBrain v1.0.0
+# PromptBrain v1.1.1
 
-PromptBrain v1.0.0 is the first public Windows release of the local-first ComfyUI prompt studio.
+PromptBrain v1.1.1 is a corrective interface release that replaces the legacy workspace layout with the approved v1.1 design.
 
-## Purpose
+## Interface
 
-PromptBrain helps artists turn rough ideas into deliberate, well-ordered prompts suited to the checkpoint they actually use. It combines a large offline prompt knowledgebase with checkpoint-specific formatting, art-direction logic, local learning, and practical tools for comparing and improving generations.
+- Rebuilt Workspace around a compact context bar, searchable control library, scene board, and semantic live-prompt inspector.
+- Added Subject, Look, and Scene library tabs plus Recommended, Learned, and Recent filters.
+- Added real scene summaries inferred from the current request and generated prompt.
+- Moved style tokens and compatible LoRAs into a compact context popover.
+- Rebuilt Models as a checkpoint list, live rule detail, and compatible LoRA inspector.
+- Rebuilt Prompt Training as a focused correction editor and local learning view.
+- Restyled Result Lab, Insights, Settings, and secondary surfaces to use the same restrained visual system.
+- Improved responsive behavior for desktop, resized windows, and compact screens.
 
-## Highlights
+## Customization
 
-- Offline deterministic prompt engine with 26,200 effective concepts.
-- Semantic intent compiler that separates goals, themes, entities, relationships, explicit requests, and open creative decisions.
-- Scene-graph planning with coherent seeded variation instead of unrelated random tag selection.
-- Semantic conflict repair for camera, pose, participant count, wardrobe state, and prompt block limits.
-- Built-in prompt critic with visible reasoning quality, repair diagnostics, and contextual preference learning.
-- 330 named character/entity records and 1,446 art-direction recipes.
-- Checkpoint-aware prompt ordering and syntax for WAI/Illustrious, SDXL, Pony, SD 1.5, FLUX, anime, and realistic model families.
-- LoRA compatibility filtering, prompt-only style tokens, and live LoRA weight controls.
-- Full workspace controls for subject, body, expression, pose, action, clothing, environment, lighting, color, composition, camera angle, and custom direction.
-- Prompt training with likes, dislikes, corrections, and persistent local preference scores.
-- Saved sessions, history, image references, result comparison, image memory, and real local usage analytics.
-- Responsive desktop interface with configurable themes and compact navigation.
-- Durable revisioned local state with rolling backup and migration protection.
-- SFW and adult workflow support with underage and illegal content excluded.
+- Fixed Appearance Studio tokens so palette, semantic colors, radius, density, sidebar width, and motion affect the new interface.
+- Preserved Graphite, Porcelain, and Midnight Plum presets plus theme import and export.
 
-## Package
+## Reliability
 
-`PromptBrain-v1.0.0-win-x64.zip` contains the self-contained Windows executable and a quick-start readme.
-
-## Not bundled
-
-- No Ollama, Qwen, or other language model is included.
-- No personal chats, learned memory, ratings, references, or generated images are included.
-- ComfyUI and image-generation checkpoints are not included.
-
-## Requirements
-
-- Windows 10/11 x64
-- Microsoft Edge WebView2 Runtime
-
-## Integrity
-
-SHA-256 for `PromptBrain-v1.0.0-win-x64.zip`:
-
-`A570DDDAB1855CF1F164564D678BFCF5D8E005641AF0D9C1684DE7A95C14C288`
-
-SHA-256 for `PromptBrain.exe`:
-
-`8397D223B683D600E559684D38CD83F04D7FE16B4CDC560DD1A12A064A30CD60`
+- Preserves the existing local prompt engine, catalog, sessions, image memory, feedback, and saved settings.
+- Keeps all analytics tied to real local usage.
+- Includes the new stylesheet in the desktop executable host.
+- Passed 55 engine and persistence tests, 600 generation stress cases, responsive UI smoke tests, packaging checks, and desktop build validation.

@@ -20,6 +20,9 @@ const context = {
   unique(items) {
     return [...new Set((items || []).map((item) => String(item).trim()).filter(Boolean))];
   },
+  engineReady() {
+    return false;
+  },
   console
 };
 
@@ -27,7 +30,7 @@ vm.createContext(context);
 vm.runInContext(source.slice(0, stop) + `
   globalThis.__audit = {
     checkpoints: Object.keys(CHECKPOINT_RULES).length,
-    loras: LORA_KB.length,
+    loras: typeof LORA_KB === "undefined" ? "catalog-backed" : LORA_KB.length,
     styleTokens: STYLE_TOKEN_KB.length,
     categories: Object.fromEntries(BUILDER_CATEGORIES.map((key) => [key, (CATEGORY_BASE[key] || []).length])),
     adultCategories: Object.fromEntries(BUILDER_CATEGORIES.map((key) => [key, (ADULT_TAGS[key] || []).length])),
