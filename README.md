@@ -37,6 +37,20 @@ PromptBrain is a local-first Windows prompt studio for ComfyUI. It turns a short
 
 GitHub's language bar is calculated from authored source. Generated catalogs, reports, binary releases, and test fixtures are explicitly excluded from language statistics.
 
+### Authored Code Snapshot
+
+| Language | Files | Lines | Share by source bytes |
+| --- | ---: | ---: | ---: |
+| JavaScript | 36 | 15,240 | 82.7% |
+| CSS | 1 | 3,696 | 7.2% |
+| C# | 3 | 1,360 | 5.9% |
+| HTML | 1 | 582 | 3.3% |
+| MSBuild/XML | 5 | 115 | 0.5% |
+| PowerShell | 2 | 92 | 0.4% |
+| **Total** | **48** | **21,085** | **100%** |
+
+This snapshot measures application, engine, test, and build-tool source. It excludes generated knowledge catalogs, reports, fixtures, dependencies, and compiled binaries.
+
 ## Download
 
 - [Download the packaged Windows release](https://github.com/FancyDDxAI/PromptBrain/releases/latest)
