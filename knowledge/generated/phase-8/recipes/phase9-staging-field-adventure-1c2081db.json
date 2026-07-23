@@ -1,0 +1,1424 @@
+{
+  "count": 24,
+  "familyId": "phase9.staging.field-adventure",
+  "fingerprint": "1e99aaf25c69a64ebb0396b20ebbf4b9ce93d1ca1b0da15909fb025554806326",
+  "recipes": [
+    {
+      "aliases": [
+        "field adventure staging featuring 135mm telephoto lens, at a moderate aperture, low-contrast glass, tropical lagoon with winding natural leading lines, quiet untouched atmosphere 143e20a2c211"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.143e20a2c211",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.tucking-into-a-somersault-with-energetic-momentum-active-acrobatic-movem"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-moderate-aperture-low-contrast-glass"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.tropical-lagoon-with-winding-natural-leading-lines-quiet-untouched-atmos"
+        ]
+      },
+      "name": "Field Adventure Staging 7",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 135mm telephoto lens, at a moderate aperture, low-contrast glass, tropical lagoon with winding natural leading lines, quiet untouched atmosphere 143e20a2c211"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 24mm wide-angle lens, at a stopped-down aperture, gentle edge softness, ancient redwood forest with layered midground landforms, windswept expansive atmosphere 159ff159fe0f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.159ff159fe0f",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.handspringing-over-a-low-obstacle-with-confident-aerial-awareness-active"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-stopped-down-aperture-gentle-edge-softness"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.ancient-redwood-forest-with-layered-midground-landforms-windswept-expans"
+        ]
+      },
+      "name": "Field Adventure Staging 17",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 24mm wide-angle lens, at a stopped-down aperture, gentle edge softness, ancient redwood forest with layered midground landforms, windswept expansive atmosphere 159ff159fe0f"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 135mm telephoto lens, at a moderate aperture, clean modern rendering, temperate rainforest with an open central clearing, windswept expansive atmosphere 1a751210d43e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.1a751210d43e",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.vaulting-over-a-low-railing-with-clean-gymnastic-form-active-acrobatic-m"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-moderate-aperture-clean-modern-rendering"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.temperate-rainforest-with-an-open-central-clearing-windswept-expansive-a"
+        ]
+      },
+      "name": "Field Adventure Staging 21",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 135mm telephoto lens, at a moderate aperture, clean modern rendering, temperate rainforest with an open central clearing, windswept expansive atmosphere 1a751210d43e"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 21mm wide-angle lens, at a stopped-down aperture, controlled highlight bloom, volcanic plateau with layered midground landforms, crisp documentary atmosphere 233d4e501b09"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.233d4e501b09",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.scrambling-up-a-rocky-slope-with-calm-deliberate-progress-active-terrain"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-stopped-down-aperture-controlled-highlight-blo"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.volcanic-plateau-with-layered-midground-landforms-crisp-documentary-atmo"
+        ]
+      },
+      "name": "Field Adventure Staging 13",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 21mm wide-angle lens, at a stopped-down aperture, controlled highlight bloom, volcanic plateau with layered midground landforms, crisp documentary atmosphere 233d4e501b09"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 35mm documentary lens, at a wide aperture, controlled highlight bloom, desert badlands with interlocking terrain layers, windswept expansive atmosphere 3474fa50bea2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.3474fa50bea2",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.swinging-a-tennis-racket-with-focused-athletic-timing-active-dance-or-sp"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-controlled-highlight-bloom"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.desert-badlands-with-interlocking-terrain-layers-windswept-expansive-atm"
+        ]
+      },
+      "name": "Field Adventure Staging 10",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 35mm documentary lens, at a wide aperture, controlled highlight bloom, desert badlands with interlocking terrain layers, windswept expansive atmosphere 3474fa50bea2"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 24mm wide-angle lens, at a wide aperture, high-microcontrast glass, mangrove wetland with scattered rock accents, windswept expansive atmosphere 3d360a730c51"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.3d360a730c51",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.kicking-into-a-roundoff-with-clean-gymnastic-form-active-acrobatic-movem"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-wide-aperture-high-microcontrast-glass"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.mangrove-wetland-with-scattered-rock-accents-windswept-expansive-atmosph"
+        ]
+      },
+      "name": "Field Adventure Staging 8",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 24mm wide-angle lens, at a wide aperture, high-microcontrast glass, mangrove wetland with scattered rock accents, windswept expansive atmosphere 3d360a730c51"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 24mm wide-angle lens, at a wide aperture, high-microcontrast glass, mangrove wetland with distant horizon ridges, quiet untouched atmosphere 412160bef716"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.412160bef716",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.swinging-a-tennis-racket-with-precise-follow-through-active-dance-or-spo"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-wide-aperture-high-microcontrast-glass"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.mangrove-wetland-with-distant-horizon-ridges-quiet-untouched-atmosphere"
+        ]
+      },
+      "name": "Field Adventure Staging 12",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 24mm wide-angle lens, at a wide aperture, high-microcontrast glass, mangrove wetland with distant horizon ridges, quiet untouched atmosphere 412160bef716"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 35mm documentary lens, at a wide aperture, controlled highlight bloom, coastal cliff with broad foreground terrain, quiet untouched atmosphere 4c0fc0367087"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.4c0fc0367087",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.crossing-a-rope-bridge-with-careful-route-selection-active-terrain-trave"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-controlled-highlight-bloom"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-cliff-with-broad-foreground-terrain-quiet-untouched-atmosphere"
+        ]
+      },
+      "name": "Field Adventure Staging 3",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 35mm documentary lens, at a wide aperture, controlled highlight bloom, coastal cliff with broad foreground terrain, quiet untouched atmosphere 4c0fc0367087"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 24mm wide-angle lens, at a moderate aperture, neutral optical rendering, coastal cliff with interlocking terrain layers, crisp documentary atmosphere 531a61979678"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.531a61979678",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.climbing-a-ladder-with-attention-to-each-foothold-active-terrain-travers"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-moderate-aperture-neutral-optical-rendering"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-cliff-with-interlocking-terrain-layers-crisp-documentary-atmosph"
+        ]
+      },
+      "name": "Field Adventure Staging 24",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 24mm wide-angle lens, at a moderate aperture, neutral optical rendering, coastal cliff with interlocking terrain layers, crisp documentary atmosphere 531a61979678"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 21mm wide-angle lens, at a mid-range aperture, subtle halation, alpine meadow with interlocking terrain layers, quiet untouched atmosphere 5b715547379c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.5b715547379c",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.serving-a-volleyball-with-relaxed-confidence-active-dance-or-sport-movem"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-mid-range-aperture-subtle-halation"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-interlocking-terrain-layers-quiet-untouched-atmospher"
+        ]
+      },
+      "name": "Field Adventure Staging 6",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 21mm wide-angle lens, at a mid-range aperture, subtle halation, alpine meadow with interlocking terrain layers, quiet untouched atmosphere 5b715547379c"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 24mm wide-angle lens, at a mid-range aperture, low-contrast glass, desert badlands with an uninterrupted sky corridor, crisp documentary atmosphere 7585d0dba5a5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.7585d0dba5a5",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.walking-uphill-with-controlled-momentum-active-ground-locomotion"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-mid-range-aperture-low-contrast-glass"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.desert-badlands-with-an-uninterrupted-sky-corridor-crisp-documentary-atm"
+        ]
+      },
+      "name": "Field Adventure Staging 15",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 24mm wide-angle lens, at a mid-range aperture, low-contrast glass, desert badlands with an uninterrupted sky corridor, crisp documentary atmosphere 7585d0dba5a5"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 24mm wide-angle lens, at a moderate aperture, gentle edge softness, highland moor with layered midground landforms, quiet untouched atmosphere 767f1052939b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.767f1052939b",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.springing-from-a-crouch-into-a-jump-with-confident-aerial-awareness-acti"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-moderate-aperture-gentle-edge-softness"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-layered-midground-landforms-quiet-untouched-atmospher"
+        ]
+      },
+      "name": "Field Adventure Staging 2",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 24mm wide-angle lens, at a moderate aperture, gentle edge softness, highland moor with layered midground landforms, quiet untouched atmosphere 767f1052939b"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 135mm telephoto lens, at a moderate aperture, controlled highlight bloom, coastal cliff with an uninterrupted sky corridor, windswept expansive atmosphere 7874424c609d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.7874424c609d",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.springing-from-a-crouch-into-a-jump-with-clean-gymnastic-form-active-acr"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-cliff-with-an-uninterrupted-sky-corridor-windswept-expansive-atm"
+        ]
+      },
+      "name": "Field Adventure Staging 16",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 135mm telephoto lens, at a moderate aperture, controlled highlight bloom, coastal cliff with an uninterrupted sky corridor, windswept expansive atmosphere 7874424c609d"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 24mm wide-angle lens, at a wide aperture, clean modern rendering, alpine meadow with an elevated overlook, crisp documentary atmosphere 78c1c3b357f1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.78c1c3b357f1",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.rowing-through-a-strong-stroke-with-precise-follow-through-active-dance-"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-wide-aperture-clean-modern-rendering"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-an-elevated-overlook-crisp-documentary-atmosphere"
+        ]
+      },
+      "name": "Field Adventure Staging 9",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 24mm wide-angle lens, at a wide aperture, clean modern rendering, alpine meadow with an elevated overlook, crisp documentary atmosphere 78c1c3b357f1"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 21mm wide-angle lens, at a mid-range aperture, controlled highlight bloom, mangrove wetland with foreground native vegetation, quiet untouched atmosphere 7a16bc9e256d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.7a16bc9e256d",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.moving-through-a-contemporary-dance-phrase-with-relaxed-confidence-activ"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-mid-range-aperture-controlled-highlight-bloom"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.mangrove-wetland-with-foreground-native-vegetation-quiet-untouched-atmos"
+        ]
+      },
+      "name": "Field Adventure Staging 22",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 21mm wide-angle lens, at a mid-range aperture, controlled highlight bloom, mangrove wetland with foreground native vegetation, quiet untouched atmosphere 7a16bc9e256d"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 21mm wide-angle lens, at a mid-range aperture, high-microcontrast glass, ancient redwood forest with an open central clearing, quiet untouched atmosphere 852b8ffbb7fe"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.852b8ffbb7fe",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.skating-through-a-wide-turn-with-lively-rhythm-active-dance-or-sport-mov"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-mid-range-aperture-high-microcontrast-glass"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.ancient-redwood-forest-with-an-open-central-clearing-quiet-untouched-atm"
+        ]
+      },
+      "name": "Field Adventure Staging 5",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 21mm wide-angle lens, at a mid-range aperture, high-microcontrast glass, ancient redwood forest with an open central clearing, quiet untouched atmosphere 852b8ffbb7fe"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 21mm wide-angle lens, at a moderate aperture, low-contrast glass, desert badlands with an uninterrupted sky corridor, quiet untouched atmosphere 8b9539718a3e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.8b9539718a3e",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.crossing-a-rope-bridge-with-calm-deliberate-progress-active-terrain-trav"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-moderate-aperture-low-contrast-glass"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.desert-badlands-with-an-uninterrupted-sky-corridor-quiet-untouched-atmos"
+        ]
+      },
+      "name": "Field Adventure Staging 18",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 21mm wide-angle lens, at a moderate aperture, low-contrast glass, desert badlands with an uninterrupted sky corridor, quiet untouched atmosphere 8b9539718a3e"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 21mm wide-angle lens, at a wide aperture, controlled highlight bloom, highland moor with an open central clearing, quiet untouched atmosphere 8da0e0a00c91"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.8da0e0a00c91",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.vaulting-over-a-low-railing-with-confident-aerial-awareness-active-acrob"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-wide-aperture-controlled-highlight-bloom"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-an-open-central-clearing-quiet-untouched-atmosphere"
+        ]
+      },
+      "name": "Field Adventure Staging 23",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 21mm wide-angle lens, at a wide aperture, controlled highlight bloom, highland moor with an open central clearing, quiet untouched atmosphere 8da0e0a00c91"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 24mm wide-angle lens, at a moderate aperture, controlled highlight bloom, temperate rainforest with an uninterrupted sky corridor, crisp documentary atmosphere adfa057913eb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.adfa057913eb",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.moving-through-a-contemporary-dance-phrase-with-focused-athletic-timing-"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.temperate-rainforest-with-an-uninterrupted-sky-corridor-crisp-documentar"
+        ]
+      },
+      "name": "Field Adventure Staging 19",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 24mm wide-angle lens, at a moderate aperture, controlled highlight bloom, temperate rainforest with an uninterrupted sky corridor, crisp documentary atmosphere adfa057913eb"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 35mm documentary lens, at a moderate aperture, controlled highlight bloom, glacial valley with foreground native vegetation, windswept expansive atmosphere c2b0fe7101b9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.c2b0fe7101b9",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.climbing-a-ladder-with-measured-weight-shifts-active-terrain-traversal"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.glacial-valley-with-foreground-native-vegetation-windswept-expansive-atm"
+        ]
+      },
+      "name": "Field Adventure Staging 1",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 35mm documentary lens, at a moderate aperture, controlled highlight bloom, glacial valley with foreground native vegetation, windswept expansive atmosphere c2b0fe7101b9"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 24mm wide-angle lens, at a moderate aperture, low-contrast glass, temperate rainforest with foreground native vegetation, windswept expansive atmosphere c5ee1ecaf590"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.c5ee1ecaf590",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.kicking-into-a-roundoff-with-energetic-momentum-active-acrobatic-movemen"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-moderate-aperture-low-contrast-glass"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.temperate-rainforest-with-foreground-native-vegetation-windswept-expansi"
+        ]
+      },
+      "name": "Field Adventure Staging 11",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 24mm wide-angle lens, at a moderate aperture, low-contrast glass, temperate rainforest with foreground native vegetation, windswept expansive atmosphere c5ee1ecaf590"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 35mm documentary lens, at a wide aperture, controlled highlight bloom, rolling prairie with an elevated overlook, quiet untouched atmosphere d9661955a6b6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.d9661955a6b6",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.sliding-down-a-gentle-embankment-with-steady-balance-active-terrain-trav"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-controlled-highlight-bloom"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.rolling-prairie-with-an-elevated-overlook-quiet-untouched-atmosphere"
+        ]
+      },
+      "name": "Field Adventure Staging 20",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 35mm documentary lens, at a wide aperture, controlled highlight bloom, rolling prairie with an elevated overlook, quiet untouched atmosphere d9661955a6b6"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 35mm documentary lens, at a wide aperture, soft vintage rendering, limestone canyon with an uninterrupted sky corridor, quiet untouched atmosphere f01a04e46d20"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.f01a04e46d20",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.sidestepping-across-a-narrow-space-with-attention-on-the-route-ahead-act"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-soft-vintage-rendering"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.limestone-canyon-with-an-uninterrupted-sky-corridor-quiet-untouched-atmo"
+        ]
+      },
+      "name": "Field Adventure Staging 14",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 35mm documentary lens, at a wide aperture, soft vintage rendering, limestone canyon with an uninterrupted sky corridor, quiet untouched atmosphere f01a04e46d20"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "field adventure staging featuring 24mm wide-angle lens, at a wide aperture, high-microcontrast glass, highland moor with scattered rock accents, crisp documentary atmosphere f244ed3891b8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.field-adventure",
+      "familyTriggers": [
+        "field adventure staging",
+        "travelling outdoors",
+        "expedition scene"
+      ],
+      "id": "phase9.staging.field-adventure.f244ed3891b8",
+      "ingredients": {
+        "action": [
+          "phase8.character-performance.action.spinning-through-an-aerial-turn-with-clean-gymnastic-form-active-acrobat"
+        ],
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-wide-aperture-high-microcontrast-glass"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-scattered-rock-accents-crisp-documentary-atmosphere"
+        ]
+      },
+      "name": "Field Adventure Staging 4",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.field-adventure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "action",
+        "environment",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "action": 1,
+        "camera": 1,
+        "environment": 1
+      },
+      "signals": [
+        "forward momentum",
+        "weather-appropriate kit",
+        "open terrain"
+      ],
+      "triggers": [
+        "field adventure staging featuring 24mm wide-angle lens, at a wide aperture, high-microcontrast glass, highland moor with scattered rock accents, crisp documentary atmosphere f244ed3891b8"
+      ],
+      "variantIndex": 3
+    }
+  ],
+  "schemaVersion": 2
+}

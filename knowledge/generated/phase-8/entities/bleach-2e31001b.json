@@ -1,0 +1,252 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Byakuya Kuchiki",
+        "Byakuya Kuchiki (Bleach)"
+      ],
+      "id": "character.bleach.byakuya-kuchiki",
+      "kind": "named-character",
+      "name": "Byakuya Kuchiki",
+      "namespace": "Bleach",
+      "promptTags": [
+        "Byakuya Kuchiki",
+        "Bleach",
+        "male",
+        "Soul Reaper captain"
+      ],
+      "provenance": {
+        "groupId": "bleach",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "soul-reaper",
+        "captain"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Ichigo Kurosaki",
+        "Ichigo Kurosaki (Bleach)"
+      ],
+      "id": "character.bleach.ichigo-kurosaki",
+      "kind": "named-character",
+      "name": "Ichigo Kurosaki",
+      "namespace": "Bleach",
+      "promptTags": [
+        "Ichigo Kurosaki",
+        "Bleach",
+        "male",
+        "Soul Reaper"
+      ],
+      "provenance": {
+        "groupId": "bleach",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "soul-reaper"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Orihime Inoue",
+        "Orihime Inoue (Bleach)"
+      ],
+      "id": "character.bleach.orihime-inoue",
+      "kind": "named-character",
+      "name": "Orihime Inoue",
+      "namespace": "Bleach",
+      "promptTags": [
+        "Orihime Inoue",
+        "Bleach",
+        "female",
+        "student healer"
+      ],
+      "provenance": {
+        "groupId": "bleach",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student",
+        "healer"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Rukia Kuchiki",
+        "Rukia Kuchiki (Bleach)"
+      ],
+      "id": "character.bleach.rukia-kuchiki",
+      "kind": "named-character",
+      "name": "Rukia Kuchiki",
+      "namespace": "Bleach",
+      "promptTags": [
+        "Rukia Kuchiki",
+        "Bleach",
+        "female",
+        "Soul Reaper"
+      ],
+      "provenance": {
+        "groupId": "bleach",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "soul-reaper"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Sosuke Aizen",
+        "Sosuke Aizen (Bleach)"
+      ],
+      "id": "character.bleach.sosuke-aizen",
+      "kind": "named-character",
+      "name": "Sosuke Aizen",
+      "namespace": "Bleach",
+      "promptTags": [
+        "Sosuke Aizen",
+        "Bleach",
+        "male",
+        "Soul Reaper captain"
+      ],
+      "provenance": {
+        "groupId": "bleach",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "antagonist",
+        "soul-reaper"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Toshiro Hitsugaya",
+        "Toshiro Hitsugaya (Bleach)"
+      ],
+      "id": "character.bleach.toshiro-hitsugaya",
+      "kind": "named-character",
+      "name": "Toshiro Hitsugaya",
+      "namespace": "Bleach",
+      "promptTags": [
+        "Toshiro Hitsugaya",
+        "Bleach",
+        "male",
+        "Soul Reaper captain"
+      ],
+      "provenance": {
+        "groupId": "bleach",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "soul-reaper",
+        "captain"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Uryu Ishida",
+        "Uryu Ishida (Bleach)"
+      ],
+      "id": "character.bleach.uryu-ishida",
+      "kind": "named-character",
+      "name": "Uryu Ishida",
+      "namespace": "Bleach",
+      "promptTags": [
+        "Uryu Ishida",
+        "Bleach",
+        "male",
+        "Quincy archer"
+      ],
+      "provenance": {
+        "groupId": "bleach",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "quincy",
+        "archer"
+      ]
+    }
+  ],
+  "fingerprint": "0b41065156a7c0f36234d1c03b68c9d7c291535024f7fecb6a8c26c0f49df708",
+  "namespace": "Bleach",
+  "schemaVersion": 2
+}

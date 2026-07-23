@@ -1,0 +1,1784 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.environment.moonlit-fae-realm",
+  "fingerprint": "2ab44f6b5c312c0bf74ae9129706b85cc29e7756e212b63039e4ba7fe2cc86e8",
+  "recipes": [
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with restrained symbolic accents decorative style, circular table anchoring counterclockwise spiral flow composition, citrine yellow with champagne gold gemstone palette, cold moonlight 08f1add93c5a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.08f1add93c5a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-cross-corner-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.circular-table-anchoring-counterclockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-spiraling-monumental-stairs-wonder-filled-epic-a"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.citrine-yellow-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-restrained-symbolic-accents-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with restrained symbolic accents decorative style, circular table anchoring counterclockwise spiral flow composition, citrine yellow with champagne gold gemstone palette, cold moonlight 08f1add93c5a"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with high-contrast silhouettes decorative style, water ripple anchoring clockwise spiral flow composition, sapphire blue with pewter gray gemstone palette, cold moonlight 09c562144453"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.09c562144453",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-longitudinal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.water-ripple-anchoring-clockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-colossal-ceremonial-arches-wonder-filled-epic-at"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sapphire-blue-with-pewter-gray-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-high-contrast-silhouettes-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with high-contrast silhouettes decorative style, water ripple anchoring clockwise spiral flow composition, sapphire blue with pewter gray gemstone palette, cold moonlight 09c562144453"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with bold floral fields decorative style, halo ring anchoring tangent-line framing composition, opal pastel with rose gold gemstone palette, cold moonlight 31591963d58a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.31591963d58a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-longitudinal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.halo-ring-anchoring-tangent-line-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-levitating-stone-fragments-mysterious-storybook-"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.opal-pastel-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-bold-floral-fields-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with bold floral fields decorative style, halo ring anchoring tangent-line framing composition, opal pastel with rose gold gemstone palette, cold moonlight 31591963d58a"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with geometric borderwork decorative style, clock face anchoring inward radial flow composition, citrine yellow with blackened steel gemstone palette, cold moonlight 428f789d0c24"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.428f789d0c24",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-left-offset-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.clock-face-anchoring-inward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-a-shimmering-portal-structure-serene-mythical-at"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.citrine-yellow-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-geometric-borderwork-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with geometric borderwork decorative style, clock face anchoring inward radial flow composition, citrine yellow with blackened steel gemstone palette, cold moonlight 428f789d0c24"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with bold floral fields decorative style, water ripple anchoring tangent-line framing composition, sapphire blue with antique gold gemstone palette, cold moonlight 48fc14acfc65"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.48fc14acfc65",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-front-diagonal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.water-ripple-anchoring-tangent-line-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-ancient-rune-pathways-wonder-filled-epic-atmosph"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sapphire-blue-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-bold-floral-fields-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with bold floral fields decorative style, water ripple anchoring tangent-line framing composition, sapphire blue with antique gold gemstone palette, cold moonlight 48fc14acfc65"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with geometric borderwork decorative style, flower center anchoring tangent-line framing composition, opal pastel with champagne gold gemstone palette, cold moonlight 4b8bdd260936"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.4b8bdd260936",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-front-diagonal-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.flower-center-anchoring-tangent-line-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-spiraling-monumental-stairs-wonder-filled-epic-a"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.opal-pastel-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-geometric-borderwork-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with geometric borderwork decorative style, flower center anchoring tangent-line framing composition, opal pastel with champagne gold gemstone palette, cold moonlight 4b8bdd260936"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with bold floral fields decorative style, round window anchoring offset orbit framing composition, aquamarine with pale brass gemstone palette, cold moonlight 5ee846b1c54f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.5ee846b1c54f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-left-offset-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.round-window-anchoring-offset-orbit-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-spiraling-monumental-stairs-mysterious-storybook"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aquamarine-with-pale-brass-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-bold-floral-fields-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with bold floral fields decorative style, round window anchoring offset orbit framing composition, aquamarine with pale brass gemstone palette, cold moonlight 5ee846b1c54f"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with bold floral fields decorative style, flower center anchoring outward radial flow composition, citrine yellow with pewter gray gemstone palette, cold moonlight 63d00b9d4176"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.63d00b9d4176",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-transverse-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.flower-center-anchoring-outward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-spiraling-monumental-stairs-wonder-filled-epic-a"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.citrine-yellow-with-pewter-gray-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-bold-floral-fields-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with bold floral fields decorative style, flower center anchoring outward radial flow composition, citrine yellow with pewter gray gemstone palette, cold moonlight 63d00b9d4176"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with layered scenic panels decorative style, halo ring anchoring concentric framing composition, amethyst violet with rose gold gemstone palette, cold moonlight 6953e06ca166"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.6953e06ca166",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-right-offset-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.halo-ring-anchoring-concentric-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-glowing-botanical-accents-serene-mythical-atmosp"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.amethyst-violet-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-layered-scenic-panels-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with layered scenic panels decorative style, halo ring anchoring concentric framing composition, amethyst violet with rose gold gemstone palette, cold moonlight 6953e06ca166"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with high-contrast silhouettes decorative style, sun disk anchoring outward radial flow composition, tourmaline pink with champagne gold gemstone palette, cold moonlight 6b710d809ed5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.6b710d809ed5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-cross-corner-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.sun-disk-anchoring-outward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-spiraling-monumental-stairs-mysterious-storybook"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tourmaline-pink-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-high-contrast-silhouettes-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with high-contrast silhouettes decorative style, sun disk anchoring outward radial flow composition, tourmaline pink with champagne gold gemstone palette, cold moonlight 6b710d809ed5"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with restrained symbolic accents decorative style, wheel hub anchoring outward radial flow composition, sapphire blue with blackened steel gemstone palette, cold moonlight 7200680e17b5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.7200680e17b5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-right-offset-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wheel-hub-anchoring-outward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-colossal-ceremonial-arches-serene-mythical-atmos"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sapphire-blue-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-restrained-symbolic-accents-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with restrained symbolic accents decorative style, wheel hub anchoring outward radial flow composition, sapphire blue with blackened steel gemstone palette, cold moonlight 7200680e17b5"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with crackled color planes decorative style, circular table anchoring counterclockwise spiral flow composition, peridot green with antique gold gemstone palette, cold moonlight 7b4fcf867c51"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.7b4fcf867c51",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-longitudinal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.circular-table-anchoring-counterclockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-colossal-ceremonial-arches-mysterious-storybook-"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peridot-green-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-crackled-color-planes-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with crackled color planes decorative style, circular table anchoring counterclockwise spiral flow composition, peridot green with antique gold gemstone palette, cold moonlight 7b4fcf867c51"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with fine outlined figures decorative style, lens aperture anchoring offset orbit framing composition, peridot green with antique gold gemstone palette, cold moonlight 7ce723069e34"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.7ce723069e34",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-rear-diagonal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lens-aperture-anchoring-offset-orbit-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-ornate-guardian-statues-serene-mythical-atmosphe"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peridot-green-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-fine-outlined-figures-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with fine outlined figures decorative style, lens aperture anchoring offset orbit framing composition, peridot green with antique gold gemstone palette, cold moonlight 7ce723069e34"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with restrained symbolic accents decorative style, clock face anchoring broken-ring framing composition, citrine yellow with champagne gold gemstone palette, cold moonlight 7e57d48b74d4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.7e57d48b74d4",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-longitudinal-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.clock-face-anchoring-broken-ring-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-colossal-ceremonial-arches-serene-mythical-atmos"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.citrine-yellow-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-restrained-symbolic-accents-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with restrained symbolic accents decorative style, clock face anchoring broken-ring framing composition, citrine yellow with champagne gold gemstone palette, cold moonlight 7e57d48b74d4"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with luminous translucent shapes decorative style, clock face anchoring offset orbit framing composition, lapis blue with rose gold gemstone palette, cold moonlight a72a91a78995"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.a72a91a78995",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-front-diagonal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.clock-face-anchoring-offset-orbit-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-impossible-suspended-bridges-serene-mythical-atm"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lapis-blue-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-luminous-translucent-shapes-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with luminous translucent shapes decorative style, clock face anchoring offset orbit framing composition, lapis blue with rose gold gemstone palette, cold moonlight a72a91a78995"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with crackled color planes decorative style, circular table anchoring concentric framing composition, sapphire blue with bright silver gemstone palette, cold moonlight b393ebba25a8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.b393ebba25a8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-front-diagonal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.circular-table-anchoring-concentric-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-weathered-relic-formations-mysterious-storybook-"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sapphire-blue-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-crackled-color-planes-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with crackled color planes decorative style, circular table anchoring concentric framing composition, sapphire blue with bright silver gemstone palette, cold moonlight b393ebba25a8"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with fine outlined figures decorative style, round window anchoring offset orbit framing composition, moonstone gray with blackened steel gemstone palette, cold moonlight bf27bde0a8d9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.bf27bde0a8d9",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-longitudinal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.round-window-anchoring-offset-orbit-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-colossal-ceremonial-arches-mysterious-storybook-"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.moonstone-gray-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-fine-outlined-figures-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with fine outlined figures decorative style, round window anchoring offset orbit framing composition, moonstone gray with blackened steel gemstone palette, cold moonlight bf27bde0a8d9"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with crackled color planes decorative style, spiral shell anchoring counterclockwise spiral flow composition, opal pastel with bright silver gemstone palette, cold moonlight bf36c6231287"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.bf36c6231287",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-transverse-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.spiral-shell-anchoring-counterclockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-levitating-stone-fragments-serene-mythical-atmos"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.opal-pastel-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-crackled-color-planes-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with crackled color planes decorative style, spiral shell anchoring counterclockwise spiral flow composition, opal pastel with bright silver gemstone palette, cold moonlight bf36c6231287"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with high-contrast silhouettes decorative style, moon disk anchoring broken-ring framing composition, sapphire blue with blackened steel gemstone palette, cold moonlight cab047e5be97"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.cab047e5be97",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-rear-diagonal-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.moon-disk-anchoring-broken-ring-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-levitating-stone-fragments-wonder-filled-epic-at"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sapphire-blue-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-high-contrast-silhouettes-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with high-contrast silhouettes decorative style, moon disk anchoring broken-ring framing composition, sapphire blue with blackened steel gemstone palette, cold moonlight cab047e5be97"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with crackled color planes decorative style, clock face anchoring tangent-line framing composition, peridot green with bright silver gemstone palette, cold moonlight dadc0b6d4535"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.dadc0b6d4535",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-front-diagonal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.clock-face-anchoring-tangent-line-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-spiraling-monumental-stairs-mysterious-storybook"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peridot-green-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-crackled-color-planes-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with crackled color planes decorative style, clock face anchoring tangent-line framing composition, peridot green with bright silver gemstone palette, cold moonlight dadc0b6d4535"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with geometric borderwork decorative style, sun disk anchoring broken-ring framing composition, ruby red with oxidized copper gemstone palette, cold moonlight ef5ec6121404"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.ef5ec6121404",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-transverse-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.sun-disk-anchoring-broken-ring-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-weathered-relic-formations-wonder-filled-epic-at"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-oxidized-copper-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-geometric-borderwork-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with geometric borderwork decorative style, sun disk anchoring broken-ring framing composition, ruby red with oxidized copper gemstone palette, cold moonlight ef5ec6121404"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with bold floral fields decorative style, spiral shell anchoring counterclockwise spiral flow composition, opal pastel with blackened steel gemstone palette, cold moonlight efc9eee0528e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.efc9eee0528e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-longitudinal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.spiral-shell-anchoring-counterclockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-a-shimmering-portal-structure-wonder-filled-epic"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.opal-pastel-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-bold-floral-fields-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with bold floral fields decorative style, spiral shell anchoring counterclockwise spiral flow composition, opal pastel with blackened steel gemstone palette, cold moonlight efc9eee0528e"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with crackled color planes decorative style, moon disk anchoring broken-ring framing composition, moonstone gray with blackened steel gemstone palette, cold moonlight f8a1dad9dd6d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.f8a1dad9dd6d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-center-axis-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.moon-disk-anchoring-broken-ring-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-ancient-rune-pathways-wonder-filled-epic-atmosph"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.moonstone-gray-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-crackled-color-planes-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with crackled color planes decorative style, moon disk anchoring broken-ring framing composition, moonstone gray with blackened steel gemstone palette, cold moonlight f8a1dad9dd6d"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "moonlit fae realm featuring stained glass with restrained symbolic accents decorative style, water ripple anchoring tangent-line framing composition, aquamarine with champagne gold gemstone palette, cold moonlight ff4bb86b27ef"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.moonlit-fae-realm",
+      "familyTriggers": [
+        "moonlit fae realm direction",
+        "jewel-lit fae garden",
+        "mythic moon garden treatment"
+      ],
+      "id": "phase8.art.environment.moonlit-fae-realm.ff4bb86b27ef",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-longitudinal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.water-ripple-anchoring-tangent-line-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.moonlit-fae-garden-with-ornate-guardian-statues-wonder-filled-epic-atmos"
+        ],
+        "lighting": [
+          "curated.lighting.cold-moonlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aquamarine-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-restrained-symbolic-accents-decorative-style"
+        ]
+      },
+      "name": "Moonlit Fae Realm 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.moonlit-fae-realm",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moonlit fae ornament",
+        "gemstone realm glow",
+        "radial mythical wonder"
+      ],
+      "triggers": [
+        "moonlit fae realm featuring stained glass with restrained symbolic accents decorative style, water ripple anchoring tangent-line framing composition, aquamarine with champagne gold gemstone palette, cold moonlight ff4bb86b27ef"
+      ],
+      "variantIndex": 4
+    }
+  ],
+  "schemaVersion": 2
+}

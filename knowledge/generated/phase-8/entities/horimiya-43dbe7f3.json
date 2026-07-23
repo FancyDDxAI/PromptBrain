@@ -1,0 +1,216 @@
+{
+  "count": 6,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Izumi Miyamura",
+        "Izumi Miyamura (Horimiya)"
+      ],
+      "id": "character.horimiya.izumi-miyamura",
+      "kind": "named-character",
+      "name": "Izumi Miyamura",
+      "namespace": "Horimiya",
+      "promptTags": [
+        "Izumi Miyamura",
+        "Horimiya",
+        "male",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "horimiya",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kakeru Sengoku",
+        "Kakeru Sengoku (Horimiya)"
+      ],
+      "id": "character.horimiya.kakeru-sengoku",
+      "kind": "named-character",
+      "name": "Kakeru Sengoku",
+      "namespace": "Horimiya",
+      "promptTags": [
+        "Kakeru Sengoku",
+        "Horimiya",
+        "male",
+        "student council president"
+      ],
+      "provenance": {
+        "groupId": "horimiya",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "student",
+        "president"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kyoko Hori",
+        "Kyoko Hori (Horimiya)"
+      ],
+      "id": "character.horimiya.kyoko-hori",
+      "kind": "named-character",
+      "name": "Kyoko Hori",
+      "namespace": "Horimiya",
+      "promptTags": [
+        "Kyoko Hori",
+        "Horimiya",
+        "female",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "horimiya",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "protagonist",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Remi Ayasaki",
+        "Remi Ayasaki (Horimiya)"
+      ],
+      "id": "character.horimiya.remi-ayasaki",
+      "kind": "named-character",
+      "name": "Remi Ayasaki",
+      "namespace": "Horimiya",
+      "promptTags": [
+        "Remi Ayasaki",
+        "Horimiya",
+        "female",
+        "student council member"
+      ],
+      "provenance": {
+        "groupId": "horimiya",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student",
+        "council-member"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Toru Ishikawa",
+        "Toru Ishikawa (Horimiya)"
+      ],
+      "id": "character.horimiya.toru-ishikawa",
+      "kind": "named-character",
+      "name": "Toru Ishikawa",
+      "namespace": "Horimiya",
+      "promptTags": [
+        "Toru Ishikawa",
+        "Horimiya",
+        "male",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "horimiya",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Yuki Yoshikawa",
+        "Yuki Yoshikawa (Horimiya)"
+      ],
+      "id": "character.horimiya.yuki-yoshikawa",
+      "kind": "named-character",
+      "name": "Yuki Yoshikawa",
+      "namespace": "Horimiya",
+      "promptTags": [
+        "Yuki Yoshikawa",
+        "Horimiya",
+        "female",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "horimiya",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student"
+      ]
+    }
+  ],
+  "fingerprint": "7ebdfbf3541860bb30caef53120b956f2d020c887439f3af80fec67b747227b2",
+  "namespace": "Horimiya",
+  "schemaVersion": 2
+}

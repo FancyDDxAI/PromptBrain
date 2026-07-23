@@ -1,0 +1,750 @@
+{
+  "buildId": "promptbrain-phase-8-with-authored-extensions",
+  "deltaFingerprint": "c5cccf64337e496cab882a0660afc53b4fda4cab691d27d6b301cc5785fd1c7b",
+  "effectiveFingerprint": "6888adf92531b2225930cc66f892b0ece6a186db2e9a36d18feb6af242d0347d",
+  "files": [
+    {
+      "bytes": 118271,
+      "path": "audit.json",
+      "sha256": "6db356c4aaf2e913355c6c2907882a5ee71c2e5a3a3459031c5156befe90e22c"
+    },
+    {
+      "bytes": 34201528,
+      "path": "catalog-delta.json",
+      "sha256": "2cf0cc37a0ef899274839f157168573bec06040e663d9e4ae3d982fd001cf5ce"
+    },
+    {
+      "bytes": 1702402,
+      "path": "concepts/action.json",
+      "sha256": "2f1965157e795c8f80f34126bc5fca4bdbbd2b47c8bacb248367e03c23a82e8f"
+    },
+    {
+      "bytes": 1726801,
+      "path": "concepts/anatomy.json",
+      "sha256": "c4cf40460fe0296d095e7f3bc4e10127b36797c67461990ac6a581111c16be66"
+    },
+    {
+      "bytes": 2910355,
+      "path": "concepts/camera.json",
+      "sha256": "d502dc376c0f7be25f07de738ec16a136ab9ac60ed050f52d528d64497c08b6e"
+    },
+    {
+      "bytes": 1183084,
+      "path": "concepts/composition.json",
+      "sha256": "1c0f29cdefea608b3221e7d58ab9e21086e907fdd3a8836604b5856e9fd00e58"
+    },
+    {
+      "bytes": 1126522,
+      "path": "concepts/effect.json",
+      "sha256": "032df01a7fdae9946622d8489e17ffd54d157b44b97032517bda29c2a5938919"
+    },
+    {
+      "bytes": 3632739,
+      "path": "concepts/environment.json",
+      "sha256": "eacc149435a9b91b042bc62aee74a8d6bf5dc14a8d1f87a422514502a55c0900"
+    },
+    {
+      "bytes": 1575933,
+      "path": "concepts/expression.json",
+      "sha256": "7c4612ebbf609724e421d7aeea93b7b2c021f435eacd594e6aafd414c28de3d7"
+    },
+    {
+      "bytes": 1799479,
+      "path": "concepts/interaction.json",
+      "sha256": "585313bfd8d2ffcabc0203a471161465dee73fccc0ef3d080ba595155d2cbb2c"
+    },
+    {
+      "bytes": 573549,
+      "path": "concepts/lighting.json",
+      "sha256": "5dcbf5872c37bd5a61b224862611a873f93771d8d0a5c2c9c1554c850f49e4ac"
+    },
+    {
+      "bytes": 61254,
+      "path": "concepts/lora.json",
+      "sha256": "36507d4eaf1c4741b913373c12f687df3069ef0575f2434a1e49e320fb255a40"
+    },
+    {
+      "bytes": 1119835,
+      "path": "concepts/motif.json",
+      "sha256": "13afc7a72a9229c11d6b2047ab7299e7ff6beedf023fdd5967cf41aeace4a83e"
+    },
+    {
+      "bytes": 1022029,
+      "path": "concepts/palette.json",
+      "sha256": "0b4c8b033297c51fa00487decf57d9736dd06efe9919c9e6181b7a00c737f1f3"
+    },
+    {
+      "bytes": 2014392,
+      "path": "concepts/pose.json",
+      "sha256": "362f6971d32c08eb329941db2e6e4c9e41b7239c55f7a483f744194fd4b3aa3c"
+    },
+    {
+      "bytes": 1001131,
+      "path": "concepts/quality.json",
+      "sha256": "9b18fad24504e55d23abffb687a68421bdc2fe005761132d825110aa3a739bf7"
+    },
+    {
+      "bytes": 1061153,
+      "path": "concepts/style.json",
+      "sha256": "3e3655945d036990dbec6b3116b6edceb555753d2cf6e54f5a46f492e1b21045"
+    },
+    {
+      "bytes": 851437,
+      "path": "concepts/subject.json",
+      "sha256": "fdae3cca7553215a1195c20311d720bcda44b9d856cd9a4dd8f76c6bea28225a"
+    },
+    {
+      "bytes": 7598921,
+      "path": "concepts/wardrobe.json",
+      "sha256": "7f1d8232b5500ce176fa5d3b3a972a2be541622cb74a2dfab262250357b64375"
+    },
+    {
+      "bytes": 16328,
+      "path": "coverage.json",
+      "sha256": "7ea0dff277600d23911fa5dcb79dd4e01a75ac08896dabe684dde36214b31d1b"
+    },
+    {
+      "bytes": 6308,
+      "path": "entities/assassination-classroom-1ed756b8.json",
+      "sha256": "285fdd2363869d682d7e4ea995c896cabbbaeed44028e3a71b94aaea3363d611"
+    },
+    {
+      "bytes": 5940,
+      "path": "entities/attack-on-titan-9899a644.json",
+      "sha256": "73d3bba46a8c50dbf8ad69ecfad044a41da50b940ccb6e2f2c58b86cb03136c6"
+    },
+    {
+      "bytes": 5522,
+      "path": "entities/berserk-2c24a7d1.json",
+      "sha256": "747f35d36b3a63c34b144ef2148f279b28875a2a777ea23a1014267b87a40694"
+    },
+    {
+      "bytes": 5815,
+      "path": "entities/black-clover-014ba47e.json",
+      "sha256": "49bb6bd758718481a5ee1317055967bb8172801d8fc8b95ffc9cab03396dadc3"
+    },
+    {
+      "bytes": 5689,
+      "path": "entities/bleach-2e31001b.json",
+      "sha256": "e421c369a015efb80ecee52a0035a9b528858348876a96488efd2cdc74652042"
+    },
+    {
+      "bytes": 5657,
+      "path": "entities/blue-lock-645a75b3.json",
+      "sha256": "b3ec19aaa7f70d1521d9e7e8f4c0ffa1aef7f5ce3286bb00fb4d503370305b55"
+    },
+    {
+      "bytes": 5183,
+      "path": "entities/bocchi-the-rock-590fd22b.json",
+      "sha256": "ad31e536da79738f92f6e6a7a3c90a8cb2efff45167bc03b48e618fc09bd07cf"
+    },
+    {
+      "bytes": 5711,
+      "path": "entities/chainsaw-man-d31dac13.json",
+      "sha256": "2f5718ea49a192879700d16ec32b185f8b0da7b59c47d43924070569a7eb9c2f"
+    },
+    {
+      "bytes": 5841,
+      "path": "entities/code-geass-b7188abf.json",
+      "sha256": "29719a5991cf37658cff41136c5042ac719e66b5c343c9b387b989141eb50181"
+    },
+    {
+      "bytes": 5045,
+      "path": "entities/cowboy-bebop-8bd1a70c.json",
+      "sha256": "88e056736ba54b119793a4fbf10ae9c849fec7757f4e001b45288c309d8904d4"
+    },
+    {
+      "bytes": 4798,
+      "path": "entities/dandadan-239d3845.json",
+      "sha256": "7f8c8a0301426eaf6245d2f5df835ee2a4cd81e042d2593097640f387cee6df7"
+    },
+    {
+      "bytes": 5589,
+      "path": "entities/death-note-d8303f18.json",
+      "sha256": "8931f65d433b8752346fffc2fb76ef3c74c1d45c40132ac90d0cfc3c2528e874"
+    },
+    {
+      "bytes": 5804,
+      "path": "entities/demon-slayer-769037e8.json",
+      "sha256": "b60c5e44109ae897c57b7307a59816ec6f71b65ea7193c7a66bf5b4309d8972a"
+    },
+    {
+      "bytes": 5570,
+      "path": "entities/dragon-ball-c0f66e0f.json",
+      "sha256": "da74d7e2023522b6763876c6e4140a513d0033e03c44fc6b4543f1b9651176e1"
+    },
+    {
+      "bytes": 5727,
+      "path": "entities/fairy-tail-0b67c806.json",
+      "sha256": "a10cb64a468466a7ccd5fb684c43d11db34cc88fd0ff525eef376db19fdacb2c"
+    },
+    {
+      "bytes": 5803,
+      "path": "entities/fate-series-ed5293d9.json",
+      "sha256": "dcd2ec31a98ac4936beaecf7933e9d646dbab96bf9aa3a2be575814056b7a5c7"
+    },
+    {
+      "bytes": 5004,
+      "path": "entities/frieren-beyond-journey-s-end-d11af593.json",
+      "sha256": "f8e65ccf22e6298e47de0c37d2481cd9894a9f7345e7d8e030530b552ec6d7c8"
+    },
+    {
+      "bytes": 4948,
+      "path": "entities/fruits-basket-0bb9562d.json",
+      "sha256": "725f08c07f0307afae1fd56800ad20118bf3d8fdee6e8174da5bfd675ad9cc15"
+    },
+    {
+      "bytes": 6226,
+      "path": "entities/fullmetal-alchemist-8bddc919.json",
+      "sha256": "eea85b98e193a8f52ebdebe50c971371342300f2f70435d464e4d1394bbc5977"
+    },
+    {
+      "bytes": 5719,
+      "path": "entities/gintama-175b80f2.json",
+      "sha256": "45fec7dfb1594f0d85db45c89a194ad0976a0a45b33f79894c7241076e5d141a"
+    },
+    {
+      "bytes": 5796,
+      "path": "entities/haikyuu-aedc8760.json",
+      "sha256": "58f5f4e7c831d7b74936a2705383aa98a50ef4eea412252e27322c11b4a118e6"
+    },
+    {
+      "bytes": 4900,
+      "path": "entities/horimiya-43dbe7f3.json",
+      "sha256": "4343bf9464605ad7efb400dd8b0640867463ed53aab908910b56060da144c45d"
+    },
+    {
+      "bytes": 5963,
+      "path": "entities/hunter-x-hunter-468f085c.json",
+      "sha256": "5c32bcc25b914fcde6a404beedb752d9cdc1470875aead163f5afe9c0a7c9e3f"
+    },
+    {
+      "bytes": 6331,
+      "path": "entities/jojo-s-bizarre-adventure-bb405325.json",
+      "sha256": "e499348f21e25eaf95edd7320e22ce1c6a95abafb9c77ff09509cd20740e2402"
+    },
+    {
+      "bytes": 5871,
+      "path": "entities/jujutsu-kaisen-e97b7496.json",
+      "sha256": "6b9e62692680e6214fd8a760d524b4e33413a85a07d7e5e01a1169334b7e442e"
+    },
+    {
+      "bytes": 5546,
+      "path": "entities/kaguya-sama-love-is-war-84565ea4.json",
+      "sha256": "fa4a8da49b153b6739daccc3f860873f128f9447a5d8c9a6efd77d2e295f5ff3"
+    },
+    {
+      "bytes": 5587,
+      "path": "entities/konosuba-49ba5f7c.json",
+      "sha256": "2f4916ae3baec1386a1ca616673b7886746ed66c8e1466838e6aa1c1853fd7a4"
+    },
+    {
+      "bytes": 6138,
+      "path": "entities/kuroko-s-basketball-0b77f454.json",
+      "sha256": "e3075e61b3067ebc9e4c2c8f0e481b4919de5024715a053d5a73d49fcf3962cb"
+    },
+    {
+      "bytes": 5971,
+      "path": "entities/mob-psycho-100-b6cf143e.json",
+      "sha256": "7aacd9cb84f9a58f420d7de63d11e8b44fd3658d41bb8fb58e06d8e302a9eb7d"
+    },
+    {
+      "bytes": 6055,
+      "path": "entities/my-hero-academia-e4478b01.json",
+      "sha256": "bc29123fad51a678c8ff4be639ba6940e9690737f121b8eb11390821bd3e4737"
+    },
+    {
+      "bytes": 5529,
+      "path": "entities/naruto-8b5c37c8.json",
+      "sha256": "3c71f805c897bf422a17ea1c0b3205558d9c139cefc9b67c47211388ad5138fd"
+    },
+    {
+      "bytes": 6164,
+      "path": "entities/neon-genesis-evangelion-6cdafd3f.json",
+      "sha256": "da6eee99faff271eb3d6fa6326aad944e2c764d97ee6d999a9e6eee2f5ff86c3"
+    },
+    {
+      "bytes": 5679,
+      "path": "entities/one-piece-f14655ef.json",
+      "sha256": "ad88997e3e967d2577e1166bd31f6275746ee032747a9dca042b23eee98fed94"
+    },
+    {
+      "bytes": 5701,
+      "path": "entities/one-punch-man-f2a4d171.json",
+      "sha256": "2f39a00f2acc36ab6e46ccaa2c5befa4ef61009f7de81995b9a561126d7f11f0"
+    },
+    {
+      "bytes": 4921,
+      "path": "entities/oshi-no-ko-a7581bd6.json",
+      "sha256": "e3ea159ad09c23f69a0f8a48f982600adc8151bc434d65edc81b05e719a28e38"
+    },
+    {
+      "bytes": 5361,
+      "path": "entities/puella-magi-madoka-magica-7faf0645.json",
+      "sha256": "2a135307006e9106af08dd119d548dc0b36d58a469397ca3854f3d19f7eff6da"
+    },
+    {
+      "bytes": 5304,
+      "path": "entities/rascal-does-not-dream-1c6c4dc5.json",
+      "sha256": "3941a3d05371d42e74542af44b233e63ae34b1342f1e86121d8382f0867d0d1a"
+    },
+    {
+      "bytes": 5647,
+      "path": "entities/re-zero-377e17cb.json",
+      "sha256": "3e1850f53d7299aceb00348f8951cbd0daeb42b3a246c8eb5ce987452e810509"
+    },
+    {
+      "bytes": 5973,
+      "path": "entities/rurouni-kenshin-19122c38.json",
+      "sha256": "d79b46c83f6a4c86afe7d229fce38fcd8581205500014513ad518ec0e2ece5c7"
+    },
+    {
+      "bytes": 5728,
+      "path": "entities/sailor-moon-97039416.json",
+      "sha256": "fe71ad9b8fd68807bd1a7f61a7bfa9257207ed5c485cc617cdf8ccccc5c07edc"
+    },
+    {
+      "bytes": 5802,
+      "path": "entities/slam-dunk-ec0cb16e.json",
+      "sha256": "dbf53971f7c40a2c87bc9ee06f2db70b91029d4e62d9bb1b94a52b01b209edab"
+    },
+    {
+      "bytes": 5817,
+      "path": "entities/spy-x-family-5708ea45.json",
+      "sha256": "2a7a8826de5b5225bd2be0ae38f5e991bb0c3537133c6408669f75063825f707"
+    },
+    {
+      "bytes": 5797,
+      "path": "entities/steins-gate-f246a652.json",
+      "sha256": "6e47f4685d384a853bfe4e136a882b6e6fcde9a6a81c57161f11bf7c33a6c3f3"
+    },
+    {
+      "bytes": 5952,
+      "path": "entities/sword-art-online-ae99baaf.json",
+      "sha256": "47c0d423f9d9668789ed783ad2f68ef629c4c440500453b32a54d890b041eea6"
+    },
+    {
+      "bytes": 5143,
+      "path": "entities/the-apothecary-diaries-58e621f2.json",
+      "sha256": "9109d35d401503baf0a4fbebdc6dfcdf80466542b6e31e6068690456a90c0f64"
+    },
+    {
+      "bytes": 5763,
+      "path": "entities/tokyo-ghoul-33076d32.json",
+      "sha256": "f760ebc04e7f0aa19b95df8c7b44a383dbf10645cb4759a0111c01d14d7e2c28"
+    },
+    {
+      "bytes": 6035,
+      "path": "entities/tokyo-revengers-2a0bf28f.json",
+      "sha256": "739462b00269069b131818a306ce3cd4dfed943ea9204bc1a8fefe386c32f2fb"
+    },
+    {
+      "bytes": 4893,
+      "path": "entities/vinland-saga-59f541af.json",
+      "sha256": "45b1686c58a750a673230a7b606c248e73a9ec4f480d708302e08101b10137e1"
+    },
+    {
+      "bytes": 41587,
+      "path": "quality.json",
+      "sha256": "413e93f8eec6ec7a189455cf477c7defadc4e340206e1ec37f0c014c713c68ae"
+    },
+    {
+      "bytes": 62025,
+      "path": "recipes/phase8-art-camera-deep-focus-architecture-2a559dc0.json",
+      "sha256": "8024ca76e0a0166d3c56ebead2000806ac94c77daf332562f335fdfeeef6ef39"
+    },
+    {
+      "bytes": 58107,
+      "path": "recipes/phase8-art-camera-environmental-wide-lens-7ace3542.json",
+      "sha256": "4f6a9775e519f368b12687db8d3968ca554f2ee89c49a3c249d7d7bb32b13d19"
+    },
+    {
+      "bytes": 60218,
+      "path": "recipes/phase8-art-camera-intimate-close-focus-6575d68f.json",
+      "sha256": "f3bc396f70404b1fba26369520db1bbbda18cf108684b848482cdb36767157ed"
+    },
+    {
+      "bytes": 59928,
+      "path": "recipes/phase8-art-camera-kinetic-lateral-track-d725f8c6.json",
+      "sha256": "fb965684e7144fdc7208f294518d22389b36b864418afbe913bd605ab76f4b07"
+    },
+    {
+      "bytes": 60606,
+      "path": "recipes/phase8-art-camera-monumental-low-axis-6513e380.json",
+      "sha256": "6e541ff3fd17a52feb4507954a07b85ccba00692daca8e995a418a42dee925ab"
+    },
+    {
+      "bytes": 60292,
+      "path": "recipes/phase8-art-camera-overhead-graphic-survey-1ca775ee.json",
+      "sha256": "84a909486bfb0bed05d416e2fe4bcf277994a2770b4a3bb46401723d7cc13339"
+    },
+    {
+      "bytes": 58257,
+      "path": "recipes/phase8-art-camera-suspense-dutch-frame-3921c55f.json",
+      "sha256": "f52cbad01649dcb1ae3a761128598b153ff594a6a3b904d61142c6b5b58c1156"
+    },
+    {
+      "bytes": 61875,
+      "path": "recipes/phase8-art-camera-telephoto-layer-compression-d1a69fda.json",
+      "sha256": "4c43236b09ad70cc76d982999211bb3a66a0080fd290ea2c716baaae3be479d8"
+    },
+    {
+      "bytes": 63207,
+      "path": "recipes/phase8-art-environment-fogbound-predawn-117bc0e6.json",
+      "sha256": "1f0385b98591244c2253981d2bbb3ab673d7600d5386e15f1950cea0b3ebb113"
+    },
+    {
+      "bytes": 60353,
+      "path": "recipes/phase8-art-environment-moonlit-fae-realm-36119bda.json",
+      "sha256": "e1ce5b0e8cf0e93519a5b112df128b793bf031c06d708f3a6ae8c0bd3268d44a"
+    },
+    {
+      "bytes": 66731,
+      "path": "recipes/phase8-art-environment-neon-metropolitan-night-fd8828f4.json",
+      "sha256": "b4a7dc35665eda31e0fd73de36966b1bfc1c1959c7ea9ce673ddf0c21e7b3688"
+    },
+    {
+      "bytes": 67499,
+      "path": "recipes/phase8-art-environment-orbital-utility-future-d140b66d.json",
+      "sha256": "9669ad67b1a65a70ebbf300e36d40462f1d2a904b5e7122f01df38685e3977b4"
+    },
+    {
+      "bytes": 65173,
+      "path": "recipes/phase8-art-environment-quiet-reading-room-60a2481c.json",
+      "sha256": "d3324eeb11a9df9929904c5980472829618b847f36be3097716eca39894b5615"
+    },
+    {
+      "bytes": 65052,
+      "path": "recipes/phase8-art-environment-rainwashed-blue-hour-0b625e05.json",
+      "sha256": "7539ea4b21297e4cac6e1424e028f878bef52f5ee0e100be3634b78a97023240"
+    },
+    {
+      "bytes": 62167,
+      "path": "recipes/phase8-art-environment-snowfall-morning-9bbfe0c0.json",
+      "sha256": "468e99ebdae571326524ce5a0d1b7ee9f57345799124b30238d87ac7a0912c53"
+    },
+    {
+      "bytes": 63946,
+      "path": "recipes/phase8-art-environment-untouched-highland-expanse-4576128d.json",
+      "sha256": "1b992d3be808dc12721066c8cfaf3e76776047c252a6786d6250bfdee452ff33"
+    },
+    {
+      "bytes": 61967,
+      "path": "recipes/phase8-art-graphic-midcentury-cel-adventure-75087ad9.json",
+      "sha256": "6bf8f8445586cca6ee7718520ae03dd1a6dc54b6703f81e961f0a553d69a9de9"
+    },
+    {
+      "bytes": 61823,
+      "path": "recipes/phase8-art-graphic-retro-pixel-quest-debacfff.json",
+      "sha256": "9379ebb8852019f17e1c2073637c868f076a24383d80e1b9c3a290422a962bbd"
+    },
+    {
+      "bytes": 64418,
+      "path": "recipes/phase8-art-graphic-screenprint-pulp-pursuit-b865db01.json",
+      "sha256": "1501b08eecf430b1f04ea046a791a396f7981dc750088c0ac7b47f5149b7a6bf"
+    },
+    {
+      "bytes": 61197,
+      "path": "recipes/phase8-art-graphic-stained-glass-myth-fb0a4cd2.json",
+      "sha256": "a4bd11e8717b70bd0785757a3e2234fafd473f160080eec0533f4ce70e5b2989"
+    },
+    {
+      "bytes": 65459,
+      "path": "recipes/phase8-art-graphic-technical-cutaway-scifi-9bc119f8.json",
+      "sha256": "2a130971b43d850e16f0c7ab972a8ff1976f809a345a5de12073ba687414ac2b"
+    },
+    {
+      "bytes": 55881,
+      "path": "recipes/phase8-art-media-cloisonne-tableau-e00acc6e.json",
+      "sha256": "875e2f7e851bfeccd8cc764aa558e93eed5a852c6a3ec0277f21fd013eaa5c1f"
+    },
+    {
+      "bytes": 54974,
+      "path": "recipes/phase8-art-media-copperplate-shadow-print-340d84e6.json",
+      "sha256": "19d2213c5934795c0a4c5a0a3202117da9a724f787fbe532351303ce89d676a4"
+    },
+    {
+      "bytes": 55881,
+      "path": "recipes/phase8-art-media-gouache-storybook-4bce14f6.json",
+      "sha256": "bfe62e1646c8b8fafa0cfb5af3edeef53f065bbfa2d8aad6dd7e869325485553"
+    },
+    {
+      "bytes": 57986,
+      "path": "recipes/phase8-art-media-museum-reconstruction-plate-83404038.json",
+      "sha256": "7659c08683c977f652dde18e03c1fbe0b4c0d93d4784c6533e8ca1aff46a114b"
+    },
+    {
+      "bytes": 53827,
+      "path": "recipes/phase8-art-media-paper-relief-atelier-880c28e0.json",
+      "sha256": "61c748020aa4874faba5830cc7c556d13088d5e5baf0129305f8209ce31837eb"
+    },
+    {
+      "bytes": 60230,
+      "path": "recipes/phase8-art-media-platinum-silver-portrait-bd567be5.json",
+      "sha256": "5f8e797c6aff6f94bb7f5cc84aeaa33c7f00a9969b9d7b7c648c61ef9c437c1d"
+    },
+    {
+      "bytes": 53795,
+      "path": "recipes/phase8-art-media-sumi-ink-stillness-433807d2.json",
+      "sha256": "c4b24803ddda180e0b2c7ac117da0c08c75743442b37ce0f5cb2a28490d2abf8"
+    },
+    {
+      "bytes": 54176,
+      "path": "recipes/phase8-art-media-woven-chronicle-9bfa0a7f.json",
+      "sha256": "1fae2aac712d3c45c557745256b6f83c42acd598895865e3d408b7144777b153"
+    },
+    {
+      "bytes": 64306,
+      "path": "recipes/phase8-art-narrative-curious-discovery-1c76a97c.json",
+      "sha256": "53b82dc108b6160b4d2d473bdf87494b8b235e6a47ad0c4eba1f54be29eca4db"
+    },
+    {
+      "bytes": 65497,
+      "path": "recipes/phase8-art-narrative-determined-resolve-8a40c2ef.json",
+      "sha256": "d204860c0b36bad214099727c222c4756ce51837ba264dadfa8f86696213c372"
+    },
+    {
+      "bytes": 68532,
+      "path": "recipes/phase8-art-narrative-haunted-solitude-87eee21b.json",
+      "sha256": "73facfc814024b1e08ab159c95352cdd5570177e4656685cb8e9ad5b3d3553ed"
+    },
+    {
+      "bytes": 63214,
+      "path": "recipes/phase8-art-narrative-open-joy-c5cebb8b.json",
+      "sha256": "d21f426cbad6108e2bb7dd7351be01ee93ef5df182607984841204d50cb4dfcb"
+    },
+    {
+      "bytes": 65103,
+      "path": "recipes/phase8-art-narrative-quiet-confidence-105264c1.json",
+      "sha256": "53fc06b2ec300cb9cb15b2443c16746a4d480f31f9d4b4ad93e2041c3830f439"
+    },
+    {
+      "bytes": 68804,
+      "path": "recipes/phase8-art-narrative-relieved-aftermath-e272ff92.json",
+      "sha256": "e7f10384dcf78d1592a5d4e5f75e0b5ce155a863a46000176ce579de00ed1a30"
+    },
+    {
+      "bytes": 64038,
+      "path": "recipes/phase8-art-narrative-restrained-melancholy-6e49413b.json",
+      "sha256": "65d4b3e881afe0f15714d62b1afc206e5398910eb1fec69b73f105093ed67131"
+    },
+    {
+      "bytes": 66907,
+      "path": "recipes/phase8-art-narrative-suspicious-unease-8941434a.json",
+      "sha256": "9e8a24d28c068a291716c715ec9f69a51f84e4dbacc7851721e5705d1ede2e5d"
+    },
+    {
+      "bytes": 67174,
+      "path": "recipes/phase8-art-wardrobe-arcane-regalia-lookbook-b1e36772.json",
+      "sha256": "468dea9edeab1852cacfdd7435b4b8635d77ac9bfe8827e054ed7cd81a82df8a"
+    },
+    {
+      "bytes": 71267,
+      "path": "recipes/phase8-art-wardrobe-orbital-utility-fashion-57c5ee4a.json",
+      "sha256": "6923724b9254f35a64df3f13ea4ee99a0be466c77756380b405de5d32039e5a2"
+    },
+    {
+      "bytes": 73142,
+      "path": "recipes/phase8-art-wardrobe-professional-uniform-documentary-1ea139bf.json",
+      "sha256": "a29a58961c8c7287c5907ca0ac59693bcbfc7c2b0257f4947253d5e884b47f62"
+    },
+    {
+      "bytes": 71403,
+      "path": "recipes/phase8-art-wardrobe-tailored-studio-authority-774a5d39.json",
+      "sha256": "106292a6d0203471a3ef3ccd10f77abac4759e3090cf8fd8423b9b5611614e7b"
+    },
+    {
+      "bytes": 66963,
+      "path": "recipes/phase8-art-wardrobe-weatherproof-field-editorial-4a0e9a8f.json",
+      "sha256": "95c76c1f9e8b889f406e2676962e0b62a8f41857a8fe9a4adf288587600067c1"
+    },
+    {
+      "bytes": 63556,
+      "path": "recipes/phase9-staging-combat-stance-23b137ed.json",
+      "sha256": "885ace2809a7b95aff50b19cad360706c415bc4f0425d9e248007cd62a214df9"
+    },
+    {
+      "bytes": 65023,
+      "path": "recipes/phase9-staging-editorial-studio-figure-77f0d20b.json",
+      "sha256": "8e92708b776513322c9daa2f88794eafa7a4beb6a4d8e4883668cfa17f44e722"
+    },
+    {
+      "bytes": 47875,
+      "path": "recipes/phase9-staging-field-adventure-1c2081db.json",
+      "sha256": "599a38ce9f26bcbf66b33f3d32e810801da8b6931859966733eea4ab92b85afb"
+    },
+    {
+      "bytes": 66357,
+      "path": "recipes/phase9-staging-grounded-portrait-e867516a.json",
+      "sha256": "0f02cfa24552e08c6bde11dcac77a07b7c5c6dbbe31596177228085cff09b6dc"
+    },
+    {
+      "bytes": 59013,
+      "path": "recipes/phase9-staging-quiet-interior-moment-8f423a54.json",
+      "sha256": "07601168670967a0c3ecdad7a688836737e59c9635a99ca95c3acb6113aa0d8d"
+    },
+    {
+      "bytes": 54904,
+      "path": "recipes/phase9-staging-street-candid-7371de62.json",
+      "sha256": "254fccd40d25191b449cc426dcc105eeabee6e34c5ccb127cda44674dbfd1bcf"
+    }
+  ],
+  "fingerprint": "33dfcd1e6fa295c1c251f46af198893b720cf70e55abe818cb6947af8a975915",
+  "gates": {
+    "failures": [],
+    "valid": true
+  },
+  "lineage": {
+    "extensions": {
+      "packIds": [
+        "phase8.artistic-richness",
+        "phase8.character-staging-recipes",
+        "phase8.character-traits"
+      ]
+    },
+    "parent": {
+      "buildId": "promptbrain-phase-8",
+      "fingerprints": {
+        "delta": "b447cdb13a7435223820a143605f08b27994f2f2d4bdd4b8e191cd52c568c1aa",
+        "effective": "770bb07be0a4659fd316e6f60fb12f2453fe6141127028a62e7864c2288b11db",
+        "manifest": "e8aa6a9c66ca30ba65a2d602a197f5b352323eff8d66afd3f8e0cde6b4f5c795",
+        "source": "1cbacd5911cea7d63a3088a3e86191195a9ef40736b5c66b8131d2d03905d0b5"
+      },
+      "packIds": [
+        "phase8.adult-fantasy",
+        "phase8.anime-entities",
+        "phase8.art-recipes",
+        "phase8.character-performance",
+        "phase8.installed-loras",
+        "phase8.scene-craft",
+        "phase8.visual-language",
+        "phase8.wardrobe"
+      ]
+    }
+  },
+  "packs": [
+    {
+      "concepts": 2480,
+      "outputFingerprint": "753fda37a043be2be5a8990a6ddfa7dbfb0d1c54a93ec8cebf0060185d08d849",
+      "packId": "phase8.adult-fantasy",
+      "packType": "concepts",
+      "sourceFingerprint": "df307e061397f3c10ecc680694bac946f1663a5a4f9d3c54c3d14ecdaed2588d",
+      "valid": true
+    },
+    {
+      "entities": 324,
+      "packId": "phase8.anime-entities",
+      "packType": "entities",
+      "sourceFingerprint": "407063f26918887681b24fcbdcc3cee09557cf9761a3d0958508ebd976b844e6"
+    },
+    {
+      "packId": "phase8.art-recipes",
+      "packType": "recipes",
+      "recipes": 1008,
+      "sourceFingerprint": "2158de24681d3a585ad750fa08a034c74b14f92f92ac31d91c3a597367be1ac4"
+    },
+    {
+      "concepts": 11,
+      "outputFingerprint": "97ea4447dc79eeb9e6588bd113f71f36304e5e89730c23216eed34bbab7cfcfc",
+      "packId": "phase8.artistic-richness",
+      "packType": "concepts",
+      "sourceFingerprint": "1888d047c118792794cee0f430b64a4d23c6f985142a9b62da443e3eb1b83949",
+      "valid": true
+    },
+    {
+      "concepts": 4800,
+      "outputFingerprint": "fbdc672bb765436b36b0671c3170299be5b7add99eb07cd5771cee586a837ad1",
+      "packId": "phase8.character-performance",
+      "packType": "concepts",
+      "sourceFingerprint": "3d79ae64c35ff19cc0bbedf7c310c5d5b1e5201cb2b9871647f3065c976ec901",
+      "valid": true
+    },
+    {
+      "packId": "phase8.character-staging-recipes",
+      "packType": "recipes",
+      "recipes": 144,
+      "sourceFingerprint": "83ac9e3dcf4a6b1c38dd747e1093544fd5105910286a1b6c246e37e21c36b247"
+    },
+    {
+      "concepts": 39,
+      "outputFingerprint": "e7173beccb61a2989fbc5e78c071d767d0124682ef5cb882f73a8bb11c8a8890",
+      "packId": "phase8.character-traits",
+      "packType": "concepts",
+      "sourceFingerprint": "279454119d96acc6288a1d0868806be1c890825118a0478b05c16b4be96211bb",
+      "valid": true
+    },
+    {
+      "concepts": 34,
+      "outputFingerprint": "2076c858ea13e0c2129b403f709c38e51e1523e888c6f0f7f9ac1da025bb1968",
+      "packId": "phase8.installed-loras",
+      "packType": "concepts",
+      "sourceFingerprint": "7e1975f58bf00fea786a2eebb77fe94a0ed8e4ea465caa3a92e4de08a08e6e02",
+      "valid": true
+    },
+    {
+      "concepts": 5291,
+      "outputFingerprint": "587f3198d8b2bdd54b7d74e963fd8a56df59c8c5a557c33c3d329da51941c732",
+      "packId": "phase8.scene-craft",
+      "packType": "concepts",
+      "sourceFingerprint": "ddf84245055f32f1b47c4c96e7b08d2c8d8297823d244365eb259a57d56f0081",
+      "valid": true
+    },
+    {
+      "concepts": 5793,
+      "outputFingerprint": "5789782209081163b6f02866862823cf8333e6bc6ab7d55cab3f199251a35ad7",
+      "packId": "phase8.visual-language",
+      "packType": "concepts",
+      "sourceFingerprint": "c1b20dca1337a236efd4b25957438b8be80fa5cf9c92a88f39078e5ec0f83e2e",
+      "valid": true
+    },
+    {
+      "concepts": 4802,
+      "outputFingerprint": "ded1b8c4d8f8550c0f39a049d32aac40ec653bc90cefab862851bd950dd9742e",
+      "packId": "phase8.wardrobe",
+      "packType": "concepts",
+      "sourceFingerprint": "feeb8b5aac4ba4a490d2a58b87ac92d3da4710507cd4fb4bfd1e88be4b9a7693",
+      "valid": true
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceFingerprint": "1cbacd5911cea7d63a3088a3e86191195a9ef40736b5c66b8131d2d03905d0b5",
+  "stats": {
+    "delta": {
+      "adultAllowedEntities": 0,
+      "adultConcepts": 2484,
+      "concepts": 23250,
+      "conceptsByKind": {
+        "action": 1178,
+        "anatomy": 1246,
+        "camera": 2324,
+        "composition": 1025,
+        "effect": 1014,
+        "environment": 2718,
+        "expression": 1066,
+        "interaction": 1160,
+        "lighting": 435,
+        "lora": 34,
+        "motif": 1019,
+        "palette": 966,
+        "pose": 1340,
+        "quality": 965,
+        "style": 968,
+        "subject": 645,
+        "wardrobe": 5147
+      },
+      "entities": 324,
+      "recipes": 1152
+    },
+    "effective": {
+      "adultConcepts": 2525,
+      "checkpoints": 17,
+      "concepts": 26200,
+      "conceptsWithConflicts": 17,
+      "conceptsWithRequirements": 4814,
+      "customPromptForms": 0,
+      "entities": 330,
+      "recipes": 1446
+    }
+  },
+  "valid": true
+}

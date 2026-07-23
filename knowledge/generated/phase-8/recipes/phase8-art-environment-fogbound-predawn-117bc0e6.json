@@ -1,0 +1,1784 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.environment.fogbound-predawn",
+  "fingerprint": "d28742fc22c4fe394c0d60686e61c623ec504854b61c88eb869b62bb6e9b2797",
+  "recipes": [
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with deep shadow detail photographic style, distant horizon as above-subject negative space composition, cobalt three-value study palette, gentle atmospheric bloom from headlight beams, spilling into the background 2a3a3109e45a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.2a3a3109e45a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.razor-thin-depth-of-field-overlapping-silhouettes-with-atmospheric-separ"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.distant-horizon-as-above-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.desert-highway-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-headlight-beams-spilling-into-the-backgrou"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with deep shadow detail photographic style, distant horizon as above-subject negative space composition, cobalt three-value study palette, gentle atmospheric bloom from headlight beams, spilling into the background 2a3a3109e45a"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with luminous highlights photographic style, open sky as above-subject negative space composition, olive duotone wash palette, gentle atmospheric bloom from headlight beams, broken by foreground shapes 2d3bde757250"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.2d3bde757250",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-deep-vanishing-point-layers-with-atmospheric-separati"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.open-sky-as-above-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.forest-clearing-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-headlight-beams-broken-by-foreground-shape"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-duotone-wash-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with luminous highlights photographic style, open sky as above-subject negative space composition, olive duotone wash palette, gentle atmospheric bloom from headlight beams, broken by foreground shapes 2d3bde757250"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with luminous highlights photographic style, deep shadow as corner negative space composition, olive metallic-accent monochrome palette, crisp shadow edges from headlight beams, spilling into the background 2e76a9642993"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.2e76a9642993",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-foreground-separation-expansive-spatial-planes-with-atmospheric-sep"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-corner-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.city-boulevard-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with luminous highlights photographic style, deep shadow as corner negative space composition, olive metallic-accent monochrome palette, crisp shadow edges from headlight beams, spilling into the background 2e76a9642993"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with centered period framing photographic style, calm water as split-field negative space composition, coral pastel tonal scale palette, controlled high contrast from headlight beams, focused on the subject plane 490a193f93c3"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.490a193f93c3",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-foreground-separation-expansive-spatial-planes-with-atmospheric-sep"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-split-field-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.desert-highway-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-focused-on-the-subject-pla"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.coral-pastel-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with centered period framing photographic style, calm water as split-field negative space composition, coral pastel tonal scale palette, controlled high contrast from headlight beams, focused on the subject plane 490a193f93c3"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with careful studio staging photographic style, plain fabric as split-field negative space composition, indigo high-key monochrome palette, soft diffusion from headlight beams, reflected from nearby surfaces 5bcb00b3de53"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.5bcb00b3de53",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-depth-of-field-layered-midground-planes-with-atmospheric-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.plain-fabric-as-split-field-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-village-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with careful studio staging photographic style, plain fabric as split-field negative space composition, indigo high-key monochrome palette, soft diffusion from headlight beams, reflected from nearby surfaces 5bcb00b3de53"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with careful studio staging photographic style, distant horizon as below-subject negative space composition, olive metallic-accent monochrome palette, controlled high contrast from headlight beams, falling off into shadow 5c3449f974bc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.5c3449f974bc",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-receding-architecture-with-atmospheric-separatio"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.distant-horizon-as-below-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.suburban-neighborhood-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with careful studio staging photographic style, distant horizon as below-subject negative space composition, olive metallic-accent monochrome palette, controlled high contrast from headlight beams, falling off into shadow 5c3449f974bc"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with toned highlight bloom photographic style, calm water as right-side negative space composition, vermilion low-key monochrome palette, soft diffusion from headlight beams, broken by foreground shapes 5f1c7eb90679"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.5f1c7eb90679",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-deep-vanishing-point-layers-with-atmospheric-"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-right-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.desert-highway-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.vermilion-low-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-toned-highlight-bloom-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with toned highlight bloom photographic style, calm water as right-side negative space composition, vermilion low-key monochrome palette, soft diffusion from headlight beams, broken by foreground shapes 5f1c7eb90679"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with muted tonal range photographic style, paper margin as split-field negative space composition, coral high-key monochrome palette, crisp shadow edges from headlight beams, spilling into the background 69534ee0976c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.69534ee0976c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-deep-vanishing-point-layers-with-atmospheric-sep"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-split-field-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.mountain-pass-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.coral-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with muted tonal range photographic style, paper margin as split-field negative space composition, coral high-key monochrome palette, crisp shadow edges from headlight beams, spilling into the background 69534ee0976c"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with muted tonal range photographic style, snow field as left-side negative space composition, sepia three-value study palette, soft diffusion from headlight beams, falling off into shadow 6d49d4cd0699"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.6d49d4cd0699",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.razor-thin-depth-of-field-receding-architecture-with-atmospheric-separat"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.snow-field-as-left-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-shoreline-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with muted tonal range photographic style, snow field as left-side negative space composition, sepia three-value study palette, soft diffusion from headlight beams, falling off into shadow 6d49d4cd0699"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with soft edge falloff photographic style, distant horizon as encircling negative space composition, vermilion three-value study palette, gentle atmospheric bloom from headlight beams, broken by foreground shapes 6f6ea7b9d5b3"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.6f6ea7b9d5b3",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.razor-thin-depth-of-field-layered-midground-planes-with-atmospheric-sepa"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.distant-horizon-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.desert-highway-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-headlight-beams-broken-by-foreground-shape"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.vermilion-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with soft edge falloff photographic style, distant horizon as encircling negative space composition, vermilion three-value study palette, gentle atmospheric bloom from headlight beams, broken by foreground shapes 6f6ea7b9d5b3"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with soft edge falloff photographic style, deep shadow as encircling negative space composition, indigo ink-dense tonal scale palette, soft diffusion from headlight beams, creating a luminous frame 7ac13becf97f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.7ac13becf97f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.tilted-focus-plane-staging-layered-midground-planes-with-atmospheric-sep"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.mountain-pass-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with soft edge falloff photographic style, deep shadow as encircling negative space composition, indigo ink-dense tonal scale palette, soft diffusion from headlight beams, creating a luminous frame 7ac13becf97f"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with centered period framing photographic style, calm water as encircling negative space composition, violet low-key monochrome palette, soft diffusion from headlight beams, reflected from nearby surfaces 7b30aec50b61"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.7b30aec50b61",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.tilted-focus-plane-staging-receding-architecture-with-atmospheric-separa"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.open-countryside-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-low-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with centered period framing photographic style, calm water as encircling negative space composition, violet low-key monochrome palette, soft diffusion from headlight beams, reflected from nearby surfaces 7b30aec50b61"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with deep shadow detail photographic style, snow field as corner negative space composition, violet misty tonal scale palette, controlled high contrast from headlight beams, grazing textured surfaces 8658815978b5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.8658815978b5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-a-clear-foreground-plane-with-atmospheric-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.snow-field-as-corner-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-shoreline-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-misty-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with deep shadow detail photographic style, snow field as corner negative space composition, violet misty tonal scale palette, controlled high contrast from headlight beams, grazing textured surfaces 8658815978b5"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with careful studio staging photographic style, distant horizon as central negative space composition, amber low-key monochrome palette, soft diffusion from headlight beams, falling off into shadow a66dd0732868"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.a66dd0732868",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-receding-architecture-with-atmospheric-separatio"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.distant-horizon-as-central-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-village-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.amber-low-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with careful studio staging photographic style, distant horizon as central negative space composition, amber low-key monochrome palette, soft diffusion from headlight beams, falling off into shadow a66dd0732868"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with centered period framing photographic style, distant horizon as above-subject negative space composition, vermilion ink-dense tonal scale palette, gentle atmospheric bloom from headlight beams, broken by foreground shapes a9cba753e931"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.a9cba753e931",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.tilted-focus-plane-staging-foreground-framing-with-atmospheric-separatio"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.distant-horizon-as-above-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-village-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-headlight-beams-broken-by-foreground-shape"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.vermilion-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with centered period framing photographic style, distant horizon as above-subject negative space composition, vermilion ink-dense tonal scale palette, gentle atmospheric bloom from headlight beams, broken by foreground shapes a9cba753e931"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with careful studio staging photographic style, blank wall as central negative space composition, sepia pastel tonal scale palette, gentle atmospheric bloom from headlight beams, reflected from nearby surfaces b909ca5da752"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.b909ca5da752",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-overlapping-silhouettes-with-atmospheric-sepa"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.blank-wall-as-central-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.suburban-neighborhood-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-headlight-beams-reflected-from-nearby-surf"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-pastel-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with careful studio staging photographic style, blank wall as central negative space composition, sepia pastel tonal scale palette, gentle atmospheric bloom from headlight beams, reflected from nearby surfaces b909ca5da752"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with centered period framing photographic style, open sky as below-subject negative space composition, teal high-key monochrome palette, controlled high contrast from headlight beams, contained in a localized pool c76ed88834b3"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.c76ed88834b3",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.split-diopter-focus-staging-compressed-spatial-planes-with-atmospheric-s"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.open-sky-as-below-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.mountain-pass-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-contained-in-a-localized-p"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with centered period framing photographic style, open sky as below-subject negative space composition, teal high-key monochrome palette, controlled high contrast from headlight beams, contained in a localized pool c76ed88834b3"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with soft edge falloff photographic style, blank wall as corner negative space composition, indigo duotone wash palette, soft diffusion from headlight beams, reflected from nearby surfaces c7cde617b8fa"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.c7cde617b8fa",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.shallow-depth-of-field-expansive-spatial-planes-with-atmospheric-separat"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.blank-wall-as-corner-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.harbor-district-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-duotone-wash-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with soft edge falloff photographic style, blank wall as corner negative space composition, indigo duotone wash palette, soft diffusion from headlight beams, reflected from nearby surfaces c7cde617b8fa"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with centered period framing photographic style, blank wall as corner negative space composition, magenta ink-dense tonal scale palette, crisp shadow edges from headlight beams, focused on the subject plane d14563e5f0ec"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.d14563e5f0ec",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-depth-of-field-compressed-spatial-planes-with-atmospheric-separatio"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.blank-wall-as-corner-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-shoreline-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.magenta-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with centered period framing photographic style, blank wall as corner negative space composition, magenta ink-dense tonal scale palette, crisp shadow edges from headlight beams, focused on the subject plane d14563e5f0ec"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with muted tonal range photographic style, soft bokeh as encircling negative space composition, graphite ink-dense tonal scale palette, controlled high contrast from headlight beams, broken by foreground shapes dc6d3084f4d7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.dc6d3084f4d7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-compressed-spatial-planes-with-atmospheric-separ"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.soft-bokeh-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.forest-clearing-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-broken-by-foreground-shape"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.graphite-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with muted tonal range photographic style, soft bokeh as encircling negative space composition, graphite ink-dense tonal scale palette, controlled high contrast from headlight beams, broken by foreground shapes dc6d3084f4d7"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with soft edge falloff photographic style, unlit doorway as encircling negative space composition, olive three-value study palette, crisp shadow edges from headlight beams, reflected from nearby surfaces dd7269edd65a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.dd7269edd65a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-depth-of-field-layered-midground-planes-with-atmospheric-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-village-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with soft edge falloff photographic style, unlit doorway as encircling negative space composition, olive three-value study palette, crisp shadow edges from headlight beams, reflected from nearby surfaces dd7269edd65a"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with soft edge falloff photographic style, unlit doorway as central negative space composition, olive misty tonal scale palette, soft diffusion from headlight beams, falling off into shadow df66fd619f9f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.df66fd619f9f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.razor-thin-depth-of-field-foreground-framing-with-atmospheric-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-central-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-shoreline-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-misty-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with soft edge falloff photographic style, unlit doorway as central negative space composition, olive misty tonal scale palette, soft diffusion from headlight beams, falling off into shadow df66fd619f9f"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with muted tonal range photographic style, soft bokeh as central negative space composition, vermilion ink-dense tonal scale palette, gentle atmospheric bloom from headlight beams, focused on the subject plane e9ae2488a53b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.e9ae2488a53b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.razor-thin-depth-of-field-deep-vanishing-point-layers-with-atmospheric-s"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.soft-bokeh-as-central-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-shoreline-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-headlight-beams-focused-on-the-subject-pla"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.vermilion-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with muted tonal range photographic style, soft bokeh as central negative space composition, vermilion ink-dense tonal scale palette, gentle atmospheric bloom from headlight beams, focused on the subject plane e9ae2488a53b"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "fogbound predawn featuring platinum print with centered period framing photographic style, unlit doorway as split-field negative space composition, graphite misty tonal scale palette, controlled high contrast from headlight beams, broken by foreground shapes f5b125962538"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.fogbound-predawn",
+      "familyTriggers": [
+        "fogbound predawn direction",
+        "predawn fog atmosphere",
+        "low-visibility dawn treatment"
+      ],
+      "id": "phase8.art.environment.fogbound-predawn.f5b125962538",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-depth-of-field-foreground-framing-with-atmospheric-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-split-field-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.open-countryside-in-low-drifting-fog-at-predawn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-broken-by-foreground-shape"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.graphite-misty-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Fogbound Predawn 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.fogbound-predawn",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "predawn fog layers",
+        "headlight mist separation",
+        "monochrome early-hour hush"
+      ],
+      "triggers": [
+        "fogbound predawn featuring platinum print with centered period framing photographic style, unlit doorway as split-field negative space composition, graphite misty tonal scale palette, controlled high contrast from headlight beams, broken by foreground shapes f5b125962538"
+      ],
+      "variantIndex": 12
+    }
+  ],
+  "schemaVersion": 2
+}

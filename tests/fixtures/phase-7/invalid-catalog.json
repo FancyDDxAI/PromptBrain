@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "checkpoints": [],
+  "entities": [],
+  "concepts": [
+    {
+      "schemaVersion": 2,
+      "id": "phase7.duplicate",
+      "kind": "style",
+      "label": "First duplicate",
+      "aliases": ["first duplicate style"],
+      "promptForms": {
+        "default": "first duplicate style"
+      },
+      "compatibility": {
+        "bases": ["SDXL"],
+        "checkpointIds": []
+      },
+      "requires": [],
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "phase-7",
+      "priority": 0,
+      "traits": []
+    },
+    {
+      "schemaVersion": 2,
+      "id": "phase7.duplicate",
+      "kind": "style",
+      "label": "Second duplicate",
+      "aliases": ["second duplicate style"],
+      "promptForms": {
+        "default": "second duplicate style"
+      },
+      "compatibility": {
+        "bases": ["SDXL"],
+        "checkpointIds": []
+      },
+      "requires": [],
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "phase-7",
+      "priority": 0,
+      "traits": []
+    },
+    {
+      "schemaVersion": 2,
+      "id": "phase7.references",
+      "kind": "style",
+      "label": "Broken references",
+      "aliases": ["broken reference style"],
+      "promptForms": {
+        "default": "broken reference style"
+      },
+      "compatibility": {
+        "bases": ["SDXL"],
+        "checkpointIds": []
+      },
+      "requires": ["phase7.missing-requirement"],
+      "conflicts": ["phase7.missing-conflict"],
+      "contentMode": "sfw",
+      "group": "phase-7",
+      "priority": 0,
+      "traits": []
+    }
+  ],
+  "recipes": [
+    {
+      "schemaVersion": 2,
+      "id": "phase7.broken-recipe",
+      "name": "Broken recipe references",
+      "aliases": ["broken recipe references"],
+      "contentModes": ["sfw"],
+      "ingredients": {
+        "style": ["phase7.missing-ingredient"]
+      },
+      "requiredSlots": ["style"],
+      "optionalSlots": [],
+      "conflicts": ["phase7.missing-recipe-conflict"]
+    }
+  ]
+}

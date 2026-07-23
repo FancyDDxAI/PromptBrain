@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "campaignVersion": "phase-9-v2",
+  "seedsPerScenario": 15,
+  "styleTokens": [
+    "usnr",
+    "bbg_style",
+    "748cmstyle"
+  ],
+  "scenarios": [
+    {
+      "id": "sfw-generic-cat-reading",
+      "contentMode": "sfw",
+      "request": "character portrait of a generic cat girl reading in a quiet interior",
+      "requiredBlocks": ["subject", "pose", "expression", "wardrobe", "environment"],
+      "minPopulatedBlocks": 5,
+      "requiredText": ["cat"],
+      "forbiddenText": ["tohru", "kobayashi-san chi no maid dragon"]
+    },
+    {
+      "id": "sfw-dragon-girl",
+      "contentMode": "sfw",
+      "request": "artistic generic dragon girl fighting in ancient ruins, low angle",
+      "requiredBlocks": ["subject", "anatomy", "action", "style", "camera"],
+      "minPopulatedBlocks": 6,
+      "requiredText": ["dragon girl", "dragon horns", "dragon tail"],
+      "forbiddenText": ["tohru", "maidragon", "kobayashi-san chi no maid dragon"]
+    },
+    {
+      "id": "sfw-dragon-ball",
+      "contentMode": "sfw",
+      "request": "Android 18 from Dragon Ball fighting in a ruined city",
+      "requiredBlocks": ["subject", "action", "environment"],
+      "minPopulatedBlocks": 4,
+      "requiredText": ["android 18", "dragon ball"],
+      "forbiddenText": ["dragon horns", "dragon tail", "draconic"]
+    },
+    {
+      "id": "sfw-yor-identity",
+      "contentMode": "sfw",
+      "request": "cinematic portrait of Yor Forger in a moonlit garden",
+      "requiredBlocks": ["subject", "style", "lighting"],
+      "minPopulatedBlocks": 4,
+      "requiredText": ["yor forger", "spy x family"],
+      "forbiddenText": []
+    },
+    {
+      "id": "sfw-ice-elf-action",
+      "contentMode": "sfw",
+      "request": "artistic ice elf charging with a crystal spear through a frozen battlefield, from below",
+      "requiredBlocks": ["subject", "anatomy", "action", "pose", "camera"],
+      "minPopulatedBlocks": 7,
+      "requiredText": ["ice elf", "pointed elf ears", "spear"],
+      "forbiddenText": ["from above"]
+    },
+    {
+      "id": "sfw-graphic-horror",
+      "contentMode": "sfw",
+      "request": "graphic horror illustration of an oni woman inside a symbolic blood circle, overhead composition",
+      "requiredBlocks": ["subject", "style", "composition", "palette", "lighting"],
+      "minPopulatedBlocks": 7,
+      "requiredText": ["oni woman", "blood"],
+      "forbiddenText": []
+    },
+    {
+      "id": "sfw-fantasy-swordswoman",
+      "contentMode": "sfw",
+      "request": "premium fantasy illustration of a swordswoman leaping across a ruined cathedral, dutch tilt",
+      "requiredBlocks": ["subject", "style", "action", "camera", "environment"],
+      "minPopulatedBlocks": 6,
+      "requiredText": ["swordswoman"],
+      "forbiddenText": []
+    },
+    {
+      "id": "sfw-cyberpunk-city",
+      "contentMode": "sfw",
+      "request": "artistic cyberpunk woman walking through a neon metropolitan night scene, wide shot",
+      "requiredBlocks": ["subject", "style", "environment", "lighting", "camera"],
+      "minPopulatedBlocks": 6,
+      "requiredText": ["neon"],
+      "forbiddenText": []
+    },
+    {
+      "id": "sfw-ukiyoe-oni",
+      "contentMode": "sfw",
+      "request": "ukiyo-e portrait of an oni woman with Hokusai waves and cherry blossoms",
+      "requiredBlocks": ["subject", "style", "composition", "motifs"],
+      "minPopulatedBlocks": 6,
+      "requiredText": ["oni woman", "ukiyo-e"],
+      "forbiddenText": []
+    },
+    {
+      "id": "sfw-explicit-camera-precedence",
+      "contentMode": "sfw",
+      "request": "artistic fox woman portrait explicitly from above, without from below",
+      "requiredBlocks": ["subject", "style", "camera"],
+      "minPopulatedBlocks": 4,
+      "requiredText": ["from above"],
+      "forbiddenText": ["from below"]
+    },
+    {
+      "id": "adult-generic-woman",
+      "contentMode": "adult",
+      "request": "artistic adult woman in an intimate bedroom portrait, reclining on a bed",
+      "requiredBlocks": ["subject", "style", "pose", "environment"],
+      "minPopulatedBlocks": 4,
+      "requiredText": [],
+      "forbiddenText": ["adult woman"],
+      "minimumAdultParticipants": 1
+    },
+    {
+      "id": "adult-yor-allowed",
+      "contentMode": "adult",
+      "request": "artistic adult portrait of Yor Forger in a private bedroom",
+      "requiredBlocks": ["subject", "style"],
+      "minPopulatedBlocks": 3,
+      "requiredText": ["yor forger", "spy x family"],
+      "forbiddenText": [],
+      "minimumAdultParticipants": 1
+    },
+    {
+      "id": "adult-android18-allowed",
+      "contentMode": "adult",
+      "request": "artistic adult portrait of Android 18 from Dragon Ball in a modern apartment",
+      "requiredBlocks": ["subject", "style", "environment"],
+      "minPopulatedBlocks": 3,
+      "requiredText": ["android 18", "dragon ball"],
+      "forbiddenText": ["dragon horns", "dragon tail"],
+      "minimumAdultParticipants": 1
+    },
+    {
+      "id": "adult-tohru-explicit",
+      "contentMode": "adult",
+      "request": "artistic adult portrait of Tohru from Maid Dragon in a warm interior",
+      "requiredBlocks": ["subject", "style"],
+      "minPopulatedBlocks": 3,
+      "requiredText": ["tohru", "kobayashi-san chi no maid dragon"],
+      "forbiddenText": [],
+      "minimumAdultParticipants": 1
+    },
+    {
+      "id": "adult-eren-blocked",
+      "contentMode": "adult",
+      "request": "artistic adult portrait of Eren Yeager in a private room",
+      "requiredBlocks": ["style"],
+      "minPopulatedBlocks": 2,
+      "requiredText": [],
+      "forbiddenText": ["eren yeager", "shingeki no kyojin", "paradis military uniform"],
+      "maximumAdultParticipants": 0
+    },
+    {
+      "id": "adult-generic-dragon-woman",
+      "contentMode": "adult",
+      "request": "artistic adult dragon woman reclining in a candlelit chamber",
+      "requiredBlocks": ["subject", "anatomy", "style", "pose", "environment"],
+      "minPopulatedBlocks": 5,
+      "requiredText": ["dragon girl", "dragon horns", "dragon tail"],
+      "forbiddenText": ["tohru", "maidragon"],
+      "minimumAdultParticipants": 1
+    },
+    {
+      "id": "adult-ice-elf",
+      "contentMode": "adult",
+      "request": "artistic adult ice elf woman in a moonlit fantasy chamber, from side",
+      "requiredBlocks": ["subject", "anatomy", "style", "environment", "camera"],
+      "minPopulatedBlocks": 5,
+      "requiredText": ["ice elf", "pointed elf ears"],
+      "forbiddenText": [],
+      "minimumAdultParticipants": 1
+    },
+    {
+      "id": "adult-generic-man",
+      "contentMode": "adult",
+      "request": "cinematic adult man portrait in a dark studio, close-up",
+      "requiredBlocks": ["subject", "style", "camera"],
+      "minPopulatedBlocks": 3,
+      "requiredText": [],
+      "forbiddenText": ["adult man"],
+      "minimumAdultParticipants": 1
+    },
+    {
+      "id": "adult-two-adults",
+      "contentMode": "adult",
+      "request": "artistic adult woman and adult man embracing in a private suite, side view",
+      "requiredBlocks": ["subject", "style", "interaction", "environment", "camera"],
+      "minPopulatedBlocks": 5,
+      "requiredText": [],
+      "forbiddenText": ["adult woman", "adult man", "two adults"],
+      "minimumAdultParticipants": 2
+    },
+    {
+      "id": "adult-explicit-over-memory",
+      "contentMode": "adult",
+      "request": "artistic adult woman portrait explicitly from above, without from below",
+      "requiredBlocks": ["subject", "style", "camera"],
+      "minPopulatedBlocks": 3,
+      "requiredText": ["from above"],
+      "forbiddenText": ["from below"],
+      "minimumAdultParticipants": 1
+    }
+  ],
+  "semanticConflicts": [
+    ["from above", "from below"],
+    ["close-up", "wide establishing shot"],
+    ["standing still", "lying down"],
+    ["standing still", "kneeling"]
+  ]
+}

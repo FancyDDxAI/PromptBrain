@@ -1,0 +1,1904 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+  "fingerprint": "1f4e9e3d9b2936e09002b088ad32bf8824415dcc3d3fbac9314ffc22ae288583",
+  "recipes": [
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring poster paint with precise small brushes painting style, emblematic structure with soft asymmetry composition, tourmaline pink with champagne gold gemstone palette, bioluminescent ambient light 02efa07598b1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.02efa07598b1",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-foreground-framed-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.emblematic-structure-with-soft-asymmetry-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-a-shimmering-portal-structure-mysterious-sto"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tourmaline-pink-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.poster-paint-with-precise-small-brushes-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.frost-pattern-beadwork-and-white-fur-like-trim-river-oracle-layered-robe"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring poster paint with precise small brushes painting style, emblematic structure with soft asymmetry composition, tourmaline pink with champagne gold gemstone palette, bioluminescent ambient light 02efa07598b1"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring opaque gouache with soft blended edges painting style, kaleidoscopic structure with paired counterweights composition, opal pastel with oxidized copper gemstone palette, bioluminescent ambient light 1163a79bf018"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.1163a79bf018",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-negative-space-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.kaleidoscopic-structure-with-paired-counterweights-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-ancient-rune-pathways-mysterious-storybook-a"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.opal-pastel-with-oxidized-copper-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-soft-blended-edges-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.crystal-button-fastenings-and-prismatic-trim-royal-beast-keeper-jacket-b"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring opaque gouache with soft blended edges painting style, kaleidoscopic structure with paired counterweights composition, opal pastel with oxidized copper gemstone palette, bioluminescent ambient light 1163a79bf018"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring acrylic wash with precise small brushes painting style, emblematic structure with centered void composition, emerald green with rose gold gemstone palette, bioluminescent ambient light 27ccedefe736"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.27ccedefe736",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-negative-space-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.emblematic-structure-with-centered-void-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-ornate-guardian-statues-serene-mythical-atmo"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-green-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.acrylic-wash-with-precise-small-brushes-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.formal-brocade-panels-and-restrained-crest-motifs-mountain-rune-smith-ap"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring acrylic wash with precise small brushes painting style, emblematic structure with centered void composition, emerald green with rose gold gemstone palette, bioluminescent ambient light 27ccedefe736"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring acrylic wash with dry textured strokes painting style, kaleidoscopic structure with single offset accent composition, garnet burgundy with blackened steel gemstone palette, bioluminescent ambient light 2dc5176e0c15"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.2dc5176e0c15",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-negative-space-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.kaleidoscopic-structure-with-single-offset-accent-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-spiraling-monumental-stairs-serene-mythical-"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.garnet-burgundy-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.acrylic-wash-with-dry-textured-strokes-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.crystal-button-fastenings-and-prismatic-trim-royal-beast-keeper-jacket-b"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring acrylic wash with dry textured strokes painting style, kaleidoscopic structure with single offset accent composition, garnet burgundy with blackened steel gemstone palette, bioluminescent ambient light 2dc5176e0c15"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring casein paint with dry textured strokes painting style, portal-centered structure with broken lower balance composition, aquamarine with oxidized copper gemstone palette, bioluminescent ambient light 42f95aa4159d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.42f95aa4159d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-right-weighted-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.portal-centered-structure-with-broken-lower-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-weathered-relic-formations-serene-mythical-a"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aquamarine-with-oxidized-copper-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.casein-paint-with-dry-textured-strokes-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.sunburst-topstitching-and-amber-glass-beads-forest-warden-tunic-cloak-tr"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring casein paint with dry textured strokes painting style, portal-centered structure with broken lower balance composition, aquamarine with oxidized copper gemstone palette, bioluminescent ambient light 42f95aa4159d"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring acrylic wash with layered translucent marks painting style, axial structure with strict symmetry composition, garnet burgundy with pewter gray gemstone palette, bioluminescent ambient light 480a7cc74549"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.480a7cc74549",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-left-weighted-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.axial-structure-with-strict-symmetry-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-impossible-suspended-bridges-mysterious-stor"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.garnet-burgundy-with-pewter-gray-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.acrylic-wash-with-layered-translucent-marks-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.frost-pattern-beadwork-and-white-fur-like-trim-desert-spellguard-robe-wr"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring acrylic wash with layered translucent marks painting style, axial structure with strict symmetry composition, garnet burgundy with pewter gray gemstone palette, bioluminescent ambient light 480a7cc74549"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring fresco pigment with visible underpainting painting style, frieze-like structure with alternating detail rhythm composition, ruby red with pale brass gemstone palette, bioluminescent ambient light 54088ab819d2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.54088ab819d2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-left-weighted-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.frieze-like-structure-with-alternating-detail-rhythm-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-ornate-guardian-statues-mysterious-storybook"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-pale-brass-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fresco-pigment-with-visible-underpainting-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.map-case-compass-chain-and-weathered-cloak-hem-forest-warden-tunic-cloak"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring fresco pigment with visible underpainting painting style, frieze-like structure with alternating detail rhythm composition, ruby red with pale brass gemstone palette, bioluminescent ambient light 54088ab819d2"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring fresco pigment with graphic shape blocking painting style, rotational structure with broken lower balance composition, lapis blue with bright silver gemstone palette, bioluminescent ambient light 63a75699c439"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.63a75699c439",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-layered-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.rotational-structure-with-broken-lower-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-weathered-relic-formations-wonder-filled-epi"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lapis-blue-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fresco-pigment-with-graphic-shape-blocking-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.feather-pattern-quilting-and-lightweight-cape-panels-desert-spellguard-r"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring fresco pigment with graphic shape blocking painting style, rotational structure with broken lower balance composition, lapis blue with bright silver gemstone palette, bioluminescent ambient light 63a75699c439"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring digital impasto with soft blended edges painting style, axial structure with broken upper balance composition, tourmaline pink with rose gold gemstone palette, bioluminescent ambient light 661e4024678f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.661e4024678f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-symmetrical-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.axial-structure-with-broken-upper-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-ancient-rune-pathways-wonder-filled-epic-atm"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tourmaline-pink-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-soft-blended-edges-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.frost-pattern-beadwork-and-white-fur-like-trim-traveling-alchemist-coat-"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring digital impasto with soft blended edges painting style, axial structure with broken upper balance composition, tourmaline pink with rose gold gemstone palette, bioluminescent ambient light 661e4024678f"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring matte airbrush with precise small brushes painting style, frieze-like structure with broken lower balance composition, lapis blue with champagne gold gemstone palette, bioluminescent ambient light 79d359ece9eb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.79d359ece9eb",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-negative-space-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.frieze-like-structure-with-broken-lower-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-ancient-rune-pathways-mysterious-storybook-a"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lapis-blue-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.matte-airbrush-with-precise-small-brushes-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.braided-cord-closures-and-carved-wooden-beads-river-oracle-layered-robe-"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring matte airbrush with precise small brushes painting style, frieze-like structure with broken lower balance composition, lapis blue with champagne gold gemstone palette, bioluminescent ambient light 79d359ece9eb"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring pastel paint with soft blended edges painting style, emblematic structure with broken lower balance composition, moonstone gray with antique gold gemstone palette, bioluminescent ambient light 7a6156a04a12"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.7a6156a04a12",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-left-weighted-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.emblematic-structure-with-broken-lower-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-impossible-suspended-bridges-serene-mythical"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.moonstone-gray-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.pastel-paint-with-soft-blended-edges-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.star-chart-lining-and-silver-thread-constellations-court-mage-robe-fitte"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring pastel paint with soft blended edges painting style, emblematic structure with broken lower balance composition, moonstone gray with antique gold gemstone palette, bioluminescent ambient light 7a6156a04a12"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring opaque gouache with graphic shape blocking painting style, kaleidoscopic structure with broken lower balance composition, ruby red with rose gold gemstone palette, bioluminescent ambient light 94a059501325"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.94a059501325",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-left-weighted-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.kaleidoscopic-structure-with-broken-lower-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-a-shimmering-portal-structure-mysterious-sto"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-graphic-shape-blocking-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.book-pocket-harness-and-ink-resistant-sleeve-guards-royal-beast-keeper-j"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring opaque gouache with graphic shape blocking painting style, kaleidoscopic structure with broken lower balance composition, ruby red with rose gold gemstone palette, bioluminescent ambient light 94a059501325"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring digital impasto with precise small brushes painting style, architectural structure with single offset accent composition, aquamarine with antique gold gemstone palette, bioluminescent ambient light 9892caf17029"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.9892caf17029",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-layered-composition-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.architectural-structure-with-single-offset-accent-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-levitating-stone-fragments-serene-mythical-a"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aquamarine-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-precise-small-brushes-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.hand-painted-potion-labels-and-bottle-loops-traveling-alchemist-coat-ves"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring digital impasto with precise small brushes painting style, architectural structure with single offset accent composition, aquamarine with antique gold gemstone palette, bioluminescent ambient light 9892caf17029"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring transparent watercolor with layered translucent marks painting style, grid-based structure with strict symmetry composition, opal pastel with blackened steel gemstone palette, bioluminescent ambient light 9b5919ca6888"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.9b5919ca6888",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-layered-composition-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.grid-based-structure-with-strict-symmetry-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-layered-magical-landmarks-wonder-filled-epic"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.opal-pastel-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-layered-translucent-marks-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.rune-shaped-quilting-and-forged-iron-clasps-court-mage-robe-fitted-under"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring transparent watercolor with layered translucent marks painting style, grid-based structure with strict symmetry composition, opal pastel with blackened steel gemstone palette, bioluminescent ambient light 9b5919ca6888"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring acrylic wash with dry textured strokes painting style, axial structure with soft asymmetry composition, ruby red with blackened steel gemstone palette, bioluminescent ambient light ad1d5f875253"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.ad1d5f875253",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-right-weighted-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.axial-structure-with-soft-asymmetry-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-ornate-guardian-statues-mysterious-storybook"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.acrylic-wash-with-dry-textured-strokes-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.herb-satchels-and-washable-apron-layers-moonlit-archivist-coat-waistcoat"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring acrylic wash with dry textured strokes painting style, axial structure with soft asymmetry composition, ruby red with blackened steel gemstone palette, bioluminescent ambient light ad1d5f875253"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring fresco pigment with scumbled highlights painting style, altar-like structure with soft asymmetry composition, tourmaline pink with champagne gold gemstone palette, bioluminescent ambient light b1e6dc1a470a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.b1e6dc1a470a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-right-weighted-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.altar-like-structure-with-soft-asymmetry-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-spiraling-monumental-stairs-serene-mythical-"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tourmaline-pink-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fresco-pigment-with-scumbled-highlights-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.star-chart-lining-and-silver-thread-constellations-court-mage-robe-fitte"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring fresco pigment with scumbled highlights painting style, altar-like structure with soft asymmetry composition, tourmaline pink with champagne gold gemstone palette, bioluminescent ambient light b1e6dc1a470a"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring digital impasto with precise small brushes painting style, radial structure with soft asymmetry composition, aquamarine with champagne gold gemstone palette, bioluminescent ambient light b236f4c6f333"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.b236f4c6f333",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-layered-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.radial-structure-with-soft-asymmetry-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-colossal-ceremonial-arches-wonder-filled-epi"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aquamarine-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-precise-small-brushes-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.book-pocket-harness-and-ink-resistant-sleeve-guards-river-oracle-layered"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring digital impasto with precise small brushes painting style, radial structure with soft asymmetry composition, aquamarine with champagne gold gemstone palette, bioluminescent ambient light b236f4c6f333"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring pastel paint with broad flat strokes painting style, reflectional structure with centered void composition, tourmaline pink with pale brass gemstone palette, bioluminescent ambient light c13fe8112023"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.c13fe8112023",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-layered-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflectional-structure-with-centered-void-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-weathered-relic-formations-serene-mythical-a"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tourmaline-pink-with-pale-brass-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.pastel-paint-with-broad-flat-strokes-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.river-wave-embroidery-and-translucent-blue-layers-forest-warden-tunic-cl"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring pastel paint with broad flat strokes painting style, reflectional structure with centered void composition, tourmaline pink with pale brass gemstone palette, bioluminescent ambient light c13fe8112023"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring encaustic wax with layered translucent marks painting style, emblematic structure with paired counterweights composition, sapphire blue with blackened steel gemstone palette, bioluminescent ambient light c18c37873266"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.c18c37873266",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-layered-composition-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.emblematic-structure-with-paired-counterweights-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-colossal-ceremonial-arches-wonder-filled-epi"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sapphire-blue-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.encaustic-wax-with-layered-translucent-marks-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.moss-toned-patchwork-and-visible-mending-forest-warden-tunic-cloak-trous"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring encaustic wax with layered translucent marks painting style, emblematic structure with paired counterweights composition, sapphire blue with blackened steel gemstone palette, bioluminescent ambient light c18c37873266"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring fresco pigment with scumbled highlights painting style, portal-centered structure with single offset accent composition, amethyst violet with champagne gold gemstone palette, bioluminescent ambient light d4095e8d7857"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.d4095e8d7857",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-negative-space-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.portal-centered-structure-with-single-offset-accent-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-a-shimmering-portal-structure-mysterious-sto"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.amethyst-violet-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fresco-pigment-with-scumbled-highlights-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.formal-brocade-panels-and-restrained-crest-motifs-court-mage-robe-fitted"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring fresco pigment with scumbled highlights painting style, portal-centered structure with single offset accent composition, amethyst violet with champagne gold gemstone palette, bioluminescent ambient light d4095e8d7857"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring pastel paint with graphic shape blocking painting style, emblematic structure with centered void composition, citrine yellow with champagne gold gemstone palette, bioluminescent ambient light d55e2131ad32"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.d55e2131ad32",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-left-weighted-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.emblematic-structure-with-centered-void-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-glowing-botanical-accents-serene-mythical-at"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.citrine-yellow-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.pastel-paint-with-graphic-shape-blocking-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.geometric-spell-diagram-cuffs-and-collar-royal-beast-keeper-jacket-breec"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring pastel paint with graphic shape blocking painting style, emblematic structure with centered void composition, citrine yellow with champagne gold gemstone palette, bioluminescent ambient light d55e2131ad32"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring opaque gouache with scumbled highlights painting style, emblematic structure with soft asymmetry composition, amethyst violet with bright silver gemstone palette, bioluminescent ambient light f0e97c9e637a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.f0e97c9e637a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-centered-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.emblematic-structure-with-soft-asymmetry-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-layered-magical-landmarks-mysterious-storybo"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.amethyst-violet-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-scumbled-highlights-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.moss-toned-patchwork-and-visible-mending-royal-beast-keeper-jacket-breec"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring opaque gouache with scumbled highlights painting style, emblematic structure with soft asymmetry composition, amethyst violet with bright silver gemstone palette, bioluminescent ambient light f0e97c9e637a"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring transparent watercolor with scumbled highlights painting style, rotational structure with broken upper balance composition, garnet burgundy with blackened steel gemstone palette, bioluminescent ambient light f8e2f3e970b5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.f8e2f3e970b5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-right-weighted-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.rotational-structure-with-broken-upper-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-a-shimmering-portal-structure-serene-mythica"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.garnet-burgundy-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-scumbled-highlights-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.formal-brocade-panels-and-restrained-crest-motifs-river-oracle-layered-r"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring transparent watercolor with scumbled highlights painting style, rotational structure with broken upper balance composition, garnet burgundy with blackened steel gemstone palette, bioluminescent ambient light f8e2f3e970b5"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "arcane regalia lookbook featuring egg tempera with precise small brushes painting style, emblematic structure with broken lower balance composition, ruby red with antique gold gemstone palette, bioluminescent ambient light fd3c74457c7b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "familyTriggers": [
+        "arcane regalia lookbook direction",
+        "fantasy role-outfit editorial",
+        "mythic full-look presentation"
+      ],
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook.fd3c74457c7b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-foreground-framed-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.emblematic-structure-with-broken-lower-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-ornate-guardian-statues-mysterious-storybook"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-precise-small-brushes-painting-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.feather-pattern-quilting-and-lightweight-cape-panels-river-oracle-layere"
+        ]
+      },
+      "name": "Arcane Regalia Lookbook 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.arcane-regalia-lookbook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete arcane ensemble",
+        "gem-lit fantasy styling",
+        "role-specific regalia clarity"
+      ],
+      "triggers": [
+        "arcane regalia lookbook featuring egg tempera with precise small brushes painting style, emblematic structure with broken lower balance composition, ruby red with antique gold gemstone palette, bioluminescent ambient light fd3c74457c7b"
+      ],
+      "variantIndex": 0
+    }
+  ],
+  "schemaVersion": 2
+}

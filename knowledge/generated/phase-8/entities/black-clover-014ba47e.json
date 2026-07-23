@@ -1,0 +1,251 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Asta",
+        "Asta (Black Clover)"
+      ],
+      "id": "character.black-clover.asta",
+      "kind": "named-character",
+      "name": "Asta",
+      "namespace": "Black Clover",
+      "promptTags": [
+        "Asta",
+        "Black Clover",
+        "male",
+        "Magic Knight"
+      ],
+      "provenance": {
+        "groupId": "black-clover",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "magic-knight"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Julius Novachrono",
+        "Julius Novachrono (Black Clover)"
+      ],
+      "id": "character.black-clover.julius-novachrono",
+      "kind": "named-character",
+      "name": "Julius Novachrono",
+      "namespace": "Black Clover",
+      "promptTags": [
+        "Julius Novachrono",
+        "Black Clover",
+        "male",
+        "Wizard King"
+      ],
+      "provenance": {
+        "groupId": "black-clover",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "wizard",
+        "leader"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Luck Voltia",
+        "Luck Voltia (Black Clover)"
+      ],
+      "id": "character.black-clover.luck-voltia",
+      "kind": "named-character",
+      "name": "Luck Voltia",
+      "namespace": "Black Clover",
+      "promptTags": [
+        "Luck Voltia",
+        "Black Clover",
+        "male",
+        "Magic Knight"
+      ],
+      "provenance": {
+        "groupId": "black-clover",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "magic-knight"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Mereoleona Vermillion",
+        "Mereoleona Vermillion (Black Clover)"
+      ],
+      "id": "character.black-clover.mereoleona-vermillion",
+      "kind": "named-character",
+      "name": "Mereoleona Vermillion",
+      "namespace": "Black Clover",
+      "promptTags": [
+        "Mereoleona Vermillion",
+        "Black Clover",
+        "female",
+        "Magic Knight captain"
+      ],
+      "provenance": {
+        "groupId": "black-clover",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "magic-knight",
+        "captain"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Noelle Silva",
+        "Noelle Silva (Black Clover)"
+      ],
+      "id": "character.black-clover.noelle-silva",
+      "kind": "named-character",
+      "name": "Noelle Silva",
+      "namespace": "Black Clover",
+      "promptTags": [
+        "Noelle Silva",
+        "Black Clover",
+        "female",
+        "Magic Knight"
+      ],
+      "provenance": {
+        "groupId": "black-clover",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "magic-knight"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Yami Sukehiro",
+        "Yami Sukehiro (Black Clover)"
+      ],
+      "id": "character.black-clover.yami-sukehiro",
+      "kind": "named-character",
+      "name": "Yami Sukehiro",
+      "namespace": "Black Clover",
+      "promptTags": [
+        "Yami Sukehiro",
+        "Black Clover",
+        "male",
+        "Magic Knight captain"
+      ],
+      "provenance": {
+        "groupId": "black-clover",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "magic-knight",
+        "captain"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Yuno",
+        "Yuno (Black Clover)"
+      ],
+      "id": "character.black-clover.yuno",
+      "kind": "named-character",
+      "name": "Yuno",
+      "namespace": "Black Clover",
+      "promptTags": [
+        "Yuno",
+        "Black Clover",
+        "male",
+        "Magic Knight"
+      ],
+      "provenance": {
+        "groupId": "black-clover",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "magic-knight",
+        "rival"
+      ]
+    }
+  ],
+  "fingerprint": "b25570c29088ea9451720f8fd86556b0e2c329036c6751217c32c07462f5a3b8",
+  "namespace": "Black Clover",
+  "schemaVersion": 2
+}

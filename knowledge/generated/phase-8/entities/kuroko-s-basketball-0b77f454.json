@@ -1,0 +1,248 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Atsushi Murasakibara",
+        "Atsushi Murasakibara (Kuroko's Basketball)"
+      ],
+      "id": "character.kurokos-basketball.atsushi-murasakibara",
+      "kind": "named-character",
+      "name": "Atsushi Murasakibara",
+      "namespace": "Kuroko's Basketball",
+      "promptTags": [
+        "Atsushi Murasakibara",
+        "Kuroko's Basketball",
+        "male",
+        "basketball player"
+      ],
+      "provenance": {
+        "groupId": "kurokos-basketball",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "basketball-player"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Daiki Aomine",
+        "Daiki Aomine (Kuroko's Basketball)"
+      ],
+      "id": "character.kurokos-basketball.daiki-aomine",
+      "kind": "named-character",
+      "name": "Daiki Aomine",
+      "namespace": "Kuroko's Basketball",
+      "promptTags": [
+        "Daiki Aomine",
+        "Kuroko's Basketball",
+        "male",
+        "basketball player"
+      ],
+      "provenance": {
+        "groupId": "kurokos-basketball",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "basketball-player"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Ryota Kise",
+        "Ryota Kise (Kuroko's Basketball)"
+      ],
+      "id": "character.kurokos-basketball.ryota-kise",
+      "kind": "named-character",
+      "name": "Ryota Kise",
+      "namespace": "Kuroko's Basketball",
+      "promptTags": [
+        "Ryota Kise",
+        "Kuroko's Basketball",
+        "male",
+        "basketball player"
+      ],
+      "provenance": {
+        "groupId": "kurokos-basketball",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "basketball-player"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Seijuro Akashi",
+        "Seijuro Akashi (Kuroko's Basketball)"
+      ],
+      "id": "character.kurokos-basketball.seijuro-akashi",
+      "kind": "named-character",
+      "name": "Seijuro Akashi",
+      "namespace": "Kuroko's Basketball",
+      "promptTags": [
+        "Seijuro Akashi",
+        "Kuroko's Basketball",
+        "male",
+        "basketball captain"
+      ],
+      "provenance": {
+        "groupId": "kurokos-basketball",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "basketball-player",
+        "captain"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Shintaro Midorima",
+        "Shintaro Midorima (Kuroko's Basketball)"
+      ],
+      "id": "character.kurokos-basketball.shintaro-midorima",
+      "kind": "named-character",
+      "name": "Shintaro Midorima",
+      "namespace": "Kuroko's Basketball",
+      "promptTags": [
+        "Shintaro Midorima",
+        "Kuroko's Basketball",
+        "male",
+        "basketball player"
+      ],
+      "provenance": {
+        "groupId": "kurokos-basketball",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "basketball-player"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Taiga Kagami",
+        "Taiga Kagami (Kuroko's Basketball)"
+      ],
+      "id": "character.kurokos-basketball.taiga-kagami",
+      "kind": "named-character",
+      "name": "Taiga Kagami",
+      "namespace": "Kuroko's Basketball",
+      "promptTags": [
+        "Taiga Kagami",
+        "Kuroko's Basketball",
+        "male",
+        "basketball player"
+      ],
+      "provenance": {
+        "groupId": "kurokos-basketball",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "basketball-player"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Tetsuya Kuroko",
+        "Tetsuya Kuroko (Kuroko's Basketball)"
+      ],
+      "id": "character.kurokos-basketball.tetsuya-kuroko",
+      "kind": "named-character",
+      "name": "Tetsuya Kuroko",
+      "namespace": "Kuroko's Basketball",
+      "promptTags": [
+        "Tetsuya Kuroko",
+        "Kuroko's Basketball",
+        "male",
+        "basketball player"
+      ],
+      "provenance": {
+        "groupId": "kurokos-basketball",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "basketball-player"
+      ]
+    }
+  ],
+  "fingerprint": "fc56837ddbeeade0715f27c514344d1691cd7cc5cbc96155a3c49a5663a2f139",
+  "namespace": "Kuroko's Basketball",
+  "schemaVersion": 2
+}

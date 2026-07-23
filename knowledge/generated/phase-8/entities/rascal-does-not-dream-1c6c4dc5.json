@@ -1,0 +1,216 @@
+{
+  "count": 6,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kaede Azusagawa",
+        "Kaede Azusagawa (Rascal Does Not Dream)"
+      ],
+      "id": "character.rascal-does-not-dream.kaede-azusagawa",
+      "kind": "named-character",
+      "name": "Kaede Azusagawa",
+      "namespace": "Rascal Does Not Dream",
+      "promptTags": [
+        "Kaede Azusagawa",
+        "Rascal Does Not Dream",
+        "female",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "rascal-does-not-dream",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Mai Sakurajima",
+        "Mai Sakurajima (Rascal Does Not Dream)"
+      ],
+      "id": "character.rascal-does-not-dream.mai-sakurajima",
+      "kind": "named-character",
+      "name": "Mai Sakurajima",
+      "namespace": "Rascal Does Not Dream",
+      "promptTags": [
+        "Mai Sakurajima",
+        "Rascal Does Not Dream",
+        "female",
+        "student actor"
+      ],
+      "provenance": {
+        "groupId": "rascal-does-not-dream",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student",
+        "actor"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Nodoka Toyohama",
+        "Nodoka Toyohama (Rascal Does Not Dream)"
+      ],
+      "id": "character.rascal-does-not-dream.nodoka-toyohama",
+      "kind": "named-character",
+      "name": "Nodoka Toyohama",
+      "namespace": "Rascal Does Not Dream",
+      "promptTags": [
+        "Nodoka Toyohama",
+        "Rascal Does Not Dream",
+        "female",
+        "student idol"
+      ],
+      "provenance": {
+        "groupId": "rascal-does-not-dream",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student",
+        "idol"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Rio Futaba",
+        "Rio Futaba (Rascal Does Not Dream)"
+      ],
+      "id": "character.rascal-does-not-dream.rio-futaba",
+      "kind": "named-character",
+      "name": "Rio Futaba",
+      "namespace": "Rascal Does Not Dream",
+      "promptTags": [
+        "Rio Futaba",
+        "Rascal Does Not Dream",
+        "female",
+        "science club student"
+      ],
+      "provenance": {
+        "groupId": "rascal-does-not-dream",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student",
+        "science-club"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Sakuta Azusagawa",
+        "Sakuta Azusagawa (Rascal Does Not Dream)"
+      ],
+      "id": "character.rascal-does-not-dream.sakuta-azusagawa",
+      "kind": "named-character",
+      "name": "Sakuta Azusagawa",
+      "namespace": "Rascal Does Not Dream",
+      "promptTags": [
+        "Sakuta Azusagawa",
+        "Rascal Does Not Dream",
+        "male",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "rascal-does-not-dream",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Tomoe Koga",
+        "Tomoe Koga (Rascal Does Not Dream)"
+      ],
+      "id": "character.rascal-does-not-dream.tomoe-koga",
+      "kind": "named-character",
+      "name": "Tomoe Koga",
+      "namespace": "Rascal Does Not Dream",
+      "promptTags": [
+        "Tomoe Koga",
+        "Rascal Does Not Dream",
+        "female",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "rascal-does-not-dream",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student"
+      ]
+    }
+  ],
+  "fingerprint": "8bef91e4a9389daabf652ddfb80fc79a7debabdc474d8458d71bff676fac0461",
+  "namespace": "Rascal Does Not Dream",
+  "schemaVersion": 2
+}

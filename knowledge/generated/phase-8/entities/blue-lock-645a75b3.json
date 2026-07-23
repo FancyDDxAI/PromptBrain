@@ -1,0 +1,248 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Hyoma Chigiri",
+        "Hyoma Chigiri (Blue Lock)"
+      ],
+      "id": "character.blue-lock.hyoma-chigiri",
+      "kind": "named-character",
+      "name": "Hyoma Chigiri",
+      "namespace": "Blue Lock",
+      "promptTags": [
+        "Hyoma Chigiri",
+        "Blue Lock",
+        "male",
+        "soccer winger"
+      ],
+      "provenance": {
+        "groupId": "blue-lock",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "soccer-player"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Meguru Bachira",
+        "Meguru Bachira (Blue Lock)"
+      ],
+      "id": "character.blue-lock.meguru-bachira",
+      "kind": "named-character",
+      "name": "Meguru Bachira",
+      "namespace": "Blue Lock",
+      "promptTags": [
+        "Meguru Bachira",
+        "Blue Lock",
+        "male",
+        "soccer forward"
+      ],
+      "provenance": {
+        "groupId": "blue-lock",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "soccer-player"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Reo Mikage",
+        "Reo Mikage (Blue Lock)"
+      ],
+      "id": "character.blue-lock.reo-mikage",
+      "kind": "named-character",
+      "name": "Reo Mikage",
+      "namespace": "Blue Lock",
+      "promptTags": [
+        "Reo Mikage",
+        "Blue Lock",
+        "male",
+        "soccer midfielder"
+      ],
+      "provenance": {
+        "groupId": "blue-lock",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "soccer-player"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Rin Itoshi",
+        "Rin Itoshi (Blue Lock)"
+      ],
+      "id": "character.blue-lock.rin-itoshi",
+      "kind": "named-character",
+      "name": "Rin Itoshi",
+      "namespace": "Blue Lock",
+      "promptTags": [
+        "Rin Itoshi",
+        "Blue Lock",
+        "male",
+        "soccer forward"
+      ],
+      "provenance": {
+        "groupId": "blue-lock",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "soccer-player",
+        "rival"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Seishiro Nagi",
+        "Seishiro Nagi (Blue Lock)"
+      ],
+      "id": "character.blue-lock.seishiro-nagi",
+      "kind": "named-character",
+      "name": "Seishiro Nagi",
+      "namespace": "Blue Lock",
+      "promptTags": [
+        "Seishiro Nagi",
+        "Blue Lock",
+        "male",
+        "soccer forward"
+      ],
+      "provenance": {
+        "groupId": "blue-lock",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "soccer-player"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Shoei Baro",
+        "Shoei Baro (Blue Lock)"
+      ],
+      "id": "character.blue-lock.shoei-baro",
+      "kind": "named-character",
+      "name": "Shoei Baro",
+      "namespace": "Blue Lock",
+      "promptTags": [
+        "Shoei Baro",
+        "Blue Lock",
+        "male",
+        "soccer forward"
+      ],
+      "provenance": {
+        "groupId": "blue-lock",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "soccer-player"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Yoichi Isagi",
+        "Yoichi Isagi (Blue Lock)"
+      ],
+      "id": "character.blue-lock.yoichi-isagi",
+      "kind": "named-character",
+      "name": "Yoichi Isagi",
+      "namespace": "Blue Lock",
+      "promptTags": [
+        "Yoichi Isagi",
+        "Blue Lock",
+        "male",
+        "soccer striker"
+      ],
+      "provenance": {
+        "groupId": "blue-lock",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "soccer-player"
+      ]
+    }
+  ],
+  "fingerprint": "6147eb50fa361b52195466df158c73b420c72928407dd89ad6f2a8425c3923ed",
+  "namespace": "Blue Lock",
+  "schemaVersion": 2
+}

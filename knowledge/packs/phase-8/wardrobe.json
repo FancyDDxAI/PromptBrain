@@ -1,0 +1,1308 @@
+{
+  "schemaVersion": 1,
+  "packId": "phase8.wardrobe",
+  "source": "phase-8-curated-wardrobe",
+  "defaults": {
+    "contentMode": "sfw",
+    "bases": [
+      "SD1.5",
+      "SDXL",
+      "Pony",
+      "FLUX"
+    ],
+    "priority": 7,
+    "group": "wardrobe",
+    "traits": [
+      "phase-8",
+      "wardrobe",
+      "sfw",
+      "general-audience"
+    ]
+  },
+  "entries": [
+    {
+      "id": "phase8.wardrobe.wardrobe.scope-individual-piece",
+      "kind": "wardrobe",
+      "prompt": "single featured wardrobe piece, not a complete outfit",
+      "group": "wardrobe.scope",
+      "family": "wardrobe-scope",
+      "traits": [
+        "scope-marker",
+        "individual-piece"
+      ],
+      "conflicts": [
+        "phase8.wardrobe.wardrobe.scope-complete-outfit"
+      ]
+    },
+    {
+      "id": "phase8.wardrobe.wardrobe.scope-complete-outfit",
+      "kind": "wardrobe",
+      "prompt": "coordinated head-to-toe complete outfit",
+      "group": "wardrobe.scope",
+      "family": "wardrobe-scope",
+      "traits": [
+        "scope-marker",
+        "complete-outfit"
+      ],
+      "conflicts": [
+        "phase8.wardrobe.wardrobe.scope-individual-piece"
+      ]
+    }
+  ],
+  "matrices": [
+    {
+      "id": "garment-silhouette-construction",
+      "kind": "wardrobe",
+      "family": "garment-silhouette-construction",
+      "group": "wardrobe.individual-garment.silhouette",
+      "traits": [
+        "individual-piece",
+        "garment-silhouette",
+        "pattern-cutting"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-individual-piece"
+      ],
+      "template": "Silhouette construction, {construction}: {silhouette} individual garment",
+      "axes": {
+        "construction": [
+          "princess-panel shaping",
+          "curved side-panel shaping",
+          "center-front box pleat",
+          "inverted back pleat",
+          "inset waist panel",
+          "raised waist seam",
+          "dropped waist seam",
+          "wrap-over front",
+          "softly gathered waist",
+          "smocked waist section",
+          "godet-expanded hem",
+          "deep movement slits",
+          "asymmetric side drape",
+          "fitted shoulder yoke",
+          "curved back yoke",
+          "topstitched panel seams",
+          "contrast-bound edges",
+          "adjustable waist tabs",
+          "underarm movement gussets",
+          "full shape-supporting lining"
+        ],
+        "silhouette": [
+          "A-line knee-length silhouette",
+          "columnar ankle-length silhouette",
+          "cocoon-shaped midi silhouette",
+          "fit-and-flare calf-length silhouette",
+          "trapeze-cut thigh-length silhouette",
+          "tulip-shaped knee-length silhouette",
+          "barrel-shaped cropped silhouette",
+          "bias-cut floor-length silhouette",
+          "handkerchief-hem midi silhouette",
+          "high-low calf-length silhouette"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "woven-top-details",
+      "kind": "wardrobe",
+      "family": "woven-top-details",
+      "group": "wardrobe.individual-garment.top.woven",
+      "traits": [
+        "individual-piece",
+        "top",
+        "woven-garment"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-individual-piece"
+      ],
+      "template": "Woven top, {finish}: {top} individual garment",
+      "axes": {
+        "finish": [
+          "tonal topstitched seams",
+          "contrast-bound edges",
+          "mother-of-pearl button accents",
+          "concealed front fastening",
+          "narrow edge piping",
+          "twin patch pockets",
+          "single welt chest pocket",
+          "roll-tab sleeve finish",
+          "bracelet-length split cuffs",
+          "buttoned gauntlet cuffs",
+          "softly gathered sleeve heads",
+          "pleated shoulder detail",
+          "back yoke with locker loop",
+          "side-vented hem",
+          "curved shirttail hem",
+          "cropped straight hem",
+          "self-fabric tie belt",
+          "removable neck tie",
+          "pin-tucked front panel",
+          "scalloped edge stitching"
+        ],
+        "top": [
+          "crisp poplin button-front shirt",
+          "draped satin blouse",
+          "linen camp-collar shirt",
+          "chambray work shirt",
+          "georgette tie-neck blouse",
+          "cotton voile gathered blouse",
+          "structured twill overshirt",
+          "collarless pintuck blouse",
+          "wrap-front crepe top",
+          "square-neck broadcloth top"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "knit-top-construction",
+      "kind": "wardrobe",
+      "family": "knit-top-construction",
+      "group": "wardrobe.individual-garment.top.knit",
+      "traits": [
+        "individual-piece",
+        "top",
+        "knitwear"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-individual-piece"
+      ],
+      "template": "Knit top, {finish}: {top} individual garment",
+      "axes": {
+        "finish": [
+          "center cable panel",
+          "all-over fisherman rib",
+          "fine waffle texture",
+          "seed-stitch texture",
+          "diagonal rib panels",
+          "geometric intarsia motif",
+          "tonal color-block panels",
+          "marled yarn surface",
+          "tipped neckline and cuffs",
+          "contrast elbow patches",
+          "rolled edge finish",
+          "tubular bound edges",
+          "saddle-shoulder shaping",
+          "raglan shoulder shaping",
+          "dropped shoulder shaping",
+          "side-button hem",
+          "two-way zip detail",
+          "horn-button trim",
+          "patch pockets",
+          "split high-low hem"
+        ],
+        "top": [
+          "fine-gauge crewneck sweater",
+          "chunky V-neck pullover",
+          "ribbed mock-neck knit top",
+          "cropped cardigan",
+          "longline cardigan",
+          "sleeveless sweater vest",
+          "knit polo shirt",
+          "boat-neck jersey top",
+          "hooded knit tunic",
+          "zip-front track knit"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "trouser-materials",
+      "kind": "wardrobe",
+      "family": "trouser-materials",
+      "group": "wardrobe.individual-garment.bottom.trouser",
+      "traits": [
+        "individual-piece",
+        "bottom",
+        "trousers"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-individual-piece"
+      ],
+      "template": "Trouser material, {material}: {trouser} individual garment",
+      "axes": {
+        "material": [
+          "charcoal tropical wool",
+          "midnight navy cotton twill",
+          "olive linen blend",
+          "stonewashed indigo denim",
+          "black ponte jersey",
+          "sand cotton drill",
+          "gray herringbone wool",
+          "rust pinwale corduroy",
+          "off-white canvas",
+          "forest green moleskin",
+          "slate gabardine",
+          "burgundy brushed cotton",
+          "brown suede-like microfiber",
+          "navy pinstriped worsted",
+          "khaki ripstop cotton",
+          "plum satin-backed crepe",
+          "cobalt technical nylon",
+          "cream wool flannel",
+          "teal chambray",
+          "black-and-white micro-check"
+        ],
+        "trouser": [
+          "high-rise straight-leg trousers",
+          "mid-rise tapered chinos",
+          "wide-leg palazzo trousers",
+          "pleated tailored trousers",
+          "cropped cigarette trousers",
+          "barrel-leg work pants",
+          "relaxed drawstring trousers",
+          "flared sailor trousers",
+          "utility cargo trousers",
+          "knee-length tailored shorts"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "skirt-materials",
+      "kind": "wardrobe",
+      "family": "skirt-materials",
+      "group": "wardrobe.individual-garment.bottom.skirt",
+      "traits": [
+        "individual-piece",
+        "bottom",
+        "skirt"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-individual-piece"
+      ],
+      "template": "Skirt material, {material}: {skirt} individual garment",
+      "axes": {
+        "material": [
+          "crisp cotton poplin",
+          "washed linen",
+          "fluid viscose twill",
+          "matte silk crepe",
+          "wool flannel",
+          "indigo denim",
+          "pinwale corduroy",
+          "cotton sateen",
+          "matte technical nylon",
+          "soft faux suede",
+          "windowpane wool",
+          "herringbone tweed",
+          "lined pleated chiffon",
+          "quilted cotton",
+          "embroidered chambray",
+          "small-repeat geometric jacquard",
+          "dense ribbed knit",
+          "dry waxed cotton",
+          "brushed moleskin",
+          "recycled polyester faille"
+        ],
+        "skirt": [
+          "knife-pleated midi skirt",
+          "bias-cut slip skirt",
+          "A-line button-front skirt",
+          "wrap-front midi skirt",
+          "full circle skirt",
+          "tailored pencil skirt",
+          "tiered maxi skirt",
+          "tulip-shaped knee skirt",
+          "utility cargo skirt",
+          "handkerchief-hem skirt"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "day-dress-textiles",
+      "kind": "wardrobe",
+      "family": "day-dress-textiles",
+      "group": "wardrobe.individual-garment.dress.day",
+      "traits": [
+        "individual-piece",
+        "dress",
+        "daywear"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-individual-piece"
+      ],
+      "template": "Day dress textile, {textile}: {dress} individual garment",
+      "axes": {
+        "dress": [
+          "belted shirt dress",
+          "wrap-front midi dress",
+          "sleeveless fit-and-flare dress",
+          "square-neck apron dress",
+          "relaxed tunic dress",
+          "knit column day dress",
+          "button-front tea dress",
+          "utility pocket dress",
+          "dropped-waist day dress",
+          "tiered prairie dress"
+        ],
+        "textile": [
+          "solid cornflower cotton",
+          "indigo micro-check poplin",
+          "sage windowpane linen",
+          "navy pinstripe chambray",
+          "rust botanical block print",
+          "black-and-white gingham",
+          "marigold dobby cotton",
+          "teal geometric jacquard",
+          "plum washed rayon",
+          "lined ivory eyelet cotton",
+          "brick red twill",
+          "forest green corduroy",
+          "slate blue denim",
+          "charcoal jersey",
+          "coral seersucker stripe",
+          "gray herringbone wool blend",
+          "bottle-green satin",
+          "burgundy paisley print",
+          "sky-blue oxford cloth",
+          "monochrome abstract print"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "formal-dress-details",
+      "kind": "wardrobe",
+      "family": "formal-dress-details",
+      "group": "wardrobe.individual-garment.dress.formal",
+      "traits": [
+        "individual-piece",
+        "dress",
+        "formalwear"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-individual-piece"
+      ],
+      "template": "Evening dress detail, {detail}: {dress} individual garment",
+      "axes": {
+        "detail": [
+          "tonal beadwork at the neckline",
+          "matte sequin paneling",
+          "hand-pleated waist drape",
+          "embroidered vine border",
+          "crystal-button back closure",
+          "satin waist sash",
+          "velvet ribbon trim",
+          "lined sheer organza overlay",
+          "sculpted fabric shoulder rosette",
+          "fan-pleated shoulder detail",
+          "contrast satin lapels",
+          "pearl-edged cuffs",
+          "metallic thread hem border",
+          "lined laser-cut applique",
+          "draped cape back",
+          "detachable shoulder cape",
+          "covered-button sleeve finish",
+          "asymmetric gathered hip panel",
+          "geometric bugle-bead motif",
+          "layered tulle hem over full lining"
+        ],
+        "dress": [
+          "floor-length bias gown",
+          "structured column gown",
+          "tea-length cocktail dress",
+          "off-shoulder draped gown",
+          "cape-sleeve evening dress",
+          "high-neck long-sleeve gown",
+          "asymmetric one-shoulder gown",
+          "fitted-bodice ball gown",
+          "pleated halter-neck gown",
+          "tuxedo-inspired evening dress"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "tailored-complete-suits",
+      "kind": "wardrobe",
+      "family": "tailored-complete-suits",
+      "group": "wardrobe.complete-outfit.tailoring",
+      "traits": [
+        "complete-outfit",
+        "suit",
+        "tailoring"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-complete-outfit"
+      ],
+      "template": "Tailored complete outfit in {fabric}: {ensemble}",
+      "axes": {
+        "ensemble": [
+          "single-breasted two-piece suit",
+          "double-breasted two-piece suit",
+          "three-piece suit with waistcoat",
+          "collarless jacket and straight-trouser suit",
+          "cropped jacket and wide-leg trouser suit",
+          "longline blazer and tapered-trouser suit",
+          "safari jacket and pleated-trouser suit",
+          "boxy jacket and knee-length skirt suit",
+          "tuxedo dinner suit with bow tie",
+          "relaxed unstructured summer suit"
+        ],
+        "fabric": [
+          "charcoal pinstriped worsted wool",
+          "midnight navy barathea",
+          "warm gray sharkskin wool",
+          "black wool with satin facing",
+          "ivory linen blend",
+          "brown cotton twill",
+          "forest green flannel",
+          "burgundy brushed wool",
+          "cobalt tropical wool",
+          "slate blue hopsack",
+          "cream herringbone linen",
+          "rust windowpane wool",
+          "plum velvet",
+          "teal wool-silk blend",
+          "olive gabardine",
+          "black-and-white micro-check wool",
+          "sand seersucker",
+          "deep red mohair blend",
+          "silver-gray recycled suiting",
+          "navy chalk-stripe flannel"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "light-outerwear-details",
+      "kind": "wardrobe",
+      "family": "light-outerwear-details",
+      "group": "wardrobe.individual-garment.outerwear.light",
+      "traits": [
+        "individual-piece",
+        "outerwear",
+        "lightweight"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-individual-piece"
+      ],
+      "template": "Light outerwear, {detail}: {outerwear} individual garment",
+      "axes": {
+        "detail": [
+          "tonal topstitching and matte snaps",
+          "contrast topstitching and brass hardware",
+          "two-way zipper and storm flap",
+          "horn-button front and patch pockets",
+          "concealed placket and welt pockets",
+          "drawcord waist and vented back",
+          "adjustable cuffs and side tabs",
+          "removable hood and stand collar",
+          "corduroy collar and elbow patches",
+          "quilted shoulder and yoke panels",
+          "reflective edge piping",
+          "oversized utility pockets",
+          "cropped sleeves and bound cuffs",
+          "roll-tab sleeves and locker loop",
+          "curved hem and side vents",
+          "double-entry hand pockets",
+          "contrast lining and turned cuffs",
+          "reinforced shoulder panels",
+          "back action pleat for movement",
+          "clean collarless edge binding"
+        ],
+        "outerwear": [
+          "cropped denim jacket",
+          "suede trucker jacket",
+          "cotton chore coat",
+          "canvas field jacket",
+          "lightweight bomber jacket",
+          "quilted liner jacket",
+          "belted safari jacket",
+          "longline duster coat",
+          "packable anorak",
+          "hooded windbreaker"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "protective-weather-outerwear",
+      "kind": "wardrobe",
+      "family": "protective-weather-outerwear",
+      "group": "wardrobe.individual-garment.outerwear.weather",
+      "traits": [
+        "individual-piece",
+        "outerwear",
+        "weather-protection"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-individual-piece"
+      ],
+      "template": "Weather outerwear in {colorway}: {outerwear} individual garment",
+      "axes": {
+        "colorway": [
+          "safety yellow with charcoal zippers",
+          "midnight navy with silver reflectors",
+          "forest green with black hardware",
+          "brick red with navy lining",
+          "cobalt blue with white seam tape",
+          "matte black with tonal hardware",
+          "off-white with orange zipper pulls",
+          "slate gray with lime piping",
+          "plum with bronze-tone snaps",
+          "teal with charcoal reinforcements",
+          "rust with cream drawcords",
+          "olive with reflective gray panels",
+          "burgundy with black storm flaps",
+          "ice blue with navy trim",
+          "charcoal with red zipper tape",
+          "sand with dark brown hardware",
+          "violet with silver seam accents",
+          "moss green with tan pocket flaps",
+          "coral with graphite closures",
+          "black-and-white color blocking"
+        ],
+        "outerwear": [
+          "waterproof trench coat",
+          "seam-sealed rain shell",
+          "waxed-cotton rain cape",
+          "insulated hooded parka",
+          "quilted snow coat",
+          "windproof soft-shell jacket",
+          "packable rain poncho",
+          "fleece-lined field coat",
+          "three-in-one storm jacket",
+          "knee-length puffer coat"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "professional-work-uniforms",
+      "kind": "wardrobe",
+      "family": "professional-work-uniforms",
+      "group": "wardrobe.complete-outfit.uniform.professional",
+      "traits": [
+        "complete-outfit",
+        "uniform",
+        "professional",
+        "functional"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-complete-outfit"
+      ],
+      "template": "Complete work uniform with {feature}: {uniform}",
+      "axes": {
+        "feature": [
+          "washable stain-release fabric",
+          "breathable underarm panels",
+          "reinforced stress-point stitching",
+          "concealed snag-resistant fasteners",
+          "secure zippered utility pockets",
+          "removable embroidered role badge",
+          "color-coded collar piping",
+          "adjustable cuff and waist tabs",
+          "action-back shoulder pleats",
+          "articulated sleeves for reach",
+          "stretch side panels",
+          "durable knee reinforcement",
+          "easy-clean matte hardware",
+          "clearly placed name badge",
+          "pen loops and small tool pocket",
+          "lined structured collar",
+          "softly padded shoulder support",
+          "wrinkle-resistant travel fabric",
+          "spare button and repair tabs",
+          "polished formal-duty finish"
+        ],
+        "uniform": [
+          "commercial kitchen jacket, trousers, apron, and cap",
+          "laboratory coat, work trousers, and closed shoes",
+          "medical clinic tunic, trousers, and slip-resistant shoes",
+          "hotel concierge jacket, tailored trousers, and dress shoes",
+          "museum attendant blazer, shirt, trousers, and name badge",
+          "postal sorting overshirt, cargo trousers, and work shoes",
+          "rail conductor coat, waistcoat, trousers, and peaked cap",
+          "workshop mechanic coveralls, undershirt, and safety boots",
+          "horticultural staff shirt, work trousers, apron, and boots",
+          "cleaning service tunic, utility trousers, and closed shoes"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "practical-armor-sets",
+      "kind": "wardrobe",
+      "family": "practical-armor-sets",
+      "group": "wardrobe.complete-outfit.armor",
+      "traits": [
+        "complete-outfit",
+        "armor",
+        "protective",
+        "sfw-combat-wear"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-complete-outfit"
+      ],
+      "template": "{feature}; {armor} complete armor set",
+      "axes": {
+        "armor": [
+          "articulated plate armor",
+          "brigandine and mail armor",
+          "layered lamellar armor",
+          "boiled-leather scout armor",
+          "overlapping scale armor",
+          "quilted gambeson armor",
+          "tournament half-plate armor",
+          "cavalry cuirass and vambrace armor",
+          "lightweight chain-mail armor",
+          "ceremonial guard armor"
+        ],
+        "feature": [
+          "balanced pauldrons and articulated elbows",
+          "layered throat guard and raised collar",
+          "reinforced gauntlets and forearm guards",
+          "segmented tassets protecting the hips",
+          "fitted greaves and flexible knee cops",
+          "open-faced helmet and padded coif",
+          "closed visor with narrow sight line",
+          "removable shoulder cape and insignia clasp",
+          "quilted arming jacket beneath hard plates",
+          "broad utility belt and secure scabbard loops",
+          "matte blued-metal finish and dark leather straps",
+          "polished steel finish and burgundy padding",
+          "brushed brass accents and navy underlayers",
+          "weatherproof leather edging and waxed ties",
+          "vented back plates and movement gussets",
+          "asymmetric reinforced sword arm",
+          "symmetrical parade-ready plate arrangement",
+          "compact travel configuration with tied plates",
+          "heraldic geometric etching without sacred symbols",
+          "well-maintained field finish with visible repairs"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "fantasy-complete-outfits",
+      "kind": "wardrobe",
+      "family": "fantasy-complete-outfits",
+      "group": "wardrobe.complete-outfit.fantasy",
+      "traits": [
+        "complete-outfit",
+        "fantasy-wear",
+        "role-outfit"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-complete-outfit"
+      ],
+      "template": "{craft}; {outfit} fantasy complete outfit",
+      "axes": {
+        "craft": [
+          "embroidered leaf-map borders and horn toggles",
+          "star-chart lining and silver-thread constellations",
+          "rune-shaped quilting and forged iron clasps",
+          "pressed-flower panels beneath clear protective cloth",
+          "hand-painted potion labels and bottle loops",
+          "braided cord closures and carved wooden beads",
+          "scaled shoulder panels and soft leather edging",
+          "moon-phase applique and pearl-gray piping",
+          "crystal-button fastenings and prismatic trim",
+          "moss-toned patchwork and visible mending",
+          "flame-colored lining and blackened brass hardware",
+          "river-wave embroidery and translucent blue layers",
+          "feather-pattern quilting and lightweight cape panels",
+          "geometric spell-diagram cuffs and collar",
+          "sunburst topstitching and amber glass beads",
+          "frost-pattern beadwork and white fur-like trim",
+          "book-pocket harness and ink-resistant sleeve guards",
+          "herb satchels and washable apron layers",
+          "map case, compass chain, and weathered cloak hem",
+          "formal brocade panels and restrained crest motifs"
+        ],
+        "outfit": [
+          "forest warden tunic, cloak, trousers, and boots",
+          "court mage robe, fitted underlayer, sash, and slippers",
+          "traveling alchemist coat, vest, trousers, and boots",
+          "skyship navigator jacket, scarf, trousers, and tall boots",
+          "desert spellguard robe, wrapped trousers, and sandals",
+          "mountain rune-smith apron, tunic, trousers, and boots",
+          "river oracle layered robe, mantle, and soft shoes",
+          "moonlit archivist coat, waistcoat, trousers, and gloves",
+          "hedge healer tunic dress, apron, cloak, and boots",
+          "royal beast keeper jacket, breeches, gaiters, and boots"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "science-fiction-complete-outfits",
+      "kind": "wardrobe",
+      "family": "science-fiction-complete-outfits",
+      "group": "wardrobe.complete-outfit.science-fiction",
+      "traits": [
+        "complete-outfit",
+        "science-fiction-wear",
+        "technical",
+        "role-outfit"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-complete-outfit"
+      ],
+      "template": "{feature}; {outfit} science-fiction complete outfit",
+      "axes": {
+        "feature": [
+          "modular pressure-seal collar and wrist rings",
+          "flexible radiation-shielding overshell",
+          "color-coded life-support conduits",
+          "magnetic tool anchors at belt and thighs",
+          "low-profile helmet dock and cable guides",
+          "illuminated identification piping",
+          "replaceable knee and elbow protection",
+          "smart-fabric ventilation panels",
+          "fold-flat utility pouches and sample loops",
+          "haptic glove pads and forearm display",
+          "emergency beacon tabs and reflective markings",
+          "dust-sealed closures and boot gaiters",
+          "microgravity restraint loops and soft footwear",
+          "thermal underlayer and insulated oversuit",
+          "formal metallic collar and hidden fasteners",
+          "biometric cuff and medical access panels",
+          "recycled polymer panels and repair patches",
+          "clear map pocket and route display",
+          "compact oxygen pack harness and hose clips",
+          "matte anti-glare finish and tonal insignia"
+        ],
+        "outfit": [
+          "orbital engineer coverall, utility vest, gloves, and boots",
+          "interplanetary courier jacket, trousers, harness, and boots",
+          "exoplanet botanist field suit, apron, gloves, and gaiters",
+          "zero-gravity medic tunic suit, harness, gloves, and soft shoes",
+          "lunar surveyor oversuit, hood, gaiters, and reinforced boots",
+          "deep-space pilot flight suit, vest, gloves, and pressure boots",
+          "salvage technician coverall, tool belt, jacket, and boots",
+          "diplomatic envoy long coat, formal suit, gloves, and shoes",
+          "habitat architect overshirt, trousers, data belt, and boots",
+          "asteroid miner work suit, protective vest, gloves, and boots"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "respectful-cultural-inspired-ensembles",
+      "kind": "wardrobe",
+      "family": "respectful-cultural-inspired-ensembles",
+      "group": "wardrobe.complete-outfit.cultural-inspired",
+      "traits": [
+        "complete-outfit",
+        "cultural-inspired",
+        "historical-inspired",
+        "respectful-description"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-complete-outfit"
+      ],
+      "template": "Cultural-inspired {interpretation}: {ensemble} complete outfit",
+      "axes": {
+        "ensemble": [
+          "Joseon hanbok-inspired jeogori-style jacket and chima-style skirt",
+          "Edo townwear-inspired kosode-style robe and haori-style layer",
+          "South Asian sari-inspired drape with high-neck blouse",
+          "West African agbada-inspired over-robe and matching trousers",
+          "Andean poncho-inspired woven layer with shirt and trousers",
+          "Moroccan caftan-inspired long robe with opaque underlayer",
+          "Filipino barong-inspired overshirt, opaque undershirt, and trousers",
+          "Mexican huipil-inspired square-cut tunic and full skirt",
+          "Scottish Highland dress-inspired great kilt, jacket, hose, and brogues",
+          "Indonesian kebaya-inspired blouse, camisole, and wrapped skirt"
+        ],
+        "interpretation": [
+          "researched natural-fiber construction",
+          "tradition-aware wrap and closure logic",
+          "hand-finished visible seam work",
+          "restrained non-sacred geometric ornament",
+          "historically informed proportions",
+          "contemporary daywear adaptation",
+          "contemporary formalwear adaptation",
+          "muted plant-dye-inspired palette",
+          "celebratory jewel-tone palette",
+          "undyed textile palette",
+          "tonal embroidery without sacred symbols",
+          "regionally neutral woven border",
+          "practical modern pocket integration",
+          "weather-ready layered adaptation",
+          "lightweight warm-climate adaptation",
+          "insulated cool-climate adaptation",
+          "artisan-weave texture focus",
+          "museum-display styling with full coverage",
+          "respectful streetwear interpretation",
+          "heirloom-quality handcraft finish"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "footwear-material-finishes",
+      "kind": "wardrobe",
+      "family": "footwear-material-finishes",
+      "group": "wardrobe.individual-item.footwear",
+      "traits": [
+        "individual-piece",
+        "footwear",
+        "shoe"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-individual-piece"
+      ],
+      "template": "Footwear finish, {finish}: {shoe} individual item",
+      "axes": {
+        "finish": [
+          "matte black leather with tonal stitching",
+          "dark brown pebble leather",
+          "tan waxed suede",
+          "oxblood polished leather",
+          "navy waxed canvas",
+          "olive technical textile",
+          "charcoal recycled knit",
+          "off-white vegetable-tanned leather",
+          "burgundy patent leather",
+          "slate nubuck",
+          "cognac pull-up leather",
+          "forest green brushed suede",
+          "gray felted wool",
+          "white canvas with navy piping",
+          "black-and-white woven textile",
+          "sand microfiber suede",
+          "cobalt recycled nylon",
+          "plum velvet with matte trim",
+          "silver-gray reflective textile",
+          "natural cork-textured leather"
+        ],
+        "shoe": [
+          "lace-up ankle boot",
+          "knee-high riding boot",
+          "Chelsea boot",
+          "low-top court sneaker",
+          "classic derby shoe",
+          "penny loafer",
+          "Mary Jane flat",
+          "slingback block-heel shoe",
+          "trail hiking shoe",
+          "minimalist two-strap sandal"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "hosiery-patterns",
+      "kind": "wardrobe",
+      "family": "hosiery-patterns",
+      "group": "wardrobe.individual-item.hosiery",
+      "traits": [
+        "individual-piece",
+        "hosiery",
+        "legwear"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-individual-piece"
+      ],
+      "template": "Hosiery treatment, {treatment}: {item} individual item",
+      "axes": {
+        "item": [
+          "ankle socks",
+          "crew socks",
+          "knee-high socks",
+          "over-the-knee socks",
+          "cable-knit boot socks",
+          "ribbed trouser socks",
+          "opaque tights",
+          "footless tights",
+          "dance leg warmers",
+          "graduated compression socks"
+        ],
+        "treatment": [
+          "solid charcoal fine-gauge knit",
+          "navy vertical rib",
+          "ivory cable texture",
+          "black micro-rib",
+          "burgundy argyle pattern",
+          "forest green herringbone",
+          "gray marled yarn",
+          "cream pointelle texture",
+          "cobalt and white athletic stripes",
+          "rust fair-isle-inspired geometry",
+          "plum tonal chevron",
+          "teal color-block panels",
+          "black sheer stripe over opaque knit",
+          "red-and-navy windowpane check",
+          "mustard small-dot repeat",
+          "olive reinforced heel and toe",
+          "silver reflective ankle band",
+          "coral graduated color fade",
+          "brown basket-weave texture",
+          "monochrome abstract line pattern"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "everyday-accessory-surfaces",
+      "kind": "wardrobe",
+      "family": "everyday-accessory-surfaces",
+      "group": "wardrobe.individual-item.accessory",
+      "traits": [
+        "individual-piece",
+        "accessory",
+        "bag-belt-glove-scarf"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-individual-piece"
+      ],
+      "template": "Accessory surface, {surface}: {item} individual item",
+      "axes": {
+        "item": [
+          "structured top-handle bag",
+          "compact crossbody satchel",
+          "roll-top backpack",
+          "wide waist belt",
+          "narrow dress belt",
+          "wrist-length gloves",
+          "elbow-length gloves",
+          "rectangular neck scarf",
+          "oversized blanket scarf",
+          "compact belt pouch"
+        ],
+        "surface": [
+          "solid black with tonal edging",
+          "deep navy with white contrast stitching",
+          "oxblood with dark brown edging",
+          "charcoal monochrome color blocking",
+          "ivory and black geometric panels",
+          "burgundy herringbone surface",
+          "cobalt micro-check pattern",
+          "rust and cream narrow stripes",
+          "olive quilted diamond texture",
+          "plum basket-weave texture",
+          "teal embossed grid",
+          "gray marled texture",
+          "red-and-navy windowpane pattern",
+          "mustard abstract dot pattern",
+          "black reflective edge piping",
+          "cream blanket-stitch border",
+          "indigo patchwork panels",
+          "sage tonal embroidery",
+          "copper metallic thread accents",
+          "monochrome chevron weave"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "jewelry-material-motifs",
+      "kind": "wardrobe",
+      "family": "jewelry-material-motifs",
+      "group": "wardrobe.individual-item.jewelry",
+      "traits": [
+        "individual-piece",
+        "jewelry",
+        "ornament"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-individual-piece"
+      ],
+      "template": "Jewelry material, {material}: {piece} individual item",
+      "axes": {
+        "material": [
+          "brushed sterling silver with geometric engraving",
+          "polished gold with black enamel inlay",
+          "rose-gold tone with mother-of-pearl inlay",
+          "oxidized silver with raised linework",
+          "hammered brass with matte finish",
+          "polished steel with cobalt enamel",
+          "recycled silver with visible casting texture",
+          "gold vermeil with green glass cabochon",
+          "silver with smoky quartz setting",
+          "bronze with red jasper inlay",
+          "palladium tone with clear crystal accents",
+          "copper with blue enamel details",
+          "black ceramic with silver edge",
+          "titanium with iridescent heat finish",
+          "white enamel with gold linework",
+          "dark wood with silver pin inlay",
+          "porcelain with hand-painted blue geometry",
+          "resin with pressed non-endangered botanicals",
+          "beaded glass in a monochrome pattern",
+          "woven metal mesh with satin clasp"
+        ],
+        "piece": [
+          "slim signet ring",
+          "hinged cuff bracelet",
+          "fine chain necklace",
+          "geometric pendant necklace",
+          "drop earrings",
+          "stud earrings",
+          "structured collar necklace",
+          "oval brooch",
+          "small lapel pin",
+          "flat-link chain bracelet"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "headwear-color-patterns",
+      "kind": "wardrobe",
+      "family": "headwear-color-patterns",
+      "group": "wardrobe.individual-item.headwear",
+      "traits": [
+        "individual-piece",
+        "headwear",
+        "hat"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-individual-piece"
+      ],
+      "template": "Headwear finish, {finish}: {hat} individual item",
+      "axes": {
+        "finish": [
+          "solid charcoal monochrome",
+          "midnight navy with tonal stitching",
+          "black with a narrow ivory edge",
+          "forest green subtle herringbone",
+          "burgundy with a tonal band",
+          "cobalt and cream color blocking",
+          "rust micro-check pattern",
+          "olive quilted texture",
+          "plum basket-weave surface",
+          "teal with black edge piping",
+          "gray marled texture",
+          "red-and-navy windowpane check",
+          "mustard narrow stripe pattern",
+          "off-white with black topstitching",
+          "indigo stonewashed finish",
+          "sage tonal embroidery",
+          "brown-and-cream small houndstooth",
+          "silver reflective trim",
+          "coral graduated color fade",
+          "monochrome abstract line print"
+        ],
+        "hat": [
+          "soft-brim fedora",
+          "cotton bucket hat",
+          "structured beret",
+          "tailored flat cap",
+          "wide-brim sun hat",
+          "close-fitting knit beanie",
+          "eight-panel baker-boy cap",
+          "rounded cloche hat",
+          "flat-crown boater hat",
+          "soft brimmed rain hat"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "garment-material-library",
+      "kind": "wardrobe",
+      "family": "garment-material-library",
+      "group": "wardrobe.individual-garment.material",
+      "traits": [
+        "individual-piece",
+        "material",
+        "textile"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-individual-piece"
+      ],
+      "template": "Garment material, {material}: {garment} individual garment",
+      "axes": {
+        "garment": [
+          "unlined chore jacket",
+          "straight-leg trousers",
+          "collarless overshirt",
+          "A-line midi skirt",
+          "sleeveless shell top",
+          "wrap-front vest",
+          "relaxed long tunic",
+          "simple shift dress",
+          "hooded capelet",
+          "zip-front jumpsuit"
+        ],
+        "material": [
+          "washed slub linen",
+          "compact cotton twill",
+          "brushed wool flannel",
+          "crisp recycled nylon",
+          "matte silk noil",
+          "dense ponte jersey",
+          "soft lyocell twill",
+          "dry waxed cotton",
+          "quilted cotton sateen",
+          "indigo chambray",
+          "hemp-cotton canvas",
+          "boiled wool",
+          "sandwashed cupro",
+          "recycled polyester ripstop",
+          "bamboo jersey",
+          "ramie-linen weave",
+          "cotton seersucker",
+          "wool-silk hopsack",
+          "plant-based faux leather",
+          "double-faced knit"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "garment-surface-treatments",
+      "kind": "wardrobe",
+      "family": "garment-surface-treatments",
+      "group": "wardrobe.individual-garment.surface-treatment",
+      "traits": [
+        "individual-piece",
+        "surface-treatment",
+        "textile-craft"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-individual-piece"
+      ],
+      "template": "Garment surface, {treatment}: {garment} individual garment",
+      "axes": {
+        "garment": [
+          "plain boxy jacket",
+          "straight-cut overshirt",
+          "sleeveless tunic",
+          "A-line skirt",
+          "relaxed trousers",
+          "shift dress",
+          "cropped vest",
+          "longline coat",
+          "crewneck pullover",
+          "wrap-front top"
+        ],
+        "treatment": [
+          "tonal running-stitch reinforcement",
+          "hand-blocked geometric print",
+          "discharge-dyed border pattern",
+          "dip-dyed color transition",
+          "narrow channel quilting",
+          "corded trapunto panels",
+          "matte-thread couching",
+          "cutwork over an opaque backing",
+          "geometric applique patches",
+          "flocked tonal motif",
+          "semi-sheer burnout pattern over lining",
+          "laser-etched abstract lines",
+          "burnished wax finish at seams",
+          "enzyme-washed faded surface",
+          "stonewashed high-low color",
+          "metallic foil edge accents",
+          "pigment-sprayed speckle pattern",
+          "embroidered botanical border",
+          "pleated texture panels",
+          "smocked texture insert"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "weather-adapted-complete-outfits",
+      "kind": "wardrobe",
+      "family": "weather-adapted-complete-outfits",
+      "group": "wardrobe.complete-outfit.weather-state",
+      "traits": [
+        "complete-outfit",
+        "weather-adapted",
+        "wear-state",
+        "functional-layering"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-complete-outfit"
+      ],
+      "template": "{weather}; {outfit}",
+      "axes": {
+        "outfit": [
+          "urban commuter complete outfit",
+          "weekend hiking complete outfit",
+          "bicycle courier complete outfit",
+          "outdoor market vendor complete outfit",
+          "coastal travel complete outfit",
+          "campus daywear complete outfit",
+          "field researcher complete outfit",
+          "train traveler complete outfit",
+          "city photographer complete outfit",
+          "countryside walking complete outfit"
+        ],
+        "weather": [
+          "steady-rain shell and sealed footwear",
+          "wet-snow coat and insulated boots",
+          "deep-winter parka and thermal layers",
+          "light-frost knit layers and gloves",
+          "windy-coast shell and secured scarf",
+          "heatwave linen layers and sun hat",
+          "humid-weather breathable separates",
+          "dry-heat loose layers and neck shade",
+          "spring-shower mac and packable umbrella",
+          "autumn-drizzle waxed coat and boots",
+          "foggy-morning reflective outer layer",
+          "storm-warning waterproof hood and gaiters",
+          "muddy-trail washable layers and lug soles",
+          "dusty-wind closed cuffs and face scarf",
+          "changeable-weather modular layers",
+          "cool-evening cardigan and light jacket",
+          "bright-sun overshirt and brimmed hat",
+          "sleet-ready shell and water-resistant boots",
+          "post-rain rolled hems and dry overshoes",
+          "snow-flurry quilted layers and knit cap"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "layered-styled-complete-outfits",
+      "kind": "wardrobe",
+      "family": "layered-styled-complete-outfits",
+      "group": "wardrobe.complete-outfit.layering-style",
+      "traits": [
+        "complete-outfit",
+        "layering",
+        "styling",
+        "coordinated-look"
+      ],
+      "requires": [
+        "phase8.wardrobe.wardrobe.scope-complete-outfit"
+      ],
+      "template": "{styling}; {anchor}",
+      "axes": {
+        "anchor": [
+          "crewneck T-shirt, straight jeans, and sneakers complete outfit",
+          "button-front shirt, tailored trousers, and loafers complete outfit",
+          "knit polo, pleated skirt, and ankle boots complete outfit",
+          "mock-neck sweater, wide-leg trousers, and derbies complete outfit",
+          "midi dress and low-profile sneakers complete outfit",
+          "draped blouse, A-line skirt, and flats complete outfit",
+          "utility jumpsuit and lace-up boots complete outfit",
+          "cable sweater, tapered chinos, and court sneakers complete outfit",
+          "long tunic, slim trousers, and slip-on shoes complete outfit",
+          "rugby shirt, cargo trousers, and hiking shoes complete outfit"
+        ],
+        "styling": [
+          "cropped denim jacket with rolled cuffs",
+          "longline trench with a loose neck scarf",
+          "cardigan under a belted raincoat",
+          "shirt jacket over a fine-gauge knit",
+          "tailored blazer with pushed-up sleeves",
+          "utility vest over a lightweight overshirt",
+          "quilted liner under a field jacket",
+          "sweater vest over a collared shirt",
+          "hooded sweatshirt beneath a wool coat",
+          "cropped bomber over a tucked base layer",
+          "sleeveless duster over tonal separates",
+          "open flannel shirt over a plain tee",
+          "belted cardigan with visible shirt cuffs",
+          "capelet over a mock-neck underlayer",
+          "chore coat with cuffed sleeves and crossbody bag",
+          "waistcoat over a rolled-sleeve shirt",
+          "soft shawl over a fitted jacket",
+          "windbreaker tied at waist over compact layers",
+          "matching overshirt and trouser set with contrast tee",
+          "tonal three-layer stack with varied hem lengths"
+        ]
+      },
+      "maxCombinations": 200
+    }
+  ]
+}

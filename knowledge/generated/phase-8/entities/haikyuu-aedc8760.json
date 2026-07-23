@@ -1,0 +1,252 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kei Tsukishima",
+        "Kei Tsukishima (Haikyuu!!)"
+      ],
+      "id": "character.haikyuu.kei-tsukishima",
+      "kind": "named-character",
+      "name": "Kei Tsukishima",
+      "namespace": "Haikyuu!!",
+      "promptTags": [
+        "Kei Tsukishima",
+        "Haikyuu!!",
+        "male",
+        "volleyball middle blocker"
+      ],
+      "provenance": {
+        "groupId": "haikyuu",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "volleyball-player"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kenma Kozume",
+        "Kenma Kozume (Haikyuu!!)"
+      ],
+      "id": "character.haikyuu.kenma-kozume",
+      "kind": "named-character",
+      "name": "Kenma Kozume",
+      "namespace": "Haikyuu!!",
+      "promptTags": [
+        "Kenma Kozume",
+        "Haikyuu!!",
+        "male",
+        "volleyball setter"
+      ],
+      "provenance": {
+        "groupId": "haikyuu",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "volleyball-player",
+        "setter"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kotaro Bokuto",
+        "Kotaro Bokuto (Haikyuu!!)"
+      ],
+      "id": "character.haikyuu.kotaro-bokuto",
+      "kind": "named-character",
+      "name": "Kotaro Bokuto",
+      "namespace": "Haikyuu!!",
+      "promptTags": [
+        "Kotaro Bokuto",
+        "Haikyuu!!",
+        "male",
+        "volleyball ace"
+      ],
+      "provenance": {
+        "groupId": "haikyuu",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "volleyball-player",
+        "ace"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Shoyo Hinata",
+        "Shoyo Hinata (Haikyuu!!)"
+      ],
+      "id": "character.haikyuu.shoyo-hinata",
+      "kind": "named-character",
+      "name": "Shoyo Hinata",
+      "namespace": "Haikyuu!!",
+      "promptTags": [
+        "Shoyo Hinata",
+        "Haikyuu!!",
+        "male",
+        "volleyball middle blocker"
+      ],
+      "provenance": {
+        "groupId": "haikyuu",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "volleyball-player"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Tetsuro Kuroo",
+        "Tetsuro Kuroo (Haikyuu!!)"
+      ],
+      "id": "character.haikyuu.tetsuro-kuroo",
+      "kind": "named-character",
+      "name": "Tetsuro Kuroo",
+      "namespace": "Haikyuu!!",
+      "promptTags": [
+        "Tetsuro Kuroo",
+        "Haikyuu!!",
+        "male",
+        "volleyball captain"
+      ],
+      "provenance": {
+        "groupId": "haikyuu",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "volleyball-player",
+        "captain"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Tobio Kageyama",
+        "Tobio Kageyama (Haikyuu!!)"
+      ],
+      "id": "character.haikyuu.tobio-kageyama",
+      "kind": "named-character",
+      "name": "Tobio Kageyama",
+      "namespace": "Haikyuu!!",
+      "promptTags": [
+        "Tobio Kageyama",
+        "Haikyuu!!",
+        "male",
+        "volleyball setter"
+      ],
+      "provenance": {
+        "groupId": "haikyuu",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "volleyball-player",
+        "setter"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Toru Oikawa",
+        "Toru Oikawa (Haikyuu!!)"
+      ],
+      "id": "character.haikyuu.toru-oikawa",
+      "kind": "named-character",
+      "name": "Toru Oikawa",
+      "namespace": "Haikyuu!!",
+      "promptTags": [
+        "Toru Oikawa",
+        "Haikyuu!!",
+        "male",
+        "volleyball setter"
+      ],
+      "provenance": {
+        "groupId": "haikyuu",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "volleyball-player",
+        "setter"
+      ]
+    }
+  ],
+  "fingerprint": "488e80cc7f0f6a526220b9503867eb5528d5fdc1c2fc19e3f1395ec66d72b550",
+  "namespace": "Haikyuu!!",
+  "schemaVersion": 2
+}

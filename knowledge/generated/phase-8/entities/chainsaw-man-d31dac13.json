@@ -1,0 +1,250 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Aki Hayakawa",
+        "Aki Hayakawa (Chainsaw Man)"
+      ],
+      "id": "character.chainsaw-man.aki-hayakawa",
+      "kind": "named-character",
+      "name": "Aki Hayakawa",
+      "namespace": "Chainsaw Man",
+      "promptTags": [
+        "Aki Hayakawa",
+        "Chainsaw Man",
+        "male",
+        "devil hunter"
+      ],
+      "provenance": {
+        "groupId": "chainsaw-man",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "devil-hunter"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Asa Mitaka",
+        "Asa Mitaka (Chainsaw Man)"
+      ],
+      "id": "character.chainsaw-man.asa-mitaka",
+      "kind": "named-character",
+      "name": "Asa Mitaka",
+      "namespace": "Chainsaw Man",
+      "promptTags": [
+        "Asa Mitaka",
+        "Chainsaw Man",
+        "female",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "chainsaw-man",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student",
+        "protagonist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Denji",
+        "Denji (Chainsaw Man)"
+      ],
+      "id": "character.chainsaw-man.denji",
+      "kind": "named-character",
+      "name": "Denji",
+      "namespace": "Chainsaw Man",
+      "promptTags": [
+        "Denji",
+        "Chainsaw Man",
+        "male",
+        "devil hunter"
+      ],
+      "provenance": {
+        "groupId": "chainsaw-man",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "devil-hunter"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kishibe",
+        "Kishibe (Chainsaw Man)"
+      ],
+      "id": "character.chainsaw-man.kishibe",
+      "kind": "named-character",
+      "name": "Kishibe",
+      "namespace": "Chainsaw Man",
+      "promptTags": [
+        "Kishibe",
+        "Chainsaw Man",
+        "male",
+        "devil hunter mentor"
+      ],
+      "provenance": {
+        "groupId": "chainsaw-man",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "devil-hunter",
+        "mentor"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kobeni Higashiyama",
+        "Kobeni Higashiyama (Chainsaw Man)"
+      ],
+      "id": "character.chainsaw-man.kobeni-higashiyama",
+      "kind": "named-character",
+      "name": "Kobeni Higashiyama",
+      "namespace": "Chainsaw Man",
+      "promptTags": [
+        "Kobeni Higashiyama",
+        "Chainsaw Man",
+        "female",
+        "devil hunter"
+      ],
+      "provenance": {
+        "groupId": "chainsaw-man",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "devil-hunter"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Makima",
+        "Makima (Chainsaw Man)"
+      ],
+      "id": "character.chainsaw-man.makima",
+      "kind": "named-character",
+      "name": "Makima",
+      "namespace": "Chainsaw Man",
+      "promptTags": [
+        "Makima",
+        "Chainsaw Man",
+        "female",
+        "Public Safety officer"
+      ],
+      "provenance": {
+        "groupId": "chainsaw-man",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "antagonist",
+        "public-safety"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Reze",
+        "Reze (Chainsaw Man)"
+      ],
+      "id": "character.chainsaw-man.reze",
+      "kind": "named-character",
+      "name": "Reze",
+      "namespace": "Chainsaw Man",
+      "promptTags": [
+        "Reze",
+        "Chainsaw Man",
+        "female",
+        "devil hybrid"
+      ],
+      "provenance": {
+        "groupId": "chainsaw-man",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "devil-hybrid"
+      ]
+    }
+  ],
+  "fingerprint": "fc0aa57685517fcdbdc33f5f430160fcb815ca566c2d781320d5308d34238904",
+  "namespace": "Chainsaw Man",
+  "schemaVersion": 2
+}

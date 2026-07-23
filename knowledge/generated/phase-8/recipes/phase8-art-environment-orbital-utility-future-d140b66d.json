@@ -1,0 +1,1784 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.environment.orbital-utility-future",
+  "fingerprint": "e36f9892bd71bfe81b9762641c19b8606386f995104535f91fc087482730540e",
+  "recipes": [
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with precise labeled details visual style, radial structure with paired counterweights composition, teal shadows with cyan highlights cinematic palette, crisp shadow edges from fluorescent practicals, focused on the subject plane 018638933cbe"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.018638933cbe",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-mid-range-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.radial-structure-with-paired-counterweights-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-stacked-utility-modules-weathered-utilita"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-fluorescent-practicals-focused-on-the-subject-pl"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-cyan-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with precise labeled details visual style, radial structure with paired counterweights composition, teal shadows with cyan highlights cinematic palette, crisp shadow edges from fluorescent practicals, focused on the subject plane 018638933cbe"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with precise labeled details visual style, bilateral structure with alternating detail rhythm composition, indigo shadows with lemon highlights cinematic palette, soft diffusion from fluorescent practicals, focused on the subject plane 041887a4d8e7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.041887a4d8e7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-alternating-detail-rhythm-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-autonomous-service-drones-clean-high-tech"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-shadows-with-lemon-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with precise labeled details visual style, bilateral structure with alternating detail rhythm composition, indigo shadows with lemon highlights cinematic palette, soft diffusion from fluorescent practicals, focused on the subject plane 041887a4d8e7"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with selective color coding visual style, bilateral structure with paired counterweights composition, teal shadows with mint highlights cinematic palette, soft diffusion from fluorescent practicals, layered across depth planes 0f204bc2038e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.0f204bc2038e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-stopped-down-aperture-controlled-highlight-blo"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-paired-counterweights-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-magnetic-transit-rails-credible-near-futu"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-selective-color-coding-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with selective color coding visual style, bilateral structure with paired counterweights composition, teal shadows with mint highlights cinematic palette, soft diffusion from fluorescent practicals, layered across depth planes 0f204bc2038e"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with muted wash accents visual style, architectural structure with broken lower balance composition, teal shadows with cyan highlights cinematic palette, crisp shadow edges from fluorescent practicals, contained in a localized pool 3e91802246af"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.3e91802246af",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-moderate-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.architectural-structure-with-broken-lower-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-stacked-utility-modules-weathered-utilita"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-fluorescent-practicals-contained-in-a-localized-"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-cyan-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-muted-wash-accents-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with muted wash accents visual style, architectural structure with broken lower balance composition, teal shadows with cyan highlights cinematic palette, crisp shadow edges from fluorescent practicals, contained in a localized pool 3e91802246af"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with selective color coding visual style, altar-like structure with single offset accent composition, cobalt shadows with mint highlights cinematic palette, controlled high contrast from fluorescent practicals, falling off into shadow 48fbe0dafb09"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.48fbe0dafb09",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-wide-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.altar-like-structure-with-single-offset-accent-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-sealed-observation-windows-credible-near-"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-falling-off-into-sh"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-selective-color-coding-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with selective color coding visual style, altar-like structure with single offset accent composition, cobalt shadows with mint highlights cinematic palette, controlled high contrast from fluorescent practicals, falling off into shadow 48fbe0dafb09"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with bold silhouette overlays visual style, bilateral structure with paired counterweights composition, slate-blue shadows with mint highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, broken by foreground shapes 5252e661f253"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.5252e661f253",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-wide-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-paired-counterweights-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-pressurized-access-corridors-clean-high-t"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-broken-by-foregroun"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-bold-silhouette-overlays-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with bold silhouette overlays visual style, bilateral structure with paired counterweights composition, slate-blue shadows with mint highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, broken by foreground shapes 5252e661f253"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with precise labeled details visual style, reflectional structure with centered void composition, violet shadows with cyan highlights cinematic palette, soft diffusion from fluorescent practicals, reflected from nearby surfaces 54e06d46d195"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.54e06d46d195",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-wide-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflectional-structure-with-centered-void-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-layered-maintenance-gantries-credible-nea"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-reflected-from-nearby-surface"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-shadows-with-cyan-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with precise labeled details visual style, reflectional structure with centered void composition, violet shadows with cyan highlights cinematic palette, soft diffusion from fluorescent practicals, reflected from nearby surfaces 54e06d46d195"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with soft graphite shading visual style, bilateral structure with alternating detail rhythm composition, slate-blue shadows with mint highlights cinematic palette, soft diffusion from fluorescent practicals, broken by foreground shapes 6a5298e3dd73"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.6a5298e3dd73",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-stopped-down-aperture-controlled-highlight-blo"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-alternating-detail-rhythm-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-autonomous-service-drones-weathered-utili"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-soft-graphite-shading-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with soft graphite shading visual style, bilateral structure with alternating detail rhythm composition, slate-blue shadows with mint highlights cinematic palette, soft diffusion from fluorescent practicals, broken by foreground shapes 6a5298e3dd73"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with soft graphite shading visual style, portal-centered structure with strict symmetry composition, charcoal shadows with pearl highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, creating a luminous frame 6ecb34193b68"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.6ecb34193b68",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-stopped-down-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.portal-centered-structure-with-strict-symmetry-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-exposed-modular-conduits-credible-near-fu"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-creating-a-luminous"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-shadows-with-pearl-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-soft-graphite-shading-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with soft graphite shading visual style, portal-centered structure with strict symmetry composition, charcoal shadows with pearl highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, creating a luminous frame 6ecb34193b68"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with precise labeled details visual style, frieze-like structure with broken upper balance composition, slate-blue shadows with pearl highlights cinematic palette, crisp shadow edges from fluorescent practicals, contained in a localized pool 872b8c0da7bf"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.872b8c0da7bf",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-stopped-down-aperture-neutral-optical-renderin"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.frieze-like-structure-with-broken-upper-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-exposed-modular-conduits-clean-high-techn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-fluorescent-practicals-contained-in-a-localized-"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-shadows-with-pearl-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with precise labeled details visual style, frieze-like structure with broken upper balance composition, slate-blue shadows with pearl highlights cinematic palette, crisp shadow edges from fluorescent practicals, contained in a localized pool 872b8c0da7bf"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with precise labeled details visual style, reflectional structure with strict symmetry composition, teal shadows with coral highlights cinematic palette, controlled high contrast from fluorescent practicals, broken by foreground shapes 8ec19cf33380"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.8ec19cf33380",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-wide-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflectional-structure-with-strict-symmetry-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-stacked-utility-modules-clean-high-techno"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-broken-by-foregroun"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with precise labeled details visual style, reflectional structure with strict symmetry composition, teal shadows with coral highlights cinematic palette, controlled high contrast from fluorescent practicals, broken by foreground shapes 8ec19cf33380"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with fine ink notation visual style, kaleidoscopic structure with alternating detail rhythm composition, violet shadows with rose highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, creating a luminous frame b078fc93d4d5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.b078fc93d4d5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-stopped-down-aperture-neutral-optical-renderin"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.kaleidoscopic-structure-with-alternating-detail-rhythm-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-stacked-utility-modules-weathered-utilita"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-creating-a-luminous"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-fine-ink-notation-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with fine ink notation visual style, kaleidoscopic structure with alternating detail rhythm composition, violet shadows with rose highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, creating a luminous frame b078fc93d4d5"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with precise labeled details visual style, radial structure with broken lower balance composition, olive shadows with rose highlights cinematic palette, soft diffusion from fluorescent practicals, falling off into shadow cc253410f8ad"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.cc253410f8ad",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-wide-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.radial-structure-with-broken-lower-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-pressurized-access-corridors-clean-high-t"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with precise labeled details visual style, radial structure with broken lower balance composition, olive shadows with rose highlights cinematic palette, soft diffusion from fluorescent practicals, falling off into shadow cc253410f8ad"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with precise labeled details visual style, emblematic structure with single offset accent composition, teal shadows with cyan highlights cinematic palette, crisp shadow edges from fluorescent practicals, spilling into the background cea3246fb9e8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.cea3246fb9e8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-mid-range-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.emblematic-structure-with-single-offset-accent-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-autonomous-service-drones-credible-near-f"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-fluorescent-practicals-spilling-into-the-backgro"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-cyan-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with precise labeled details visual style, emblematic structure with single offset accent composition, teal shadows with cyan highlights cinematic palette, crisp shadow edges from fluorescent practicals, spilling into the background cea3246fb9e8"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with clean measured lines visual style, altar-like structure with soft asymmetry composition, cobalt shadows with copper highlights cinematic palette, crisp shadow edges from fluorescent practicals, layered across depth planes d5012c7ce8ba"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.d5012c7ce8ba",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-mid-range-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.altar-like-structure-with-soft-asymmetry-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-exposed-modular-conduits-weathered-utilit"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-fluorescent-practicals-layered-across-depth-plan"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-clean-measured-lines-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with clean measured lines visual style, altar-like structure with soft asymmetry composition, cobalt shadows with copper highlights cinematic palette, crisp shadow edges from fluorescent practicals, layered across depth planes d5012c7ce8ba"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with aged paper texture visual style, emblematic structure with strict symmetry composition, cobalt shadows with rose highlights cinematic palette, soft diffusion from fluorescent practicals, falling off into shadow d518fa5a39fd"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.d518fa5a39fd",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-wide-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.emblematic-structure-with-strict-symmetry-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-autonomous-service-drones-weathered-utili"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-aged-paper-texture-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with aged paper texture visual style, emblematic structure with strict symmetry composition, cobalt shadows with rose highlights cinematic palette, soft diffusion from fluorescent practicals, falling off into shadow d518fa5a39fd"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with muted wash accents visual style, bilateral structure with broken upper balance composition, black-cherry shadows with amber highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, focused on the subject plane d9eb03ea4c51"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.d9eb03ea4c51",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-wide-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-broken-upper-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-layered-maintenance-gantries-weathered-ut"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-focused-on-the-subj"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.black-cherry-shadows-with-amber-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-muted-wash-accents-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with muted wash accents visual style, bilateral structure with broken upper balance composition, black-cherry shadows with amber highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, focused on the subject plane d9eb03ea4c51"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with muted wash accents visual style, emblematic structure with strict symmetry composition, cobalt shadows with copper highlights cinematic palette, soft diffusion from fluorescent practicals, spilling into the background e2c0dd81a063"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.e2c0dd81a063",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-stopped-down-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.emblematic-structure-with-strict-symmetry-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-layered-maintenance-gantries-weathered-ut"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-muted-wash-accents-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with muted wash accents visual style, emblematic structure with strict symmetry composition, cobalt shadows with copper highlights cinematic palette, soft diffusion from fluorescent practicals, spilling into the background e2c0dd81a063"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with clean measured lines visual style, frieze-like structure with paired counterweights composition, violet shadows with pearl highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, grazing textured surfaces e400d892c484"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.e400d892c484",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-stopped-down-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.frieze-like-structure-with-paired-counterweights-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-stacked-utility-modules-credible-near-fut"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-grazing-textured-su"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-shadows-with-pearl-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-clean-measured-lines-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with clean measured lines visual style, frieze-like structure with paired counterweights composition, violet shadows with pearl highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, grazing textured surfaces e400d892c484"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with soft graphite shading visual style, axial structure with single offset accent composition, cobalt shadows with coral highlights cinematic palette, soft diffusion from fluorescent practicals, reflected from nearby surfaces e5312159d378"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.e5312159d378",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.axial-structure-with-single-offset-accent-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-magnetic-transit-rails-weathered-utilitar"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-reflected-from-nearby-surface"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-soft-graphite-shading-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with soft graphite shading visual style, axial structure with single offset accent composition, cobalt shadows with coral highlights cinematic palette, soft diffusion from fluorescent practicals, reflected from nearby surfaces e5312159d378"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with clean measured lines visual style, rotational structure with single offset accent composition, teal shadows with copper highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, grazing textured surfaces e64412c85766"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.e64412c85766",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-mid-range-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.rotational-structure-with-single-offset-accent-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-exposed-modular-conduits-clean-high-techn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-grazing-textured-su"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-clean-measured-lines-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with clean measured lines visual style, rotational structure with single offset accent composition, teal shadows with copper highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, grazing textured surfaces e64412c85766"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with selective color coding visual style, architectural structure with single offset accent composition, indigo shadows with coral highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, grazing textured surfaces e7be00f09e1a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.e7be00f09e1a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-wide-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.architectural-structure-with-single-offset-accent-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-layered-maintenance-gantries-clean-high-t"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-grazing-textured-su"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-selective-color-coding-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with selective color coding visual style, architectural structure with single offset accent composition, indigo shadows with coral highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, grazing textured surfaces e7be00f09e1a"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with fine ink notation visual style, portal-centered structure with paired counterweights composition, burgundy shadows with coral highlights cinematic palette, soft diffusion from fluorescent practicals, contained in a localized pool f246feb0b693"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.f246feb0b693",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-stopped-down-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.portal-centered-structure-with-paired-counterweights-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-holographic-navigation-panels-clean-high-"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-fine-ink-notation-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with fine ink notation visual style, portal-centered structure with paired counterweights composition, burgundy shadows with coral highlights cinematic palette, soft diffusion from fluorescent practicals, contained in a localized pool f246feb0b693"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "orbital utility future featuring concept-design sheet with bold silhouette overlays visual style, bilateral structure with centered void composition, plum shadows with mint highlights cinematic palette, controlled high contrast from fluorescent practicals, spilling into the background fa457c2a832b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.orbital-utility-future",
+      "familyTriggers": [
+        "orbital utility future direction",
+        "credible generation-ship treatment",
+        "functional orbital concourse"
+      ],
+      "id": "phase8.art.environment.orbital-utility-future.fa457c2a832b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-moderate-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-centered-void-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.generation-ship-concourse-with-holographic-navigation-panels-clean-high-"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-spilling-into-the-b"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-bold-silhouette-overlays-visual-style"
+        ]
+      },
+      "name": "Orbital Utility Future 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.orbital-utility-future",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "orbital infrastructure order",
+        "fluorescent future utility",
+        "credible station symmetry"
+      ],
+      "triggers": [
+        "orbital utility future featuring concept-design sheet with bold silhouette overlays visual style, bilateral structure with centered void composition, plum shadows with mint highlights cinematic palette, controlled high contrast from fluorescent practicals, spilling into the background fa457c2a832b"
+      ],
+      "variantIndex": 19
+    }
+  ],
+  "schemaVersion": 2
+}

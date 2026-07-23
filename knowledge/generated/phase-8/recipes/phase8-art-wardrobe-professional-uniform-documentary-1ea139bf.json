@@ -1,0 +1,1904 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+  "fingerprint": "f15ba29aa13e657c7f53c73e1f3068def126bc43de67ee0e4282770b8cd733f5",
+  "recipes": [
+    {
+      "aliases": [
+        "professional uniform documentary featuring daguerreotype with luminous highlights photographic style, face close-up with off-axis tension composition, raw umber with malachite green mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, grazing textured surfaces 08e020ce5e2b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.08e020ce5e2b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.face-close-up-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-deep-room-perspective-warm-observational-atmosp"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-grazing-textured-su"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.raw-umber-with-malachite-green-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.daguerreotype-with-luminous-highlights-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-washable-stain-release-fabric-commercial-kitc"
+        ]
+      },
+      "name": "Professional Uniform Documentary 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring daguerreotype with luminous highlights photographic style, face close-up with off-axis tension composition, raw umber with malachite green mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, grazing textured surfaces 08e020ce5e2b"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring cyanotype with deep shadow detail photographic style, head-and-shoulders with off-axis tension composition, volcanic black with turquoise blue mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, grazing textured surfaces 0e05e4f408be"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.0e05e4f408be",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-ceiling-to-floor-detail-calm-inhabited-atmosphe"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-grazing-textured-su"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.volcanic-black-with-turquoise-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cyanotype-with-deep-shadow-detail-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-articulated-sleeves-for-reach-medical-clinic-"
+        ]
+      },
+      "name": "Professional Uniform Documentary 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring cyanotype with deep shadow detail photographic style, head-and-shoulders with off-axis tension composition, volcanic black with turquoise blue mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, grazing textured surfaces 0e05e4f408be"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring expired color film with centered period framing photographic style, over-shoulder portrait with diagonal counterweight composition, peat brown with malachite green mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, reflected from nearby surfaces 0e9905ab0872"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.0e9905ab0872",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.over-shoulder-portrait-with-diagonal-counterweight-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-foreground-object-framing-polished-editorial-at"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-reflected-from-near"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peat-brown-with-malachite-green-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-centered-period-framing-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-lined-structured-collar-workshop-mechanic-cov"
+        ]
+      },
+      "name": "Professional Uniform Documentary 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring expired color film with centered period framing photographic style, over-shoulder portrait with diagonal counterweight composition, peat brown with malachite green mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, reflected from nearby surfaces 0e9905ab0872"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring albumen print with soft edge falloff photographic style, full-length portrait with diagonal counterweight composition, burnt sienna with mica silver mineral-earth palette, soft diffusion from fluorescent practicals, reflected from nearby surfaces 1fd30ef1ee87"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.1fd30ef1ee87",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-mid-range-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-diagonal-counterweight-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-deep-room-perspective-polished-editorial-atmosp"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-reflected-from-nearby-surface"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burnt-sienna-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.albumen-print-with-soft-edge-falloff-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-pen-loops-and-small-tool-pocket-rail-conducto"
+        ]
+      },
+      "name": "Professional Uniform Documentary 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring albumen print with soft edge falloff photographic style, full-length portrait with diagonal counterweight composition, burnt sienna with mica silver mineral-earth palette, soft diffusion from fluorescent practicals, reflected from nearby surfaces 1fd30ef1ee87"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring cyanotype with toned highlight bloom photographic style, head-and-shoulders with right-weighted balance composition, loam olive with mica silver mineral-earth palette, soft diffusion from fluorescent practicals, focused on the subject plane 26d2f84348d5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.26d2f84348d5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-right-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-an-intimate-corner-composition-calm-inhabited-a"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.loam-olive-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cyanotype-with-toned-highlight-bloom-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-stretch-side-panels-laboratory-coat-work-trou"
+        ]
+      },
+      "name": "Professional Uniform Documentary 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring cyanotype with toned highlight bloom photographic style, head-and-shoulders with right-weighted balance composition, loam olive with mica silver mineral-earth palette, soft diffusion from fluorescent practicals, focused on the subject plane 26d2f84348d5"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring daguerreotype with soft edge falloff photographic style, walking portrait with centered balance composition, desert rose with mica silver mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, focused on the subject plane 337f3f7b2667"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.337f3f7b2667",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-mid-range-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.walking-portrait-with-centered-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-ceiling-to-floor-detail-polished-editorial-atmo"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-focused-on-the-subj"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.desert-rose-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.daguerreotype-with-soft-edge-falloff-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-clearly-placed-name-badge-postal-sorting-over"
+        ]
+      },
+      "name": "Professional Uniform Documentary 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring daguerreotype with soft edge falloff photographic style, walking portrait with centered balance composition, desert rose with mica silver mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, focused on the subject plane 337f3f7b2667"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring daguerreotype with centered period framing photographic style, full-length portrait with diagonal counterweight composition, adobe orange with mica silver mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, grazing textured surfaces 480368cbf335"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.480368cbf335",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-diagonal-counterweight-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-repeating-structural-rhythm-calm-inhabited-atmo"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-grazing-textured-su"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.adobe-orange-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.daguerreotype-with-centered-period-framing-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-stretch-side-panels-horticultural-staff-shirt"
+        ]
+      },
+      "name": "Professional Uniform Documentary 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring daguerreotype with centered period framing photographic style, full-length portrait with diagonal counterweight composition, adobe orange with mica silver mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, grazing textured surfaces 480368cbf335"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring salt print with fine surface grain photographic style, seated portrait with mirrored side balance composition, volcanic black with turquoise blue mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, layered across depth planes 4eef57e6a06c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.4eef57e6a06c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.seated-portrait-with-mirrored-side-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-deep-room-perspective-warm-observational-atmosp"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-layered-across-dept"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.volcanic-black-with-turquoise-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.salt-print-with-fine-surface-grain-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-lined-structured-collar-medical-clinic-tunic-"
+        ]
+      },
+      "name": "Professional Uniform Documentary 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring salt print with fine surface grain photographic style, seated portrait with mirrored side balance composition, volcanic black with turquoise blue mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, layered across depth planes 4eef57e6a06c"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring cyanotype with fine surface grain photographic style, over-shoulder portrait with right-weighted balance composition, chalk white with mica silver mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, spilling into the background 4f03d33a6396"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.4f03d33a6396",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.over-shoulder-portrait-with-right-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-ceiling-to-floor-detail-calm-inhabited-atmosphe"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-spilling-into-the-b"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.chalk-white-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cyanotype-with-fine-surface-grain-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-washable-stain-release-fabric-postal-sorting-"
+        ]
+      },
+      "name": "Professional Uniform Documentary 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring cyanotype with fine surface grain photographic style, over-shoulder portrait with right-weighted balance composition, chalk white with mica silver mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, spilling into the background 4f03d33a6396"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring cyanotype with deep shadow detail photographic style, over-shoulder portrait with mirrored side balance composition, volcanic black with mica silver mineral-earth palette, soft diffusion from fluorescent practicals, reflected from nearby surfaces 5304e82561a6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.5304e82561a6",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.over-shoulder-portrait-with-mirrored-side-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-foreground-object-framing-polished-editorial-at"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-reflected-from-nearby-surface"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.volcanic-black-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cyanotype-with-deep-shadow-detail-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-softly-padded-shoulder-support-medical-clinic"
+        ]
+      },
+      "name": "Professional Uniform Documentary 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring cyanotype with deep shadow detail photographic style, over-shoulder portrait with mirrored side balance composition, volcanic black with mica silver mineral-earth palette, soft diffusion from fluorescent practicals, reflected from nearby surfaces 5304e82561a6"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring wet-plate collodion with careful studio staging photographic style, reclining portrait with off-axis tension composition, volcanic black with turquoise blue mineral-earth palette, controlled high contrast from fluorescent practicals, contained in a localized pool 5c9d9b0cc6b8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.5c9d9b0cc6b8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-mid-range-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reclining-portrait-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-balanced-functional-clutter-calm-inhabited-atmo"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-contained-in-a-loca"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.volcanic-black-with-turquoise-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-careful-studio-staging-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-breathable-underarm-panels-laboratory-coat-wo"
+        ]
+      },
+      "name": "Professional Uniform Documentary 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring wet-plate collodion with careful studio staging photographic style, reclining portrait with off-axis tension composition, volcanic black with turquoise blue mineral-earth palette, controlled high contrast from fluorescent practicals, contained in a localized pool 5c9d9b0cc6b8"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring hand-tinted photograph with muted tonal range photographic style, reclining portrait with mirrored side balance composition, red sandstone with azurite blue mineral-earth palette, crisp shadow edges from fluorescent practicals, creating a luminous frame 6d74bc1d4de3"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.6d74bc1d4de3",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reclining-portrait-with-mirrored-side-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-layered-furniture-arrangement-warm-observationa"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-fluorescent-practicals-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.red-sandstone-with-azurite-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.hand-tinted-photograph-with-muted-tonal-range-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-pen-loops-and-small-tool-pocket-museum-attend"
+        ]
+      },
+      "name": "Professional Uniform Documentary 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring hand-tinted photograph with muted tonal range photographic style, reclining portrait with mirrored side balance composition, red sandstone with azurite blue mineral-earth palette, crisp shadow edges from fluorescent practicals, creating a luminous frame 6d74bc1d4de3"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring platinum print with luminous highlights photographic style, full-length portrait with off-axis tension composition, desert rose with fluorite violet mineral-earth palette, controlled high contrast from fluorescent practicals, creating a luminous frame 720bb23283b1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.720bb23283b1",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-an-intimate-corner-composition-warm-observation"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-creating-a-luminous"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.desert-rose-with-fluorite-violet-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-luminous-highlights-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-pen-loops-and-small-tool-pocket-museum-attend"
+        ]
+      },
+      "name": "Professional Uniform Documentary 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring platinum print with luminous highlights photographic style, full-length portrait with off-axis tension composition, desert rose with fluorite violet mineral-earth palette, controlled high contrast from fluorescent practicals, creating a luminous frame 720bb23283b1"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring bleach bypass film with fine surface grain photographic style, walking portrait with off-axis tension composition, ochre clay with quartz white mineral-earth palette, crisp shadow edges from fluorescent practicals, contained in a localized pool 7c7c8576b670"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.7c7c8576b670",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-mid-range-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.walking-portrait-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-ceiling-to-floor-detail-polished-editorial-atmo"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-fluorescent-practicals-contained-in-a-localized-"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ochre-clay-with-quartz-white-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.bleach-bypass-film-with-fine-surface-grain-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-durable-knee-reinforcement-workshop-mechanic-"
+        ]
+      },
+      "name": "Professional Uniform Documentary 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring bleach bypass film with fine surface grain photographic style, walking portrait with off-axis tension composition, ochre clay with quartz white mineral-earth palette, crisp shadow edges from fluorescent practicals, contained in a localized pool 7c7c8576b670"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring albumen print with muted tonal range photographic style, walking portrait with centered balance composition, basalt gray with quartz white mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, spilling into the background 85fd406b9066"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.85fd406b9066",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.walking-portrait-with-centered-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-a-clear-central-walkway-polished-editorial-atmo"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-spilling-into-the-b"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.basalt-gray-with-quartz-white-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.albumen-print-with-muted-tonal-range-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-articulated-sleeves-for-reach-workshop-mechan"
+        ]
+      },
+      "name": "Professional Uniform Documentary 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring albumen print with muted tonal range photographic style, walking portrait with centered balance composition, basalt gray with quartz white mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, spilling into the background 85fd406b9066"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring instant film with soft edge falloff photographic style, head-and-shoulders with right-weighted balance composition, terracotta with azurite blue mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, focused on the subject plane 862d047646ad"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.862d047646ad",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-right-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-deep-room-perspective-polished-editorial-atmosp"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-focused-on-the-subj"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.terracotta-with-azurite-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-soft-edge-falloff-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-spare-button-and-repair-tabs-medical-clinic-t"
+        ]
+      },
+      "name": "Professional Uniform Documentary 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring instant film with soft edge falloff photographic style, head-and-shoulders with right-weighted balance composition, terracotta with azurite blue mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, focused on the subject plane 862d047646ad"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring hand-tinted photograph with deep shadow detail photographic style, waist-up portrait with diagonal counterweight composition, adobe orange with mica silver mineral-earth palette, crisp shadow edges from fluorescent practicals, creating a luminous frame 954c95ad4700"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.954c95ad4700",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-diagonal-counterweight-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-deep-room-perspective-warm-observational-atmosp"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-fluorescent-practicals-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.adobe-orange-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.hand-tinted-photograph-with-deep-shadow-detail-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-reinforced-stress-point-stitching-cleaning-se"
+        ]
+      },
+      "name": "Professional Uniform Documentary 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring hand-tinted photograph with deep shadow detail photographic style, waist-up portrait with diagonal counterweight composition, adobe orange with mica silver mineral-earth palette, crisp shadow edges from fluorescent practicals, creating a luminous frame 954c95ad4700"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring instant film with centered period framing photographic style, over-shoulder portrait with upper negative space composition, adobe orange with turquoise blue mineral-earth palette, controlled high contrast from fluorescent practicals, spilling into the background 9b30ec67d4e0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.9b30ec67d4e0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-stopped-down-aperture-controlled-highlight-bl"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.over-shoulder-portrait-with-upper-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-an-intimate-corner-composition-polished-editori"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-spilling-into-the-b"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.adobe-orange-with-turquoise-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-centered-period-framing-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-wrinkle-resistant-travel-fabric-postal-sortin"
+        ]
+      },
+      "name": "Professional Uniform Documentary 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring instant film with centered period framing photographic style, over-shoulder portrait with upper negative space composition, adobe orange with turquoise blue mineral-earth palette, controlled high contrast from fluorescent practicals, spilling into the background 9b30ec67d4e0"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring platinum print with deep shadow detail photographic style, head-and-shoulders with right-weighted balance composition, loam olive with malachite green mineral-earth palette, controlled high contrast from fluorescent practicals, grazing textured surfaces b20ded3fb5d8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.b20ded3fb5d8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-right-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-a-clear-central-walkway-polished-editorial-atmo"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-grazing-textured-su"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.loam-olive-with-malachite-green-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-deep-shadow-detail-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-breathable-underarm-panels-museum-attendant-b"
+        ]
+      },
+      "name": "Professional Uniform Documentary 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring platinum print with deep shadow detail photographic style, head-and-shoulders with right-weighted balance composition, loam olive with malachite green mineral-earth palette, controlled high contrast from fluorescent practicals, grazing textured surfaces b20ded3fb5d8"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring cyanotype with fine surface grain photographic style, face close-up with lower visual anchor composition, chalk white with fluorite violet mineral-earth palette, soft diffusion from fluorescent practicals, layered across depth planes b2bcbf1b9900"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.b2bcbf1b9900",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.face-close-up-with-lower-visual-anchor-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-layered-furniture-arrangement-polished-editoria"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.chalk-white-with-fluorite-violet-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cyanotype-with-fine-surface-grain-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-softly-padded-shoulder-support-rail-conductor"
+        ]
+      },
+      "name": "Professional Uniform Documentary 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring cyanotype with fine surface grain photographic style, face close-up with lower visual anchor composition, chalk white with fluorite violet mineral-earth palette, soft diffusion from fluorescent practicals, layered across depth planes b2bcbf1b9900"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring wet-plate collodion with centered period framing photographic style, reclining portrait with left-weighted balance composition, adobe orange with cinnabar red mineral-earth palette, soft diffusion from fluorescent practicals, creating a luminous frame c3330e430074"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.c3330e430074",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-mid-range-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reclining-portrait-with-left-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-strong-architectural-symmetry-warm-observationa"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.adobe-orange-with-cinnabar-red-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-centered-period-framing-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-easy-clean-matte-hardware-workshop-mechanic-c"
+        ]
+      },
+      "name": "Professional Uniform Documentary 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring wet-plate collodion with centered period framing photographic style, reclining portrait with left-weighted balance composition, adobe orange with cinnabar red mineral-earth palette, soft diffusion from fluorescent practicals, creating a luminous frame c3330e430074"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring wet-plate collodion with careful studio staging photographic style, seated portrait with right-weighted balance composition, basalt gray with pyrite gold mineral-earth palette, controlled high contrast from fluorescent practicals, broken by foreground shapes c76dd1bd8caa"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.c76dd1bd8caa",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-mid-range-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.seated-portrait-with-right-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-repeating-structural-rhythm-warm-observational-"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-broken-by-foregroun"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.basalt-gray-with-pyrite-gold-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-careful-studio-staging-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-breathable-underarm-panels-horticultural-staf"
+        ]
+      },
+      "name": "Professional Uniform Documentary 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring wet-plate collodion with careful studio staging photographic style, seated portrait with right-weighted balance composition, basalt gray with pyrite gold mineral-earth palette, controlled high contrast from fluorescent practicals, broken by foreground shapes c76dd1bd8caa"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring albumen print with careful studio staging photographic style, bust portrait with diagonal counterweight composition, loam olive with azurite blue mineral-earth palette, controlled high contrast from fluorescent practicals, spilling into the background e5a062a23f99"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.e5a062a23f99",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bust-portrait-with-diagonal-counterweight-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-ceiling-to-floor-detail-warm-observational-atmo"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-spilling-into-the-b"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.loam-olive-with-azurite-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.albumen-print-with-careful-studio-staging-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-pen-loops-and-small-tool-pocket-workshop-mech"
+        ]
+      },
+      "name": "Professional Uniform Documentary 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring albumen print with careful studio staging photographic style, bust portrait with diagonal counterweight composition, loam olive with azurite blue mineral-earth palette, controlled high contrast from fluorescent practicals, spilling into the background e5a062a23f99"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "professional uniform documentary featuring albumen print with soft edge falloff photographic style, three-quarter portrait with off-axis tension composition, adobe orange with azurite blue mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, focused on the subject plane f351a488d556"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.professional-uniform-documentary",
+      "familyTriggers": [
+        "professional uniform documentary direction",
+        "working-role portrait story",
+        "functional uniform reportage"
+      ],
+      "id": "phase8.art.wardrobe.professional-uniform-documentary.f351a488d556",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-mid-range-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.three-quarter-portrait-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-workshop-with-an-intimate-corner-composition-polished-editori"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-focused-on-the-subj"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.adobe-orange-with-azurite-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.albumen-print-with-soft-edge-falloff-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.complete-work-uniform-with-breathable-underarm-panels-cleaning-service-t"
+        ]
+      },
+      "name": "Professional Uniform Documentary 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.professional-uniform-documentary",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "role-readable complete uniform",
+        "workplace documentary realism",
+        "functional garment clarity"
+      ],
+      "triggers": [
+        "professional uniform documentary featuring albumen print with soft edge falloff photographic style, three-quarter portrait with off-axis tension composition, adobe orange with azurite blue mineral-earth palette, gentle atmospheric bloom from fluorescent practicals, focused on the subject plane f351a488d556"
+      ],
+      "variantIndex": 15
+    }
+  ],
+  "schemaVersion": 2
+}

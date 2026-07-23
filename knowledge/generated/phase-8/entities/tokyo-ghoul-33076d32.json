@@ -1,0 +1,249 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Eto Yoshimura",
+        "Eto Yoshimura (Tokyo Ghoul)"
+      ],
+      "id": "character.tokyo-ghoul.eto-yoshimura",
+      "kind": "named-character",
+      "name": "Eto Yoshimura",
+      "namespace": "Tokyo Ghoul",
+      "promptTags": [
+        "Eto Yoshimura",
+        "Tokyo Ghoul",
+        "female",
+        "ghoul leader"
+      ],
+      "provenance": {
+        "groupId": "tokyo-ghoul",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "ghoul",
+        "leader"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Hideyoshi Nagachika",
+        "Hideyoshi Nagachika (Tokyo Ghoul)"
+      ],
+      "id": "character.tokyo-ghoul.hideyoshi-nagachika",
+      "kind": "named-character",
+      "name": "Hideyoshi Nagachika",
+      "namespace": "Tokyo Ghoul",
+      "promptTags": [
+        "Hideyoshi Nagachika",
+        "Tokyo Ghoul",
+        "male",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "tokyo-ghoul",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "student",
+        "ally"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Juuzou Suzuya",
+        "Juuzou Suzuya (Tokyo Ghoul)"
+      ],
+      "id": "character.tokyo-ghoul.juuzou-suzuya",
+      "kind": "named-character",
+      "name": "Juuzou Suzuya",
+      "namespace": "Tokyo Ghoul",
+      "promptTags": [
+        "Juuzou Suzuya",
+        "Tokyo Ghoul",
+        "male",
+        "ghoul investigator"
+      ],
+      "provenance": {
+        "groupId": "tokyo-ghoul",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "investigator"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Ken Kaneki",
+        "Ken Kaneki (Tokyo Ghoul)"
+      ],
+      "id": "character.tokyo-ghoul.ken-kaneki",
+      "kind": "named-character",
+      "name": "Ken Kaneki",
+      "namespace": "Tokyo Ghoul",
+      "promptTags": [
+        "Ken Kaneki",
+        "Tokyo Ghoul",
+        "male",
+        "ghoul"
+      ],
+      "provenance": {
+        "groupId": "tokyo-ghoul",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "ghoul"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Koutarou Amon",
+        "Koutarou Amon (Tokyo Ghoul)"
+      ],
+      "id": "character.tokyo-ghoul.koutarou-amon",
+      "kind": "named-character",
+      "name": "Koutarou Amon",
+      "namespace": "Tokyo Ghoul",
+      "promptTags": [
+        "Koutarou Amon",
+        "Tokyo Ghoul",
+        "male",
+        "ghoul investigator"
+      ],
+      "provenance": {
+        "groupId": "tokyo-ghoul",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "investigator"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Rize Kamishiro",
+        "Rize Kamishiro (Tokyo Ghoul)"
+      ],
+      "id": "character.tokyo-ghoul.rize-kamishiro",
+      "kind": "named-character",
+      "name": "Rize Kamishiro",
+      "namespace": "Tokyo Ghoul",
+      "promptTags": [
+        "Rize Kamishiro",
+        "Tokyo Ghoul",
+        "female",
+        "ghoul"
+      ],
+      "provenance": {
+        "groupId": "tokyo-ghoul",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "ghoul"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Touka Kirishima",
+        "Touka Kirishima (Tokyo Ghoul)"
+      ],
+      "id": "character.tokyo-ghoul.touka-kirishima",
+      "kind": "named-character",
+      "name": "Touka Kirishima",
+      "namespace": "Tokyo Ghoul",
+      "promptTags": [
+        "Touka Kirishima",
+        "Tokyo Ghoul",
+        "female",
+        "ghoul"
+      ],
+      "provenance": {
+        "groupId": "tokyo-ghoul",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "ghoul"
+      ]
+    }
+  ],
+  "fingerprint": "45aec755b2bc22ea98dea36311e8b388d78b6b06e825b4aaa393026c3deba6de",
+  "namespace": "Tokyo Ghoul",
+  "schemaVersion": 2
+}

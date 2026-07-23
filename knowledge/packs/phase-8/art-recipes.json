@@ -1,0 +1,801 @@
+{
+  "schemaVersion": 1,
+  "packType": "recipes",
+  "packId": "phase8.art-recipes",
+  "source": "phase-8-art-recipes",
+  "families": [
+    {
+      "id": "phase8.art.media.paper-relief-atelier",
+      "name": "Paper Relief Atelier",
+      "category": "physical-media-render",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting"],
+      "ingredientSelectors": {
+        "style": { "families": ["paper-craft"], "groups": ["style.paper-craft"], "traitsAll": ["visual-language", "phase-8", "paper-craft", "handmade"] },
+        "composition": { "families": ["panel-linkage"], "groups": ["composition.panel"], "traitsAll": ["visual-language", "phase-8", "panel-composition", "visual-continuity"] },
+        "palette": { "families": ["print-ink-paper"], "groups": ["palette.print"], "traitsAll": ["visual-language", "phase-8", "print-color", "paper-tone"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["projector beam"] }
+      },
+      "triggers": ["paper relief atelier direction", "layered cut-paper staging", "handmade paper depth treatment"],
+      "signals": ["paper-edge layering", "fiber-shadow relief", "cut-paper continuity"]
+    },
+    {
+      "id": "phase8.art.media.gouache-storybook",
+      "name": "Gouache Storybook",
+      "category": "physical-media-render",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting"],
+      "ingredientSelectors": {
+        "style": { "families": ["paint-handling"], "groups": ["style.paint"], "traitsAll": ["visual-language", "phase-8", "painting", "brushwork"], "promptIncludes": ["opaque gouache"] },
+        "composition": { "families": ["landscape-depth"], "groups": ["composition.landscape"], "traitsAll": ["visual-language", "phase-8", "landscape-composition", "depth"] },
+        "palette": { "families": ["botanical-bloom"], "groups": ["palette.botanical"], "traitsAll": ["visual-language", "phase-8", "botanical-color", "natural-palette"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["window daylight"] }
+      },
+      "triggers": ["gouache storybook direction", "opaque painted fable", "matte brushwork narrative"],
+      "signals": ["gouache-shape blocking", "storybook landscape depth", "matte botanical color"]
+    },
+    {
+      "id": "phase8.art.media.copperplate-shadow-print",
+      "name": "Copperplate Shadow Print",
+      "category": "physical-media-render",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting"],
+      "ingredientSelectors": {
+        "style": { "families": ["printmaking-process"], "groups": ["style.printmaking"], "traitsAll": ["visual-language", "phase-8", "printmaking", "physical-media"], "promptIncludes": ["copper engraving"] },
+        "composition": { "families": ["directional-flow"], "groups": ["composition.flow"], "traitsAll": ["visual-language", "phase-8", "directional-composition", "visual-flow"] },
+        "palette": { "families": ["monochrome-range"], "groups": ["palette.monochrome"], "traitsAll": ["visual-language", "phase-8", "monochrome", "tonal-palette"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["doorway spill"] }
+      },
+      "triggers": ["copperplate shadow direction", "engraved directional drama", "intaglio tonal staging"],
+      "signals": ["engraved crosshatch flow", "plate-shadow contrast", "monochrome intaglio rhythm"]
+    },
+    {
+      "id": "phase8.art.media.woven-chronicle",
+      "name": "Woven Chronicle",
+      "category": "physical-media-render",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting"],
+      "ingredientSelectors": {
+        "style": { "families": ["textile-illustration"], "groups": ["style.textile"], "traitsAll": ["visual-language", "phase-8", "textile", "craft"] },
+        "composition": { "families": ["panel-linkage"], "groups": ["composition.panel"], "traitsAll": ["visual-language", "phase-8", "panel-composition", "visual-continuity"] },
+        "palette": { "families": ["seasonal-highlight"], "groups": ["palette.seasonal"], "traitsAll": ["visual-language", "phase-8", "seasonal-color", "highlight-color"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["softbox array"] }
+      },
+      "triggers": ["woven chronicle direction", "textile narrative bands", "tapestry panel storytelling"],
+      "signals": ["stitched-panel cadence", "woven seasonal color", "fabric-relief narrative"]
+    },
+    {
+      "id": "phase8.art.media.platinum-silver-portrait",
+      "name": "Platinum Silver Portrait",
+      "category": "physical-media-render",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera"],
+      "ingredientSelectors": {
+        "style": { "families": ["analog-photographic-process"], "groups": ["style.photographic-process"], "traitsAll": ["visual-language", "phase-8", "photography", "analog-process"], "promptIncludes": ["platinum print"] },
+        "composition": { "families": ["portrait-balance"], "groups": ["composition.portrait"], "traitsAll": ["visual-language", "phase-8", "portrait-composition", "balance"], "promptIncludes": ["head-and-shoulders"] },
+        "palette": { "families": ["monochrome-range"], "groups": ["palette.monochrome"], "traitsAll": ["visual-language", "phase-8", "monochrome", "tonal-palette"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["softbox array"] },
+        "camera": { "families": ["scene-craft-shot-size"], "groups": ["camera.shot-size"], "traitsAll": ["scene-craft", "phase-8", "camera", "shot-size"], "promptIncludes": ["medium close-up"] }
+      },
+      "triggers": ["platinum silver portrait direction", "platinum print character study", "analog silver studio portrait"],
+      "signals": ["platinum tonal restraint", "silver-process portrait balance", "studio analog finish"]
+    },
+    {
+      "id": "phase8.art.media.sumi-ink-stillness",
+      "name": "Sumi Ink Stillness",
+      "category": "physical-media-render",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting"],
+      "ingredientSelectors": {
+        "style": { "families": ["ink-illustration"], "groups": ["style.ink"], "traitsAll": ["visual-language", "phase-8", "ink", "illustration"], "promptIncludes": ["sumi-e ink"] },
+        "composition": { "families": ["negative-space-field"], "groups": ["composition.negative-space"], "traitsAll": ["visual-language", "phase-8", "negative-space", "visual-balance"] },
+        "palette": { "families": ["print-ink-paper"], "groups": ["palette.print"], "traitsAll": ["visual-language", "phase-8", "print-color", "paper-tone"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["window daylight"] }
+      },
+      "triggers": ["sumi ink stillness direction", "restrained ink-and-void treatment", "quiet brush ink staging"],
+      "signals": ["sumi breathing room", "ink-wash restraint", "paper-void balance"]
+    },
+    {
+      "id": "phase8.art.media.cloisonne-tableau",
+      "name": "Cloisonne Tableau",
+      "category": "physical-media-render",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting"],
+      "ingredientSelectors": {
+        "style": { "families": ["decorative-surface"], "groups": ["style.decorative-surface"], "traitsAll": ["visual-language", "phase-8", "decorative-art", "material-style"], "promptIncludes": ["cloisonne enamel"] },
+        "composition": { "families": ["symmetry-variation"], "groups": ["composition.symmetry"], "traitsAll": ["visual-language", "phase-8", "symmetry", "balance"] },
+        "palette": { "families": ["gemstone-metal"], "groups": ["palette.gemstone"], "traitsAll": ["visual-language", "phase-8", "gemstone-color", "metal-accent"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["ceiling skylight"] }
+      },
+      "triggers": ["cloisonne tableau direction", "enameled jewel-surface staging", "metal-cell decorative tableau"],
+      "signals": ["enamel-cell contours", "gem-metal symmetry", "luminous cloisonne surface"]
+    },
+    {
+      "id": "phase8.art.media.museum-reconstruction-plate",
+      "name": "Museum Reconstruction Plate",
+      "category": "physical-media-render",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting"],
+      "ingredientSelectors": {
+        "style": { "families": ["drafted-visual"], "groups": ["style.drafting"], "traitsAll": ["visual-language", "phase-8", "drafting", "diagrammatic-style"], "promptIncludes": ["museum reconstruction"] },
+        "composition": { "families": ["symmetry-variation"], "groups": ["composition.symmetry"], "traitsAll": ["visual-language", "phase-8", "symmetry", "balance"] },
+        "palette": { "families": ["mineral-earth"], "groups": ["palette.mineral-earth"], "traitsAll": ["visual-language", "phase-8", "earth-color", "mineral-accent"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["softbox array"] }
+      },
+      "triggers": ["museum reconstruction plate direction", "archival drafted tableau", "measured historical plate treatment"],
+      "signals": ["reconstruction line discipline", "archival earth notation", "museum-plate hierarchy"]
+    },
+    {
+      "id": "phase8.art.camera.intimate-close-focus",
+      "name": "Intimate Close Focus",
+      "category": "camera-composition-grammar",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera"],
+      "ingredientSelectors": {
+        "style": { "families": ["analog-photographic-process"], "groups": ["style.photographic-process"], "traitsAll": ["visual-language", "phase-8", "photography", "analog-process"], "promptIncludes": ["instant film"] },
+        "composition": { "families": ["portrait-balance"], "groups": ["composition.portrait"], "traitsAll": ["visual-language", "phase-8", "portrait-composition", "balance"], "promptIncludes": ["head-and-shoulders"] },
+        "palette": { "families": ["soft-color-accent"], "groups": ["palette.soft-color"], "traitsAll": ["visual-language", "phase-8", "soft-color", "accent-palette"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["window daylight"] },
+        "camera": { "families": ["scene-craft-shot-size"], "groups": ["camera.shot-size"], "traitsAll": ["scene-craft", "phase-8", "camera", "shot-size"], "promptIncludes": ["medium close-up"] }
+      },
+      "triggers": ["intimate close focus grammar", "close portrait proximity", "near-camera emotional framing"],
+      "signals": ["close-focus intimacy", "portrait crop attention", "soft near-field emphasis"]
+    },
+    {
+      "id": "phase8.art.camera.monumental-low-axis",
+      "name": "Monumental Low Axis",
+      "category": "camera-composition-grammar",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera"],
+      "ingredientSelectors": {
+        "style": { "families": ["paint-handling"], "groups": ["style.paint"], "traitsAll": ["visual-language", "phase-8", "painting", "brushwork"], "promptIncludes": ["digital impasto"] },
+        "composition": { "families": ["scale-contrast"], "groups": ["composition.scale"], "traitsAll": ["visual-language", "phase-8", "scale-contrast", "forced-depth"] },
+        "palette": { "families": ["gemstone-metal"], "groups": ["palette.gemstone"], "traitsAll": ["visual-language", "phase-8", "gemstone-color", "metal-accent"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["headlight beams"] },
+        "camera": { "families": ["scene-craft-angle"], "groups": ["camera.angle"], "traitsAll": ["scene-craft", "phase-8", "camera", "angle"], "promptIncludes": ["pronounced low angle"] }
+      },
+      "triggers": ["monumental low axis grammar", "heroic ground-up framing", "low-angle scale command"],
+      "signals": ["ground-axis dominance", "forced monumental scale", "upward visual pressure"]
+    },
+    {
+      "id": "phase8.art.camera.overhead-graphic-survey",
+      "name": "Overhead Graphic Survey",
+      "category": "camera-composition-grammar",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera"],
+      "ingredientSelectors": {
+        "style": { "families": ["drafted-visual"], "groups": ["style.drafting"], "traitsAll": ["visual-language", "phase-8", "drafting", "diagrammatic-style"], "promptIncludes": ["axonometric drawing"] },
+        "composition": { "families": ["radial-anchor"], "groups": ["composition.radial"], "traitsAll": ["visual-language", "phase-8", "radial-composition", "circular-flow"] },
+        "palette": { "families": ["print-ink-paper"], "groups": ["palette.print"], "traitsAll": ["visual-language", "phase-8", "print-color", "paper-tone"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["ceiling skylight"] },
+        "camera": { "families": ["scene-craft-angle"], "groups": ["camera.angle"], "traitsAll": ["scene-craft", "phase-8", "camera", "angle"], "promptIncludes": ["overhead"] }
+      },
+      "triggers": ["overhead graphic survey grammar", "top-down diagrammatic framing", "overhead radial inspection"],
+      "signals": ["survey-view geometry", "top-plane readability", "radial overhead order"]
+    },
+    {
+      "id": "phase8.art.camera.kinetic-lateral-track",
+      "name": "Kinetic Lateral Track",
+      "category": "camera-composition-grammar",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera"],
+      "ingredientSelectors": {
+        "style": { "families": ["animation-editorial"], "groups": ["style.animation-editorial"], "traitsAll": ["visual-language", "phase-8", "animation", "editorial-style"] },
+        "composition": { "families": ["directional-flow"], "groups": ["composition.flow"], "traitsAll": ["visual-language", "phase-8", "directional-composition", "visual-flow"] },
+        "palette": { "families": ["neon-night"], "groups": ["palette.neon-night"], "traitsAll": ["visual-language", "phase-8", "neon-color", "dark-base"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["streetlamp pool"] },
+        "camera": { "families": ["scene-craft-motion"], "groups": ["camera.motion"], "traitsAll": ["scene-craft", "phase-8", "camera", "motion"], "promptIncludes": ["leftward truck"] }
+      },
+      "triggers": ["kinetic lateral track grammar", "sideways motion framing", "lateral chase camera direction"],
+      "signals": ["lateral velocity line", "tracked side-motion", "neon directional sweep"]
+    },
+    {
+      "id": "phase8.art.camera.suspense-dutch-frame",
+      "name": "Suspense Dutch Frame",
+      "category": "camera-composition-grammar",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera"],
+      "ingredientSelectors": {
+        "style": { "families": ["ink-illustration"], "groups": ["style.ink"], "traitsAll": ["visual-language", "phase-8", "ink", "illustration"], "promptIncludes": ["scratchboard ink"] },
+        "composition": { "families": ["negative-space-field"], "groups": ["composition.negative-space"], "traitsAll": ["visual-language", "phase-8", "negative-space", "visual-balance"] },
+        "palette": { "families": ["monochrome-range"], "groups": ["palette.monochrome"], "traitsAll": ["visual-language", "phase-8", "monochrome", "tonal-palette"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["doorway spill"] },
+        "camera": { "families": ["scene-craft-tilt"], "groups": ["camera.tilt"], "traitsAll": ["scene-craft", "phase-8", "camera", "tilt", "dutch-angle"] }
+      },
+      "triggers": ["suspense dutch frame grammar", "tilted psychological framing", "off-axis tension direction"],
+      "signals": ["dutch-angle unease", "tilted shadow field", "off-balance suspense"]
+    },
+    {
+      "id": "phase8.art.camera.deep-focus-architecture",
+      "name": "Deep Focus Architecture",
+      "category": "camera-composition-grammar",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera"],
+      "ingredientSelectors": {
+        "style": { "families": ["drafted-visual"], "groups": ["style.drafting"], "traitsAll": ["visual-language", "phase-8", "drafting", "diagrammatic-style"], "promptIncludes": ["architectural blueprint"] },
+        "composition": { "families": ["symmetry-variation"], "groups": ["composition.symmetry"], "traitsAll": ["visual-language", "phase-8", "symmetry", "balance"] },
+        "palette": { "families": ["mineral-earth"], "groups": ["palette.mineral-earth"], "traitsAll": ["visual-language", "phase-8", "earth-color", "mineral-accent"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["ceiling skylight"] },
+        "camera": { "families": ["scene-craft-depth"], "groups": ["camera.depth"], "traitsAll": ["scene-craft", "phase-8", "camera", "depth"], "promptIncludes": ["deep focus"] }
+      },
+      "triggers": ["deep focus architecture grammar", "architectural depth-plane staging", "deep-focus structural view"],
+      "signals": ["deep structural legibility", "architectural plane separation", "measured vanishing depth"]
+    },
+    {
+      "id": "phase8.art.camera.environmental-wide-lens",
+      "name": "Environmental Wide Lens",
+      "category": "camera-composition-grammar",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera"],
+      "ingredientSelectors": {
+        "style": { "families": ["analog-photographic-process"], "groups": ["style.photographic-process"], "traitsAll": ["visual-language", "phase-8", "photography", "analog-process"] },
+        "composition": { "families": ["landscape-depth"], "groups": ["composition.landscape"], "traitsAll": ["visual-language", "phase-8", "landscape-composition", "depth"] },
+        "palette": { "families": ["coastal-weather"], "groups": ["palette.coastal"], "traitsAll": ["visual-language", "phase-8", "coastal-color", "weather-palette"] },
+        "lighting": { "ids": ["curated.lighting.diffused-overcast-light"] },
+        "camera": { "families": ["scene-craft-lens"], "groups": ["camera.lens"], "traitsAll": ["scene-craft", "phase-8", "camera", "lens"], "promptIncludes": ["24mm wide-angle lens"] }
+      },
+      "triggers": ["environmental wide lens grammar", "wide contextual camera direction", "24mm scene-inclusive framing"],
+      "signals": ["wide-lens context", "foreground-to-horizon reach", "environmental optical breadth"]
+    },
+    {
+      "id": "phase8.art.camera.telephoto-layer-compression",
+      "name": "Telephoto Layer Compression",
+      "category": "camera-composition-grammar",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera"],
+      "ingredientSelectors": {
+        "style": { "families": ["paint-handling"], "groups": ["style.paint"], "traitsAll": ["visual-language", "phase-8", "painting", "brushwork"] },
+        "composition": { "families": ["ensemble-staging"], "groups": ["composition.ensemble"], "traitsAll": ["visual-language", "phase-8", "ensemble-composition", "staging"] },
+        "palette": { "families": ["cinematic-dual-tone"], "groups": ["palette.cinematic"], "traitsAll": ["visual-language", "phase-8", "cinematic-color", "dual-tone"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["softbox array"] },
+        "camera": { "families": ["scene-craft-lens"], "groups": ["camera.lens"], "traitsAll": ["scene-craft", "phase-8", "camera", "lens"], "promptIncludes": ["135mm telephoto lens"] }
+      },
+      "triggers": ["telephoto layer compression grammar", "compressed ensemble framing", "135mm stacked-plane direction"],
+      "signals": ["telephoto plane stacking", "compressed ensemble depth", "long-lens spatial tension"]
+    },
+    {
+      "id": "phase8.art.environment.rainwashed-blue-hour",
+      "name": "Rainwashed Blue Hour",
+      "category": "environment-time-weather",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment"],
+      "ingredientSelectors": {
+        "style": { "families": ["analog-photographic-process"], "groups": ["style.photographic-process"], "traitsAll": ["visual-language", "phase-8", "photography", "analog-process"], "promptIncludes": ["cross-processed film"] },
+        "composition": { "families": ["directional-flow"], "groups": ["composition.flow"], "traitsAll": ["visual-language", "phase-8", "directional-composition", "visual-flow"] },
+        "palette": { "families": ["coastal-weather"], "groups": ["palette.coastal"], "traitsAll": ["visual-language", "phase-8", "coastal-color", "weather-palette"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["streetlamp pool"] },
+        "camera": { "families": ["scene-craft-lens"], "groups": ["camera.lens"], "traitsAll": ["scene-craft", "phase-8", "camera", "lens"], "promptIncludes": ["35mm documentary lens"] },
+        "environment": {
+          "ids": [
+            "phase8.scene-craft.environment.city-boulevard-under-light-rain-at-blue-hour",
+            "phase8.scene-craft.environment.coastal-shoreline-under-light-rain-at-blue-hour",
+            "phase8.scene-craft.environment.desert-highway-under-light-rain-at-blue-hour",
+            "phase8.scene-craft.environment.forest-clearing-under-light-rain-at-blue-hour",
+            "phase8.scene-craft.environment.harbor-district-under-light-rain-at-blue-hour",
+            "phase8.scene-craft.environment.highland-village-under-light-rain-at-blue-hour",
+            "phase8.scene-craft.environment.mountain-pass-under-light-rain-at-blue-hour",
+            "phase8.scene-craft.environment.open-countryside-under-light-rain-at-blue-hour",
+            "phase8.scene-craft.environment.river-valley-under-light-rain-at-blue-hour",
+            "phase8.scene-craft.environment.suburban-neighborhood-under-light-rain-at-blue-hour"
+          ],
+          "families": ["scene-craft-weather-time"],
+          "groups": ["environment.weather-time"],
+          "traitsAll": ["scene-craft", "phase-8", "environment", "weather", "time-of-day"]
+        }
+      },
+      "triggers": ["rainwashed blue hour direction", "blue-hour rain atmosphere", "wet twilight street treatment"],
+      "signals": ["rain-blue-hour reflections", "wet twilight color", "streetlamp rainfall depth"]
+    },
+    {
+      "id": "phase8.art.environment.fogbound-predawn",
+      "name": "Fogbound Predawn",
+      "category": "environment-time-weather",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment"],
+      "ingredientSelectors": {
+        "style": { "families": ["analog-photographic-process"], "groups": ["style.photographic-process"], "traitsAll": ["visual-language", "phase-8", "photography", "analog-process"], "promptIncludes": ["platinum print"] },
+        "composition": { "families": ["negative-space-field"], "groups": ["composition.negative-space"], "traitsAll": ["visual-language", "phase-8", "negative-space", "visual-balance"] },
+        "palette": { "families": ["monochrome-range"], "groups": ["palette.monochrome"], "traitsAll": ["visual-language", "phase-8", "monochrome", "tonal-palette"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["headlight beams"] },
+        "camera": { "families": ["scene-craft-depth"], "groups": ["camera.depth"], "traitsAll": ["scene-craft", "phase-8", "camera", "depth"], "promptIncludes": ["atmospheric separation"] },
+        "environment": {
+          "ids": [
+            "phase8.scene-craft.environment.city-boulevard-in-low-drifting-fog-at-predawn",
+            "phase8.scene-craft.environment.coastal-shoreline-in-low-drifting-fog-at-predawn",
+            "phase8.scene-craft.environment.desert-highway-in-low-drifting-fog-at-predawn",
+            "phase8.scene-craft.environment.forest-clearing-in-low-drifting-fog-at-predawn",
+            "phase8.scene-craft.environment.harbor-district-in-low-drifting-fog-at-predawn",
+            "phase8.scene-craft.environment.highland-village-in-low-drifting-fog-at-predawn",
+            "phase8.scene-craft.environment.mountain-pass-in-low-drifting-fog-at-predawn",
+            "phase8.scene-craft.environment.open-countryside-in-low-drifting-fog-at-predawn",
+            "phase8.scene-craft.environment.river-valley-in-low-drifting-fog-at-predawn",
+            "phase8.scene-craft.environment.suburban-neighborhood-in-low-drifting-fog-at-predawn"
+          ],
+          "families": ["scene-craft-weather-time"],
+          "groups": ["environment.weather-time"],
+          "traitsAll": ["scene-craft", "phase-8", "environment", "weather", "time-of-day"]
+        }
+      },
+      "triggers": ["fogbound predawn direction", "predawn fog atmosphere", "low-visibility dawn treatment"],
+      "signals": ["predawn fog layers", "headlight mist separation", "monochrome early-hour hush"]
+    },
+    {
+      "id": "phase8.art.environment.snowfall-morning",
+      "name": "Snowfall Morning",
+      "category": "environment-time-weather",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment"],
+      "ingredientSelectors": {
+        "style": { "families": ["paint-handling"], "groups": ["style.paint"], "traitsAll": ["visual-language", "phase-8", "painting", "brushwork"], "promptIncludes": ["transparent watercolor"] },
+        "composition": { "families": ["landscape-depth"], "groups": ["composition.landscape"], "traitsAll": ["visual-language", "phase-8", "landscape-composition", "depth"] },
+        "palette": { "families": ["seasonal-highlight"], "groups": ["palette.seasonal"], "traitsAll": ["visual-language", "phase-8", "seasonal-color", "highlight-color"] },
+        "lighting": { "ids": ["curated.lighting.diffused-overcast-light"] },
+        "camera": { "families": ["scene-craft-lens"], "groups": ["camera.lens"], "traitsAll": ["scene-craft", "phase-8", "camera", "lens"], "promptIncludes": ["50mm standard lens"] },
+        "environment": {
+          "ids": [
+            "phase8.scene-craft.environment.city-boulevard-during-fresh-snowfall-in-early-morning",
+            "phase8.scene-craft.environment.coastal-shoreline-during-fresh-snowfall-in-early-morning",
+            "phase8.scene-craft.environment.forest-clearing-during-fresh-snowfall-in-early-morning",
+            "phase8.scene-craft.environment.harbor-district-during-fresh-snowfall-in-early-morning",
+            "phase8.scene-craft.environment.highland-village-during-fresh-snowfall-in-early-morning",
+            "phase8.scene-craft.environment.mountain-pass-during-fresh-snowfall-in-early-morning",
+            "phase8.scene-craft.environment.open-countryside-during-fresh-snowfall-in-early-morning",
+            "phase8.scene-craft.environment.river-valley-during-fresh-snowfall-in-early-morning",
+            "phase8.scene-craft.environment.suburban-neighborhood-during-fresh-snowfall-in-early-morning"
+          ],
+          "families": ["scene-craft-weather-time"],
+          "groups": ["environment.weather-time"],
+          "traitsAll": ["scene-craft", "phase-8", "environment", "weather", "time-of-day"]
+        }
+      },
+      "triggers": ["snowfall morning direction", "fresh-snow dawn atmosphere", "watercolor winter morning"],
+      "signals": ["morning snowfall softness", "winter depth hush", "snow-lit watercolor air"]
+    },
+    {
+      "id": "phase8.art.environment.untouched-highland-expanse",
+      "name": "Untouched Highland Expanse",
+      "category": "environment-time-weather",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment"],
+      "ingredientSelectors": {
+        "style": { "families": ["paint-handling"], "groups": ["style.paint"], "traitsAll": ["visual-language", "phase-8", "painting", "brushwork"] },
+        "composition": { "families": ["landscape-depth"], "groups": ["composition.landscape"], "traitsAll": ["visual-language", "phase-8", "landscape-composition", "depth"] },
+        "palette": { "families": ["mineral-earth"], "groups": ["palette.mineral-earth"], "traitsAll": ["visual-language", "phase-8", "earth-color", "mineral-accent"] },
+        "lighting": { "ids": ["curated.lighting.diffused-overcast-light"] },
+        "camera": { "families": ["scene-craft-lens"], "groups": ["camera.lens"], "traitsAll": ["scene-craft", "phase-8", "camera", "lens"], "promptIncludes": ["21mm wide-angle lens"] },
+        "environment": { "families": ["scene-craft-natural"], "groups": ["environment.natural"], "traitsAll": ["scene-craft", "phase-8", "environment", "natural"], "promptIncludes": ["highland moor"] }
+      },
+      "triggers": ["untouched highland expanse direction", "windswept moor panorama", "open highland wilderness treatment"],
+      "signals": ["moorland horizon breadth", "mineral highland color", "untouched wide-terrain scale"]
+    },
+    {
+      "id": "phase8.art.environment.neon-metropolitan-night",
+      "name": "Neon Metropolitan Night",
+      "category": "environment-time-weather",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment"],
+      "ingredientSelectors": {
+        "style": { "families": ["analog-photographic-process"], "groups": ["style.photographic-process"], "traitsAll": ["visual-language", "phase-8", "photography", "analog-process"], "promptIncludes": ["cross-processed film"] },
+        "composition": { "families": ["directional-flow"], "groups": ["composition.flow"], "traitsAll": ["visual-language", "phase-8", "directional-composition", "visual-flow"] },
+        "palette": { "families": ["neon-night"], "groups": ["palette.neon-night"], "traitsAll": ["visual-language", "phase-8", "neon-color", "dark-base"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["neon storefront"] },
+        "camera": { "families": ["scene-craft-lens"], "groups": ["camera.lens"], "traitsAll": ["scene-craft", "phase-8", "camera", "lens"], "promptIncludes": ["35mm documentary lens"] },
+        "environment": { "families": ["scene-craft-urban"], "groups": ["environment.urban"], "traitsAll": ["scene-craft", "phase-8", "environment", "urban"], "promptIncludes": ["neon entertainment block"] }
+      },
+      "triggers": ["neon metropolitan night direction", "electric city after-dark treatment", "nightlife street color grammar"],
+      "signals": ["neon storefront spill", "metropolitan dark-base color", "electric street depth"]
+    },
+    {
+      "id": "phase8.art.environment.quiet-reading-room",
+      "name": "Quiet Reading Room",
+      "category": "environment-time-weather",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment"],
+      "ingredientSelectors": {
+        "style": { "families": ["paint-handling"], "groups": ["style.paint"], "traitsAll": ["visual-language", "phase-8", "painting", "brushwork"], "promptIncludes": ["opaque gouache"] },
+        "composition": { "families": ["still-life-view"], "groups": ["composition.still-life"], "traitsAll": ["visual-language", "phase-8", "still-life", "viewpoint"] },
+        "palette": { "families": ["soft-color-accent"], "groups": ["palette.soft-color"], "traitsAll": ["visual-language", "phase-8", "soft-color", "accent-palette"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["table lamp practical"] },
+        "camera": { "families": ["scene-craft-lens"], "groups": ["camera.lens"], "traitsAll": ["scene-craft", "phase-8", "camera", "lens"], "promptIncludes": ["50mm standard lens"] },
+        "environment": { "families": ["scene-craft-interior"], "groups": ["environment.interior"], "traitsAll": ["scene-craft", "phase-8", "environment", "interior"], "promptIncludes": ["cozy reading room"] }
+      },
+      "triggers": ["quiet reading room direction", "lamplit library calm", "intimate book-room atmosphere"],
+      "signals": ["table-lamp quiet", "reading-room intimacy", "soft interior stillness"]
+    },
+    {
+      "id": "phase8.art.environment.moonlit-fae-realm",
+      "name": "Moonlit Fae Realm",
+      "category": "environment-time-weather",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment"],
+      "ingredientSelectors": {
+        "style": { "families": ["decorative-surface"], "groups": ["style.decorative-surface"], "traitsAll": ["visual-language", "phase-8", "decorative-art", "material-style"], "promptIncludes": ["stained glass"] },
+        "composition": { "families": ["radial-anchor"], "groups": ["composition.radial"], "traitsAll": ["visual-language", "phase-8", "radial-composition", "circular-flow"] },
+        "palette": { "families": ["gemstone-metal"], "groups": ["palette.gemstone"], "traitsAll": ["visual-language", "phase-8", "gemstone-color", "metal-accent"] },
+        "lighting": { "ids": ["curated.lighting.cold-moonlight"] },
+        "camera": { "families": ["scene-craft-angle"], "groups": ["camera.angle"], "traitsAll": ["scene-craft", "phase-8", "camera", "angle"], "promptIncludes": ["slightly low angle"] },
+        "environment": { "families": ["scene-craft-fantasy"], "groups": ["environment.fantasy"], "traitsAll": ["scene-craft", "phase-8", "environment", "fantasy"], "promptIncludes": ["moonlit fae garden"] }
+      },
+      "triggers": ["moonlit fae realm direction", "jewel-lit fae garden", "mythic moon garden treatment"],
+      "signals": ["moonlit fae ornament", "gemstone realm glow", "radial mythical wonder"]
+    },
+    {
+      "id": "phase8.art.environment.orbital-utility-future",
+      "name": "Orbital Utility Future",
+      "category": "environment-time-weather",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment"],
+      "ingredientSelectors": {
+        "style": { "families": ["drafted-visual"], "groups": ["style.drafting"], "traitsAll": ["visual-language", "phase-8", "drafting", "diagrammatic-style"], "promptIncludes": ["concept-design sheet"] },
+        "composition": { "families": ["symmetry-variation"], "groups": ["composition.symmetry"], "traitsAll": ["visual-language", "phase-8", "symmetry", "balance"] },
+        "palette": { "families": ["cinematic-dual-tone"], "groups": ["palette.cinematic"], "traitsAll": ["visual-language", "phase-8", "cinematic-color", "dual-tone"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["fluorescent practicals"] },
+        "camera": { "families": ["scene-craft-lens"], "groups": ["camera.lens"], "traitsAll": ["scene-craft", "phase-8", "camera", "lens"], "promptIncludes": ["24mm wide-angle lens"] },
+        "environment": { "families": ["scene-craft-science-fiction"], "groups": ["environment.science-fiction"], "traitsAll": ["scene-craft", "phase-8", "environment", "science-fiction"], "promptIncludes": ["generation ship concourse"] }
+      },
+      "triggers": ["orbital utility future direction", "credible generation-ship treatment", "functional orbital concourse"],
+      "signals": ["orbital infrastructure order", "fluorescent future utility", "credible station symmetry"]
+    },
+    {
+      "id": "phase8.art.narrative.quiet-confidence",
+      "name": "Quiet Confidence",
+      "category": "narrative-emotion",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment", "expression"],
+      "ingredientSelectors": {
+        "style": { "families": ["animation-editorial"], "groups": ["style.animation-editorial"], "traitsAll": ["visual-language", "phase-8", "animation", "editorial-style"], "promptIncludes": ["fashion editorial drawing"] },
+        "composition": { "families": ["portrait-balance"], "groups": ["composition.portrait"], "traitsAll": ["visual-language", "phase-8", "portrait-composition", "balance"], "promptIncludes": ["waist-up portrait"] },
+        "palette": { "families": ["cinematic-dual-tone"], "groups": ["palette.cinematic"], "traitsAll": ["visual-language", "phase-8", "cinematic-color", "dual-tone"] },
+        "lighting": { "ids": ["curated.lighting.golden-hour-backlight"] },
+        "camera": { "families": ["scene-craft-shot-size"], "groups": ["camera.shot-size"], "traitsAll": ["scene-craft", "phase-8", "camera", "shot-size"], "promptIncludes": ["medium shot"] },
+        "environment": { "families": ["scene-craft-urban"], "groups": ["environment.urban"], "traitsAll": ["scene-craft", "phase-8", "environment", "urban"], "promptIncludes": ["civic plaza district"] },
+        "expression": { "sources": ["phase-5-curated"], "families": ["expression-nuance"], "promptIncludes": ["confident"] }
+      },
+      "triggers": ["quiet confidence narrative direction", "composed authority portrait", "understated self-possession"],
+      "signals": ["quietly confident gaze", "balanced civic authority", "restrained editorial poise"]
+    },
+    {
+      "id": "phase8.art.narrative.restrained-melancholy",
+      "name": "Restrained Melancholy",
+      "category": "narrative-emotion",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment", "expression"],
+      "ingredientSelectors": {
+        "style": { "families": ["analog-photographic-process"], "groups": ["style.photographic-process"], "traitsAll": ["visual-language", "phase-8", "photography", "analog-process"], "promptIncludes": ["expired color film"] },
+        "composition": { "families": ["negative-space-field"], "groups": ["composition.negative-space"], "traitsAll": ["visual-language", "phase-8", "negative-space", "visual-balance"] },
+        "palette": { "families": ["monochrome-range"], "groups": ["palette.monochrome"], "traitsAll": ["visual-language", "phase-8", "monochrome", "tonal-palette"] },
+        "lighting": { "ids": ["curated.lighting.blue-hour-illumination"] },
+        "camera": { "families": ["scene-craft-lens"], "groups": ["camera.lens"], "traitsAll": ["scene-craft", "phase-8", "camera", "lens"], "promptIncludes": ["85mm portrait lens"] },
+        "environment": { "families": ["scene-craft-weather-time"], "groups": ["environment.weather-time"], "traitsAll": ["scene-craft", "phase-8", "environment", "weather", "time-of-day"], "promptIncludes": ["in low drifting fog at predawn"] },
+        "expression": { "sources": ["phase-5-curated"], "families": ["expression-nuance"], "promptIncludes": ["melancholic"] }
+      },
+      "triggers": ["restrained melancholy narrative direction", "distant sorrow atmosphere", "quiet melancholic portrait"],
+      "signals": ["contained melancholic gaze", "fog-softened isolation", "negative-space sorrow"]
+    },
+    {
+      "id": "phase8.art.narrative.open-joy",
+      "name": "Open Joy",
+      "category": "narrative-emotion",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment", "expression"],
+      "ingredientSelectors": {
+        "style": { "families": ["paint-handling"], "groups": ["style.paint"], "traitsAll": ["visual-language", "phase-8", "painting", "brushwork"], "promptIncludes": ["transparent watercolor"] },
+        "composition": { "families": ["radial-anchor"], "groups": ["composition.radial"], "traitsAll": ["visual-language", "phase-8", "radial-composition", "circular-flow"] },
+        "palette": { "families": ["botanical-bloom"], "groups": ["palette.botanical"], "traitsAll": ["visual-language", "phase-8", "botanical-color", "natural-palette"] },
+        "lighting": { "ids": ["curated.lighting.golden-hour-backlight"] },
+        "camera": { "families": ["scene-craft-shot-size"], "groups": ["camera.shot-size"], "traitsAll": ["scene-craft", "phase-8", "camera", "shot-size"], "promptIncludes": ["medium full shot"] },
+        "environment": { "families": ["scene-craft-natural"], "groups": ["environment.natural"], "traitsAll": ["scene-craft", "phase-8", "environment", "natural"], "promptIncludes": ["alpine meadow"] },
+        "expression": { "sources": ["phase-5-curated"], "families": ["expression-nuance"], "promptIncludes": ["joyful"] }
+      },
+      "triggers": ["open joy narrative direction", "radiant outdoor delight", "unreserved joyful staging"],
+      "signals": ["openly joyful expression", "botanical radial lift", "daylit celebratory air"]
+    },
+    {
+      "id": "phase8.art.narrative.suspicious-unease",
+      "name": "Suspicious Unease",
+      "category": "narrative-emotion",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment", "expression"],
+      "ingredientSelectors": {
+        "style": { "families": ["ink-illustration"], "groups": ["style.ink"], "traitsAll": ["visual-language", "phase-8", "ink", "illustration"], "promptIncludes": ["scratchboard ink"] },
+        "composition": { "families": ["negative-space-field"], "groups": ["composition.negative-space"], "traitsAll": ["visual-language", "phase-8", "negative-space", "visual-balance"] },
+        "palette": { "families": ["monochrome-range"], "groups": ["palette.monochrome"], "traitsAll": ["visual-language", "phase-8", "monochrome", "tonal-palette"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["doorway spill"] },
+        "camera": { "families": ["scene-craft-tilt"], "groups": ["camera.tilt"], "traitsAll": ["scene-craft", "phase-8", "camera", "tilt", "dutch-angle"] },
+        "environment": { "families": ["scene-craft-horror"], "groups": ["environment.horror"], "traitsAll": ["scene-craft", "phase-8", "environment", "horror", "non-graphic"], "promptIncludes": ["isolated forest cabin"] },
+        "expression": { "sources": ["phase-5-curated"], "families": ["expression-nuance"], "promptIncludes": ["suspicious"] }
+      },
+      "triggers": ["suspicious unease narrative direction", "watchful cabin suspense", "distrustful off-axis tension"],
+      "signals": ["suspicious scanning gaze", "non-graphic cabin dread", "tilted doorway suspicion"]
+    },
+    {
+      "id": "phase8.art.narrative.determined-resolve",
+      "name": "Determined Resolve",
+      "category": "narrative-emotion",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment", "expression"],
+      "ingredientSelectors": {
+        "style": { "families": ["animation-editorial"], "groups": ["style.animation-editorial"], "traitsAll": ["visual-language", "phase-8", "animation", "editorial-style"], "promptIncludes": ["full cel animation"] },
+        "composition": { "families": ["scale-contrast"], "groups": ["composition.scale"], "traitsAll": ["visual-language", "phase-8", "scale-contrast", "forced-depth"] },
+        "palette": { "families": ["cinematic-dual-tone"], "groups": ["palette.cinematic"], "traitsAll": ["visual-language", "phase-8", "cinematic-color", "dual-tone"] },
+        "lighting": { "ids": ["curated.lighting.holographic-glow"] },
+        "camera": { "families": ["scene-craft-angle"], "groups": ["camera.angle"], "traitsAll": ["scene-craft", "phase-8", "camera", "angle"], "promptIncludes": ["slightly low angle"] },
+        "environment": { "families": ["scene-craft-science-fiction"], "groups": ["environment.science-fiction"], "traitsAll": ["scene-craft", "phase-8", "environment", "science-fiction"], "promptIncludes": ["planetary defense hub"] },
+        "expression": { "sources": ["phase-5-curated"], "families": ["expression-nuance"], "promptIncludes": ["determined"] }
+      },
+      "triggers": ["determined resolve narrative direction", "steadfast defense-hub drama", "resolute low-angle staging"],
+      "signals": ["determined forward gaze", "defense-scale resolve", "projected mission intensity"]
+    },
+    {
+      "id": "phase8.art.narrative.curious-discovery",
+      "name": "Curious Discovery",
+      "category": "narrative-emotion",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment", "expression"],
+      "ingredientSelectors": {
+        "style": { "families": ["paper-craft"], "groups": ["style.paper-craft"], "traitsAll": ["visual-language", "phase-8", "paper-craft", "handmade"] },
+        "composition": { "families": ["radial-anchor"], "groups": ["composition.radial"], "traitsAll": ["visual-language", "phase-8", "radial-composition", "circular-flow"] },
+        "palette": { "families": ["gemstone-metal"], "groups": ["palette.gemstone"], "traitsAll": ["visual-language", "phase-8", "gemstone-color", "metal-accent"] },
+        "lighting": { "ids": ["curated.lighting.bioluminescent-ambient-light"] },
+        "camera": { "families": ["scene-craft-depth"], "groups": ["camera.depth"], "traitsAll": ["scene-craft", "phase-8", "camera", "depth"], "promptIncludes": ["selective focus staging"] },
+        "environment": { "families": ["scene-craft-fantasy"], "groups": ["environment.fantasy"], "traitsAll": ["scene-craft", "phase-8", "environment", "fantasy"], "promptIncludes": ["crystal cavern kingdom"] },
+        "expression": { "sources": ["phase-5-curated"], "families": ["expression-nuance"], "promptIncludes": ["curious"] }
+      },
+      "triggers": ["curious discovery narrative direction", "crystal-cavern wonder", "inquisitive magical reveal"],
+      "signals": ["curious searching look", "crystal radial reveal", "selective-focus wonder"]
+    },
+    {
+      "id": "phase8.art.narrative.relieved-aftermath",
+      "name": "Relieved Aftermath",
+      "category": "narrative-emotion",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment", "expression"],
+      "ingredientSelectors": {
+        "style": { "families": ["paint-handling"], "groups": ["style.paint"], "traitsAll": ["visual-language", "phase-8", "painting", "brushwork"], "promptIncludes": ["egg tempera"] },
+        "composition": { "families": ["portrait-balance"], "groups": ["composition.portrait"], "traitsAll": ["visual-language", "phase-8", "portrait-composition", "balance"] },
+        "palette": { "families": ["soft-color-accent"], "groups": ["palette.soft-color"], "traitsAll": ["visual-language", "phase-8", "soft-color", "accent-palette"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["table lamp practical"] },
+        "camera": { "families": ["scene-craft-lens"], "groups": ["camera.lens"], "traitsAll": ["scene-craft", "phase-8", "camera", "lens"], "promptIncludes": ["50mm standard lens"] },
+        "environment": { "families": ["scene-craft-interior"], "groups": ["environment.interior"], "traitsAll": ["scene-craft", "phase-8", "environment", "interior"], "promptIncludes": ["vintage train carriage"] },
+        "expression": { "sources": ["phase-5-curated"], "families": ["expression-nuance"], "promptIncludes": ["relieved"] }
+      },
+      "triggers": ["relieved aftermath narrative direction", "safe-arrival train quiet", "gentle release after tension"],
+      "signals": ["relieved softened expression", "lamplit journey aftermath", "settled emotional release"]
+    },
+    {
+      "id": "phase8.art.narrative.haunted-solitude",
+      "name": "Haunted Solitude",
+      "category": "narrative-emotion",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment", "expression"],
+      "ingredientSelectors": {
+        "style": { "families": ["analog-photographic-process"], "groups": ["style.photographic-process"], "traitsAll": ["visual-language", "phase-8", "photography", "analog-process"], "promptIncludes": ["wet-plate collodion"] },
+        "composition": { "families": ["negative-space-field"], "groups": ["composition.negative-space"], "traitsAll": ["visual-language", "phase-8", "negative-space", "visual-balance"] },
+        "palette": { "families": ["coastal-weather"], "groups": ["palette.coastal"], "traitsAll": ["visual-language", "phase-8", "coastal-color", "weather-palette"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["streetlamp pool"] },
+        "camera": { "families": ["scene-craft-depth"], "groups": ["camera.depth"], "traitsAll": ["scene-craft", "phase-8", "camera", "depth"], "promptIncludes": ["soft background separation"] },
+        "environment": { "families": ["scene-craft-horror"], "groups": ["environment.horror"], "traitsAll": ["scene-craft", "phase-8", "environment", "horror", "non-graphic"], "promptIncludes": ["storm-battered lighthouse"] },
+        "expression": { "sources": ["phase-5-curated"], "families": ["expression-nuance"], "promptIncludes": ["haunted"] }
+      },
+      "triggers": ["haunted solitude narrative direction", "lighthouse isolation drama", "coastal spectral loneliness"],
+      "signals": ["haunted distant gaze", "non-graphic lighthouse dread", "coastal negative-space isolation"]
+    },
+    {
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "name": "Weatherproof Field Editorial",
+      "category": "wardrobe-editorial",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment", "wardrobe"],
+      "ingredientSelectors": {
+        "style": { "families": ["analog-photographic-process"], "groups": ["style.photographic-process"], "traitsAll": ["visual-language", "phase-8", "photography", "analog-process"], "promptIncludes": ["instant film"] },
+        "composition": { "families": ["portrait-balance"], "groups": ["composition.portrait"], "traitsAll": ["visual-language", "phase-8", "portrait-composition", "balance"], "promptIncludes": ["full-length portrait"] },
+        "palette": { "families": ["coastal-weather"], "groups": ["palette.coastal"], "traitsAll": ["visual-language", "phase-8", "coastal-color", "weather-palette"] },
+        "lighting": { "ids": ["curated.lighting.diffused-overcast-light"] },
+        "camera": { "families": ["scene-craft-shot-size"], "groups": ["camera.shot-size"], "traitsAll": ["scene-craft", "phase-8", "camera", "shot-size"], "promptIncludes": ["full-body shot"] },
+        "environment": { "families": ["scene-craft-weather-time"], "groups": ["environment.weather-time"], "traitsAll": ["scene-craft", "phase-8", "environment", "weather", "time-of-day"], "promptIncludes": ["in gusting wind in late afternoon"] },
+        "wardrobe": { "families": ["weather-adapted-complete-outfits"], "groups": ["wardrobe.complete-outfit.weather-state"], "traitsAll": ["phase-8", "wardrobe", "sfw", "general-audience", "complete-outfit", "weather-adapted", "wear-state", "functional-layering"] }
+      },
+      "triggers": ["weatherproof field editorial direction", "functional outerwear location shoot", "wind-ready fashion story"],
+      "signals": ["weather-adapted full look", "field-editorial function", "wind-tested layering"]
+    },
+    {
+      "id": "phase8.art.wardrobe.tailored-studio-authority",
+      "name": "Tailored Studio Authority",
+      "category": "wardrobe-editorial",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment", "wardrobe"],
+      "ingredientSelectors": {
+        "style": { "families": ["animation-editorial"], "groups": ["style.animation-editorial"], "traitsAll": ["visual-language", "phase-8", "animation", "editorial-style"], "promptIncludes": ["fashion editorial drawing"] },
+        "composition": { "families": ["portrait-balance"], "groups": ["composition.portrait"], "traitsAll": ["visual-language", "phase-8", "portrait-composition", "balance"], "promptIncludes": ["full-length portrait"] },
+        "palette": { "families": ["cinematic-dual-tone"], "groups": ["palette.cinematic"], "traitsAll": ["visual-language", "phase-8", "cinematic-color", "dual-tone"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["softbox array"] },
+        "camera": { "families": ["scene-craft-shot-size"], "groups": ["camera.shot-size"], "traitsAll": ["scene-craft", "phase-8", "camera", "shot-size"], "promptIncludes": ["full-body shot"] },
+        "environment": { "families": ["scene-craft-interior"], "groups": ["environment.interior"], "traitsAll": ["scene-craft", "phase-8", "environment", "interior"], "promptIncludes": ["museum gallery"] },
+        "wardrobe": { "families": ["tailored-complete-suits"], "groups": ["wardrobe.complete-outfit.tailoring"], "traitsAll": ["phase-8", "wardrobe", "sfw", "general-audience", "complete-outfit", "suit", "tailoring"] }
+      },
+      "triggers": ["tailored studio authority direction", "suiting editorial command", "museum-gallery tailoring story"],
+      "signals": ["tailored full-look authority", "softbox suiting polish", "gallery editorial posture"]
+    },
+    {
+      "id": "phase8.art.wardrobe.professional-uniform-documentary",
+      "name": "Professional Uniform Documentary",
+      "category": "wardrobe-editorial",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment", "wardrobe"],
+      "ingredientSelectors": {
+        "style": { "families": ["analog-photographic-process"], "groups": ["style.photographic-process"], "traitsAll": ["visual-language", "phase-8", "photography", "analog-process"] },
+        "composition": { "families": ["portrait-balance"], "groups": ["composition.portrait"], "traitsAll": ["visual-language", "phase-8", "portrait-composition", "balance"] },
+        "palette": { "families": ["mineral-earth"], "groups": ["palette.mineral-earth"], "traitsAll": ["visual-language", "phase-8", "earth-color", "mineral-accent"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["fluorescent practicals"] },
+        "camera": { "families": ["scene-craft-lens"], "groups": ["camera.lens"], "traitsAll": ["scene-craft", "phase-8", "camera", "lens"], "promptIncludes": ["35mm documentary lens"] },
+        "environment": { "families": ["scene-craft-interior"], "groups": ["environment.interior"], "traitsAll": ["scene-craft", "phase-8", "environment", "interior"], "promptIncludes": ["industrial workshop"] },
+        "wardrobe": { "families": ["professional-work-uniforms"], "groups": ["wardrobe.complete-outfit.uniform.professional"], "traitsAll": ["phase-8", "wardrobe", "sfw", "general-audience", "complete-outfit", "uniform", "professional", "functional"] }
+      },
+      "triggers": ["professional uniform documentary direction", "working-role portrait story", "functional uniform reportage"],
+      "signals": ["role-readable complete uniform", "workplace documentary realism", "functional garment clarity"]
+    },
+    {
+      "id": "phase8.art.wardrobe.arcane-regalia-lookbook",
+      "name": "Arcane Regalia Lookbook",
+      "category": "wardrobe-editorial",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment", "wardrobe"],
+      "ingredientSelectors": {
+        "style": { "families": ["paint-handling"], "groups": ["style.paint"], "traitsAll": ["visual-language", "phase-8", "painting", "brushwork"] },
+        "composition": { "families": ["symmetry-variation"], "groups": ["composition.symmetry"], "traitsAll": ["visual-language", "phase-8", "symmetry", "balance"] },
+        "palette": { "families": ["gemstone-metal"], "groups": ["palette.gemstone"], "traitsAll": ["visual-language", "phase-8", "gemstone-color", "metal-accent"] },
+        "lighting": { "ids": ["curated.lighting.bioluminescent-ambient-light"] },
+        "camera": { "families": ["scene-craft-shot-size"], "groups": ["camera.shot-size"], "traitsAll": ["scene-craft", "phase-8", "camera", "shot-size"], "promptIncludes": ["full-body shot"] },
+        "environment": { "families": ["scene-craft-fantasy"], "groups": ["environment.fantasy"], "traitsAll": ["scene-craft", "phase-8", "environment", "fantasy"], "promptIncludes": ["crystal cavern kingdom"] },
+        "wardrobe": { "families": ["fantasy-complete-outfits"], "groups": ["wardrobe.complete-outfit.fantasy"], "traitsAll": ["phase-8", "wardrobe", "sfw", "general-audience", "complete-outfit", "fantasy-wear", "role-outfit"] }
+      },
+      "triggers": ["arcane regalia lookbook direction", "fantasy role-outfit editorial", "mythic full-look presentation"],
+      "signals": ["complete arcane ensemble", "gem-lit fantasy styling", "role-specific regalia clarity"]
+    },
+    {
+      "id": "phase8.art.wardrobe.orbital-utility-fashion",
+      "name": "Orbital Utility Fashion",
+      "category": "wardrobe-editorial",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment", "wardrobe"],
+      "ingredientSelectors": {
+        "style": { "families": ["drafted-visual"], "groups": ["style.drafting"], "traitsAll": ["visual-language", "phase-8", "drafting", "diagrammatic-style"], "promptIncludes": ["concept-design sheet"] },
+        "composition": { "families": ["panel-linkage"], "groups": ["composition.panel"], "traitsAll": ["visual-language", "phase-8", "panel-composition", "visual-continuity"] },
+        "palette": { "families": ["cinematic-dual-tone"], "groups": ["palette.cinematic"], "traitsAll": ["visual-language", "phase-8", "cinematic-color", "dual-tone"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["fluorescent practicals"] },
+        "camera": { "families": ["scene-craft-shot-size"], "groups": ["camera.shot-size"], "traitsAll": ["scene-craft", "phase-8", "camera", "shot-size"], "promptIncludes": ["full-body shot"] },
+        "environment": { "families": ["scene-craft-science-fiction"], "groups": ["environment.science-fiction"], "traitsAll": ["scene-craft", "phase-8", "environment", "science-fiction"], "promptIncludes": ["orbital greenhouse station"] },
+        "wardrobe": { "families": ["science-fiction-complete-outfits"], "groups": ["wardrobe.complete-outfit.science-fiction"], "traitsAll": ["phase-8", "wardrobe", "sfw", "general-audience", "complete-outfit", "science-fiction-wear", "technical", "role-outfit"] }
+      },
+      "triggers": ["orbital utility fashion direction", "technical spacewear lookbook", "station-ready future editorial"],
+      "signals": ["complete technical spacewear", "panelled utility presentation", "orbital role-fashion clarity"]
+    },
+    {
+      "id": "phase8.art.graphic.retro-pixel-quest",
+      "name": "Retro Pixel Quest",
+      "category": "graphic-genre",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment"],
+      "ingredientSelectors": {
+        "style": { "families": ["retro-pixel-system"], "groups": ["style.pixel-art"], "traitsAll": ["visual-language", "phase-8", "pixel-art", "retro-digital"] },
+        "composition": { "families": ["landscape-depth"], "groups": ["composition.landscape"], "traitsAll": ["visual-language", "phase-8", "landscape-composition", "depth"] },
+        "palette": { "families": ["neon-night"], "groups": ["palette.neon-night"], "traitsAll": ["visual-language", "phase-8", "neon-color", "dark-base"] },
+        "lighting": { "ids": ["curated.lighting.golden-hour-backlight"] },
+        "camera": { "families": ["scene-craft-shot-size"], "groups": ["camera.shot-size"], "traitsAll": ["scene-craft", "phase-8", "camera", "shot-size"], "promptIncludes": ["wide shot"] },
+        "environment": { "families": ["scene-craft-fantasy"], "groups": ["environment.fantasy"], "traitsAll": ["scene-craft", "phase-8", "environment", "fantasy"], "promptIncludes": ["wandering tower valley"] }
+      },
+      "triggers": ["retro pixel quest direction", "sprite-era fantasy adventure", "pixel game landscape treatment"],
+      "signals": ["pixel-grid worldbuilding", "quest-screen depth", "retro-digital fantasy color"]
+    },
+    {
+      "id": "phase8.art.graphic.midcentury-cel-adventure",
+      "name": "Midcentury Cel Adventure",
+      "category": "graphic-genre",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment"],
+      "ingredientSelectors": {
+        "style": { "families": ["animation-editorial"], "groups": ["style.animation-editorial"], "traitsAll": ["visual-language", "phase-8", "animation", "editorial-style"], "promptIncludes": ["mid-century animation"] },
+        "composition": { "families": ["directional-flow"], "groups": ["composition.flow"], "traitsAll": ["visual-language", "phase-8", "directional-composition", "visual-flow"] },
+        "palette": { "families": ["soft-color-accent"], "groups": ["palette.soft-color"], "traitsAll": ["visual-language", "phase-8", "soft-color", "accent-palette"] },
+        "lighting": { "ids": ["curated.lighting.golden-hour-backlight"] },
+        "camera": { "families": ["scene-craft-motion"], "groups": ["camera.motion"], "traitsAll": ["scene-craft", "phase-8", "camera", "motion"], "promptIncludes": ["push-through move"] },
+        "environment": { "families": ["scene-craft-urban"], "groups": ["environment.urban"], "traitsAll": ["scene-craft", "phase-8", "environment", "urban"], "promptIncludes": ["old port neighborhood"] }
+      },
+      "triggers": ["midcentury cel adventure direction", "vintage animation travel story", "graphic cel-era motion"],
+      "signals": ["midcentury shape language", "cel-adventure flow", "soft-accent animated travel"]
+    },
+    {
+      "id": "phase8.art.graphic.technical-cutaway-scifi",
+      "name": "Technical Cutaway Sci-Fi",
+      "category": "graphic-genre",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment"],
+      "ingredientSelectors": {
+        "style": { "families": ["drafted-visual"], "groups": ["style.drafting"], "traitsAll": ["visual-language", "phase-8", "drafting", "diagrammatic-style"], "promptIncludes": ["isometric cutaway"] },
+        "composition": { "families": ["panel-linkage"], "groups": ["composition.panel"], "traitsAll": ["visual-language", "phase-8", "panel-composition", "visual-continuity"] },
+        "palette": { "families": ["print-ink-paper"], "groups": ["palette.print"], "traitsAll": ["visual-language", "phase-8", "print-color", "paper-tone"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["fluorescent practicals"] },
+        "camera": { "families": ["scene-craft-angle"], "groups": ["camera.angle"], "traitsAll": ["scene-craft", "phase-8", "camera", "angle"], "promptIncludes": ["overhead oblique angle"] },
+        "environment": { "families": ["scene-craft-science-fiction"], "groups": ["environment.science-fiction"], "traitsAll": ["scene-craft", "phase-8", "environment", "science-fiction"], "promptIncludes": ["asteroid mining habitat"] }
+      },
+      "triggers": ["technical cutaway scifi direction", "isometric habitat diagram", "science-fiction systems plate"],
+      "signals": ["cutaway infrastructure logic", "isometric technical clarity", "panelled habitat annotation"]
+    },
+    {
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "name": "Screenprint Pulp Pursuit",
+      "category": "graphic-genre",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment"],
+      "ingredientSelectors": {
+        "style": { "families": ["printmaking-process"], "groups": ["style.printmaking"], "traitsAll": ["visual-language", "phase-8", "printmaking", "physical-media"], "promptIncludes": ["screenprint"] },
+        "composition": { "families": ["directional-flow"], "groups": ["composition.flow"], "traitsAll": ["visual-language", "phase-8", "directional-composition", "visual-flow"] },
+        "palette": { "families": ["print-ink-paper"], "groups": ["palette.print"], "traitsAll": ["visual-language", "phase-8", "print-color", "paper-tone"] },
+        "lighting": { "families": ["scene-craft-cinematic-sources"], "groups": ["lighting.cinematic-source"], "traitsAll": ["scene-craft", "phase-8", "lighting", "cinematic", "motivated-light"], "promptIncludes": ["headlight beams"] },
+        "camera": { "families": ["scene-craft-motion"], "groups": ["camera.motion"], "traitsAll": ["scene-craft", "phase-8", "camera", "motion"], "promptIncludes": ["forward dolly"] },
+        "environment": { "families": ["scene-craft-urban"], "groups": ["environment.urban"], "traitsAll": ["scene-craft", "phase-8", "environment", "urban"], "promptIncludes": ["industrial rail district"] }
+      },
+      "triggers": ["screenprint pulp pursuit direction", "bold-ink urban chase", "printed action serial treatment"],
+      "signals": ["screenprint chase velocity", "pulp directional ink", "headlight industrial pursuit"]
+    },
+    {
+      "id": "phase8.art.graphic.stained-glass-myth",
+      "name": "Stained Glass Myth",
+      "category": "graphic-genre",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "requiredSlots": ["style", "composition", "palette", "lighting", "camera", "environment"],
+      "ingredientSelectors": {
+        "style": { "families": ["decorative-surface"], "groups": ["style.decorative-surface"], "traitsAll": ["visual-language", "phase-8", "decorative-art", "material-style"], "promptIncludes": ["stained glass"] },
+        "composition": { "families": ["radial-anchor"], "groups": ["composition.radial"], "traitsAll": ["visual-language", "phase-8", "radial-composition", "circular-flow"] },
+        "palette": { "families": ["gemstone-metal"], "groups": ["palette.gemstone"], "traitsAll": ["visual-language", "phase-8", "gemstone-color", "metal-accent"] },
+        "lighting": { "ids": ["curated.lighting.golden-hour-backlight"] },
+        "camera": { "families": ["scene-craft-angle"], "groups": ["camera.angle"], "traitsAll": ["scene-craft", "phase-8", "camera", "angle"], "promptIncludes": ["pronounced low angle"] },
+        "environment": { "families": ["scene-craft-fantasy"], "groups": ["environment.fantasy"], "traitsAll": ["scene-craft", "phase-8", "environment", "fantasy"], "promptIncludes": ["cloudborne citadel"] }
+      },
+      "triggers": ["stained glass myth direction", "luminous cathedral fantasy", "jewel-window epic treatment"],
+      "signals": ["stained-glass contour myth", "radial jewel illumination", "citadel window grandeur"]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "count": 6,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Aira Shiratori",
+        "Aira Shiratori (Dandadan)"
+      ],
+      "id": "character.dandadan.aira-shiratori",
+      "kind": "named-character",
+      "name": "Aira Shiratori",
+      "namespace": "Dandadan",
+      "promptTags": [
+        "Aira Shiratori",
+        "Dandadan",
+        "female",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "dandadan",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Jin Enjoji",
+        "Jin Enjoji (Dandadan)"
+      ],
+      "id": "character.dandadan.jin-enjoji",
+      "kind": "named-character",
+      "name": "Jin Enjoji",
+      "namespace": "Dandadan",
+      "promptTags": [
+        "Jin Enjoji",
+        "Dandadan",
+        "male",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "dandadan",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Ken Takakura",
+        "Ken Takakura (Dandadan)",
+        "Okarun (Dandadan)"
+      ],
+      "id": "character.dandadan.ken-takakura",
+      "kind": "named-character",
+      "name": "Ken Takakura",
+      "namespace": "Dandadan",
+      "promptTags": [
+        "Ken Takakura",
+        "Dandadan",
+        "male",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "dandadan",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kinta Sakata",
+        "Kinta Sakata (Dandadan)"
+      ],
+      "id": "character.dandadan.kinta-sakata",
+      "kind": "named-character",
+      "name": "Kinta Sakata",
+      "namespace": "Dandadan",
+      "promptTags": [
+        "Kinta Sakata",
+        "Dandadan",
+        "male",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "dandadan",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Rin Sawaki",
+        "Rin Sawaki (Dandadan)"
+      ],
+      "id": "character.dandadan.rin-sawaki",
+      "kind": "named-character",
+      "name": "Rin Sawaki",
+      "namespace": "Dandadan",
+      "promptTags": [
+        "Rin Sawaki",
+        "Dandadan",
+        "female",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "dandadan",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Seiko Ayase",
+        "Seiko Ayase (Dandadan)"
+      ],
+      "id": "character.dandadan.seiko-ayase",
+      "kind": "named-character",
+      "name": "Seiko Ayase",
+      "namespace": "Dandadan",
+      "promptTags": [
+        "Seiko Ayase",
+        "Dandadan",
+        "female",
+        "spirit medium"
+      ],
+      "provenance": {
+        "groupId": "dandadan",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "spirit-medium"
+      ]
+    }
+  ],
+  "fingerprint": "620f51cda9641f3dd55c7e87ff855fc99d294f37834d2f706e49a708afee4309",
+  "namespace": "Dandadan",
+  "schemaVersion": 2
+}

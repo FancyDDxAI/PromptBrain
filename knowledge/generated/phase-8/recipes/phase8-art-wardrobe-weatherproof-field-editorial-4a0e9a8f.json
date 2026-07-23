@@ -1,0 +1,1904 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+  "fingerprint": "336ceec60e699d9c3aaac87dd674019cda084ec8632474d5093690aa8a69c1a9",
+  "recipes": [
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with luminous highlights photographic style, full-length portrait with mirrored side balance composition, reef cyan with coral sunset coastal palette, diffused overcast light 06efe9d6bdf7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.06efe9d6bdf7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-right-weighted-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-mirrored-side-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.mountain-pass-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.reef-cyan-with-coral-sunset-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-luminous-highlights-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.heatwave-linen-layers-and-sun-hat-field-researcher-complete-outfit"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with luminous highlights photographic style, full-length portrait with mirrored side balance composition, reef cyan with coral sunset coastal palette, diffused overcast light 06efe9d6bdf7"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with toned highlight bloom photographic style, full-length portrait with right-weighted balance composition, deep ocean blue with moonlit pearl coastal palette, diffused overcast light 0b2332d40ea9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.0b2332d40ea9",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-negative-space-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-right-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.mountain-pass-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-ocean-blue-with-moonlit-pearl-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-toned-highlight-bloom-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.post-rain-rolled-hems-and-dry-overshoes-outdoor-market-vendor-complete-o"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with toned highlight bloom photographic style, full-length portrait with right-weighted balance composition, deep ocean blue with moonlit pearl coastal palette, diffused overcast light 0b2332d40ea9"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with soft edge falloff photographic style, full-length portrait with centered balance composition, sea-glass green with golden haze coastal palette, diffused overcast light 18422040a018"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.18422040a018",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-right-weighted-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-centered-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.river-valley-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sea-glass-green-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-soft-edge-falloff-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.bright-sun-overshirt-and-brimmed-hat-outdoor-market-vendor-complete-outf"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with soft edge falloff photographic style, full-length portrait with centered balance composition, sea-glass green with golden haze coastal palette, diffused overcast light 18422040a018"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with careful studio staging photographic style, full-length portrait with off-axis tension composition, moonlit indigo with coral sunset coastal palette, diffused overcast light 1e0e4dafecab"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.1e0e4dafecab",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-centered-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-shoreline-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.moonlit-indigo-with-coral-sunset-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-careful-studio-staging-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.bright-sun-overshirt-and-brimmed-hat-coastal-travel-complete-outfit"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with careful studio staging photographic style, full-length portrait with off-axis tension composition, moonlit indigo with coral sunset coastal palette, diffused overcast light 1e0e4dafecab"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with deep shadow detail photographic style, full-length portrait with lower visual anchor composition, harbor navy with overcast silver coastal palette, diffused overcast light 2a9c3567b6bb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.2a9c3567b6bb",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-negative-space-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-lower-visual-anchor-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.harbor-district-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.harbor-navy-with-overcast-silver-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-deep-shadow-detail-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.sleet-ready-shell-and-water-resistant-boots-urban-commuter-complete-outf"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with deep shadow detail photographic style, full-length portrait with lower visual anchor composition, harbor navy with overcast silver coastal palette, diffused overcast light 2a9c3567b6bb"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with soft edge falloff photographic style, full-length portrait with off-axis tension composition, tidal teal with fog white coastal palette, diffused overcast light 2e54b76d91bf"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.2e54b76d91bf",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-right-weighted-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.city-boulevard-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tidal-teal-with-fog-white-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-soft-edge-falloff-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.storm-warning-waterproof-hood-and-gaiters-outdoor-market-vendor-complete"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with soft edge falloff photographic style, full-length portrait with off-axis tension composition, tidal teal with fog white coastal palette, diffused overcast light 2e54b76d91bf"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with deep shadow detail photographic style, full-length portrait with off-axis tension composition, tidal teal with moonlit pearl coastal palette, diffused overcast light 39a2aef7092c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.39a2aef7092c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-layered-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.harbor-district-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tidal-teal-with-moonlit-pearl-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-deep-shadow-detail-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.muddy-trail-washable-layers-and-lug-soles-campus-daywear-complete-outfit"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with deep shadow detail photographic style, full-length portrait with off-axis tension composition, tidal teal with moonlit pearl coastal palette, diffused overcast light 39a2aef7092c"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with toned highlight bloom photographic style, full-length portrait with diagonal counterweight composition, deep ocean blue with clear cerulean coastal palette, diffused overcast light 3ee825125027"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.3ee825125027",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-negative-space-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-diagonal-counterweight-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.desert-highway-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-ocean-blue-with-clear-cerulean-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-toned-highlight-bloom-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.cool-evening-cardigan-and-light-jacket-weekend-hiking-complete-outfit"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with toned highlight bloom photographic style, full-length portrait with diagonal counterweight composition, deep ocean blue with clear cerulean coastal palette, diffused overcast light 3ee825125027"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with centered period framing photographic style, full-length portrait with left-weighted balance composition, stormwater gray with storm violet coastal palette, diffused overcast light 52168aa9688a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.52168aa9688a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-centered-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-left-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-shoreline-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.stormwater-gray-with-storm-violet-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-centered-period-framing-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.spring-shower-mac-and-packable-umbrella-city-photographer-complete-outfi"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with centered period framing photographic style, full-length portrait with left-weighted balance composition, stormwater gray with storm violet coastal palette, diffused overcast light 52168aa9688a"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with soft edge falloff photographic style, full-length portrait with mirrored side balance composition, reef cyan with golden haze coastal palette, diffused overcast light 52f008c64034"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.52f008c64034",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-foreground-framed-composition-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-mirrored-side-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.harbor-district-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.reef-cyan-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-soft-edge-falloff-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.wet-snow-coat-and-insulated-boots-train-traveler-complete-outfit"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with soft edge falloff photographic style, full-length portrait with mirrored side balance composition, reef cyan with golden haze coastal palette, diffused overcast light 52f008c64034"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with muted tonal range photographic style, full-length portrait with lower visual anchor composition, deep ocean blue with clear cerulean coastal palette, diffused overcast light 67791852441d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.67791852441d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-left-weighted-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-lower-visual-anchor-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.harbor-district-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-ocean-blue-with-clear-cerulean-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-muted-tonal-range-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.bright-sun-overshirt-and-brimmed-hat-campus-daywear-complete-outfit"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with muted tonal range photographic style, full-length portrait with lower visual anchor composition, deep ocean blue with clear cerulean coastal palette, diffused overcast light 67791852441d"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with soft edge falloff photographic style, full-length portrait with mirrored side balance composition, deep ocean blue with clear cerulean coastal palette, diffused overcast light 6a889b437149"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.6a889b437149",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-right-weighted-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-mirrored-side-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-shoreline-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-ocean-blue-with-clear-cerulean-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-soft-edge-falloff-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.humid-weather-breathable-separates-outdoor-market-vendor-complete-outfit"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with soft edge falloff photographic style, full-length portrait with mirrored side balance composition, deep ocean blue with clear cerulean coastal palette, diffused overcast light 6a889b437149"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with muted tonal range photographic style, full-length portrait with off-axis tension composition, sea-glass green with fog white coastal palette, diffused overcast light 74692a19ba14"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.74692a19ba14",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-centered-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.harbor-district-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sea-glass-green-with-fog-white-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-muted-tonal-range-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.dry-heat-loose-layers-and-neck-shade-countryside-walking-complete-outfit"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with muted tonal range photographic style, full-length portrait with off-axis tension composition, sea-glass green with fog white coastal palette, diffused overcast light 74692a19ba14"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with toned highlight bloom photographic style, full-length portrait with left-weighted balance composition, moonlit indigo with golden haze coastal palette, diffused overcast light 7bc5677d6e96"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.7bc5677d6e96",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-frame-within-frame-composition-with-observational-distanc"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-left-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.open-countryside-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.moonlit-indigo-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-toned-highlight-bloom-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.bright-sun-overshirt-and-brimmed-hat-outdoor-market-vendor-complete-outf"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with toned highlight bloom photographic style, full-length portrait with left-weighted balance composition, moonlit indigo with golden haze coastal palette, diffused overcast light 7bc5677d6e96"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with centered period framing photographic style, full-length portrait with lower visual anchor composition, deep ocean blue with fog white coastal palette, diffused overcast light 90739c86bae8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.90739c86bae8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-left-weighted-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-lower-visual-anchor-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.suburban-neighborhood-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-ocean-blue-with-fog-white-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-centered-period-framing-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.wet-snow-coat-and-insulated-boots-field-researcher-complete-outfit"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with centered period framing photographic style, full-length portrait with lower visual anchor composition, deep ocean blue with fog white coastal palette, diffused overcast light 90739c86bae8"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with centered period framing photographic style, full-length portrait with lower visual anchor composition, kelp green with fog white coastal palette, diffused overcast light 90a2c56dc722"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.90a2c56dc722",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-left-weighted-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-lower-visual-anchor-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.river-valley-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.kelp-green-with-fog-white-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-centered-period-framing-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.light-frost-knit-layers-and-gloves-campus-daywear-complete-outfit"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with centered period framing photographic style, full-length portrait with lower visual anchor composition, kelp green with fog white coastal palette, diffused overcast light 90a2c56dc722"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with fine surface grain photographic style, full-length portrait with mirrored side balance composition, tidal teal with golden haze coastal palette, diffused overcast light 93b46aff8937"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.93b46aff8937",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-frame-within-frame-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-mirrored-side-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.suburban-neighborhood-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tidal-teal-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-fine-surface-grain-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.muddy-trail-washable-layers-and-lug-soles-bicycle-courier-complete-outfi"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with fine surface grain photographic style, full-length portrait with mirrored side balance composition, tidal teal with golden haze coastal palette, diffused overcast light 93b46aff8937"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with fine surface grain photographic style, full-length portrait with upper negative space composition, harbor navy with peach dawn coastal palette, diffused overcast light 996c0599000d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.996c0599000d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-layered-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-upper-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.harbor-district-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.harbor-navy-with-peach-dawn-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-fine-surface-grain-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.dry-heat-loose-layers-and-neck-shade-field-researcher-complete-outfit"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with fine surface grain photographic style, full-length portrait with upper negative space composition, harbor navy with peach dawn coastal palette, diffused overcast light 996c0599000d"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with soft edge falloff photographic style, full-length portrait with right-weighted balance composition, slate blue with overcast silver coastal palette, diffused overcast light b0a6be49a1da"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.b0a6be49a1da",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-left-weighted-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-right-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.river-valley-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-with-overcast-silver-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-soft-edge-falloff-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.humid-weather-breathable-separates-field-researcher-complete-outfit"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with soft edge falloff photographic style, full-length portrait with right-weighted balance composition, slate blue with overcast silver coastal palette, diffused overcast light b0a6be49a1da"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with centered period framing photographic style, full-length portrait with upper negative space composition, moonlit indigo with storm violet coastal palette, diffused overcast light c5e065373daa"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.c5e065373daa",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-frame-within-frame-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-upper-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.open-countryside-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.moonlit-indigo-with-storm-violet-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-centered-period-framing-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.bright-sun-overshirt-and-brimmed-hat-countryside-walking-complete-outfit"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with centered period framing photographic style, full-length portrait with upper negative space composition, moonlit indigo with storm violet coastal palette, diffused overcast light c5e065373daa"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with careful studio staging photographic style, full-length portrait with off-axis tension composition, arctic blue with moonlit pearl coastal palette, diffused overcast light d6f49d621145"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.d6f49d621145",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-negative-space-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.city-boulevard-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.arctic-blue-with-moonlit-pearl-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-careful-studio-staging-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.changeable-weather-modular-layers-weekend-hiking-complete-outfit"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with careful studio staging photographic style, full-length portrait with off-axis tension composition, arctic blue with moonlit pearl coastal palette, diffused overcast light d6f49d621145"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with fine surface grain photographic style, full-length portrait with lower visual anchor composition, sea-glass green with golden haze coastal palette, diffused overcast light d9042d1ab921"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.d9042d1ab921",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-centered-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-lower-visual-anchor-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.desert-highway-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sea-glass-green-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-fine-surface-grain-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.foggy-morning-reflective-outer-layer-weekend-hiking-complete-outfit"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with fine surface grain photographic style, full-length portrait with lower visual anchor composition, sea-glass green with golden haze coastal palette, diffused overcast light d9042d1ab921"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with careful studio staging photographic style, full-length portrait with left-weighted balance composition, arctic blue with golden haze coastal palette, diffused overcast light ef37e7c9792b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.ef37e7c9792b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-foreground-framed-composition-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-left-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.suburban-neighborhood-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.arctic-blue-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-careful-studio-staging-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.cool-evening-cardigan-and-light-jacket-outdoor-market-vendor-complete-ou"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with careful studio staging photographic style, full-length portrait with left-weighted balance composition, arctic blue with golden haze coastal palette, diffused overcast light ef37e7c9792b"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "weatherproof field editorial featuring instant film with soft edge falloff photographic style, full-length portrait with centered balance composition, kelp green with overcast silver coastal palette, diffused overcast light fb6c90a5891a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.weatherproof-field-editorial",
+      "familyTriggers": [
+        "weatherproof field editorial direction",
+        "functional outerwear location shoot",
+        "wind-ready fashion story"
+      ],
+      "id": "phase8.art.wardrobe.weatherproof-field-editorial.fb6c90a5891a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-left-weighted-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-centered-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.harbor-district-in-gusting-wind-in-late-afternoon"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.kelp-green-with-overcast-silver-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-soft-edge-falloff-photographic-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.wet-snow-coat-and-insulated-boots-weekend-hiking-complete-outfit"
+        ]
+      },
+      "name": "Weatherproof Field Editorial 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.weatherproof-field-editorial",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weather-adapted full look",
+        "field-editorial function",
+        "wind-tested layering"
+      ],
+      "triggers": [
+        "weatherproof field editorial featuring instant film with soft edge falloff photographic style, full-length portrait with centered balance composition, kelp green with overcast silver coastal palette, diffused overcast light fb6c90a5891a"
+      ],
+      "variantIndex": 22
+    }
+  ],
+  "schemaVersion": 2
+}

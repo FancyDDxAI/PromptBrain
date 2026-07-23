@@ -1,0 +1,251 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "C.C.",
+        "C.C. (Code Geass)"
+      ],
+      "id": "character.code-geass.c-c",
+      "kind": "named-character",
+      "name": "C.C.",
+      "namespace": "Code Geass",
+      "promptTags": [
+        "C.C.",
+        "Code Geass",
+        "female",
+        "immortal ally"
+      ],
+      "provenance": {
+        "groupId": "code-geass",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "immortal",
+        "ally"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Charles zi Britannia",
+        "Charles zi Britannia (Code Geass)"
+      ],
+      "id": "character.code-geass.charles-zi-britannia",
+      "kind": "named-character",
+      "name": "Charles zi Britannia",
+      "namespace": "Code Geass",
+      "promptTags": [
+        "Charles zi Britannia",
+        "Code Geass",
+        "male",
+        "emperor"
+      ],
+      "provenance": {
+        "groupId": "code-geass",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "antagonist",
+        "emperor"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Euphemia li Britannia",
+        "Euphemia li Britannia (Code Geass)"
+      ],
+      "id": "character.code-geass.euphemia-li-britannia",
+      "kind": "named-character",
+      "name": "Euphemia li Britannia",
+      "namespace": "Code Geass",
+      "promptTags": [
+        "Euphemia li Britannia",
+        "Code Geass",
+        "female",
+        "princess"
+      ],
+      "provenance": {
+        "groupId": "code-geass",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "princess"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kallen Kozuki",
+        "Kallen Kozuki (Code Geass)"
+      ],
+      "id": "character.code-geass.kallen-kozuki",
+      "kind": "named-character",
+      "name": "Kallen Kozuki",
+      "namespace": "Code Geass",
+      "promptTags": [
+        "Kallen Kozuki",
+        "Code Geass",
+        "female",
+        "resistance pilot"
+      ],
+      "provenance": {
+        "groupId": "code-geass",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "resistance",
+        "pilot"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Lelouch Lamperouge",
+        "Lelouch Lamperouge (Code Geass)"
+      ],
+      "id": "character.code-geass.lelouch-lamperouge",
+      "kind": "named-character",
+      "name": "Lelouch Lamperouge",
+      "namespace": "Code Geass",
+      "promptTags": [
+        "Lelouch Lamperouge",
+        "Code Geass",
+        "male",
+        "rebel leader"
+      ],
+      "provenance": {
+        "groupId": "code-geass",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "leader"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Nunnally Lamperouge",
+        "Nunnally Lamperouge (Code Geass)"
+      ],
+      "id": "character.code-geass.nunnally-lamperouge",
+      "kind": "named-character",
+      "name": "Nunnally Lamperouge",
+      "namespace": "Code Geass",
+      "promptTags": [
+        "Nunnally Lamperouge",
+        "Code Geass",
+        "female",
+        "princess"
+      ],
+      "provenance": {
+        "groupId": "code-geass",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "princess"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Suzaku Kururugi",
+        "Suzaku Kururugi (Code Geass)"
+      ],
+      "id": "character.code-geass.suzaku-kururugi",
+      "kind": "named-character",
+      "name": "Suzaku Kururugi",
+      "namespace": "Code Geass",
+      "promptTags": [
+        "Suzaku Kururugi",
+        "Code Geass",
+        "male",
+        "knight pilot"
+      ],
+      "provenance": {
+        "groupId": "code-geass",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "knight",
+        "pilot"
+      ]
+    }
+  ],
+  "fingerprint": "a778c33eff13f7bc3dd770b9a757ed2b290324b8c5e022652de94f23cdb58b84",
+  "namespace": "Code Geass",
+  "schemaVersion": 2
+}

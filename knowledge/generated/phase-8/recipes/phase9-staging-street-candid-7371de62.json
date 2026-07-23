@@ -1,0 +1,1664 @@
+{
+  "count": 24,
+  "familyId": "phase9.staging.street-candid",
+  "fingerprint": "a3940ca10ecfaeb63401359d2de4bec72fadcb5fe745478b881d8720a7747161",
+  "recipes": [
+    {
+      "aliases": [
+        "street candid featuring paper margin as split-field negative space composition, suburban main street with a framed intersection, lived-in urban atmosphere 0ad50bd4ecb5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.0ad50bd4ecb5",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-split-field-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.film-grain-with-moderate-presence-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.suburban-main-street-with-a-framed-intersection-lived-in-urban-atmospher"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.hands-resting-in-pockets-the-left-shoulder-lightly-supported-by-a-wall-s"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.shirt-jacket-over-a-fine-gauge-knit-rugby-shirt-cargo-trousers-and-hikin"
+        ]
+      },
+      "name": "Street Candid 7",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring paper margin as split-field negative space composition, suburban main street with a framed intersection, lived-in urban atmosphere 0ad50bd4ecb5"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "street candid featuring deep shadow as right-side negative space composition, suburban main street with pedestrian-scale detail, lived-in urban atmosphere 0bc5780bda9d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.0bc5780bda9d",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-right-side-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.ink-misregistration-with-layered-handmade-variation-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.suburban-main-street-with-pedestrian-scale-detail-lived-in-urban-atmosph"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.arms-relaxed-at-the-sides-the-lower-back-resting-against-a-counter-stati"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.cardigan-under-a-belted-raincoat-midi-dress-and-low-profile-sneakers-com"
+        ]
+      },
+      "name": "Street Candid 2",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring deep shadow as right-side negative space composition, suburban main street with pedestrian-scale detail, lived-in urban atmosphere 0bc5780bda9d"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "street candid featuring distant horizon as below-subject negative space composition, dense residential quarter with layered street frontage, lived-in urban atmosphere 0d15873cf10a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.0d15873cf10a",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.distant-horizon-as-below-subject-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.paper-grain-with-localized-edge-emphasis-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.dense-residential-quarter-with-layered-street-frontage-lived-in-urban-at"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.arms-relaxed-at-the-sides-one-side-resting-against-a-broad-support-stati"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.cropped-denim-jacket-with-rolled-cuffs-utility-jumpsuit-and-lace-up-boot"
+        ]
+      },
+      "name": "Street Candid 20",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring distant horizon as below-subject negative space composition, dense residential quarter with layered street frontage, lived-in urban atmosphere 0d15873cf10a"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "street candid featuring empty floor as left-side negative space composition, university neighborhood with foreground street furniture, orderly architectural atmosphere 3baeb077ac72"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.3baeb077ac72",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-left-side-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.screenprint-bleed-with-localized-edge-emphasis-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.university-neighborhood-with-foreground-street-furniture-orderly-archite"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-resting-at-the-hip-the-left-hip-resting-against-a-table-edge-st"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.capelet-over-a-mock-neck-underlayer-rugby-shirt-cargo-trousers-and-hikin"
+        ]
+      },
+      "name": "Street Candid 17",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring empty floor as left-side negative space composition, university neighborhood with foreground street furniture, orderly architectural atmosphere 3baeb077ac72"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "street candid featuring deep shadow as corner negative space composition, modern financial district with a framed intersection, orderly architectural atmosphere 3dc18374bc69"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.3dc18374bc69",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-corner-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.photocopy-noise-with-moderate-presence-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.modern-financial-district-with-a-framed-intersection-orderly-architectur"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.arms-crossed-at-the-chest-the-upper-back-lightly-supported-by-a-wall-sta"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.belted-cardigan-with-visible-shirt-cuffs-utility-jumpsuit-and-lace-up-bo"
+        ]
+      },
+      "name": "Street Candid 22",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring deep shadow as corner negative space composition, modern financial district with a framed intersection, orderly architectural atmosphere 3dc18374bc69"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "street candid featuring open sky as below-subject negative space composition, suburban main street with layered street frontage, lived-in urban atmosphere 4a040a2ad612"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.4a040a2ad612",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.open-sky-as-below-subject-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.tape-tracking-lines-with-localized-edge-emphasis-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.suburban-main-street-with-layered-street-frontage-lived-in-urban-atmosph"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-touching-the-support-surface-the-hips-resting-against-a-desk-ed"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.belted-cardigan-with-visible-shirt-cuffs-button-front-shirt-tailored-tro"
+        ]
+      },
+      "name": "Street Candid 24",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring open sky as below-subject negative space composition, suburban main street with layered street frontage, lived-in urban atmosphere 4a040a2ad612"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "street candid featuring mist field as below-subject negative space composition, historic market district with a framed intersection, orderly architectural atmosphere 50694c33fe47"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.50694c33fe47",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.mist-field-as-below-subject-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.photocopy-noise-with-subtle-presence-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.historic-market-district-with-a-framed-intersection-orderly-architectura"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-resting-at-the-hip-the-left-shoulder-lightly-supported-by-a-wal"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.soft-shawl-over-a-fitted-jacket-long-tunic-slim-trousers-and-slip-on-sho"
+        ]
+      },
+      "name": "Street Candid 11",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring mist field as below-subject negative space composition, historic market district with a framed intersection, orderly architectural atmosphere 50694c33fe47"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "street candid featuring distant horizon as central negative space composition, old port neighborhood with foreground street furniture, lived-in urban atmosphere 54dbc3e73849"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.54dbc3e73849",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.distant-horizon-as-central-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.tape-tracking-lines-with-moderate-presence-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-foreground-street-furniture-lived-in-urban-at"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.arms-relaxed-at-the-sides-one-side-resting-against-a-broad-support-stati"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.waistcoat-over-a-rolled-sleeve-shirt-cable-sweater-tapered-chinos-and-co"
+        ]
+      },
+      "name": "Street Candid 13",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring distant horizon as central negative space composition, old port neighborhood with foreground street furniture, lived-in urban atmosphere 54dbc3e73849"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "street candid featuring empty floor as below-subject negative space composition, university neighborhood with a distant skyline backdrop, orderly architectural atmosphere 5552d3374233"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.5552d3374233",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-below-subject-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.screenprint-bleed-with-layered-handmade-variation-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.university-neighborhood-with-a-distant-skyline-backdrop-orderly-architec"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.hands-resting-in-pockets-the-lower-back-resting-against-a-counter-static"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.windbreaker-tied-at-waist-over-compact-layers-button-front-shirt-tailore"
+        ]
+      },
+      "name": "Street Candid 18",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring empty floor as below-subject negative space composition, university neighborhood with a distant skyline backdrop, orderly architectural atmosphere 5552d3374233"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "street candid featuring empty floor as encircling negative space composition, dense residential quarter with foreground street furniture, lived-in urban atmosphere 5d34e452fc57"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.5d34e452fc57",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-encircling-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.dust-scratches-with-layered-handmade-variation-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.dense-residential-quarter-with-foreground-street-furniture-lived-in-urba"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-holding-the-opposite-wrist-one-shoulder-resting-against-a-colum"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.capelet-over-a-mock-neck-underlayer-rugby-shirt-cargo-trousers-and-hikin"
+        ]
+      },
+      "name": "Street Candid 5",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring empty floor as encircling negative space composition, dense residential quarter with foreground street furniture, lived-in urban atmosphere 5d34e452fc57"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "street candid featuring calm water as left-side negative space composition, university neighborhood with pedestrian-scale detail, orderly architectural atmosphere 5f2138efb231"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.5f2138efb231",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-left-side-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.print-roller-marks-with-selective-background-use-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.university-neighborhood-with-pedestrian-scale-detail-orderly-architectur"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-holding-the-opposite-wrist-the-upper-back-lightly-supported-by-"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.open-flannel-shirt-over-a-plain-tee-long-tunic-slim-trousers-and-slip-on"
+        ]
+      },
+      "name": "Street Candid 21",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring calm water as left-side negative space composition, university neighborhood with pedestrian-scale detail, orderly architectural atmosphere 5f2138efb231"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "street candid featuring empty floor as left-side negative space composition, dense residential quarter with a distant skyline backdrop, lived-in urban atmosphere 7e147f4eda80"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.7e147f4eda80",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-left-side-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.ink-misregistration-with-rhythmic-repeated-use-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.dense-residential-quarter-with-a-distant-skyline-backdrop-lived-in-urban"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-holding-the-opposite-wrist-the-right-hip-resting-against-a-tabl"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.capelet-over-a-mock-neck-underlayer-rugby-shirt-cargo-trousers-and-hikin"
+        ]
+      },
+      "name": "Street Candid 14",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring empty floor as left-side negative space composition, dense residential quarter with a distant skyline backdrop, lived-in urban atmosphere 7e147f4eda80"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "street candid featuring plain fabric as central negative space composition, transit hub district with a distant skyline backdrop, orderly architectural atmosphere 8cabb7f7f1fb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.8cabb7f7f1fb",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.plain-fabric-as-central-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.print-roller-marks-with-clean-masked-use-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.transit-hub-district-with-a-distant-skyline-backdrop-orderly-architectur"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-resting-at-the-collarbone-the-lower-back-resting-against-a-coun"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.soft-shawl-over-a-fitted-jacket-midi-dress-and-low-profile-sneakers-comp"
+        ]
+      },
+      "name": "Street Candid 23",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring plain fabric as central negative space composition, transit hub district with a distant skyline backdrop, orderly architectural atmosphere 8cabb7f7f1fb"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "street candid featuring deep shadow as split-field negative space composition, neon entertainment block with a distant skyline backdrop, cinematic metropolitan atmosphere 8da8a73e6469"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.8da8a73e6469",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-split-field-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.print-roller-marks-with-bold-presence-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-a-distant-skyline-backdrop-cinematic-metro"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-holding-the-opposite-wrist-the-right-hip-resting-against-a-tabl"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.capelet-over-a-mock-neck-underlayer-long-tunic-slim-trousers-and-slip-on"
+        ]
+      },
+      "name": "Street Candid 4",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring deep shadow as split-field negative space composition, neon entertainment block with a distant skyline backdrop, cinematic metropolitan atmosphere 8da8a73e6469"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "street candid featuring snow field as right-side negative space composition, old port neighborhood with a framed intersection, lived-in urban atmosphere 935b610a0147"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.935b610a0147",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.snow-field-as-right-side-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.halftone-dots-with-localized-edge-emphasis-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-a-framed-intersection-lived-in-urban-atmosphe"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-resting-at-the-collarbone-the-left-hip-resting-against-a-table-"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tonal-three-layer-stack-with-varied-hem-lengths-mock-neck-sweater-wide-l"
+        ]
+      },
+      "name": "Street Candid 12",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring snow field as right-side negative space composition, old port neighborhood with a framed intersection, lived-in urban atmosphere 935b610a0147"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "street candid featuring snow field as below-subject negative space composition, industrial rail district with a long urban sightline, orderly architectural atmosphere 99bf1e085d85"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.99bf1e085d85",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.snow-field-as-below-subject-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.light-leaks-with-subtle-presence-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-a-long-urban-sightline-orderly-architectur"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.hands-resting-in-pockets-the-left-hip-resting-against-a-table-edge-stati"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.soft-shawl-over-a-fitted-jacket-mock-neck-sweater-wide-leg-trousers-and-"
+        ]
+      },
+      "name": "Street Candid 9",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring snow field as below-subject negative space composition, industrial rail district with a long urban sightline, orderly architectural atmosphere 99bf1e085d85"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "street candid featuring calm water as corner negative space composition, dense residential quarter with layered street frontage, orderly architectural atmosphere 9a0e788b17da"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.9a0e788b17da",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-corner-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.paper-grain-with-subtle-presence-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.dense-residential-quarter-with-layered-street-frontage-orderly-architect"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-holding-the-opposite-wrist-one-shoulder-resting-against-a-colum"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-blazer-with-pushed-up-sleeves-mock-neck-sweater-wide-leg-trouse"
+        ]
+      },
+      "name": "Street Candid 19",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring calm water as corner negative space composition, dense residential quarter with layered street frontage, orderly architectural atmosphere 9a0e788b17da"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "street candid featuring plain fabric as below-subject negative space composition, modern financial district with a long urban sightline, lived-in urban atmosphere a4c48f7395ef"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.a4c48f7395ef",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.plain-fabric-as-below-subject-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.tape-tracking-lines-with-moderate-presence-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.modern-financial-district-with-a-long-urban-sightline-lived-in-urban-atm"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-resting-at-the-hip-the-right-hip-resting-against-a-table-edge-s"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.longline-trench-with-a-loose-neck-scarf-long-tunic-slim-trousers-and-sli"
+        ]
+      },
+      "name": "Street Candid 10",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring plain fabric as below-subject negative space composition, modern financial district with a long urban sightline, lived-in urban atmosphere a4c48f7395ef"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "street candid featuring soft bokeh as encircling negative space composition, industrial rail district with layered street frontage, cinematic metropolitan atmosphere a667804020bc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.a667804020bc",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.soft-bokeh-as-encircling-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.halftone-dots-with-localized-edge-emphasis-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-layered-street-frontage-cinematic-metropol"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.hands-loosely-clasped-in-front-the-right-hip-resting-against-a-table-edg"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.cardigan-under-a-belted-raincoat-button-front-shirt-tailored-trousers-an"
+        ]
+      },
+      "name": "Street Candid 16",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring soft bokeh as encircling negative space composition, industrial rail district with layered street frontage, cinematic metropolitan atmosphere a667804020bc"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "street candid featuring empty floor as corner negative space composition, historic market district with layered street frontage, cinematic metropolitan atmosphere ae7b1cc2fdb8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.ae7b1cc2fdb8",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-corner-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.paper-grain-with-rhythmic-repeated-use-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.historic-market-district-with-layered-street-frontage-cinematic-metropol"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-resting-at-the-hip-the-left-hip-resting-against-a-table-edge-st"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.sweater-vest-over-a-collared-shirt-button-front-shirt-tailored-trousers-"
+        ]
+      },
+      "name": "Street Candid 15",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring empty floor as corner negative space composition, historic market district with layered street frontage, cinematic metropolitan atmosphere ae7b1cc2fdb8"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "street candid featuring calm water as right-side negative space composition, dense residential quarter with overhead infrastructure, orderly architectural atmosphere bce591e47e9f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.bce591e47e9f",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-right-side-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.print-roller-marks-with-selective-background-use-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.dense-residential-quarter-with-overhead-infrastructure-orderly-architect"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.hands-loosely-clasped-in-front-one-shoulder-resting-against-a-column-sta"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.utility-vest-over-a-lightweight-overshirt-utility-jumpsuit-and-lace-up-b"
+        ]
+      },
+      "name": "Street Candid 1",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring calm water as right-side negative space composition, dense residential quarter with overhead infrastructure, orderly architectural atmosphere bce591e47e9f"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "street candid featuring distant horizon as below-subject negative space composition, dense residential quarter with crossing traffic lines, orderly architectural atmosphere cec5a6dd20c5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.cec5a6dd20c5",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.distant-horizon-as-below-subject-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.dust-scratches-with-moderate-presence-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.dense-residential-quarter-with-crossing-traffic-lines-orderly-architectu"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-touching-the-support-surface-the-upper-back-lightly-supported-b"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.open-flannel-shirt-over-a-plain-tee-mock-neck-sweater-wide-leg-trousers-"
+        ]
+      },
+      "name": "Street Candid 8",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring distant horizon as below-subject negative space composition, dense residential quarter with crossing traffic lines, orderly architectural atmosphere cec5a6dd20c5"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "street candid featuring paper margin as right-side negative space composition, industrial rail district with reflective street surfaces, orderly architectural atmosphere d65152b459db"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.d65152b459db",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-right-side-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.photocopy-noise-with-localized-edge-emphasis-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-reflective-street-surfaces-orderly-archite"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.hands-resting-in-pockets-one-shoulder-resting-against-a-column-static-ad"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.sleeveless-duster-over-tonal-separates-mock-neck-sweater-wide-leg-trouse"
+        ]
+      },
+      "name": "Street Candid 6",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring paper margin as right-side negative space composition, industrial rail district with reflective street surfaces, orderly architectural atmosphere d65152b459db"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "street candid featuring plain fabric as corner negative space composition, suburban main street with reflective street surfaces, lived-in urban atmosphere da6f53f2e78b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.street-candid",
+      "familyTriggers": [
+        "street candid",
+        "candid street scene",
+        "street candid staging"
+      ],
+      "id": "phase9.staging.street-candid.da6f53f2e78b",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.plain-fabric-as-corner-negative-space-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.paper-grain-with-layered-handmade-variation-analog-effect"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.suburban-main-street-with-reflective-street-surfaces-lived-in-urban-atmo"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-holding-the-opposite-wrist-the-left-shoulder-lightly-supported-"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.utility-vest-over-a-lightweight-overshirt-mock-neck-sweater-wide-leg-tro"
+        ]
+      },
+      "name": "Street Candid 3",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.street-candid",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "effects": 1,
+        "environment": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "relaxed weight",
+        "urban texture",
+        "available light"
+      ],
+      "triggers": [
+        "street candid featuring plain fabric as corner negative space composition, suburban main street with reflective street surfaces, lived-in urban atmosphere da6f53f2e78b"
+      ],
+      "variantIndex": 2
+    }
+  ],
+  "schemaVersion": 2
+}

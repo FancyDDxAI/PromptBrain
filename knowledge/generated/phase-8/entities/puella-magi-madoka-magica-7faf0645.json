@@ -1,0 +1,213 @@
+{
+  "count": 6,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Homura Akemi",
+        "Homura Akemi (Puella Magi Madoka Magica)"
+      ],
+      "id": "character.puella-magi-madoka-magica.homura-akemi",
+      "kind": "named-character",
+      "name": "Homura Akemi",
+      "namespace": "Puella Magi Madoka Magica",
+      "promptTags": [
+        "Homura Akemi",
+        "Puella Magi Madoka Magica",
+        "female",
+        "magical girl"
+      ],
+      "provenance": {
+        "groupId": "puella-magi-madoka-magica",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "magical-girl"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kyoko Sakura",
+        "Kyoko Sakura (Puella Magi Madoka Magica)"
+      ],
+      "id": "character.puella-magi-madoka-magica.kyoko-sakura",
+      "kind": "named-character",
+      "name": "Kyoko Sakura",
+      "namespace": "Puella Magi Madoka Magica",
+      "promptTags": [
+        "Kyoko Sakura",
+        "Puella Magi Madoka Magica",
+        "female",
+        "magical girl"
+      ],
+      "provenance": {
+        "groupId": "puella-magi-madoka-magica",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "magical-girl"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Madoka Kaname",
+        "Madoka Kaname (Puella Magi Madoka Magica)"
+      ],
+      "id": "character.puella-magi-madoka-magica.madoka-kaname",
+      "kind": "named-character",
+      "name": "Madoka Kaname",
+      "namespace": "Puella Magi Madoka Magica",
+      "promptTags": [
+        "Madoka Kaname",
+        "Puella Magi Madoka Magica",
+        "female",
+        "magical girl"
+      ],
+      "provenance": {
+        "groupId": "puella-magi-madoka-magica",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "protagonist",
+        "magical-girl"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Mami Tomoe",
+        "Mami Tomoe (Puella Magi Madoka Magica)"
+      ],
+      "id": "character.puella-magi-madoka-magica.mami-tomoe",
+      "kind": "named-character",
+      "name": "Mami Tomoe",
+      "namespace": "Puella Magi Madoka Magica",
+      "promptTags": [
+        "Mami Tomoe",
+        "Puella Magi Madoka Magica",
+        "female",
+        "magical girl"
+      ],
+      "provenance": {
+        "groupId": "puella-magi-madoka-magica",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "magical-girl"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Nagisa Momoe",
+        "Nagisa Momoe (Puella Magi Madoka Magica)"
+      ],
+      "id": "character.puella-magi-madoka-magica.nagisa-momoe",
+      "kind": "named-character",
+      "name": "Nagisa Momoe",
+      "namespace": "Puella Magi Madoka Magica",
+      "promptTags": [
+        "Nagisa Momoe",
+        "Puella Magi Madoka Magica",
+        "female",
+        "magical girl"
+      ],
+      "provenance": {
+        "groupId": "puella-magi-madoka-magica",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "magical-girl"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Sayaka Miki",
+        "Sayaka Miki (Puella Magi Madoka Magica)"
+      ],
+      "id": "character.puella-magi-madoka-magica.sayaka-miki",
+      "kind": "named-character",
+      "name": "Sayaka Miki",
+      "namespace": "Puella Magi Madoka Magica",
+      "promptTags": [
+        "Sayaka Miki",
+        "Puella Magi Madoka Magica",
+        "female",
+        "magical girl"
+      ],
+      "provenance": {
+        "groupId": "puella-magi-madoka-magica",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "magical-girl"
+      ]
+    }
+  ],
+  "fingerprint": "35ee7263f3b8ec0f936c5e795a056d97a570e64468bbfdecb929cb30bf2dab39",
+  "namespace": "Puella Magi Madoka Magica",
+  "schemaVersion": 2
+}

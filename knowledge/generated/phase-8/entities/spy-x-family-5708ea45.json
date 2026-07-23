@@ -1,0 +1,252 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Anya Forger",
+        "Anya Forger (Spy x Family)"
+      ],
+      "id": "character.spy-x-family.anya-forger",
+      "kind": "named-character",
+      "name": "Anya Forger",
+      "namespace": "Spy x Family",
+      "promptTags": [
+        "Anya Forger",
+        "Spy x Family",
+        "female",
+        "student telepath"
+      ],
+      "provenance": {
+        "groupId": "spy-x-family",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "child",
+        "student",
+        "telepath"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Becky Blackbell",
+        "Becky Blackbell (Spy x Family)"
+      ],
+      "id": "character.spy-x-family.becky-blackbell",
+      "kind": "named-character",
+      "name": "Becky Blackbell",
+      "namespace": "Spy x Family",
+      "promptTags": [
+        "Becky Blackbell",
+        "Spy x Family",
+        "female",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "spy-x-family",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "child",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Damian Desmond",
+        "Damian Desmond (Spy x Family)"
+      ],
+      "id": "character.spy-x-family.damian-desmond",
+      "kind": "named-character",
+      "name": "Damian Desmond",
+      "namespace": "Spy x Family",
+      "promptTags": [
+        "Damian Desmond",
+        "Spy x Family",
+        "male",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "spy-x-family",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "child",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Fiona Frost",
+        "Fiona Frost (Spy x Family)"
+      ],
+      "id": "character.spy-x-family.fiona-frost",
+      "kind": "named-character",
+      "name": "Fiona Frost",
+      "namespace": "Spy x Family",
+      "promptTags": [
+        "Fiona Frost",
+        "Spy x Family",
+        "female",
+        "spy"
+      ],
+      "provenance": {
+        "groupId": "spy-x-family",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "spy"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Franky Franklin",
+        "Franky Franklin (Spy x Family)"
+      ],
+      "id": "character.spy-x-family.franky-franklin",
+      "kind": "named-character",
+      "name": "Franky Franklin",
+      "namespace": "Spy x Family",
+      "promptTags": [
+        "Franky Franklin",
+        "Spy x Family",
+        "male",
+        "informant"
+      ],
+      "provenance": {
+        "groupId": "spy-x-family",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "informant"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Loid Forger",
+        "Loid Forger (Spy x Family)"
+      ],
+      "id": "character.spy-x-family.loid-forger",
+      "kind": "named-character",
+      "name": "Loid Forger",
+      "namespace": "Spy x Family",
+      "promptTags": [
+        "Loid Forger",
+        "Spy x Family",
+        "male",
+        "spy"
+      ],
+      "provenance": {
+        "groupId": "spy-x-family",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "spy"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Sylvia Sherwood",
+        "Sylvia Sherwood (Spy x Family)"
+      ],
+      "id": "character.spy-x-family.sylvia-sherwood",
+      "kind": "named-character",
+      "name": "Sylvia Sherwood",
+      "namespace": "Spy x Family",
+      "promptTags": [
+        "Sylvia Sherwood",
+        "Spy x Family",
+        "female",
+        "intelligence handler"
+      ],
+      "provenance": {
+        "groupId": "spy-x-family",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "spy",
+        "handler"
+      ]
+    }
+  ],
+  "fingerprint": "93d3d2b82e418ff965db4270471c17777d9bfcd9264873f8bf259a60f2e64ce0",
+  "namespace": "Spy x Family",
+  "schemaVersion": 2
+}

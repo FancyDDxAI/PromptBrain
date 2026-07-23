@@ -1,0 +1,4252 @@
+{
+  "analysis": {
+    "nearDuplicates": {
+      "budgetExceeded": false,
+      "candidatePairs": 4631920,
+      "matches": 3,
+      "threshold": 0.9
+    }
+  },
+  "baselineComparison": {
+    "baselineFingerprint": "1cbacd5911cea7d63a3088a3e86191195a9ef40736b5c66b8131d2d03905d0b5",
+    "currentFingerprint": "6888adf92531b2225930cc66f892b0ece6a186db2e9a36d18feb6af242d0347d",
+    "deltas": {
+      "concept.alias-collision": {
+        "actual": 33,
+        "baseline": 33,
+        "delta": 0
+      },
+      "concept.alias-cross-kind": {
+        "actual": 1,
+        "baseline": 1,
+        "delta": 0
+      },
+      "concept.cross-kind-prompt": {
+        "actual": 1,
+        "baseline": 1,
+        "delta": 0
+      },
+      "concept.duplicate-prompt": {
+        "actual": 29,
+        "baseline": 29,
+        "delta": 0
+      },
+      "concept.near-duplicate-prompt": {
+        "actual": 3,
+        "baseline": 2,
+        "delta": 1
+      },
+      "recipe.alias-cross-family": {
+        "actual": 10,
+        "baseline": 10,
+        "delta": 0
+      },
+      "recipe.alias-same-family": {
+        "actual": 64,
+        "baseline": 64,
+        "delta": 0
+      }
+    },
+    "qualityDelta": 0.5,
+    "regressions": [],
+    "schemaVersion": 1,
+    "valid": true
+  },
+  "fingerprint": "6888adf92531b2225930cc66f892b0ece6a186db2e9a36d18feb6af242d0347d",
+  "issues": [
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "charging forward",
+        "kinds": [
+          "action"
+        ]
+      },
+      "entityType": "concept",
+      "id": "action.charging",
+      "message": "Alias \"charging forward\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "action.charging",
+        "curated.action.charging-forward"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "thin mouse tail",
+        "kinds": [
+          "anatomy"
+        ]
+      },
+      "entityType": "concept",
+      "id": "anatomy.mouse-tail",
+      "message": "Alias \"thin mouse tail\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "anatomy.mouse-tail",
+        "curated.anatomy.thin-mouse-tail"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "pointed elf ears",
+        "kinds": [
+          "anatomy"
+        ]
+      },
+      "entityType": "concept",
+      "id": "anatomy.pointed-elf-ears",
+      "message": "Alias \"pointed elf ears\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "anatomy.pointed-elf-ears",
+        "curated.anatomy.pointed-elf-ears"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "dutch tilt",
+        "kinds": [
+          "camera"
+        ]
+      },
+      "entityType": "concept",
+      "id": "camera.dutch-tilt",
+      "message": "Alias \"dutch tilt\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "camera.dutch-tilt",
+        "curated.camera.dutch-tilt"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "from above",
+        "kinds": [
+          "camera"
+        ]
+      },
+      "entityType": "concept",
+      "id": "camera.from-above",
+      "message": "Alias \"from above\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "camera.from-above",
+        "curated.camera.from-above"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "from below",
+        "kinds": [
+          "camera"
+        ]
+      },
+      "entityType": "concept",
+      "id": "camera.from-below",
+      "message": "Alias \"from below\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "camera.from-below",
+        "curated.camera.from-below"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "profile view",
+        "kinds": [
+          "camera"
+        ]
+      },
+      "entityType": "concept",
+      "id": "camera.from-side",
+      "message": "Alias \"profile view\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "camera.from-side",
+        "curated.camera.profile-view"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "shallow depth of field",
+        "kinds": [
+          "camera"
+        ]
+      },
+      "entityType": "concept",
+      "id": "camera.shallow-dof",
+      "message": "Alias \"shallow depth of field\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "camera.shallow-dof",
+        "curated.camera.shallow-depth-of-field"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "three quarter view",
+        "kinds": [
+          "camera"
+        ]
+      },
+      "entityType": "concept",
+      "id": "camera.three-quarter",
+      "message": "Alias \"three quarter view\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "camera.three-quarter",
+        "curated.camera.three-quarter-view"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "wide establishing shot",
+        "kinds": [
+          "camera"
+        ]
+      },
+      "entityType": "concept",
+      "id": "camera.wide",
+      "message": "Alias \"wide establishing shot\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "camera.wide",
+        "curated.camera.wide-establishing-shot"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "controlled negative space",
+        "kinds": [
+          "composition"
+        ]
+      },
+      "entityType": "concept",
+      "id": "composition.negative-space",
+      "message": "Alias \"controlled negative space\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "composition.negative-space",
+        "curated.composition.controlled-negative-space"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "glowing body markings",
+        "kinds": [
+          "anatomy"
+        ]
+      },
+      "entityType": "concept",
+      "id": "curated.anatomy.glowing-body-markings",
+      "message": "Alias \"glowing body markings\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "curated.anatomy.glowing-body-markings",
+        "curated.anatomy.glowing-body-markings-2"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "scaled dragon tail",
+        "kinds": [
+          "anatomy"
+        ]
+      },
+      "entityType": "concept",
+      "id": "curated.anatomy.scaled-dragon-tail",
+      "message": "Alias \"scaled dragon tail\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "curated.anatomy.scaled-dragon-tail",
+        "curated.anatomy.scaled-dragon-tail-2"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "soft bloom",
+        "kinds": [
+          "effect"
+        ]
+      },
+      "entityType": "concept",
+      "id": "curated.effect.soft-bloom",
+      "message": "Alias \"soft bloom\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "curated.effect.soft-bloom",
+        "curated.effect.soft-bloom-2"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "gothic palace corridor",
+        "kinds": [
+          "environment"
+        ]
+      },
+      "entityType": "concept",
+      "id": "curated.environment.gothic-palace-corridor",
+      "message": "Alias \"gothic palace corridor\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "curated.environment.gothic-palace-corridor",
+        "curated.environment.gothic-palace-corridor-2"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "warm sepia and vermilion palette",
+        "kinds": [
+          "palette"
+        ]
+      },
+      "entityType": "concept",
+      "id": "curated.palette.warm-sepia-and-vermilion-palette",
+      "message": "Alias \"warm sepia and vermilion palette\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "curated.palette.warm-sepia-and-vermilion-palette",
+        "curated.palette.warm-sepia-and-vermilion-palette-2"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "relaxed seated pose",
+        "kinds": [
+          "pose"
+        ]
+      },
+      "entityType": "concept",
+      "id": "curated.pose.relaxed-seated-pose",
+      "message": "Alias \"relaxed seated pose\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "curated.pose.relaxed-seated-pose",
+        "curated.pose.relaxed-seated-pose-2"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "embroidered silk kimono",
+        "kinds": [
+          "wardrobe"
+        ]
+      },
+      "entityType": "concept",
+      "id": "curated.wardrobe.embroidered-silk-kimono",
+      "message": "Alias \"embroidered silk kimono\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "curated.wardrobe.embroidered-silk-kimono",
+        "curated.wardrobe.embroidered-silk-kimono-2"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "controlled chromatic aberration",
+        "kinds": [
+          "effect"
+        ]
+      },
+      "entityType": "concept",
+      "id": "effect.chromatic-aberration",
+      "message": "Alias \"controlled chromatic aberration\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "effect.chromatic-aberration",
+        "curated.effect.controlled-chromatic-aberration"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "subtle film grain",
+        "kinds": [
+          "effect"
+        ]
+      },
+      "entityType": "concept",
+      "id": "effect.film-grain",
+      "message": "Alias \"subtle film grain\" resolves to 3 concepts",
+      "path": "",
+      "relatedIds": [
+        "effect.film-grain",
+        "curated.effect.subtle-film-grain",
+        "curated.effect.subtle-film-grain-2"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "directional motion blur",
+        "kinds": [
+          "effect"
+        ]
+      },
+      "entityType": "concept",
+      "id": "effect.motion-blur",
+      "message": "Alias \"directional motion blur\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "effect.motion-blur",
+        "curated.effect.directional-motion-blur"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "black feathers",
+        "kinds": [
+          "motif"
+        ]
+      },
+      "entityType": "concept",
+      "id": "motif.black-feathers",
+      "message": "Alias \"black feathers\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "motif.black-feathers",
+        "curated.motif.black-feathers"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "relaxed standing pose",
+        "kinds": [
+          "pose"
+        ]
+      },
+      "entityType": "concept",
+      "id": "pose.contrapposto",
+      "message": "Alias \"relaxed standing pose\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "pose.contrapposto",
+        "curated.pose.relaxed-standing-pose"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "cinematic anime illustration",
+        "kinds": [
+          "style"
+        ]
+      },
+      "entityType": "concept",
+      "id": "style.cinematic-anime",
+      "message": "Alias \"cinematic anime illustration\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "style.cinematic-anime",
+        "curated.style.cinematic-anime-illustration"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "graphic anime illustration",
+        "kinds": [
+          "style"
+        ]
+      },
+      "entityType": "concept",
+      "id": "style.graphic-anime",
+      "message": "Alias \"graphic anime illustration\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "style.graphic-anime",
+        "curated.style.graphic-anime-illustration"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "premium anime illustration",
+        "kinds": [
+          "style"
+        ]
+      },
+      "entityType": "concept",
+      "id": "style.premium-anime",
+      "message": "Alias \"premium anime illustration\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "style.premium-anime",
+        "curated.style.premium-anime-illustration"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "adult man",
+        "kinds": [
+          "subject"
+        ]
+      },
+      "entityType": "concept",
+      "id": "subject.adult-man",
+      "message": "Alias \"adult man\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "subject.adult-man",
+        "curated.subject.adult-man"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "adult woman",
+        "kinds": [
+          "subject"
+        ]
+      },
+      "entityType": "concept",
+      "id": "subject.adult-woman",
+      "message": "Alias \"adult woman\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "subject.adult-woman",
+        "curated.subject.adult-woman"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "demon woman",
+        "kinds": [
+          "subject"
+        ]
+      },
+      "entityType": "concept",
+      "id": "subject.demon-woman",
+      "message": "Alias \"demon woman\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "subject.demon-woman",
+        "curated.subject.demon-woman"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "dragon woman",
+        "kinds": [
+          "subject"
+        ]
+      },
+      "entityType": "concept",
+      "id": "subject.dragon-girl",
+      "message": "Alias \"dragon woman\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "subject.dragon-girl",
+        "curated.subject.dragon-woman"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "ice elf woman",
+        "kinds": [
+          "subject"
+        ]
+      },
+      "entityType": "concept",
+      "id": "subject.ice-elf",
+      "message": "Alias \"ice elf woman\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "subject.ice-elf",
+        "curated.subject.ice-elf-woman"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "mouse woman",
+        "kinds": [
+          "subject"
+        ]
+      },
+      "entityType": "concept",
+      "id": "subject.mouse-woman",
+      "message": "Alias \"mouse woman\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "subject.mouse-woman",
+        "curated.subject.mouse-woman"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-collision",
+      "data": {
+        "alias": "oni woman",
+        "kinds": [
+          "subject"
+        ]
+      },
+      "entityType": "concept",
+      "id": "subject.oni-woman",
+      "message": "Alias \"oni woman\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "subject.oni-woman",
+        "curated.subject.oni-woman"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "action"
+        ],
+        "prompt": "charging forward"
+      },
+      "entityType": "concept",
+      "id": "action.charging",
+      "message": "Prompt \"charging forward\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "action.charging",
+        "curated.action.charging-forward"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "anatomy"
+        ],
+        "prompt": "thin mouse tail"
+      },
+      "entityType": "concept",
+      "id": "anatomy.mouse-tail",
+      "message": "Prompt \"thin mouse tail\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "anatomy.mouse-tail",
+        "curated.anatomy.thin-mouse-tail"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "anatomy"
+        ],
+        "prompt": "pointed elf ears"
+      },
+      "entityType": "concept",
+      "id": "anatomy.pointed-elf-ears",
+      "message": "Prompt \"pointed elf ears\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "anatomy.pointed-elf-ears",
+        "curated.anatomy.pointed-elf-ears"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "camera"
+        ],
+        "prompt": "dutch tilt"
+      },
+      "entityType": "concept",
+      "id": "camera.dutch-tilt",
+      "message": "Prompt \"dutch tilt\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "camera.dutch-tilt",
+        "curated.camera.dutch-tilt"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "camera"
+        ],
+        "prompt": "from above"
+      },
+      "entityType": "concept",
+      "id": "camera.from-above",
+      "message": "Prompt \"from above\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "camera.from-above",
+        "curated.camera.from-above"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "camera"
+        ],
+        "prompt": "from below"
+      },
+      "entityType": "concept",
+      "id": "camera.from-below",
+      "message": "Prompt \"from below\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "camera.from-below",
+        "curated.camera.from-below"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "camera"
+        ],
+        "prompt": "shallow depth of field"
+      },
+      "entityType": "concept",
+      "id": "camera.shallow-dof",
+      "message": "Prompt \"shallow depth of field\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "camera.shallow-dof",
+        "curated.camera.shallow-depth-of-field"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "camera"
+        ],
+        "prompt": "three quarter view"
+      },
+      "entityType": "concept",
+      "id": "camera.three-quarter",
+      "message": "Prompt \"three quarter view\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "camera.three-quarter",
+        "curated.camera.three-quarter-view"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "camera"
+        ],
+        "prompt": "wide establishing shot"
+      },
+      "entityType": "concept",
+      "id": "camera.wide",
+      "message": "Prompt \"wide establishing shot\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "camera.wide",
+        "curated.camera.wide-establishing-shot"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "composition"
+        ],
+        "prompt": "controlled negative space"
+      },
+      "entityType": "concept",
+      "id": "composition.negative-space",
+      "message": "Prompt \"controlled negative space\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "composition.negative-space",
+        "curated.composition.controlled-negative-space"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "anatomy"
+        ],
+        "prompt": "glowing body markings"
+      },
+      "entityType": "concept",
+      "id": "curated.anatomy.glowing-body-markings",
+      "message": "Prompt \"glowing body markings\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "curated.anatomy.glowing-body-markings",
+        "curated.anatomy.glowing-body-markings-2"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "anatomy"
+        ],
+        "prompt": "scaled dragon tail"
+      },
+      "entityType": "concept",
+      "id": "curated.anatomy.scaled-dragon-tail",
+      "message": "Prompt \"scaled dragon tail\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "curated.anatomy.scaled-dragon-tail",
+        "curated.anatomy.scaled-dragon-tail-2"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "effect"
+        ],
+        "prompt": "soft bloom"
+      },
+      "entityType": "concept",
+      "id": "curated.effect.soft-bloom",
+      "message": "Prompt \"soft bloom\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "curated.effect.soft-bloom",
+        "curated.effect.soft-bloom-2"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "environment"
+        ],
+        "prompt": "gothic palace corridor"
+      },
+      "entityType": "concept",
+      "id": "curated.environment.gothic-palace-corridor",
+      "message": "Prompt \"gothic palace corridor\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "curated.environment.gothic-palace-corridor",
+        "curated.environment.gothic-palace-corridor-2"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "palette"
+        ],
+        "prompt": "warm sepia and vermilion palette"
+      },
+      "entityType": "concept",
+      "id": "curated.palette.warm-sepia-and-vermilion-palette",
+      "message": "Prompt \"warm sepia and vermilion palette\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "curated.palette.warm-sepia-and-vermilion-palette",
+        "curated.palette.warm-sepia-and-vermilion-palette-2"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "pose"
+        ],
+        "prompt": "relaxed seated pose"
+      },
+      "entityType": "concept",
+      "id": "curated.pose.relaxed-seated-pose",
+      "message": "Prompt \"relaxed seated pose\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "curated.pose.relaxed-seated-pose",
+        "curated.pose.relaxed-seated-pose-2"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "wardrobe"
+        ],
+        "prompt": "embroidered silk kimono"
+      },
+      "entityType": "concept",
+      "id": "curated.wardrobe.embroidered-silk-kimono",
+      "message": "Prompt \"embroidered silk kimono\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "curated.wardrobe.embroidered-silk-kimono",
+        "curated.wardrobe.embroidered-silk-kimono-2"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "effect"
+        ],
+        "prompt": "controlled chromatic aberration"
+      },
+      "entityType": "concept",
+      "id": "effect.chromatic-aberration",
+      "message": "Prompt \"controlled chromatic aberration\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "effect.chromatic-aberration",
+        "curated.effect.controlled-chromatic-aberration"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "effect"
+        ],
+        "prompt": "subtle film grain"
+      },
+      "entityType": "concept",
+      "id": "effect.film-grain",
+      "message": "Prompt \"subtle film grain\" is shared by 3 concepts",
+      "path": "",
+      "relatedIds": [
+        "effect.film-grain",
+        "curated.effect.subtle-film-grain",
+        "curated.effect.subtle-film-grain-2"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "effect"
+        ],
+        "prompt": "directional motion blur"
+      },
+      "entityType": "concept",
+      "id": "effect.motion-blur",
+      "message": "Prompt \"directional motion blur\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "effect.motion-blur",
+        "curated.effect.directional-motion-blur"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "style"
+        ],
+        "prompt": "cinematic anime illustration"
+      },
+      "entityType": "concept",
+      "id": "style.cinematic-anime",
+      "message": "Prompt \"cinematic anime illustration\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "style.cinematic-anime",
+        "curated.style.cinematic-anime-illustration"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "style"
+        ],
+        "prompt": "graphic anime illustration"
+      },
+      "entityType": "concept",
+      "id": "style.graphic-anime",
+      "message": "Prompt \"graphic anime illustration\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "style.graphic-anime",
+        "curated.style.graphic-anime-illustration"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "style"
+        ],
+        "prompt": "premium anime illustration"
+      },
+      "entityType": "concept",
+      "id": "style.premium-anime",
+      "message": "Prompt \"premium anime illustration\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "style.premium-anime",
+        "curated.style.premium-anime-illustration"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "subject"
+        ],
+        "prompt": "adult man"
+      },
+      "entityType": "concept",
+      "id": "subject.adult-man",
+      "message": "Prompt \"adult man\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "subject.adult-man",
+        "curated.subject.adult-man"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "subject"
+        ],
+        "prompt": "adult woman"
+      },
+      "entityType": "concept",
+      "id": "subject.adult-woman",
+      "message": "Prompt \"adult woman\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "subject.adult-woman",
+        "curated.subject.adult-woman"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "subject"
+        ],
+        "prompt": "demon woman"
+      },
+      "entityType": "concept",
+      "id": "subject.demon-woman",
+      "message": "Prompt \"demon woman\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "subject.demon-woman",
+        "curated.subject.demon-woman"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "subject"
+        ],
+        "prompt": "ice elf woman"
+      },
+      "entityType": "concept",
+      "id": "subject.ice-elf",
+      "message": "Prompt \"ice elf woman\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "subject.ice-elf",
+        "curated.subject.ice-elf-woman"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "subject"
+        ],
+        "prompt": "mouse woman"
+      },
+      "entityType": "concept",
+      "id": "subject.mouse-woman",
+      "message": "Prompt \"mouse woman\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "subject.mouse-woman",
+        "curated.subject.mouse-woman"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.duplicate-prompt",
+      "data": {
+        "kinds": [
+          "subject"
+        ],
+        "prompt": "oni woman"
+      },
+      "entityType": "concept",
+      "id": "subject.oni-woman",
+      "message": "Prompt \"oni woman\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "subject.oni-woman",
+        "curated.subject.oni-woman"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.near-duplicate-prompt",
+      "data": {
+        "left": "layered depth composition",
+        "right": "layered depth-layered composition",
+        "similarity": 1
+      },
+      "entityType": "concept",
+      "id": "curated.composition.layered-depth-composition",
+      "message": "curated.composition.layered-depth-composition and curated.composition.layered-depth-layered-composition are 100.0% token-similar",
+      "path": "",
+      "relatedIds": [
+        "curated.composition.layered-depth-layered-composition"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.near-duplicate-prompt",
+      "data": {
+        "left": "fashion editorial illustration",
+        "right": "editorial fashion illustration",
+        "similarity": 1
+      },
+      "entityType": "concept",
+      "id": "curated.style.fashion-editorial-illustration",
+      "message": "curated.style.fashion-editorial-illustration and curated.style.editorial-fashion-illustration are 100.0% token-similar",
+      "path": "",
+      "relatedIds": [
+        "curated.style.editorial-fashion-illustration"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.near-duplicate-prompt",
+      "data": {
+        "left": "<lora:gpt-image-2_anima-base1_v1:0.7>",
+        "right": "<lora:gpt-image-2_anima-base1_v1-1:0.7>",
+        "similarity": 1
+      },
+      "entityType": "concept",
+      "id": "phase8.installed-loras.lora.gpt-image-2-anima-base1-v1",
+      "message": "phase8.installed-loras.lora.gpt-image-2-anima-base1-v1 and phase8.installed-loras.lora.gpt-image-2-anima-base1-v1-1 are 100.0% token-similar",
+      "path": "",
+      "relatedIds": [
+        "phase8.installed-loras.lora.gpt-image-2-anima-base1-v1-1"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "recipe.alias-cross-family",
+      "data": {
+        "alias": "fighting",
+        "families": [
+          "foundation",
+          "cinematic-action"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.cinematic-foreshortened-action",
+      "message": "Recipe alias \"fighting\" resolves to 25 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.cinematic-foreshortened-action",
+        "art.cinematic-action.1",
+        "art.cinematic-action.2",
+        "art.cinematic-action.3",
+        "art.cinematic-action.4",
+        "art.cinematic-action.5",
+        "art.cinematic-action.6",
+        "art.cinematic-action.7",
+        "art.cinematic-action.8",
+        "art.cinematic-action.9",
+        "art.cinematic-action.10",
+        "art.cinematic-action.11",
+        "art.cinematic-action.12",
+        "art.cinematic-action.13",
+        "art.cinematic-action.14",
+        "art.cinematic-action.15",
+        "art.cinematic-action.16",
+        "art.cinematic-action.17",
+        "art.cinematic-action.18",
+        "art.cinematic-action.19",
+        "art.cinematic-action.20",
+        "art.cinematic-action.21",
+        "art.cinematic-action.22",
+        "art.cinematic-action.23",
+        "art.cinematic-action.24"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "recipe.alias-cross-family",
+      "data": {
+        "alias": "black white red",
+        "families": [
+          "foundation",
+          "graphic-poster"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.graphic-limited-palette-portrait",
+      "message": "Recipe alias \"black white red\" resolves to 25 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.graphic-limited-palette-portrait",
+        "art.graphic-poster.1",
+        "art.graphic-poster.2",
+        "art.graphic-poster.3",
+        "art.graphic-poster.4",
+        "art.graphic-poster.5",
+        "art.graphic-poster.6",
+        "art.graphic-poster.7",
+        "art.graphic-poster.8",
+        "art.graphic-poster.9",
+        "art.graphic-poster.10",
+        "art.graphic-poster.11",
+        "art.graphic-poster.12",
+        "art.graphic-poster.13",
+        "art.graphic-poster.14",
+        "art.graphic-poster.15",
+        "art.graphic-poster.16",
+        "art.graphic-poster.17",
+        "art.graphic-poster.18",
+        "art.graphic-poster.19",
+        "art.graphic-poster.20",
+        "art.graphic-poster.21",
+        "art.graphic-poster.22",
+        "art.graphic-poster.23",
+        "art.graphic-poster.24"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "recipe.alias-cross-family",
+      "data": {
+        "alias": "fantasy",
+        "families": [
+          "foundation",
+          "epic-fantasy"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.premium-fantasy-action",
+      "message": "Recipe alias \"fantasy\" resolves to 25 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.premium-fantasy-action",
+        "art.epic-fantasy.1",
+        "art.epic-fantasy.2",
+        "art.epic-fantasy.3",
+        "art.epic-fantasy.4",
+        "art.epic-fantasy.5",
+        "art.epic-fantasy.6",
+        "art.epic-fantasy.7",
+        "art.epic-fantasy.8",
+        "art.epic-fantasy.9",
+        "art.epic-fantasy.10",
+        "art.epic-fantasy.11",
+        "art.epic-fantasy.12",
+        "art.epic-fantasy.13",
+        "art.epic-fantasy.14",
+        "art.epic-fantasy.15",
+        "art.epic-fantasy.16",
+        "art.epic-fantasy.17",
+        "art.epic-fantasy.18",
+        "art.epic-fantasy.19",
+        "art.epic-fantasy.20",
+        "art.epic-fantasy.21",
+        "art.epic-fantasy.22",
+        "art.epic-fantasy.23",
+        "art.epic-fantasy.24"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "recipe.alias-cross-family",
+      "data": {
+        "alias": "swordswoman",
+        "families": [
+          "foundation",
+          "epic-fantasy"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.premium-fantasy-action",
+      "message": "Recipe alias \"swordswoman\" resolves to 25 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.premium-fantasy-action",
+        "art.epic-fantasy.1",
+        "art.epic-fantasy.2",
+        "art.epic-fantasy.3",
+        "art.epic-fantasy.4",
+        "art.epic-fantasy.5",
+        "art.epic-fantasy.6",
+        "art.epic-fantasy.7",
+        "art.epic-fantasy.8",
+        "art.epic-fantasy.9",
+        "art.epic-fantasy.10",
+        "art.epic-fantasy.11",
+        "art.epic-fantasy.12",
+        "art.epic-fantasy.13",
+        "art.epic-fantasy.14",
+        "art.epic-fantasy.15",
+        "art.epic-fantasy.16",
+        "art.epic-fantasy.17",
+        "art.epic-fantasy.18",
+        "art.epic-fantasy.19",
+        "art.epic-fantasy.20",
+        "art.epic-fantasy.21",
+        "art.epic-fantasy.22",
+        "art.epic-fantasy.23",
+        "art.epic-fantasy.24"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "recipe.alias-cross-family",
+      "data": {
+        "alias": "blood circle",
+        "families": [
+          "foundation",
+          "symbolic-horror"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.symbolic-overhead-horror",
+      "message": "Recipe alias \"blood circle\" resolves to 25 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.symbolic-overhead-horror",
+        "art.symbolic-horror.1",
+        "art.symbolic-horror.2",
+        "art.symbolic-horror.3",
+        "art.symbolic-horror.4",
+        "art.symbolic-horror.5",
+        "art.symbolic-horror.6",
+        "art.symbolic-horror.7",
+        "art.symbolic-horror.8",
+        "art.symbolic-horror.9",
+        "art.symbolic-horror.10",
+        "art.symbolic-horror.11",
+        "art.symbolic-horror.12",
+        "art.symbolic-horror.13",
+        "art.symbolic-horror.14",
+        "art.symbolic-horror.15",
+        "art.symbolic-horror.16",
+        "art.symbolic-horror.17",
+        "art.symbolic-horror.18",
+        "art.symbolic-horror.19",
+        "art.symbolic-horror.20",
+        "art.symbolic-horror.21",
+        "art.symbolic-horror.22",
+        "art.symbolic-horror.23",
+        "art.symbolic-horror.24"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "recipe.alias-cross-family",
+      "data": {
+        "alias": "horror",
+        "families": [
+          "foundation",
+          "symbolic-horror"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.symbolic-overhead-horror",
+      "message": "Recipe alias \"horror\" resolves to 25 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.symbolic-overhead-horror",
+        "art.symbolic-horror.1",
+        "art.symbolic-horror.2",
+        "art.symbolic-horror.3",
+        "art.symbolic-horror.4",
+        "art.symbolic-horror.5",
+        "art.symbolic-horror.6",
+        "art.symbolic-horror.7",
+        "art.symbolic-horror.8",
+        "art.symbolic-horror.9",
+        "art.symbolic-horror.10",
+        "art.symbolic-horror.11",
+        "art.symbolic-horror.12",
+        "art.symbolic-horror.13",
+        "art.symbolic-horror.14",
+        "art.symbolic-horror.15",
+        "art.symbolic-horror.16",
+        "art.symbolic-horror.17",
+        "art.symbolic-horror.18",
+        "art.symbolic-horror.19",
+        "art.symbolic-horror.20",
+        "art.symbolic-horror.21",
+        "art.symbolic-horror.22",
+        "art.symbolic-horror.23",
+        "art.symbolic-horror.24"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "recipe.alias-cross-family",
+      "data": {
+        "alias": "hokusai",
+        "families": [
+          "foundation",
+          "ukiyoe"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.ukiyoe-decorative-portrait",
+      "message": "Recipe alias \"hokusai\" resolves to 25 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.ukiyoe-decorative-portrait",
+        "art.ukiyoe.1",
+        "art.ukiyoe.2",
+        "art.ukiyoe.3",
+        "art.ukiyoe.4",
+        "art.ukiyoe.5",
+        "art.ukiyoe.6",
+        "art.ukiyoe.7",
+        "art.ukiyoe.8",
+        "art.ukiyoe.9",
+        "art.ukiyoe.10",
+        "art.ukiyoe.11",
+        "art.ukiyoe.12",
+        "art.ukiyoe.13",
+        "art.ukiyoe.14",
+        "art.ukiyoe.15",
+        "art.ukiyoe.16",
+        "art.ukiyoe.17",
+        "art.ukiyoe.18",
+        "art.ukiyoe.19",
+        "art.ukiyoe.20",
+        "art.ukiyoe.21",
+        "art.ukiyoe.22",
+        "art.ukiyoe.23",
+        "art.ukiyoe.24"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "recipe.alias-cross-family",
+      "data": {
+        "alias": "sumi e",
+        "families": [
+          "foundation",
+          "sumi-ink"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.ukiyoe-decorative-portrait",
+      "message": "Recipe alias \"sumi e\" resolves to 25 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.ukiyoe-decorative-portrait",
+        "art.sumi-ink.1",
+        "art.sumi-ink.2",
+        "art.sumi-ink.3",
+        "art.sumi-ink.4",
+        "art.sumi-ink.5",
+        "art.sumi-ink.6",
+        "art.sumi-ink.7",
+        "art.sumi-ink.8",
+        "art.sumi-ink.9",
+        "art.sumi-ink.10",
+        "art.sumi-ink.11",
+        "art.sumi-ink.12",
+        "art.sumi-ink.13",
+        "art.sumi-ink.14",
+        "art.sumi-ink.15",
+        "art.sumi-ink.16",
+        "art.sumi-ink.17",
+        "art.sumi-ink.18",
+        "art.sumi-ink.19",
+        "art.sumi-ink.20",
+        "art.sumi-ink.21",
+        "art.sumi-ink.22",
+        "art.sumi-ink.23",
+        "art.sumi-ink.24"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "recipe.alias-cross-family",
+      "data": {
+        "alias": "ukiyo e",
+        "families": [
+          "foundation",
+          "ukiyoe"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.ukiyoe-decorative-portrait",
+      "message": "Recipe alias \"ukiyo e\" resolves to 25 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.ukiyoe-decorative-portrait",
+        "art.ukiyoe.1",
+        "art.ukiyoe.2",
+        "art.ukiyoe.3",
+        "art.ukiyoe.4",
+        "art.ukiyoe.5",
+        "art.ukiyoe.6",
+        "art.ukiyoe.7",
+        "art.ukiyoe.8",
+        "art.ukiyoe.9",
+        "art.ukiyoe.10",
+        "art.ukiyoe.11",
+        "art.ukiyoe.12",
+        "art.ukiyoe.13",
+        "art.ukiyoe.14",
+        "art.ukiyoe.15",
+        "art.ukiyoe.16",
+        "art.ukiyoe.17",
+        "art.ukiyoe.18",
+        "art.ukiyoe.19",
+        "art.ukiyoe.20",
+        "art.ukiyoe.21",
+        "art.ukiyoe.22",
+        "art.ukiyoe.23",
+        "art.ukiyoe.24"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "recipe.alias-cross-family",
+      "data": {
+        "alias": "ukiyoe",
+        "families": [
+          "foundation",
+          "ukiyoe"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.ukiyoe-decorative-portrait",
+      "message": "Recipe alias \"ukiyoe\" resolves to 25 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.ukiyoe-decorative-portrait",
+        "art.ukiyoe.1",
+        "art.ukiyoe.2",
+        "art.ukiyoe.3",
+        "art.ukiyoe.4",
+        "art.ukiyoe.5",
+        "art.ukiyoe.6",
+        "art.ukiyoe.7",
+        "art.ukiyoe.8",
+        "art.ukiyoe.9",
+        "art.ukiyoe.10",
+        "art.ukiyoe.11",
+        "art.ukiyoe.12",
+        "art.ukiyoe.13",
+        "art.ukiyoe.14",
+        "art.ukiyoe.15",
+        "art.ukiyoe.16",
+        "art.ukiyoe.17",
+        "art.ukiyoe.18",
+        "art.ukiyoe.19",
+        "art.ukiyoe.20",
+        "art.ukiyoe.21",
+        "art.ukiyoe.22",
+        "art.ukiyoe.23",
+        "art.ukiyoe.24"
+      ],
+      "severity": "warning"
+    },
+    {
+      "code": "concept.alias-cross-kind",
+      "data": {
+        "alias": "monumental low angle framing",
+        "kinds": [
+          "composition",
+          "camera"
+        ]
+      },
+      "entityType": "concept",
+      "id": "curated.composition.monumental-low-angle-framing",
+      "message": "Alias \"monumental low angle framing\" resolves to 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "curated.composition.monumental-low-angle-framing",
+        "curated.camera.monumental-low-angle-framing"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "concept.cross-kind-prompt",
+      "data": {
+        "kinds": [
+          "composition",
+          "camera"
+        ],
+        "prompt": "monumental low angle framing"
+      },
+      "entityType": "concept",
+      "id": "curated.composition.monumental-low-angle-framing",
+      "message": "Prompt \"monumental low angle framing\" is shared by 2 concepts",
+      "path": "",
+      "relatedIds": [
+        "curated.composition.monumental-low-angle-framing",
+        "curated.camera.monumental-low-angle-framing"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "art nouveau",
+        "families": [
+          "art-nouveau"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.art-nouveau.1",
+      "message": "Recipe alias \"art nouveau\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.art-nouveau.1",
+        "art.art-nouveau.2",
+        "art.art-nouveau.3",
+        "art.art-nouveau.4",
+        "art.art-nouveau.5",
+        "art.art-nouveau.6",
+        "art.art-nouveau.7",
+        "art.art-nouveau.8",
+        "art.art-nouveau.9",
+        "art.art-nouveau.10",
+        "art.art-nouveau.11",
+        "art.art-nouveau.12",
+        "art.art-nouveau.13",
+        "art.art-nouveau.14",
+        "art.art-nouveau.15",
+        "art.art-nouveau.16",
+        "art.art-nouveau.17",
+        "art.art-nouveau.18",
+        "art.art-nouveau.19",
+        "art.art-nouveau.20",
+        "art.art-nouveau.21",
+        "art.art-nouveau.22",
+        "art.art-nouveau.23",
+        "art.art-nouveau.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "decorative portrait",
+        "families": [
+          "art-nouveau"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.art-nouveau.1",
+      "message": "Recipe alias \"decorative portrait\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.art-nouveau.1",
+        "art.art-nouveau.2",
+        "art.art-nouveau.3",
+        "art.art-nouveau.4",
+        "art.art-nouveau.5",
+        "art.art-nouveau.6",
+        "art.art-nouveau.7",
+        "art.art-nouveau.8",
+        "art.art-nouveau.9",
+        "art.art-nouveau.10",
+        "art.art-nouveau.11",
+        "art.art-nouveau.12",
+        "art.art-nouveau.13",
+        "art.art-nouveau.14",
+        "art.art-nouveau.15",
+        "art.art-nouveau.16",
+        "art.art-nouveau.17",
+        "art.art-nouveau.18",
+        "art.art-nouveau.19",
+        "art.art-nouveau.20",
+        "art.art-nouveau.21",
+        "art.art-nouveau.22",
+        "art.art-nouveau.23",
+        "art.art-nouveau.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "floral border",
+        "families": [
+          "art-nouveau"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.art-nouveau.1",
+      "message": "Recipe alias \"floral border\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.art-nouveau.1",
+        "art.art-nouveau.2",
+        "art.art-nouveau.3",
+        "art.art-nouveau.4",
+        "art.art-nouveau.5",
+        "art.art-nouveau.6",
+        "art.art-nouveau.7",
+        "art.art-nouveau.8",
+        "art.art-nouveau.9",
+        "art.art-nouveau.10",
+        "art.art-nouveau.11",
+        "art.art-nouveau.12",
+        "art.art-nouveau.13",
+        "art.art-nouveau.14",
+        "art.art-nouveau.15",
+        "art.art-nouveau.16",
+        "art.art-nouveau.17",
+        "art.art-nouveau.18",
+        "art.art-nouveau.19",
+        "art.art-nouveau.20",
+        "art.art-nouveau.21",
+        "art.art-nouveau.22",
+        "art.art-nouveau.23",
+        "art.art-nouveau.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "mucha",
+        "families": [
+          "art-nouveau"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.art-nouveau.1",
+      "message": "Recipe alias \"mucha\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.art-nouveau.1",
+        "art.art-nouveau.2",
+        "art.art-nouveau.3",
+        "art.art-nouveau.4",
+        "art.art-nouveau.5",
+        "art.art-nouveau.6",
+        "art.art-nouveau.7",
+        "art.art-nouveau.8",
+        "art.art-nouveau.9",
+        "art.art-nouveau.10",
+        "art.art-nouveau.11",
+        "art.art-nouveau.12",
+        "art.art-nouveau.13",
+        "art.art-nouveau.14",
+        "art.art-nouveau.15",
+        "art.art-nouveau.16",
+        "art.art-nouveau.17",
+        "art.art-nouveau.18",
+        "art.art-nouveau.19",
+        "art.art-nouveau.20",
+        "art.art-nouveau.21",
+        "art.art-nouveau.22",
+        "art.art-nouveau.23",
+        "art.art-nouveau.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "ornamental",
+        "families": [
+          "art-nouveau"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.art-nouveau.1",
+      "message": "Recipe alias \"ornamental\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.art-nouveau.1",
+        "art.art-nouveau.2",
+        "art.art-nouveau.3",
+        "art.art-nouveau.4",
+        "art.art-nouveau.5",
+        "art.art-nouveau.6",
+        "art.art-nouveau.7",
+        "art.art-nouveau.8",
+        "art.art-nouveau.9",
+        "art.art-nouveau.10",
+        "art.art-nouveau.11",
+        "art.art-nouveau.12",
+        "art.art-nouveau.13",
+        "art.art-nouveau.14",
+        "art.art-nouveau.15",
+        "art.art-nouveau.16",
+        "art.art-nouveau.17",
+        "art.art-nouveau.18",
+        "art.art-nouveau.19",
+        "art.art-nouveau.20",
+        "art.art-nouveau.21",
+        "art.art-nouveau.22",
+        "art.art-nouveau.23",
+        "art.art-nouveau.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "baroque",
+        "families": [
+          "baroque-fantasy"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.baroque-fantasy.1",
+      "message": "Recipe alias \"baroque\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.baroque-fantasy.1",
+        "art.baroque-fantasy.2",
+        "art.baroque-fantasy.3",
+        "art.baroque-fantasy.4",
+        "art.baroque-fantasy.5",
+        "art.baroque-fantasy.6",
+        "art.baroque-fantasy.7",
+        "art.baroque-fantasy.8",
+        "art.baroque-fantasy.9",
+        "art.baroque-fantasy.10",
+        "art.baroque-fantasy.11",
+        "art.baroque-fantasy.12",
+        "art.baroque-fantasy.13",
+        "art.baroque-fantasy.14",
+        "art.baroque-fantasy.15",
+        "art.baroque-fantasy.16",
+        "art.baroque-fantasy.17",
+        "art.baroque-fantasy.18",
+        "art.baroque-fantasy.19",
+        "art.baroque-fantasy.20",
+        "art.baroque-fantasy.21",
+        "art.baroque-fantasy.22",
+        "art.baroque-fantasy.23",
+        "art.baroque-fantasy.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "ceremonial",
+        "families": [
+          "baroque-fantasy"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.baroque-fantasy.1",
+      "message": "Recipe alias \"ceremonial\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.baroque-fantasy.1",
+        "art.baroque-fantasy.2",
+        "art.baroque-fantasy.3",
+        "art.baroque-fantasy.4",
+        "art.baroque-fantasy.5",
+        "art.baroque-fantasy.6",
+        "art.baroque-fantasy.7",
+        "art.baroque-fantasy.8",
+        "art.baroque-fantasy.9",
+        "art.baroque-fantasy.10",
+        "art.baroque-fantasy.11",
+        "art.baroque-fantasy.12",
+        "art.baroque-fantasy.13",
+        "art.baroque-fantasy.14",
+        "art.baroque-fantasy.15",
+        "art.baroque-fantasy.16",
+        "art.baroque-fantasy.17",
+        "art.baroque-fantasy.18",
+        "art.baroque-fantasy.19",
+        "art.baroque-fantasy.20",
+        "art.baroque-fantasy.21",
+        "art.baroque-fantasy.22",
+        "art.baroque-fantasy.23",
+        "art.baroque-fantasy.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "oil painting",
+        "families": [
+          "baroque-fantasy"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.baroque-fantasy.1",
+      "message": "Recipe alias \"oil painting\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.baroque-fantasy.1",
+        "art.baroque-fantasy.2",
+        "art.baroque-fantasy.3",
+        "art.baroque-fantasy.4",
+        "art.baroque-fantasy.5",
+        "art.baroque-fantasy.6",
+        "art.baroque-fantasy.7",
+        "art.baroque-fantasy.8",
+        "art.baroque-fantasy.9",
+        "art.baroque-fantasy.10",
+        "art.baroque-fantasy.11",
+        "art.baroque-fantasy.12",
+        "art.baroque-fantasy.13",
+        "art.baroque-fantasy.14",
+        "art.baroque-fantasy.15",
+        "art.baroque-fantasy.16",
+        "art.baroque-fantasy.17",
+        "art.baroque-fantasy.18",
+        "art.baroque-fantasy.19",
+        "art.baroque-fantasy.20",
+        "art.baroque-fantasy.21",
+        "art.baroque-fantasy.22",
+        "art.baroque-fantasy.23",
+        "art.baroque-fantasy.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "opulent",
+        "families": [
+          "baroque-fantasy"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.baroque-fantasy.1",
+      "message": "Recipe alias \"opulent\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.baroque-fantasy.1",
+        "art.baroque-fantasy.2",
+        "art.baroque-fantasy.3",
+        "art.baroque-fantasy.4",
+        "art.baroque-fantasy.5",
+        "art.baroque-fantasy.6",
+        "art.baroque-fantasy.7",
+        "art.baroque-fantasy.8",
+        "art.baroque-fantasy.9",
+        "art.baroque-fantasy.10",
+        "art.baroque-fantasy.11",
+        "art.baroque-fantasy.12",
+        "art.baroque-fantasy.13",
+        "art.baroque-fantasy.14",
+        "art.baroque-fantasy.15",
+        "art.baroque-fantasy.16",
+        "art.baroque-fantasy.17",
+        "art.baroque-fantasy.18",
+        "art.baroque-fantasy.19",
+        "art.baroque-fantasy.20",
+        "art.baroque-fantasy.21",
+        "art.baroque-fantasy.22",
+        "art.baroque-fantasy.23",
+        "art.baroque-fantasy.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "palace",
+        "families": [
+          "baroque-fantasy"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.baroque-fantasy.1",
+      "message": "Recipe alias \"palace\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.baroque-fantasy.1",
+        "art.baroque-fantasy.2",
+        "art.baroque-fantasy.3",
+        "art.baroque-fantasy.4",
+        "art.baroque-fantasy.5",
+        "art.baroque-fantasy.6",
+        "art.baroque-fantasy.7",
+        "art.baroque-fantasy.8",
+        "art.baroque-fantasy.9",
+        "art.baroque-fantasy.10",
+        "art.baroque-fantasy.11",
+        "art.baroque-fantasy.12",
+        "art.baroque-fantasy.13",
+        "art.baroque-fantasy.14",
+        "art.baroque-fantasy.15",
+        "art.baroque-fantasy.16",
+        "art.baroque-fantasy.17",
+        "art.baroque-fantasy.18",
+        "art.baroque-fantasy.19",
+        "art.baroque-fantasy.20",
+        "art.baroque-fantasy.21",
+        "art.baroque-fantasy.22",
+        "art.baroque-fantasy.23",
+        "art.baroque-fantasy.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "royal",
+        "families": [
+          "baroque-fantasy"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.baroque-fantasy.1",
+      "message": "Recipe alias \"royal\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.baroque-fantasy.1",
+        "art.baroque-fantasy.2",
+        "art.baroque-fantasy.3",
+        "art.baroque-fantasy.4",
+        "art.baroque-fantasy.5",
+        "art.baroque-fantasy.6",
+        "art.baroque-fantasy.7",
+        "art.baroque-fantasy.8",
+        "art.baroque-fantasy.9",
+        "art.baroque-fantasy.10",
+        "art.baroque-fantasy.11",
+        "art.baroque-fantasy.12",
+        "art.baroque-fantasy.13",
+        "art.baroque-fantasy.14",
+        "art.baroque-fantasy.15",
+        "art.baroque-fantasy.16",
+        "art.baroque-fantasy.17",
+        "art.baroque-fantasy.18",
+        "art.baroque-fantasy.19",
+        "art.baroque-fantasy.20",
+        "art.baroque-fantasy.21",
+        "art.baroque-fantasy.22",
+        "art.baroque-fantasy.23",
+        "art.baroque-fantasy.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "action",
+        "families": [
+          "cinematic-action"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.cinematic-action.1",
+      "message": "Recipe alias \"action\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.cinematic-action.1",
+        "art.cinematic-action.2",
+        "art.cinematic-action.3",
+        "art.cinematic-action.4",
+        "art.cinematic-action.5",
+        "art.cinematic-action.6",
+        "art.cinematic-action.7",
+        "art.cinematic-action.8",
+        "art.cinematic-action.9",
+        "art.cinematic-action.10",
+        "art.cinematic-action.11",
+        "art.cinematic-action.12",
+        "art.cinematic-action.13",
+        "art.cinematic-action.14",
+        "art.cinematic-action.15",
+        "art.cinematic-action.16",
+        "art.cinematic-action.17",
+        "art.cinematic-action.18",
+        "art.cinematic-action.19",
+        "art.cinematic-action.20",
+        "art.cinematic-action.21",
+        "art.cinematic-action.22",
+        "art.cinematic-action.23",
+        "art.cinematic-action.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "airborne",
+        "families": [
+          "cinematic-action"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.cinematic-action.1",
+      "message": "Recipe alias \"airborne\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.cinematic-action.1",
+        "art.cinematic-action.2",
+        "art.cinematic-action.3",
+        "art.cinematic-action.4",
+        "art.cinematic-action.5",
+        "art.cinematic-action.6",
+        "art.cinematic-action.7",
+        "art.cinematic-action.8",
+        "art.cinematic-action.9",
+        "art.cinematic-action.10",
+        "art.cinematic-action.11",
+        "art.cinematic-action.12",
+        "art.cinematic-action.13",
+        "art.cinematic-action.14",
+        "art.cinematic-action.15",
+        "art.cinematic-action.16",
+        "art.cinematic-action.17",
+        "art.cinematic-action.18",
+        "art.cinematic-action.19",
+        "art.cinematic-action.20",
+        "art.cinematic-action.21",
+        "art.cinematic-action.22",
+        "art.cinematic-action.23",
+        "art.cinematic-action.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "attack",
+        "families": [
+          "cinematic-action"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.cinematic-action.1",
+      "message": "Recipe alias \"attack\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.cinematic-action.1",
+        "art.cinematic-action.2",
+        "art.cinematic-action.3",
+        "art.cinematic-action.4",
+        "art.cinematic-action.5",
+        "art.cinematic-action.6",
+        "art.cinematic-action.7",
+        "art.cinematic-action.8",
+        "art.cinematic-action.9",
+        "art.cinematic-action.10",
+        "art.cinematic-action.11",
+        "art.cinematic-action.12",
+        "art.cinematic-action.13",
+        "art.cinematic-action.14",
+        "art.cinematic-action.15",
+        "art.cinematic-action.16",
+        "art.cinematic-action.17",
+        "art.cinematic-action.18",
+        "art.cinematic-action.19",
+        "art.cinematic-action.20",
+        "art.cinematic-action.21",
+        "art.cinematic-action.22",
+        "art.cinematic-action.23",
+        "art.cinematic-action.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "charging",
+        "families": [
+          "cinematic-action"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.cinematic-action.1",
+      "message": "Recipe alias \"charging\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.cinematic-action.1",
+        "art.cinematic-action.2",
+        "art.cinematic-action.3",
+        "art.cinematic-action.4",
+        "art.cinematic-action.5",
+        "art.cinematic-action.6",
+        "art.cinematic-action.7",
+        "art.cinematic-action.8",
+        "art.cinematic-action.9",
+        "art.cinematic-action.10",
+        "art.cinematic-action.11",
+        "art.cinematic-action.12",
+        "art.cinematic-action.13",
+        "art.cinematic-action.14",
+        "art.cinematic-action.15",
+        "art.cinematic-action.16",
+        "art.cinematic-action.17",
+        "art.cinematic-action.18",
+        "art.cinematic-action.19",
+        "art.cinematic-action.20",
+        "art.cinematic-action.21",
+        "art.cinematic-action.22",
+        "art.cinematic-action.23",
+        "art.cinematic-action.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "combat",
+        "families": [
+          "cinematic-action"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.cinematic-action.1",
+      "message": "Recipe alias \"combat\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.cinematic-action.1",
+        "art.cinematic-action.2",
+        "art.cinematic-action.3",
+        "art.cinematic-action.4",
+        "art.cinematic-action.5",
+        "art.cinematic-action.6",
+        "art.cinematic-action.7",
+        "art.cinematic-action.8",
+        "art.cinematic-action.9",
+        "art.cinematic-action.10",
+        "art.cinematic-action.11",
+        "art.cinematic-action.12",
+        "art.cinematic-action.13",
+        "art.cinematic-action.14",
+        "art.cinematic-action.15",
+        "art.cinematic-action.16",
+        "art.cinematic-action.17",
+        "art.cinematic-action.18",
+        "art.cinematic-action.19",
+        "art.cinematic-action.20",
+        "art.cinematic-action.21",
+        "art.cinematic-action.22",
+        "art.cinematic-action.23",
+        "art.cinematic-action.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "dynamic",
+        "families": [
+          "cinematic-action"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.cinematic-action.1",
+      "message": "Recipe alias \"dynamic\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.cinematic-action.1",
+        "art.cinematic-action.2",
+        "art.cinematic-action.3",
+        "art.cinematic-action.4",
+        "art.cinematic-action.5",
+        "art.cinematic-action.6",
+        "art.cinematic-action.7",
+        "art.cinematic-action.8",
+        "art.cinematic-action.9",
+        "art.cinematic-action.10",
+        "art.cinematic-action.11",
+        "art.cinematic-action.12",
+        "art.cinematic-action.13",
+        "art.cinematic-action.14",
+        "art.cinematic-action.15",
+        "art.cinematic-action.16",
+        "art.cinematic-action.17",
+        "art.cinematic-action.18",
+        "art.cinematic-action.19",
+        "art.cinematic-action.20",
+        "art.cinematic-action.21",
+        "art.cinematic-action.22",
+        "art.cinematic-action.23",
+        "art.cinematic-action.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "sprinting",
+        "families": [
+          "cinematic-action"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.cinematic-action.1",
+      "message": "Recipe alias \"sprinting\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.cinematic-action.1",
+        "art.cinematic-action.2",
+        "art.cinematic-action.3",
+        "art.cinematic-action.4",
+        "art.cinematic-action.5",
+        "art.cinematic-action.6",
+        "art.cinematic-action.7",
+        "art.cinematic-action.8",
+        "art.cinematic-action.9",
+        "art.cinematic-action.10",
+        "art.cinematic-action.11",
+        "art.cinematic-action.12",
+        "art.cinematic-action.13",
+        "art.cinematic-action.14",
+        "art.cinematic-action.15",
+        "art.cinematic-action.16",
+        "art.cinematic-action.17",
+        "art.cinematic-action.18",
+        "art.cinematic-action.19",
+        "art.cinematic-action.20",
+        "art.cinematic-action.21",
+        "art.cinematic-action.22",
+        "art.cinematic-action.23",
+        "art.cinematic-action.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "cyberpunk",
+        "families": [
+          "cyberpunk-neon"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.cyberpunk-neon.1",
+      "message": "Recipe alias \"cyberpunk\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.cyberpunk-neon.1",
+        "art.cyberpunk-neon.2",
+        "art.cyberpunk-neon.3",
+        "art.cyberpunk-neon.4",
+        "art.cyberpunk-neon.5",
+        "art.cyberpunk-neon.6",
+        "art.cyberpunk-neon.7",
+        "art.cyberpunk-neon.8",
+        "art.cyberpunk-neon.9",
+        "art.cyberpunk-neon.10",
+        "art.cyberpunk-neon.11",
+        "art.cyberpunk-neon.12",
+        "art.cyberpunk-neon.13",
+        "art.cyberpunk-neon.14",
+        "art.cyberpunk-neon.15",
+        "art.cyberpunk-neon.16",
+        "art.cyberpunk-neon.17",
+        "art.cyberpunk-neon.18",
+        "art.cyberpunk-neon.19",
+        "art.cyberpunk-neon.20",
+        "art.cyberpunk-neon.21",
+        "art.cyberpunk-neon.22",
+        "art.cyberpunk-neon.23",
+        "art.cyberpunk-neon.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "futuristic city",
+        "families": [
+          "cyberpunk-neon"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.cyberpunk-neon.1",
+      "message": "Recipe alias \"futuristic city\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.cyberpunk-neon.1",
+        "art.cyberpunk-neon.2",
+        "art.cyberpunk-neon.3",
+        "art.cyberpunk-neon.4",
+        "art.cyberpunk-neon.5",
+        "art.cyberpunk-neon.6",
+        "art.cyberpunk-neon.7",
+        "art.cyberpunk-neon.8",
+        "art.cyberpunk-neon.9",
+        "art.cyberpunk-neon.10",
+        "art.cyberpunk-neon.11",
+        "art.cyberpunk-neon.12",
+        "art.cyberpunk-neon.13",
+        "art.cyberpunk-neon.14",
+        "art.cyberpunk-neon.15",
+        "art.cyberpunk-neon.16",
+        "art.cyberpunk-neon.17",
+        "art.cyberpunk-neon.18",
+        "art.cyberpunk-neon.19",
+        "art.cyberpunk-neon.20",
+        "art.cyberpunk-neon.21",
+        "art.cyberpunk-neon.22",
+        "art.cyberpunk-neon.23",
+        "art.cyberpunk-neon.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "hologram",
+        "families": [
+          "cyberpunk-neon"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.cyberpunk-neon.1",
+      "message": "Recipe alias \"hologram\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.cyberpunk-neon.1",
+        "art.cyberpunk-neon.2",
+        "art.cyberpunk-neon.3",
+        "art.cyberpunk-neon.4",
+        "art.cyberpunk-neon.5",
+        "art.cyberpunk-neon.6",
+        "art.cyberpunk-neon.7",
+        "art.cyberpunk-neon.8",
+        "art.cyberpunk-neon.9",
+        "art.cyberpunk-neon.10",
+        "art.cyberpunk-neon.11",
+        "art.cyberpunk-neon.12",
+        "art.cyberpunk-neon.13",
+        "art.cyberpunk-neon.14",
+        "art.cyberpunk-neon.15",
+        "art.cyberpunk-neon.16",
+        "art.cyberpunk-neon.17",
+        "art.cyberpunk-neon.18",
+        "art.cyberpunk-neon.19",
+        "art.cyberpunk-neon.20",
+        "art.cyberpunk-neon.21",
+        "art.cyberpunk-neon.22",
+        "art.cyberpunk-neon.23",
+        "art.cyberpunk-neon.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "neon",
+        "families": [
+          "cyberpunk-neon"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.cyberpunk-neon.1",
+      "message": "Recipe alias \"neon\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.cyberpunk-neon.1",
+        "art.cyberpunk-neon.2",
+        "art.cyberpunk-neon.3",
+        "art.cyberpunk-neon.4",
+        "art.cyberpunk-neon.5",
+        "art.cyberpunk-neon.6",
+        "art.cyberpunk-neon.7",
+        "art.cyberpunk-neon.8",
+        "art.cyberpunk-neon.9",
+        "art.cyberpunk-neon.10",
+        "art.cyberpunk-neon.11",
+        "art.cyberpunk-neon.12",
+        "art.cyberpunk-neon.13",
+        "art.cyberpunk-neon.14",
+        "art.cyberpunk-neon.15",
+        "art.cyberpunk-neon.16",
+        "art.cyberpunk-neon.17",
+        "art.cyberpunk-neon.18",
+        "art.cyberpunk-neon.19",
+        "art.cyberpunk-neon.20",
+        "art.cyberpunk-neon.21",
+        "art.cyberpunk-neon.22",
+        "art.cyberpunk-neon.23",
+        "art.cyberpunk-neon.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "night city",
+        "families": [
+          "cyberpunk-neon"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.cyberpunk-neon.1",
+      "message": "Recipe alias \"night city\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.cyberpunk-neon.1",
+        "art.cyberpunk-neon.2",
+        "art.cyberpunk-neon.3",
+        "art.cyberpunk-neon.4",
+        "art.cyberpunk-neon.5",
+        "art.cyberpunk-neon.6",
+        "art.cyberpunk-neon.7",
+        "art.cyberpunk-neon.8",
+        "art.cyberpunk-neon.9",
+        "art.cyberpunk-neon.10",
+        "art.cyberpunk-neon.11",
+        "art.cyberpunk-neon.12",
+        "art.cyberpunk-neon.13",
+        "art.cyberpunk-neon.14",
+        "art.cyberpunk-neon.15",
+        "art.cyberpunk-neon.16",
+        "art.cyberpunk-neon.17",
+        "art.cyberpunk-neon.18",
+        "art.cyberpunk-neon.19",
+        "art.cyberpunk-neon.20",
+        "art.cyberpunk-neon.21",
+        "art.cyberpunk-neon.22",
+        "art.cyberpunk-neon.23",
+        "art.cyberpunk-neon.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "techwear",
+        "families": [
+          "cyberpunk-neon"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.cyberpunk-neon.1",
+      "message": "Recipe alias \"techwear\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.cyberpunk-neon.1",
+        "art.cyberpunk-neon.2",
+        "art.cyberpunk-neon.3",
+        "art.cyberpunk-neon.4",
+        "art.cyberpunk-neon.5",
+        "art.cyberpunk-neon.6",
+        "art.cyberpunk-neon.7",
+        "art.cyberpunk-neon.8",
+        "art.cyberpunk-neon.9",
+        "art.cyberpunk-neon.10",
+        "art.cyberpunk-neon.11",
+        "art.cyberpunk-neon.12",
+        "art.cyberpunk-neon.13",
+        "art.cyberpunk-neon.14",
+        "art.cyberpunk-neon.15",
+        "art.cyberpunk-neon.16",
+        "art.cyberpunk-neon.17",
+        "art.cyberpunk-neon.18",
+        "art.cyberpunk-neon.19",
+        "art.cyberpunk-neon.20",
+        "art.cyberpunk-neon.21",
+        "art.cyberpunk-neon.22",
+        "art.cyberpunk-neon.23",
+        "art.cyberpunk-neon.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "castle",
+        "families": [
+          "epic-fantasy"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.epic-fantasy.1",
+      "message": "Recipe alias \"castle\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.epic-fantasy.1",
+        "art.epic-fantasy.2",
+        "art.epic-fantasy.3",
+        "art.epic-fantasy.4",
+        "art.epic-fantasy.5",
+        "art.epic-fantasy.6",
+        "art.epic-fantasy.7",
+        "art.epic-fantasy.8",
+        "art.epic-fantasy.9",
+        "art.epic-fantasy.10",
+        "art.epic-fantasy.11",
+        "art.epic-fantasy.12",
+        "art.epic-fantasy.13",
+        "art.epic-fantasy.14",
+        "art.epic-fantasy.15",
+        "art.epic-fantasy.16",
+        "art.epic-fantasy.17",
+        "art.epic-fantasy.18",
+        "art.epic-fantasy.19",
+        "art.epic-fantasy.20",
+        "art.epic-fantasy.21",
+        "art.epic-fantasy.22",
+        "art.epic-fantasy.23",
+        "art.epic-fantasy.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "dragon",
+        "families": [
+          "epic-fantasy"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.epic-fantasy.1",
+      "message": "Recipe alias \"dragon\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.epic-fantasy.1",
+        "art.epic-fantasy.2",
+        "art.epic-fantasy.3",
+        "art.epic-fantasy.4",
+        "art.epic-fantasy.5",
+        "art.epic-fantasy.6",
+        "art.epic-fantasy.7",
+        "art.epic-fantasy.8",
+        "art.epic-fantasy.9",
+        "art.epic-fantasy.10",
+        "art.epic-fantasy.11",
+        "art.epic-fantasy.12",
+        "art.epic-fantasy.13",
+        "art.epic-fantasy.14",
+        "art.epic-fantasy.15",
+        "art.epic-fantasy.16",
+        "art.epic-fantasy.17",
+        "art.epic-fantasy.18",
+        "art.epic-fantasy.19",
+        "art.epic-fantasy.20",
+        "art.epic-fantasy.21",
+        "art.epic-fantasy.22",
+        "art.epic-fantasy.23",
+        "art.epic-fantasy.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "elf",
+        "families": [
+          "epic-fantasy"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.epic-fantasy.1",
+      "message": "Recipe alias \"elf\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.epic-fantasy.1",
+        "art.epic-fantasy.2",
+        "art.epic-fantasy.3",
+        "art.epic-fantasy.4",
+        "art.epic-fantasy.5",
+        "art.epic-fantasy.6",
+        "art.epic-fantasy.7",
+        "art.epic-fantasy.8",
+        "art.epic-fantasy.9",
+        "art.epic-fantasy.10",
+        "art.epic-fantasy.11",
+        "art.epic-fantasy.12",
+        "art.epic-fantasy.13",
+        "art.epic-fantasy.14",
+        "art.epic-fantasy.15",
+        "art.epic-fantasy.16",
+        "art.epic-fantasy.17",
+        "art.epic-fantasy.18",
+        "art.epic-fantasy.19",
+        "art.epic-fantasy.20",
+        "art.epic-fantasy.21",
+        "art.epic-fantasy.22",
+        "art.epic-fantasy.23",
+        "art.epic-fantasy.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "enchanted",
+        "families": [
+          "epic-fantasy"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.epic-fantasy.1",
+      "message": "Recipe alias \"enchanted\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.epic-fantasy.1",
+        "art.epic-fantasy.2",
+        "art.epic-fantasy.3",
+        "art.epic-fantasy.4",
+        "art.epic-fantasy.5",
+        "art.epic-fantasy.6",
+        "art.epic-fantasy.7",
+        "art.epic-fantasy.8",
+        "art.epic-fantasy.9",
+        "art.epic-fantasy.10",
+        "art.epic-fantasy.11",
+        "art.epic-fantasy.12",
+        "art.epic-fantasy.13",
+        "art.epic-fantasy.14",
+        "art.epic-fantasy.15",
+        "art.epic-fantasy.16",
+        "art.epic-fantasy.17",
+        "art.epic-fantasy.18",
+        "art.epic-fantasy.19",
+        "art.epic-fantasy.20",
+        "art.epic-fantasy.21",
+        "art.epic-fantasy.22",
+        "art.epic-fantasy.23",
+        "art.epic-fantasy.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "magic",
+        "families": [
+          "epic-fantasy"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.epic-fantasy.1",
+      "message": "Recipe alias \"magic\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.epic-fantasy.1",
+        "art.epic-fantasy.2",
+        "art.epic-fantasy.3",
+        "art.epic-fantasy.4",
+        "art.epic-fantasy.5",
+        "art.epic-fantasy.6",
+        "art.epic-fantasy.7",
+        "art.epic-fantasy.8",
+        "art.epic-fantasy.9",
+        "art.epic-fantasy.10",
+        "art.epic-fantasy.11",
+        "art.epic-fantasy.12",
+        "art.epic-fantasy.13",
+        "art.epic-fantasy.14",
+        "art.epic-fantasy.15",
+        "art.epic-fantasy.16",
+        "art.epic-fantasy.17",
+        "art.epic-fantasy.18",
+        "art.epic-fantasy.19",
+        "art.epic-fantasy.20",
+        "art.epic-fantasy.21",
+        "art.epic-fantasy.22",
+        "art.epic-fantasy.23",
+        "art.epic-fantasy.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "editorial",
+        "families": [
+          "fashion-editorial"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.fashion-editorial.1",
+      "message": "Recipe alias \"editorial\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.fashion-editorial.1",
+        "art.fashion-editorial.2",
+        "art.fashion-editorial.3",
+        "art.fashion-editorial.4",
+        "art.fashion-editorial.5",
+        "art.fashion-editorial.6",
+        "art.fashion-editorial.7",
+        "art.fashion-editorial.8",
+        "art.fashion-editorial.9",
+        "art.fashion-editorial.10",
+        "art.fashion-editorial.11",
+        "art.fashion-editorial.12",
+        "art.fashion-editorial.13",
+        "art.fashion-editorial.14",
+        "art.fashion-editorial.15",
+        "art.fashion-editorial.16",
+        "art.fashion-editorial.17",
+        "art.fashion-editorial.18",
+        "art.fashion-editorial.19",
+        "art.fashion-editorial.20",
+        "art.fashion-editorial.21",
+        "art.fashion-editorial.22",
+        "art.fashion-editorial.23",
+        "art.fashion-editorial.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "fashion",
+        "families": [
+          "fashion-editorial"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.fashion-editorial.1",
+      "message": "Recipe alias \"fashion\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.fashion-editorial.1",
+        "art.fashion-editorial.2",
+        "art.fashion-editorial.3",
+        "art.fashion-editorial.4",
+        "art.fashion-editorial.5",
+        "art.fashion-editorial.6",
+        "art.fashion-editorial.7",
+        "art.fashion-editorial.8",
+        "art.fashion-editorial.9",
+        "art.fashion-editorial.10",
+        "art.fashion-editorial.11",
+        "art.fashion-editorial.12",
+        "art.fashion-editorial.13",
+        "art.fashion-editorial.14",
+        "art.fashion-editorial.15",
+        "art.fashion-editorial.16",
+        "art.fashion-editorial.17",
+        "art.fashion-editorial.18",
+        "art.fashion-editorial.19",
+        "art.fashion-editorial.20",
+        "art.fashion-editorial.21",
+        "art.fashion-editorial.22",
+        "art.fashion-editorial.23",
+        "art.fashion-editorial.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "glamour",
+        "families": [
+          "fashion-editorial"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.fashion-editorial.1",
+      "message": "Recipe alias \"glamour\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.fashion-editorial.1",
+        "art.fashion-editorial.2",
+        "art.fashion-editorial.3",
+        "art.fashion-editorial.4",
+        "art.fashion-editorial.5",
+        "art.fashion-editorial.6",
+        "art.fashion-editorial.7",
+        "art.fashion-editorial.8",
+        "art.fashion-editorial.9",
+        "art.fashion-editorial.10",
+        "art.fashion-editorial.11",
+        "art.fashion-editorial.12",
+        "art.fashion-editorial.13",
+        "art.fashion-editorial.14",
+        "art.fashion-editorial.15",
+        "art.fashion-editorial.16",
+        "art.fashion-editorial.17",
+        "art.fashion-editorial.18",
+        "art.fashion-editorial.19",
+        "art.fashion-editorial.20",
+        "art.fashion-editorial.21",
+        "art.fashion-editorial.22",
+        "art.fashion-editorial.23",
+        "art.fashion-editorial.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "luxury",
+        "families": [
+          "fashion-editorial"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.fashion-editorial.1",
+      "message": "Recipe alias \"luxury\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.fashion-editorial.1",
+        "art.fashion-editorial.2",
+        "art.fashion-editorial.3",
+        "art.fashion-editorial.4",
+        "art.fashion-editorial.5",
+        "art.fashion-editorial.6",
+        "art.fashion-editorial.7",
+        "art.fashion-editorial.8",
+        "art.fashion-editorial.9",
+        "art.fashion-editorial.10",
+        "art.fashion-editorial.11",
+        "art.fashion-editorial.12",
+        "art.fashion-editorial.13",
+        "art.fashion-editorial.14",
+        "art.fashion-editorial.15",
+        "art.fashion-editorial.16",
+        "art.fashion-editorial.17",
+        "art.fashion-editorial.18",
+        "art.fashion-editorial.19",
+        "art.fashion-editorial.20",
+        "art.fashion-editorial.21",
+        "art.fashion-editorial.22",
+        "art.fashion-editorial.23",
+        "art.fashion-editorial.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "outfit",
+        "families": [
+          "fashion-editorial"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.fashion-editorial.1",
+      "message": "Recipe alias \"outfit\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.fashion-editorial.1",
+        "art.fashion-editorial.2",
+        "art.fashion-editorial.3",
+        "art.fashion-editorial.4",
+        "art.fashion-editorial.5",
+        "art.fashion-editorial.6",
+        "art.fashion-editorial.7",
+        "art.fashion-editorial.8",
+        "art.fashion-editorial.9",
+        "art.fashion-editorial.10",
+        "art.fashion-editorial.11",
+        "art.fashion-editorial.12",
+        "art.fashion-editorial.13",
+        "art.fashion-editorial.14",
+        "art.fashion-editorial.15",
+        "art.fashion-editorial.16",
+        "art.fashion-editorial.17",
+        "art.fashion-editorial.18",
+        "art.fashion-editorial.19",
+        "art.fashion-editorial.20",
+        "art.fashion-editorial.21",
+        "art.fashion-editorial.22",
+        "art.fashion-editorial.23",
+        "art.fashion-editorial.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "runway",
+        "families": [
+          "fashion-editorial"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.fashion-editorial.1",
+      "message": "Recipe alias \"runway\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.fashion-editorial.1",
+        "art.fashion-editorial.2",
+        "art.fashion-editorial.3",
+        "art.fashion-editorial.4",
+        "art.fashion-editorial.5",
+        "art.fashion-editorial.6",
+        "art.fashion-editorial.7",
+        "art.fashion-editorial.8",
+        "art.fashion-editorial.9",
+        "art.fashion-editorial.10",
+        "art.fashion-editorial.11",
+        "art.fashion-editorial.12",
+        "art.fashion-editorial.13",
+        "art.fashion-editorial.14",
+        "art.fashion-editorial.15",
+        "art.fashion-editorial.16",
+        "art.fashion-editorial.17",
+        "art.fashion-editorial.18",
+        "art.fashion-editorial.19",
+        "art.fashion-editorial.20",
+        "art.fashion-editorial.21",
+        "art.fashion-editorial.22",
+        "art.fashion-editorial.23",
+        "art.fashion-editorial.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "streetwear",
+        "families": [
+          "fashion-editorial"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.fashion-editorial.1",
+      "message": "Recipe alias \"streetwear\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.fashion-editorial.1",
+        "art.fashion-editorial.2",
+        "art.fashion-editorial.3",
+        "art.fashion-editorial.4",
+        "art.fashion-editorial.5",
+        "art.fashion-editorial.6",
+        "art.fashion-editorial.7",
+        "art.fashion-editorial.8",
+        "art.fashion-editorial.9",
+        "art.fashion-editorial.10",
+        "art.fashion-editorial.11",
+        "art.fashion-editorial.12",
+        "art.fashion-editorial.13",
+        "art.fashion-editorial.14",
+        "art.fashion-editorial.15",
+        "art.fashion-editorial.16",
+        "art.fashion-editorial.17",
+        "art.fashion-editorial.18",
+        "art.fashion-editorial.19",
+        "art.fashion-editorial.20",
+        "art.fashion-editorial.21",
+        "art.fashion-editorial.22",
+        "art.fashion-editorial.23",
+        "art.fashion-editorial.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "cathedral",
+        "families": [
+          "gothic-glass"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.gothic-glass.1",
+      "message": "Recipe alias \"cathedral\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.gothic-glass.1",
+        "art.gothic-glass.2",
+        "art.gothic-glass.3",
+        "art.gothic-glass.4",
+        "art.gothic-glass.5",
+        "art.gothic-glass.6",
+        "art.gothic-glass.7",
+        "art.gothic-glass.8",
+        "art.gothic-glass.9",
+        "art.gothic-glass.10",
+        "art.gothic-glass.11",
+        "art.gothic-glass.12",
+        "art.gothic-glass.13",
+        "art.gothic-glass.14",
+        "art.gothic-glass.15",
+        "art.gothic-glass.16",
+        "art.gothic-glass.17",
+        "art.gothic-glass.18",
+        "art.gothic-glass.19",
+        "art.gothic-glass.20",
+        "art.gothic-glass.21",
+        "art.gothic-glass.22",
+        "art.gothic-glass.23",
+        "art.gothic-glass.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "dark church",
+        "families": [
+          "gothic-glass"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.gothic-glass.1",
+      "message": "Recipe alias \"dark church\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.gothic-glass.1",
+        "art.gothic-glass.2",
+        "art.gothic-glass.3",
+        "art.gothic-glass.4",
+        "art.gothic-glass.5",
+        "art.gothic-glass.6",
+        "art.gothic-glass.7",
+        "art.gothic-glass.8",
+        "art.gothic-glass.9",
+        "art.gothic-glass.10",
+        "art.gothic-glass.11",
+        "art.gothic-glass.12",
+        "art.gothic-glass.13",
+        "art.gothic-glass.14",
+        "art.gothic-glass.15",
+        "art.gothic-glass.16",
+        "art.gothic-glass.17",
+        "art.gothic-glass.18",
+        "art.gothic-glass.19",
+        "art.gothic-glass.20",
+        "art.gothic-glass.21",
+        "art.gothic-glass.22",
+        "art.gothic-glass.23",
+        "art.gothic-glass.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "gothic",
+        "families": [
+          "gothic-glass"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.gothic-glass.1",
+      "message": "Recipe alias \"gothic\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.gothic-glass.1",
+        "art.gothic-glass.2",
+        "art.gothic-glass.3",
+        "art.gothic-glass.4",
+        "art.gothic-glass.5",
+        "art.gothic-glass.6",
+        "art.gothic-glass.7",
+        "art.gothic-glass.8",
+        "art.gothic-glass.9",
+        "art.gothic-glass.10",
+        "art.gothic-glass.11",
+        "art.gothic-glass.12",
+        "art.gothic-glass.13",
+        "art.gothic-glass.14",
+        "art.gothic-glass.15",
+        "art.gothic-glass.16",
+        "art.gothic-glass.17",
+        "art.gothic-glass.18",
+        "art.gothic-glass.19",
+        "art.gothic-glass.20",
+        "art.gothic-glass.21",
+        "art.gothic-glass.22",
+        "art.gothic-glass.23",
+        "art.gothic-glass.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "religious iconography",
+        "families": [
+          "gothic-glass"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.gothic-glass.1",
+      "message": "Recipe alias \"religious iconography\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.gothic-glass.1",
+        "art.gothic-glass.2",
+        "art.gothic-glass.3",
+        "art.gothic-glass.4",
+        "art.gothic-glass.5",
+        "art.gothic-glass.6",
+        "art.gothic-glass.7",
+        "art.gothic-glass.8",
+        "art.gothic-glass.9",
+        "art.gothic-glass.10",
+        "art.gothic-glass.11",
+        "art.gothic-glass.12",
+        "art.gothic-glass.13",
+        "art.gothic-glass.14",
+        "art.gothic-glass.15",
+        "art.gothic-glass.16",
+        "art.gothic-glass.17",
+        "art.gothic-glass.18",
+        "art.gothic-glass.19",
+        "art.gothic-glass.20",
+        "art.gothic-glass.21",
+        "art.gothic-glass.22",
+        "art.gothic-glass.23",
+        "art.gothic-glass.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "stained glass",
+        "families": [
+          "gothic-glass"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.gothic-glass.1",
+      "message": "Recipe alias \"stained glass\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.gothic-glass.1",
+        "art.gothic-glass.2",
+        "art.gothic-glass.3",
+        "art.gothic-glass.4",
+        "art.gothic-glass.5",
+        "art.gothic-glass.6",
+        "art.gothic-glass.7",
+        "art.gothic-glass.8",
+        "art.gothic-glass.9",
+        "art.gothic-glass.10",
+        "art.gothic-glass.11",
+        "art.gothic-glass.12",
+        "art.gothic-glass.13",
+        "art.gothic-glass.14",
+        "art.gothic-glass.15",
+        "art.gothic-glass.16",
+        "art.gothic-glass.17",
+        "art.gothic-glass.18",
+        "art.gothic-glass.19",
+        "art.gothic-glass.20",
+        "art.gothic-glass.21",
+        "art.gothic-glass.22",
+        "art.gothic-glass.23",
+        "art.gothic-glass.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "bold shapes",
+        "families": [
+          "graphic-poster"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.graphic-poster.1",
+      "message": "Recipe alias \"bold shapes\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.graphic-poster.1",
+        "art.graphic-poster.2",
+        "art.graphic-poster.3",
+        "art.graphic-poster.4",
+        "art.graphic-poster.5",
+        "art.graphic-poster.6",
+        "art.graphic-poster.7",
+        "art.graphic-poster.8",
+        "art.graphic-poster.9",
+        "art.graphic-poster.10",
+        "art.graphic-poster.11",
+        "art.graphic-poster.12",
+        "art.graphic-poster.13",
+        "art.graphic-poster.14",
+        "art.graphic-poster.15",
+        "art.graphic-poster.16",
+        "art.graphic-poster.17",
+        "art.graphic-poster.18",
+        "art.graphic-poster.19",
+        "art.graphic-poster.20",
+        "art.graphic-poster.21",
+        "art.graphic-poster.22",
+        "art.graphic-poster.23",
+        "art.graphic-poster.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "design",
+        "families": [
+          "graphic-poster"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.graphic-poster.1",
+      "message": "Recipe alias \"design\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.graphic-poster.1",
+        "art.graphic-poster.2",
+        "art.graphic-poster.3",
+        "art.graphic-poster.4",
+        "art.graphic-poster.5",
+        "art.graphic-poster.6",
+        "art.graphic-poster.7",
+        "art.graphic-poster.8",
+        "art.graphic-poster.9",
+        "art.graphic-poster.10",
+        "art.graphic-poster.11",
+        "art.graphic-poster.12",
+        "art.graphic-poster.13",
+        "art.graphic-poster.14",
+        "art.graphic-poster.15",
+        "art.graphic-poster.16",
+        "art.graphic-poster.17",
+        "art.graphic-poster.18",
+        "art.graphic-poster.19",
+        "art.graphic-poster.20",
+        "art.graphic-poster.21",
+        "art.graphic-poster.22",
+        "art.graphic-poster.23",
+        "art.graphic-poster.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "graphic",
+        "families": [
+          "graphic-poster"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.graphic-poster.1",
+      "message": "Recipe alias \"graphic\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.graphic-poster.1",
+        "art.graphic-poster.2",
+        "art.graphic-poster.3",
+        "art.graphic-poster.4",
+        "art.graphic-poster.5",
+        "art.graphic-poster.6",
+        "art.graphic-poster.7",
+        "art.graphic-poster.8",
+        "art.graphic-poster.9",
+        "art.graphic-poster.10",
+        "art.graphic-poster.11",
+        "art.graphic-poster.12",
+        "art.graphic-poster.13",
+        "art.graphic-poster.14",
+        "art.graphic-poster.15",
+        "art.graphic-poster.16",
+        "art.graphic-poster.17",
+        "art.graphic-poster.18",
+        "art.graphic-poster.19",
+        "art.graphic-poster.20",
+        "art.graphic-poster.21",
+        "art.graphic-poster.22",
+        "art.graphic-poster.23",
+        "art.graphic-poster.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "limited palette",
+        "families": [
+          "graphic-poster"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.graphic-poster.1",
+      "message": "Recipe alias \"limited palette\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.graphic-poster.1",
+        "art.graphic-poster.2",
+        "art.graphic-poster.3",
+        "art.graphic-poster.4",
+        "art.graphic-poster.5",
+        "art.graphic-poster.6",
+        "art.graphic-poster.7",
+        "art.graphic-poster.8",
+        "art.graphic-poster.9",
+        "art.graphic-poster.10",
+        "art.graphic-poster.11",
+        "art.graphic-poster.12",
+        "art.graphic-poster.13",
+        "art.graphic-poster.14",
+        "art.graphic-poster.15",
+        "art.graphic-poster.16",
+        "art.graphic-poster.17",
+        "art.graphic-poster.18",
+        "art.graphic-poster.19",
+        "art.graphic-poster.20",
+        "art.graphic-poster.21",
+        "art.graphic-poster.22",
+        "art.graphic-poster.23",
+        "art.graphic-poster.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "poster",
+        "families": [
+          "graphic-poster"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.graphic-poster.1",
+      "message": "Recipe alias \"poster\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.graphic-poster.1",
+        "art.graphic-poster.2",
+        "art.graphic-poster.3",
+        "art.graphic-poster.4",
+        "art.graphic-poster.5",
+        "art.graphic-poster.6",
+        "art.graphic-poster.7",
+        "art.graphic-poster.8",
+        "art.graphic-poster.9",
+        "art.graphic-poster.10",
+        "art.graphic-poster.11",
+        "art.graphic-poster.12",
+        "art.graphic-poster.13",
+        "art.graphic-poster.14",
+        "art.graphic-poster.15",
+        "art.graphic-poster.16",
+        "art.graphic-poster.17",
+        "art.graphic-poster.18",
+        "art.graphic-poster.19",
+        "art.graphic-poster.20",
+        "art.graphic-poster.21",
+        "art.graphic-poster.22",
+        "art.graphic-poster.23",
+        "art.graphic-poster.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "brush painting",
+        "families": [
+          "sumi-ink"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.sumi-ink.1",
+      "message": "Recipe alias \"brush painting\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.sumi-ink.1",
+        "art.sumi-ink.2",
+        "art.sumi-ink.3",
+        "art.sumi-ink.4",
+        "art.sumi-ink.5",
+        "art.sumi-ink.6",
+        "art.sumi-ink.7",
+        "art.sumi-ink.8",
+        "art.sumi-ink.9",
+        "art.sumi-ink.10",
+        "art.sumi-ink.11",
+        "art.sumi-ink.12",
+        "art.sumi-ink.13",
+        "art.sumi-ink.14",
+        "art.sumi-ink.15",
+        "art.sumi-ink.16",
+        "art.sumi-ink.17",
+        "art.sumi-ink.18",
+        "art.sumi-ink.19",
+        "art.sumi-ink.20",
+        "art.sumi-ink.21",
+        "art.sumi-ink.22",
+        "art.sumi-ink.23",
+        "art.sumi-ink.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "calligraphy",
+        "families": [
+          "sumi-ink"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.sumi-ink.1",
+      "message": "Recipe alias \"calligraphy\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.sumi-ink.1",
+        "art.sumi-ink.2",
+        "art.sumi-ink.3",
+        "art.sumi-ink.4",
+        "art.sumi-ink.5",
+        "art.sumi-ink.6",
+        "art.sumi-ink.7",
+        "art.sumi-ink.8",
+        "art.sumi-ink.9",
+        "art.sumi-ink.10",
+        "art.sumi-ink.11",
+        "art.sumi-ink.12",
+        "art.sumi-ink.13",
+        "art.sumi-ink.14",
+        "art.sumi-ink.15",
+        "art.sumi-ink.16",
+        "art.sumi-ink.17",
+        "art.sumi-ink.18",
+        "art.sumi-ink.19",
+        "art.sumi-ink.20",
+        "art.sumi-ink.21",
+        "art.sumi-ink.22",
+        "art.sumi-ink.23",
+        "art.sumi-ink.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "ink wash",
+        "families": [
+          "sumi-ink"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.sumi-ink.1",
+      "message": "Recipe alias \"ink wash\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.sumi-ink.1",
+        "art.sumi-ink.2",
+        "art.sumi-ink.3",
+        "art.sumi-ink.4",
+        "art.sumi-ink.5",
+        "art.sumi-ink.6",
+        "art.sumi-ink.7",
+        "art.sumi-ink.8",
+        "art.sumi-ink.9",
+        "art.sumi-ink.10",
+        "art.sumi-ink.11",
+        "art.sumi-ink.12",
+        "art.sumi-ink.13",
+        "art.sumi-ink.14",
+        "art.sumi-ink.15",
+        "art.sumi-ink.16",
+        "art.sumi-ink.17",
+        "art.sumi-ink.18",
+        "art.sumi-ink.19",
+        "art.sumi-ink.20",
+        "art.sumi-ink.21",
+        "art.sumi-ink.22",
+        "art.sumi-ink.23",
+        "art.sumi-ink.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "monochrome ink",
+        "families": [
+          "sumi-ink"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.sumi-ink.1",
+      "message": "Recipe alias \"monochrome ink\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.sumi-ink.1",
+        "art.sumi-ink.2",
+        "art.sumi-ink.3",
+        "art.sumi-ink.4",
+        "art.sumi-ink.5",
+        "art.sumi-ink.6",
+        "art.sumi-ink.7",
+        "art.sumi-ink.8",
+        "art.sumi-ink.9",
+        "art.sumi-ink.10",
+        "art.sumi-ink.11",
+        "art.sumi-ink.12",
+        "art.sumi-ink.13",
+        "art.sumi-ink.14",
+        "art.sumi-ink.15",
+        "art.sumi-ink.16",
+        "art.sumi-ink.17",
+        "art.sumi-ink.18",
+        "art.sumi-ink.19",
+        "art.sumi-ink.20",
+        "art.sumi-ink.21",
+        "art.sumi-ink.22",
+        "art.sumi-ink.23",
+        "art.sumi-ink.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "dream",
+        "families": [
+          "surreal-dream"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.surreal-dream.1",
+      "message": "Recipe alias \"dream\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.surreal-dream.1",
+        "art.surreal-dream.2",
+        "art.surreal-dream.3",
+        "art.surreal-dream.4",
+        "art.surreal-dream.5",
+        "art.surreal-dream.6",
+        "art.surreal-dream.7",
+        "art.surreal-dream.8",
+        "art.surreal-dream.9",
+        "art.surreal-dream.10",
+        "art.surreal-dream.11",
+        "art.surreal-dream.12",
+        "art.surreal-dream.13",
+        "art.surreal-dream.14",
+        "art.surreal-dream.15",
+        "art.surreal-dream.16",
+        "art.surreal-dream.17",
+        "art.surreal-dream.18",
+        "art.surreal-dream.19",
+        "art.surreal-dream.20",
+        "art.surreal-dream.21",
+        "art.surreal-dream.22",
+        "art.surreal-dream.23",
+        "art.surreal-dream.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "dreamlike",
+        "families": [
+          "surreal-dream"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.surreal-dream.1",
+      "message": "Recipe alias \"dreamlike\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.surreal-dream.1",
+        "art.surreal-dream.2",
+        "art.surreal-dream.3",
+        "art.surreal-dream.4",
+        "art.surreal-dream.5",
+        "art.surreal-dream.6",
+        "art.surreal-dream.7",
+        "art.surreal-dream.8",
+        "art.surreal-dream.9",
+        "art.surreal-dream.10",
+        "art.surreal-dream.11",
+        "art.surreal-dream.12",
+        "art.surreal-dream.13",
+        "art.surreal-dream.14",
+        "art.surreal-dream.15",
+        "art.surreal-dream.16",
+        "art.surreal-dream.17",
+        "art.surreal-dream.18",
+        "art.surreal-dream.19",
+        "art.surreal-dream.20",
+        "art.surreal-dream.21",
+        "art.surreal-dream.22",
+        "art.surreal-dream.23",
+        "art.surreal-dream.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "ethereal",
+        "families": [
+          "surreal-dream"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.surreal-dream.1",
+      "message": "Recipe alias \"ethereal\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.surreal-dream.1",
+        "art.surreal-dream.2",
+        "art.surreal-dream.3",
+        "art.surreal-dream.4",
+        "art.surreal-dream.5",
+        "art.surreal-dream.6",
+        "art.surreal-dream.7",
+        "art.surreal-dream.8",
+        "art.surreal-dream.9",
+        "art.surreal-dream.10",
+        "art.surreal-dream.11",
+        "art.surreal-dream.12",
+        "art.surreal-dream.13",
+        "art.surreal-dream.14",
+        "art.surreal-dream.15",
+        "art.surreal-dream.16",
+        "art.surreal-dream.17",
+        "art.surreal-dream.18",
+        "art.surreal-dream.19",
+        "art.surreal-dream.20",
+        "art.surreal-dream.21",
+        "art.surreal-dream.22",
+        "art.surreal-dream.23",
+        "art.surreal-dream.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "floating",
+        "families": [
+          "surreal-dream"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.surreal-dream.1",
+      "message": "Recipe alias \"floating\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.surreal-dream.1",
+        "art.surreal-dream.2",
+        "art.surreal-dream.3",
+        "art.surreal-dream.4",
+        "art.surreal-dream.5",
+        "art.surreal-dream.6",
+        "art.surreal-dream.7",
+        "art.surreal-dream.8",
+        "art.surreal-dream.9",
+        "art.surreal-dream.10",
+        "art.surreal-dream.11",
+        "art.surreal-dream.12",
+        "art.surreal-dream.13",
+        "art.surreal-dream.14",
+        "art.surreal-dream.15",
+        "art.surreal-dream.16",
+        "art.surreal-dream.17",
+        "art.surreal-dream.18",
+        "art.surreal-dream.19",
+        "art.surreal-dream.20",
+        "art.surreal-dream.21",
+        "art.surreal-dream.22",
+        "art.surreal-dream.23",
+        "art.surreal-dream.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "impossible",
+        "families": [
+          "surreal-dream"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.surreal-dream.1",
+      "message": "Recipe alias \"impossible\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.surreal-dream.1",
+        "art.surreal-dream.2",
+        "art.surreal-dream.3",
+        "art.surreal-dream.4",
+        "art.surreal-dream.5",
+        "art.surreal-dream.6",
+        "art.surreal-dream.7",
+        "art.surreal-dream.8",
+        "art.surreal-dream.9",
+        "art.surreal-dream.10",
+        "art.surreal-dream.11",
+        "art.surreal-dream.12",
+        "art.surreal-dream.13",
+        "art.surreal-dream.14",
+        "art.surreal-dream.15",
+        "art.surreal-dream.16",
+        "art.surreal-dream.17",
+        "art.surreal-dream.18",
+        "art.surreal-dream.19",
+        "art.surreal-dream.20",
+        "art.surreal-dream.21",
+        "art.surreal-dream.22",
+        "art.surreal-dream.23",
+        "art.surreal-dream.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "surreal",
+        "families": [
+          "surreal-dream"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.surreal-dream.1",
+      "message": "Recipe alias \"surreal\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.surreal-dream.1",
+        "art.surreal-dream.2",
+        "art.surreal-dream.3",
+        "art.surreal-dream.4",
+        "art.surreal-dream.5",
+        "art.surreal-dream.6",
+        "art.surreal-dream.7",
+        "art.surreal-dream.8",
+        "art.surreal-dream.9",
+        "art.surreal-dream.10",
+        "art.surreal-dream.11",
+        "art.surreal-dream.12",
+        "art.surreal-dream.13",
+        "art.surreal-dream.14",
+        "art.surreal-dream.15",
+        "art.surreal-dream.16",
+        "art.surreal-dream.17",
+        "art.surreal-dream.18",
+        "art.surreal-dream.19",
+        "art.surreal-dream.20",
+        "art.surreal-dream.21",
+        "art.surreal-dream.22",
+        "art.surreal-dream.23",
+        "art.surreal-dream.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "disturbing",
+        "families": [
+          "symbolic-horror"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.symbolic-horror.1",
+      "message": "Recipe alias \"disturbing\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.symbolic-horror.1",
+        "art.symbolic-horror.2",
+        "art.symbolic-horror.3",
+        "art.symbolic-horror.4",
+        "art.symbolic-horror.5",
+        "art.symbolic-horror.6",
+        "art.symbolic-horror.7",
+        "art.symbolic-horror.8",
+        "art.symbolic-horror.9",
+        "art.symbolic-horror.10",
+        "art.symbolic-horror.11",
+        "art.symbolic-horror.12",
+        "art.symbolic-horror.13",
+        "art.symbolic-horror.14",
+        "art.symbolic-horror.15",
+        "art.symbolic-horror.16",
+        "art.symbolic-horror.17",
+        "art.symbolic-horror.18",
+        "art.symbolic-horror.19",
+        "art.symbolic-horror.20",
+        "art.symbolic-horror.21",
+        "art.symbolic-horror.22",
+        "art.symbolic-horror.23",
+        "art.symbolic-horror.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "haunted",
+        "families": [
+          "symbolic-horror"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.symbolic-horror.1",
+      "message": "Recipe alias \"haunted\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.symbolic-horror.1",
+        "art.symbolic-horror.2",
+        "art.symbolic-horror.3",
+        "art.symbolic-horror.4",
+        "art.symbolic-horror.5",
+        "art.symbolic-horror.6",
+        "art.symbolic-horror.7",
+        "art.symbolic-horror.8",
+        "art.symbolic-horror.9",
+        "art.symbolic-horror.10",
+        "art.symbolic-horror.11",
+        "art.symbolic-horror.12",
+        "art.symbolic-horror.13",
+        "art.symbolic-horror.14",
+        "art.symbolic-horror.15",
+        "art.symbolic-horror.16",
+        "art.symbolic-horror.17",
+        "art.symbolic-horror.18",
+        "art.symbolic-horror.19",
+        "art.symbolic-horror.20",
+        "art.symbolic-horror.21",
+        "art.symbolic-horror.22",
+        "art.symbolic-horror.23",
+        "art.symbolic-horror.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "nightmare",
+        "families": [
+          "symbolic-horror"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.symbolic-horror.1",
+      "message": "Recipe alias \"nightmare\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.symbolic-horror.1",
+        "art.symbolic-horror.2",
+        "art.symbolic-horror.3",
+        "art.symbolic-horror.4",
+        "art.symbolic-horror.5",
+        "art.symbolic-horror.6",
+        "art.symbolic-horror.7",
+        "art.symbolic-horror.8",
+        "art.symbolic-horror.9",
+        "art.symbolic-horror.10",
+        "art.symbolic-horror.11",
+        "art.symbolic-horror.12",
+        "art.symbolic-horror.13",
+        "art.symbolic-horror.14",
+        "art.symbolic-horror.15",
+        "art.symbolic-horror.16",
+        "art.symbolic-horror.17",
+        "art.symbolic-horror.18",
+        "art.symbolic-horror.19",
+        "art.symbolic-horror.20",
+        "art.symbolic-horror.21",
+        "art.symbolic-horror.22",
+        "art.symbolic-horror.23",
+        "art.symbolic-horror.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "occult",
+        "families": [
+          "symbolic-horror"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.symbolic-horror.1",
+      "message": "Recipe alias \"occult\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.symbolic-horror.1",
+        "art.symbolic-horror.2",
+        "art.symbolic-horror.3",
+        "art.symbolic-horror.4",
+        "art.symbolic-horror.5",
+        "art.symbolic-horror.6",
+        "art.symbolic-horror.7",
+        "art.symbolic-horror.8",
+        "art.symbolic-horror.9",
+        "art.symbolic-horror.10",
+        "art.symbolic-horror.11",
+        "art.symbolic-horror.12",
+        "art.symbolic-horror.13",
+        "art.symbolic-horror.14",
+        "art.symbolic-horror.15",
+        "art.symbolic-horror.16",
+        "art.symbolic-horror.17",
+        "art.symbolic-horror.18",
+        "art.symbolic-horror.19",
+        "art.symbolic-horror.20",
+        "art.symbolic-horror.21",
+        "art.symbolic-horror.22",
+        "art.symbolic-horror.23",
+        "art.symbolic-horror.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "ritual",
+        "families": [
+          "symbolic-horror"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.symbolic-horror.1",
+      "message": "Recipe alias \"ritual\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.symbolic-horror.1",
+        "art.symbolic-horror.2",
+        "art.symbolic-horror.3",
+        "art.symbolic-horror.4",
+        "art.symbolic-horror.5",
+        "art.symbolic-horror.6",
+        "art.symbolic-horror.7",
+        "art.symbolic-horror.8",
+        "art.symbolic-horror.9",
+        "art.symbolic-horror.10",
+        "art.symbolic-horror.11",
+        "art.symbolic-horror.12",
+        "art.symbolic-horror.13",
+        "art.symbolic-horror.14",
+        "art.symbolic-horror.15",
+        "art.symbolic-horror.16",
+        "art.symbolic-horror.17",
+        "art.symbolic-horror.18",
+        "art.symbolic-horror.19",
+        "art.symbolic-horror.20",
+        "art.symbolic-horror.21",
+        "art.symbolic-horror.22",
+        "art.symbolic-horror.23",
+        "art.symbolic-horror.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "edo print",
+        "families": [
+          "ukiyoe"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.ukiyoe.1",
+      "message": "Recipe alias \"edo print\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.ukiyoe.1",
+        "art.ukiyoe.2",
+        "art.ukiyoe.3",
+        "art.ukiyoe.4",
+        "art.ukiyoe.5",
+        "art.ukiyoe.6",
+        "art.ukiyoe.7",
+        "art.ukiyoe.8",
+        "art.ukiyoe.9",
+        "art.ukiyoe.10",
+        "art.ukiyoe.11",
+        "art.ukiyoe.12",
+        "art.ukiyoe.13",
+        "art.ukiyoe.14",
+        "art.ukiyoe.15",
+        "art.ukiyoe.16",
+        "art.ukiyoe.17",
+        "art.ukiyoe.18",
+        "art.ukiyoe.19",
+        "art.ukiyoe.20",
+        "art.ukiyoe.21",
+        "art.ukiyoe.22",
+        "art.ukiyoe.23",
+        "art.ukiyoe.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "japanese print",
+        "families": [
+          "ukiyoe"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.ukiyoe.1",
+      "message": "Recipe alias \"japanese print\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.ukiyoe.1",
+        "art.ukiyoe.2",
+        "art.ukiyoe.3",
+        "art.ukiyoe.4",
+        "art.ukiyoe.5",
+        "art.ukiyoe.6",
+        "art.ukiyoe.7",
+        "art.ukiyoe.8",
+        "art.ukiyoe.9",
+        "art.ukiyoe.10",
+        "art.ukiyoe.11",
+        "art.ukiyoe.12",
+        "art.ukiyoe.13",
+        "art.ukiyoe.14",
+        "art.ukiyoe.15",
+        "art.ukiyoe.16",
+        "art.ukiyoe.17",
+        "art.ukiyoe.18",
+        "art.ukiyoe.19",
+        "art.ukiyoe.20",
+        "art.ukiyoe.21",
+        "art.ukiyoe.22",
+        "art.ukiyoe.23",
+        "art.ukiyoe.24"
+      ],
+      "severity": "info"
+    },
+    {
+      "code": "recipe.alias-same-family",
+      "data": {
+        "alias": "woodblock",
+        "families": [
+          "ukiyoe"
+        ]
+      },
+      "entityType": "recipe",
+      "id": "art.ukiyoe.1",
+      "message": "Recipe alias \"woodblock\" resolves to 24 recipes",
+      "path": "",
+      "relatedIds": [
+        "art.ukiyoe.1",
+        "art.ukiyoe.2",
+        "art.ukiyoe.3",
+        "art.ukiyoe.4",
+        "art.ukiyoe.5",
+        "art.ukiyoe.6",
+        "art.ukiyoe.7",
+        "art.ukiyoe.8",
+        "art.ukiyoe.9",
+        "art.ukiyoe.10",
+        "art.ukiyoe.11",
+        "art.ukiyoe.12",
+        "art.ukiyoe.13",
+        "art.ukiyoe.14",
+        "art.ukiyoe.15",
+        "art.ukiyoe.16",
+        "art.ukiyoe.17",
+        "art.ukiyoe.18",
+        "art.ukiyoe.19",
+        "art.ukiyoe.20",
+        "art.ukiyoe.21",
+        "art.ukiyoe.22",
+        "art.ukiyoe.23",
+        "art.ukiyoe.24"
+      ],
+      "severity": "info"
+    }
+  ],
+  "schemaVersion": 1,
+  "summary": {
+    "error": 0,
+    "info": 66,
+    "retained": 141,
+    "total": 141,
+    "truncated": 0,
+    "warning": 75
+  },
+  "valid": true
+}

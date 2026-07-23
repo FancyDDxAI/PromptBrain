@@ -1,0 +1,1544 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.media.gouache-storybook",
+  "fingerprint": "41eb54219a2a11462043d7d28e57540190d9138c3127d9669daa3a9da553adf1",
+  "recipes": [
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with graphic shape blocking painting style, wild grass foreground with low horizon landscape composition, ivy green with coral bloom botanical palette, crisp shadow edges from window daylight, layered across depth planes 01b2e2634272"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.01b2e2634272",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.wild-grass-foreground-with-low-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ivy-green-with-coral-bloom-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with graphic shape blocking painting style, wild grass foreground with low horizon landscape composition, ivy green with coral bloom botanical palette, crisp shadow edges from window daylight, layered across depth planes 01b2e2634272"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with scumbled highlights painting style, tree branch foreground with centered horizon landscape composition, eucalyptus blue-green with lavender botanical palette, soft diffusion from window daylight, falling off into shadow 05f07fef9809"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.05f07fef9809",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.tree-branch-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-window-daylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.eucalyptus-blue-green-with-lavender-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with scumbled highlights painting style, tree branch foreground with centered horizon landscape composition, eucalyptus blue-green with lavender botanical palette, soft diffusion from window daylight, falling off into shadow 05f07fef9809"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with soft blended edges painting style, ruin fragment foreground with centered horizon landscape composition, chartreuse leaf with poppy red botanical palette, gentle atmospheric bloom from window daylight, focused on the subject plane 07e5876e81af"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.07e5876e81af",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.ruin-fragment-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-focused-on-the-subject-pla"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.chartreuse-leaf-with-poppy-red-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with soft blended edges painting style, ruin fragment foreground with centered horizon landscape composition, chartreuse leaf with poppy red botanical palette, gentle atmospheric bloom from window daylight, focused on the subject plane 07e5876e81af"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with layered translucent marks painting style, snow bank foreground with mist-softened horizon landscape composition, mint leaf with magnolia white botanical palette, gentle atmospheric bloom from window daylight, grazing textured surfaces 095f3424a639"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.095f3424a639",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.snow-bank-foreground-with-mist-softened-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mint-leaf-with-magnolia-white-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with layered translucent marks painting style, snow bank foreground with mist-softened horizon landscape composition, mint leaf with magnolia white botanical palette, gentle atmospheric bloom from window daylight, grazing textured surfaces 095f3424a639"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with visible underpainting painting style, fence line foreground with hidden horizon landscape composition, pine green with marigold orange botanical palette, controlled high contrast from window daylight, focused on the subject plane 0d29a265cd04"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.0d29a265cd04",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.fence-line-foreground-with-hidden-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-window-daylight-focused-on-the-subject-pla"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.pine-green-with-marigold-orange-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with visible underpainting painting style, fence line foreground with hidden horizon landscape composition, pine green with marigold orange botanical palette, controlled high contrast from window daylight, focused on the subject plane 0d29a265cd04"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with soft blended edges painting style, rock ledge foreground with mist-softened horizon landscape composition, fern green with peony pink botanical palette, gentle atmospheric bloom from window daylight, contained in a localized pool 150ff7ed21f1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.150ff7ed21f1",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.rock-ledge-foreground-with-mist-softened-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-contained-in-a-localized-p"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.fern-green-with-peony-pink-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with soft blended edges painting style, rock ledge foreground with mist-softened horizon landscape composition, fern green with peony pink botanical palette, gentle atmospheric bloom from window daylight, contained in a localized pool 150ff7ed21f1"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with broad flat strokes painting style, rock ledge foreground with hidden horizon landscape composition, moss green with iris violet botanical palette, crisp shadow edges from window daylight, layered across depth planes 1ea8659f63cc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.1ea8659f63cc",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.rock-ledge-foreground-with-hidden-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.moss-green-with-iris-violet-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with broad flat strokes painting style, rock ledge foreground with hidden horizon landscape composition, moss green with iris violet botanical palette, crisp shadow edges from window daylight, layered across depth planes 1ea8659f63cc"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with dry textured strokes painting style, reflective pool foreground with mist-softened horizon landscape composition, deep laurel with lavender botanical palette, controlled high contrast from window daylight, grazing textured surfaces 242815cbab5a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.242815cbab5a",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.reflective-pool-foreground-with-mist-softened-horizon-landscape-composit"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-window-daylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-laurel-with-lavender-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-dry-textured-strokes-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with dry textured strokes painting style, reflective pool foreground with mist-softened horizon landscape composition, deep laurel with lavender botanical palette, controlled high contrast from window daylight, grazing textured surfaces 242815cbab5a"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with layered translucent marks painting style, fence line foreground with broken horizon landscape composition, chartreuse leaf with lavender botanical palette, crisp shadow edges from window daylight, creating a luminous frame 41743b9dc090"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.41743b9dc090",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.fence-line-foreground-with-broken-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.chartreuse-leaf-with-lavender-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with layered translucent marks painting style, fence line foreground with broken horizon landscape composition, chartreuse leaf with lavender botanical palette, crisp shadow edges from window daylight, creating a luminous frame 41743b9dc090"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with broad flat strokes painting style, snow bank foreground with low horizon landscape composition, sage green with magnolia white botanical palette, gentle atmospheric bloom from window daylight, spilling into the background 4a142ec9cd88"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.4a142ec9cd88",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.snow-bank-foreground-with-low-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-spilling-into-the-backgrou"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sage-green-with-magnolia-white-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with broad flat strokes painting style, snow bank foreground with low horizon landscape composition, sage green with magnolia white botanical palette, gentle atmospheric bloom from window daylight, spilling into the background 4a142ec9cd88"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with broad flat strokes painting style, snow bank foreground with broken horizon landscape composition, deep laurel with coral bloom botanical palette, gentle atmospheric bloom from window daylight, spilling into the background 5bc08f9b9b96"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.5bc08f9b9b96",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.snow-bank-foreground-with-broken-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-spilling-into-the-backgrou"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-laurel-with-coral-bloom-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with broad flat strokes painting style, snow bank foreground with broken horizon landscape composition, deep laurel with coral bloom botanical palette, gentle atmospheric bloom from window daylight, spilling into the background 5bc08f9b9b96"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with soft blended edges painting style, shoreline stones foreground with high horizon landscape composition, ivy green with peony pink botanical palette, controlled high contrast from window daylight, reflected from nearby surfaces 5f202da39329"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.5f202da39329",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.shoreline-stones-foreground-with-high-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-window-daylight-reflected-from-nearby-surf"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ivy-green-with-peony-pink-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with soft blended edges painting style, shoreline stones foreground with high horizon landscape composition, ivy green with peony pink botanical palette, controlled high contrast from window daylight, reflected from nearby surfaces 5f202da39329"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with scumbled highlights painting style, tree branch foreground with tilted horizon landscape composition, ivy green with peony pink botanical palette, soft diffusion from window daylight, broken by foreground shapes 615c1c1e6d04"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.615c1c1e6d04",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.tree-branch-foreground-with-tilted-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-window-daylight-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ivy-green-with-peony-pink-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with scumbled highlights painting style, tree branch foreground with tilted horizon landscape composition, ivy green with peony pink botanical palette, soft diffusion from window daylight, broken by foreground shapes 615c1c1e6d04"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with broad flat strokes painting style, fence line foreground with hidden horizon landscape composition, chartreuse leaf with coral bloom botanical palette, gentle atmospheric bloom from window daylight, grazing textured surfaces 62f47d59efa4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.62f47d59efa4",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.fence-line-foreground-with-hidden-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.chartreuse-leaf-with-coral-bloom-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with broad flat strokes painting style, fence line foreground with hidden horizon landscape composition, chartreuse leaf with coral bloom botanical palette, gentle atmospheric bloom from window daylight, grazing textured surfaces 62f47d59efa4"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with broad flat strokes painting style, shoreline stones foreground with low horizon landscape composition, ivy green with iris violet botanical palette, gentle atmospheric bloom from window daylight, grazing textured surfaces 64b5f0fef4fe"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.64b5f0fef4fe",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.shoreline-stones-foreground-with-low-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ivy-green-with-iris-violet-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with broad flat strokes painting style, shoreline stones foreground with low horizon landscape composition, ivy green with iris violet botanical palette, gentle atmospheric bloom from window daylight, grazing textured surfaces 64b5f0fef4fe"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with precise small brushes painting style, reflective pool foreground with mist-softened horizon landscape composition, eucalyptus blue-green with magnolia white botanical palette, crisp shadow edges from window daylight, layered across depth planes 97e219fb0cd4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.97e219fb0cd4",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.reflective-pool-foreground-with-mist-softened-horizon-landscape-composit"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.eucalyptus-blue-green-with-magnolia-white-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with precise small brushes painting style, reflective pool foreground with mist-softened horizon landscape composition, eucalyptus blue-green with magnolia white botanical palette, crisp shadow edges from window daylight, layered across depth planes 97e219fb0cd4"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with layered translucent marks painting style, snow bank foreground with hidden horizon landscape composition, sage green with marigold orange botanical palette, soft diffusion from window daylight, creating a luminous frame a22a784abeb4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.a22a784abeb4",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.snow-bank-foreground-with-hidden-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-window-daylight-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sage-green-with-marigold-orange-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with layered translucent marks painting style, snow bank foreground with hidden horizon landscape composition, sage green with marigold orange botanical palette, soft diffusion from window daylight, creating a luminous frame a22a784abeb4"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with broad flat strokes painting style, path bend foreground with centered horizon landscape composition, chartreuse leaf with lavender botanical palette, gentle atmospheric bloom from window daylight, focused on the subject plane b44e1bf1137f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.b44e1bf1137f",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.path-bend-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-focused-on-the-subject-pla"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.chartreuse-leaf-with-lavender-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with broad flat strokes painting style, path bend foreground with centered horizon landscape composition, chartreuse leaf with lavender botanical palette, gentle atmospheric bloom from window daylight, focused on the subject plane b44e1bf1137f"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with broad flat strokes painting style, ruin fragment foreground with centered horizon landscape composition, sage green with cornflower blue botanical palette, controlled high contrast from window daylight, falling off into shadow bdb1f44d55fe"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.bdb1f44d55fe",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.ruin-fragment-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-window-daylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sage-green-with-cornflower-blue-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with broad flat strokes painting style, ruin fragment foreground with centered horizon landscape composition, sage green with cornflower blue botanical palette, controlled high contrast from window daylight, falling off into shadow bdb1f44d55fe"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with dry textured strokes painting style, rooftop edge foreground with high horizon landscape composition, tea green with peony pink botanical palette, crisp shadow edges from window daylight, creating a luminous frame bdfd974a111b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.bdfd974a111b",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.rooftop-edge-foreground-with-high-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tea-green-with-peony-pink-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-dry-textured-strokes-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with dry textured strokes painting style, rooftop edge foreground with high horizon landscape composition, tea green with peony pink botanical palette, crisp shadow edges from window daylight, creating a luminous frame bdfd974a111b"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with soft blended edges painting style, rooftop edge foreground with centered horizon landscape composition, celadon leaf with marigold orange botanical palette, crisp shadow edges from window daylight, falling off into shadow bfacba2600a0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.bfacba2600a0",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.rooftop-edge-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.celadon-leaf-with-marigold-orange-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with soft blended edges painting style, rooftop edge foreground with centered horizon landscape composition, celadon leaf with marigold orange botanical palette, crisp shadow edges from window daylight, falling off into shadow bfacba2600a0"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with dry textured strokes painting style, fence line foreground with tilted horizon landscape composition, eucalyptus blue-green with magnolia white botanical palette, soft diffusion from window daylight, focused on the subject plane c217fa960ea8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.c217fa960ea8",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.fence-line-foreground-with-tilted-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-window-daylight-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.eucalyptus-blue-green-with-magnolia-white-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-dry-textured-strokes-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with dry textured strokes painting style, fence line foreground with tilted horizon landscape composition, eucalyptus blue-green with magnolia white botanical palette, soft diffusion from window daylight, focused on the subject plane c217fa960ea8"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with scumbled highlights painting style, path bend foreground with mist-softened horizon landscape composition, ivy green with cornflower blue botanical palette, gentle atmospheric bloom from window daylight, layered across depth planes e2e135e8e1c4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.e2e135e8e1c4",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.path-bend-foreground-with-mist-softened-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-layered-across-depth-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ivy-green-with-cornflower-blue-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with scumbled highlights painting style, path bend foreground with mist-softened horizon landscape composition, ivy green with cornflower blue botanical palette, gentle atmospheric bloom from window daylight, layered across depth planes e2e135e8e1c4"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "gouache storybook featuring opaque gouache with dry textured strokes painting style, path bend foreground with low horizon landscape composition, fern green with poppy red botanical palette, crisp shadow edges from window daylight, spilling into the background e5810d2202a6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.gouache-storybook",
+      "familyTriggers": [
+        "gouache storybook direction",
+        "opaque painted fable",
+        "matte brushwork narrative"
+      ],
+      "id": "phase8.art.media.gouache-storybook.e5810d2202a6",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.path-bend-foreground-with-low-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.fern-green-with-poppy-red-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-dry-textured-strokes-painting-style"
+        ]
+      },
+      "name": "Gouache Storybook 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.gouache-storybook",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "gouache-shape blocking",
+        "storybook landscape depth",
+        "matte botanical color"
+      ],
+      "triggers": [
+        "gouache storybook featuring opaque gouache with dry textured strokes painting style, path bend foreground with low horizon landscape composition, fern green with poppy red botanical palette, crisp shadow edges from window daylight, spilling into the background e5810d2202a6"
+      ],
+      "variantIndex": 14
+    }
+  ],
+  "schemaVersion": 2
+}

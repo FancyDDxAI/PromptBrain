@@ -1,0 +1,252 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Enji Todoroki",
+        "Enji Todoroki (My Hero Academia)",
+        "Endeavor (My Hero Academia)"
+      ],
+      "id": "character.my-hero-academia.enji-todoroki",
+      "kind": "named-character",
+      "name": "Enji Todoroki",
+      "namespace": "My Hero Academia",
+      "promptTags": [
+        "Enji Todoroki",
+        "My Hero Academia",
+        "male",
+        "pro hero"
+      ],
+      "provenance": {
+        "groupId": "my-hero-academia",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "pro-hero"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Izuku Midoriya",
+        "Izuku Midoriya (My Hero Academia)"
+      ],
+      "id": "character.my-hero-academia.izuku-midoriya",
+      "kind": "named-character",
+      "name": "Izuku Midoriya",
+      "namespace": "My Hero Academia",
+      "promptTags": [
+        "Izuku Midoriya",
+        "My Hero Academia",
+        "male",
+        "hero student"
+      ],
+      "provenance": {
+        "groupId": "my-hero-academia",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "hero-student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Katsuki Bakugo",
+        "Katsuki Bakugo (My Hero Academia)"
+      ],
+      "id": "character.my-hero-academia.katsuki-bakugo",
+      "kind": "named-character",
+      "name": "Katsuki Bakugo",
+      "namespace": "My Hero Academia",
+      "promptTags": [
+        "Katsuki Bakugo",
+        "My Hero Academia",
+        "male",
+        "hero student"
+      ],
+      "provenance": {
+        "groupId": "my-hero-academia",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "hero-student",
+        "rival"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Ochaco Uraraka",
+        "Ochaco Uraraka (My Hero Academia)"
+      ],
+      "id": "character.my-hero-academia.ochaco-uraraka",
+      "kind": "named-character",
+      "name": "Ochaco Uraraka",
+      "namespace": "My Hero Academia",
+      "promptTags": [
+        "Ochaco Uraraka",
+        "My Hero Academia",
+        "female",
+        "hero student"
+      ],
+      "provenance": {
+        "groupId": "my-hero-academia",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "hero-student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Shota Aizawa",
+        "Shota Aizawa (My Hero Academia)"
+      ],
+      "id": "character.my-hero-academia.shota-aizawa",
+      "kind": "named-character",
+      "name": "Shota Aizawa",
+      "namespace": "My Hero Academia",
+      "promptTags": [
+        "Shota Aizawa",
+        "My Hero Academia",
+        "male",
+        "pro hero teacher"
+      ],
+      "provenance": {
+        "groupId": "my-hero-academia",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "pro-hero",
+        "teacher"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Shoto Todoroki",
+        "Shoto Todoroki (My Hero Academia)"
+      ],
+      "id": "character.my-hero-academia.shoto-todoroki",
+      "kind": "named-character",
+      "name": "Shoto Todoroki",
+      "namespace": "My Hero Academia",
+      "promptTags": [
+        "Shoto Todoroki",
+        "My Hero Academia",
+        "male",
+        "hero student"
+      ],
+      "provenance": {
+        "groupId": "my-hero-academia",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "hero-student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Toshinori Yagi",
+        "Toshinori Yagi (My Hero Academia)",
+        "All Might (My Hero Academia)"
+      ],
+      "id": "character.my-hero-academia.toshinori-yagi",
+      "kind": "named-character",
+      "name": "Toshinori Yagi",
+      "namespace": "My Hero Academia",
+      "promptTags": [
+        "Toshinori Yagi",
+        "My Hero Academia",
+        "male",
+        "pro hero"
+      ],
+      "provenance": {
+        "groupId": "my-hero-academia",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "pro-hero",
+        "mentor"
+      ]
+    }
+  ],
+  "fingerprint": "92689f58f7134f779160966d4a9f8ae8fc2e8faec7a19ef4048433d952397374",
+  "namespace": "My Hero Academia",
+  "schemaVersion": 2
+}

@@ -1,0 +1,1664 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.camera.overhead-graphic-survey",
+  "fingerprint": "2927ea411d1042832f9c0ea0326e8736adac255447a27bf5d7cb24a71a13cf78",
+  "recipes": [
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with aged paper texture visual style, round window anchoring broken-ring framing composition, indigo ink on cream paper print palette, controlled high contrast from ceiling skylight, broken by foreground shapes 02962ef341f6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.02962ef341f6",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-left-offset-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.round-window-anchoring-broken-ring-framing-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-ceiling-skylight-broken-by-foreground-shap"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-ink-on-cream-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-aged-paper-texture-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with aged paper texture visual style, round window anchoring broken-ring framing composition, indigo ink on cream paper print palette, controlled high contrast from ceiling skylight, broken by foreground shapes 02962ef341f6"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with clean measured lines visual style, round window anchoring inward radial flow composition, forest ink on blush paper print palette, gentle atmospheric bloom from ceiling skylight, falling off into shadow 2419dfd3666d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.2419dfd3666d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-longitudinal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.round-window-anchoring-inward-radial-flow-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-ink-on-blush-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-clean-measured-lines-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with clean measured lines visual style, round window anchoring inward radial flow composition, forest ink on blush paper print palette, gentle atmospheric bloom from ceiling skylight, falling off into shadow 2419dfd3666d"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with clean measured lines visual style, water ripple anchoring concentric framing composition, charcoal ink on blush paper print palette, soft diffusion from ceiling skylight, contained in a localized pool 25122482f6da"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.25122482f6da",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-right-offset-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.water-ripple-anchoring-concentric-framing-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-ceiling-skylight-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-ink-on-blush-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-clean-measured-lines-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with clean measured lines visual style, water ripple anchoring concentric framing composition, charcoal ink on blush paper print palette, soft diffusion from ceiling skylight, contained in a localized pool 25122482f6da"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with fine ink notation visual style, sun disk anchoring counterclockwise spiral flow composition, vermilion ink on blush paper print palette, controlled high contrast from ceiling skylight, focused on the subject plane 2d44733cb6ff"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.2d44733cb6ff",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-front-diagonal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.sun-disk-anchoring-counterclockwise-spiral-flow-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-ceiling-skylight-focused-on-the-subject-pl"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.vermilion-ink-on-blush-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-fine-ink-notation-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with fine ink notation visual style, sun disk anchoring counterclockwise spiral flow composition, vermilion ink on blush paper print palette, controlled high contrast from ceiling skylight, focused on the subject plane 2d44733cb6ff"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with bold silhouette overlays visual style, spiral shell anchoring clockwise spiral flow composition, forest ink on light kraft paper print palette, crisp shadow edges from ceiling skylight, spilling into the background 3bb114ebec3c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.3bb114ebec3c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-vertical-overhead-angle-front-diagonal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.spiral-shell-anchoring-clockwise-spiral-flow-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-ink-on-light-kraft-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-bold-silhouette-overlays-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with bold silhouette overlays visual style, spiral shell anchoring clockwise spiral flow composition, forest ink on light kraft paper print palette, crisp shadow edges from ceiling skylight, spilling into the background 3bb114ebec3c"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with precise labeled details visual style, arched dome anchoring offset orbit framing composition, burgundy ink on warm ivory print palette, gentle atmospheric bloom from ceiling skylight, broken by foreground shapes 3ed01329c77e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.3ed01329c77e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-vertical-overhead-angle-front-diagonal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.arched-dome-anchoring-offset-orbit-framing-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-broken-by-foreground-shap"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-ink-on-warm-ivory-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with precise labeled details visual style, arched dome anchoring offset orbit framing composition, burgundy ink on warm ivory print palette, gentle atmospheric bloom from ceiling skylight, broken by foreground shapes 3ed01329c77e"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with fine ink notation visual style, moon disk anchoring clockwise spiral flow composition, forest ink on cool white print palette, crisp shadow edges from ceiling skylight, creating a luminous frame 451e30e36429"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.451e30e36429",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-vertical-overhead-angle-center-axis-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.moon-disk-anchoring-clockwise-spiral-flow-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-ink-on-cool-white-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-fine-ink-notation-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with fine ink notation visual style, moon disk anchoring clockwise spiral flow composition, forest ink on cool white print palette, crisp shadow edges from ceiling skylight, creating a luminous frame 451e30e36429"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with muted wash accents visual style, lens aperture anchoring clockwise spiral flow composition, charcoal ink on blush paper print palette, gentle atmospheric bloom from ceiling skylight, creating a luminous frame 4b16346f5c8a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.4b16346f5c8a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-vertical-overhead-angle-front-diagonal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lens-aperture-anchoring-clockwise-spiral-flow-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-ink-on-blush-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-muted-wash-accents-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with muted wash accents visual style, lens aperture anchoring clockwise spiral flow composition, charcoal ink on blush paper print palette, gentle atmospheric bloom from ceiling skylight, creating a luminous frame 4b16346f5c8a"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with soft graphite shading visual style, lens aperture anchoring outward radial flow composition, ultramarine ink on pale mint paper print palette, soft diffusion from ceiling skylight, layered across depth planes 524dab0e9415"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.524dab0e9415",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-longitudinal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lens-aperture-anchoring-outward-radial-flow-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-ceiling-skylight-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ultramarine-ink-on-pale-mint-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-soft-graphite-shading-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with soft graphite shading visual style, lens aperture anchoring outward radial flow composition, ultramarine ink on pale mint paper print palette, soft diffusion from ceiling skylight, layered across depth planes 524dab0e9415"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with selective color coding visual style, circular table anchoring offset orbit framing composition, rust ink on blush paper print palette, crisp shadow edges from ceiling skylight, layered across depth planes 526181084521"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.526181084521",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-vertical-overhead-angle-center-axis-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.circular-table-anchoring-offset-orbit-framing-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.rust-ink-on-blush-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-selective-color-coding-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with selective color coding visual style, circular table anchoring offset orbit framing composition, rust ink on blush paper print palette, crisp shadow edges from ceiling skylight, layered across depth planes 526181084521"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with selective color coding visual style, lens aperture anchoring concentric framing composition, mustard ink on blush paper print palette, soft diffusion from ceiling skylight, spilling into the background 55aa0a48afd2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.55aa0a48afd2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-vertical-overhead-angle-front-diagonal-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lens-aperture-anchoring-concentric-framing-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-ceiling-skylight-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mustard-ink-on-blush-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-selective-color-coding-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with selective color coding visual style, lens aperture anchoring concentric framing composition, mustard ink on blush paper print palette, soft diffusion from ceiling skylight, spilling into the background 55aa0a48afd2"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with precise labeled details visual style, circular table anchoring outward radial flow composition, rust ink on pale sky paper print palette, gentle atmospheric bloom from ceiling skylight, focused on the subject plane 6de1021866a9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.6de1021866a9",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-right-offset-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.circular-table-anchoring-outward-radial-flow-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-focused-on-the-subject-pl"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.rust-ink-on-pale-sky-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with precise labeled details visual style, circular table anchoring outward radial flow composition, rust ink on pale sky paper print palette, gentle atmospheric bloom from ceiling skylight, focused on the subject plane 6de1021866a9"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with bold silhouette overlays visual style, spiral shell anchoring broken-ring framing composition, mustard ink on pale sky paper print palette, gentle atmospheric bloom from ceiling skylight, grazing textured surfaces 777d7678113e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.777d7678113e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-vertical-overhead-angle-rear-diagonal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.spiral-shell-anchoring-broken-ring-framing-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mustard-ink-on-pale-sky-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-bold-silhouette-overlays-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with bold silhouette overlays visual style, spiral shell anchoring broken-ring framing composition, mustard ink on pale sky paper print palette, gentle atmospheric bloom from ceiling skylight, grazing textured surfaces 777d7678113e"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with fine ink notation visual style, spiral shell anchoring clockwise spiral flow composition, forest ink on pale sky paper print palette, gentle atmospheric bloom from ceiling skylight, layered across depth planes 8c1a9e94268c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.8c1a9e94268c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-cross-corner-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.spiral-shell-anchoring-clockwise-spiral-flow-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-layered-across-depth-plan"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-ink-on-pale-sky-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-fine-ink-notation-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with fine ink notation visual style, spiral shell anchoring clockwise spiral flow composition, forest ink on pale sky paper print palette, gentle atmospheric bloom from ceiling skylight, layered across depth planes 8c1a9e94268c"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with muted wash accents visual style, clock face anchoring offset orbit framing composition, rust ink on cream paper print palette, controlled high contrast from ceiling skylight, spilling into the background 9d9fb8688096"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.9d9fb8688096",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-vertical-overhead-angle-front-diagonal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.clock-face-anchoring-offset-orbit-framing-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-ceiling-skylight-spilling-into-the-backgro"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.rust-ink-on-cream-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-muted-wash-accents-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with muted wash accents visual style, clock face anchoring offset orbit framing composition, rust ink on cream paper print palette, controlled high contrast from ceiling skylight, spilling into the background 9d9fb8688096"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with fine ink notation visual style, round window anchoring offset orbit framing composition, burgundy ink on cream paper print palette, gentle atmospheric bloom from ceiling skylight, broken by foreground shapes 9ebb3831a82e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.9ebb3831a82e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-right-offset-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.round-window-anchoring-offset-orbit-framing-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-broken-by-foreground-shap"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-ink-on-cream-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-fine-ink-notation-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with fine ink notation visual style, round window anchoring offset orbit framing composition, burgundy ink on cream paper print palette, gentle atmospheric bloom from ceiling skylight, broken by foreground shapes 9ebb3831a82e"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with muted wash accents visual style, moon disk anchoring broken-ring framing composition, burgundy ink on pale sky paper print palette, gentle atmospheric bloom from ceiling skylight, grazing textured surfaces a7cc766ac225"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.a7cc766ac225",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-left-offset-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.moon-disk-anchoring-broken-ring-framing-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-ink-on-pale-sky-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-muted-wash-accents-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with muted wash accents visual style, moon disk anchoring broken-ring framing composition, burgundy ink on pale sky paper print palette, gentle atmospheric bloom from ceiling skylight, grazing textured surfaces a7cc766ac225"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with bold silhouette overlays visual style, wheel hub anchoring outward radial flow composition, sepia ink on pale gray print palette, crisp shadow edges from ceiling skylight, spilling into the background a7e7842cf01f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.a7e7842cf01f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-vertical-overhead-angle-right-offset-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wheel-hub-anchoring-outward-radial-flow-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-ink-on-pale-gray-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-bold-silhouette-overlays-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with bold silhouette overlays visual style, wheel hub anchoring outward radial flow composition, sepia ink on pale gray print palette, crisp shadow edges from ceiling skylight, spilling into the background a7e7842cf01f"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with bold silhouette overlays visual style, circular table anchoring counterclockwise spiral flow composition, teal ink on warm ivory print palette, controlled high contrast from ceiling skylight, layered across depth planes cf3ad1844aae"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.cf3ad1844aae",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-vertical-overhead-angle-front-diagonal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.circular-table-anchoring-counterclockwise-spiral-flow-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-ceiling-skylight-layered-across-depth-plan"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-ink-on-warm-ivory-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-bold-silhouette-overlays-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with bold silhouette overlays visual style, circular table anchoring counterclockwise spiral flow composition, teal ink on warm ivory print palette, controlled high contrast from ceiling skylight, layered across depth planes cf3ad1844aae"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with clean measured lines visual style, halo ring anchoring broken-ring framing composition, mustard ink on blush paper print palette, soft diffusion from ceiling skylight, contained in a localized pool d95a7f8be30f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.d95a7f8be30f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-vertical-overhead-angle-center-axis-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.halo-ring-anchoring-broken-ring-framing-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-ceiling-skylight-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mustard-ink-on-blush-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-clean-measured-lines-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with clean measured lines visual style, halo ring anchoring broken-ring framing composition, mustard ink on blush paper print palette, soft diffusion from ceiling skylight, contained in a localized pool d95a7f8be30f"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with precise labeled details visual style, circular table anchoring tangent-line framing composition, rust ink on light kraft paper print palette, crisp shadow edges from ceiling skylight, focused on the subject plane de32659bd948"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.de32659bd948",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-vertical-overhead-angle-front-diagonal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.circular-table-anchoring-tangent-line-framing-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.rust-ink-on-light-kraft-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with precise labeled details visual style, circular table anchoring tangent-line framing composition, rust ink on light kraft paper print palette, crisp shadow edges from ceiling skylight, focused on the subject plane de32659bd948"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with clean measured lines visual style, round window anchoring tangent-line framing composition, plum ink on blush paper print palette, soft diffusion from ceiling skylight, falling off into shadow e00bb2c47bdb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.e00bb2c47bdb",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-vertical-overhead-angle-front-diagonal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.round-window-anchoring-tangent-line-framing-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-ceiling-skylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-ink-on-blush-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-clean-measured-lines-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with clean measured lines visual style, round window anchoring tangent-line framing composition, plum ink on blush paper print palette, soft diffusion from ceiling skylight, falling off into shadow e00bb2c47bdb"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with soft graphite shading visual style, water ripple anchoring broken-ring framing composition, indigo ink on cool white print palette, crisp shadow edges from ceiling skylight, spilling into the background e5d123230bd0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.e5d123230bd0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-vertical-overhead-angle-front-diagonal-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.water-ripple-anchoring-broken-ring-framing-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-ink-on-cool-white-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-soft-graphite-shading-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with soft graphite shading visual style, water ripple anchoring broken-ring framing composition, indigo ink on cool white print palette, crisp shadow edges from ceiling skylight, spilling into the background e5d123230bd0"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "overhead graphic survey featuring axonometric drawing with precise labeled details visual style, round window anchoring inward radial flow composition, slate ink on blush paper print palette, controlled high contrast from ceiling skylight, focused on the subject plane f69aeb58f57e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.overhead-graphic-survey",
+      "familyTriggers": [
+        "overhead graphic survey grammar",
+        "top-down diagrammatic framing",
+        "overhead radial inspection"
+      ],
+      "id": "phase8.art.camera.overhead-graphic-survey.f69aeb58f57e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-vertical-overhead-angle-transverse-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.round-window-anchoring-inward-radial-flow-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-ceiling-skylight-focused-on-the-subject-pl"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-ink-on-blush-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.axonometric-drawing-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Overhead Graphic Survey 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.overhead-graphic-survey",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "survey-view geometry",
+        "top-plane readability",
+        "radial overhead order"
+      ],
+      "triggers": [
+        "overhead graphic survey featuring axonometric drawing with precise labeled details visual style, round window anchoring inward radial flow composition, slate ink on blush paper print palette, controlled high contrast from ceiling skylight, focused on the subject plane f69aeb58f57e"
+      ],
+      "variantIndex": 21
+    }
+  ],
+  "schemaVersion": 2
+}

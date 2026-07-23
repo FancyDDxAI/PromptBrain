@@ -1,0 +1,1687 @@
+{
+  "families": [
+    {
+      "averagePromptTokens": 8.02,
+      "concepts": 480,
+      "family": "scene-craft-depth",
+      "lexicalDiversity": 0.0106,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 8.72,
+      "concepts": 480,
+      "family": "scene-craft-lens",
+      "lexicalDiversity": 0.0134,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 3.12,
+      "concepts": 478,
+      "family": "direct",
+      "lexicalDiversity": 0.5908,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.91,
+      "concepts": 435,
+      "family": "scene-craft-weather-time",
+      "lexicalDiversity": 0.018,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 8.02,
+      "concepts": 432,
+      "family": "scene-craft-cinematic-sources",
+      "lexicalDiversity": 0.0176,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.83,
+      "concepts": 384,
+      "family": "scene-craft-angle",
+      "lexicalDiversity": 0.0145,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.38,
+      "concepts": 360,
+      "family": "adult-everyday-roles",
+      "lexicalDiversity": 0.0131,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.25,
+      "concepts": 360,
+      "family": "scene-craft-fantasy",
+      "lexicalDiversity": 0.0213,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 8.99,
+      "concepts": 360,
+      "family": "scene-craft-horror",
+      "lexicalDiversity": 0.0222,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 8.57,
+      "concepts": 360,
+      "family": "scene-craft-interior",
+      "lexicalDiversity": 0.0214,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 8.08,
+      "concepts": 360,
+      "family": "scene-craft-natural",
+      "lexicalDiversity": 0.0206,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.82,
+      "concepts": 360,
+      "family": "scene-craft-science-fiction",
+      "lexicalDiversity": 0.0212,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 8.49,
+      "concepts": 360,
+      "family": "scene-craft-urban",
+      "lexicalDiversity": 0.0193,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 7.17,
+      "concepts": 352,
+      "family": "scene-craft-motion",
+      "lexicalDiversity": 0.017,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 3.53,
+      "concepts": 300,
+      "family": "wardrobe-material",
+      "lexicalDiversity": 0.0548,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 8.53,
+      "concepts": 288,
+      "family": "scene-craft-tilt",
+      "lexicalDiversity": 0.0143,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 7.05,
+      "concepts": 280,
+      "family": "scene-craft-shot-size",
+      "lexicalDiversity": 0.0167,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 2.27,
+      "concepts": 240,
+      "family": "action-delivery",
+      "lexicalDiversity": 0.0643,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.6,
+      "concepts": 200,
+      "family": "day-dress-textiles",
+      "lexicalDiversity": 0.0406,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.79,
+      "concepts": 200,
+      "family": "everyday-accessory-surfaces",
+      "lexicalDiversity": 0.0403,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 15.52,
+      "concepts": 200,
+      "family": "fantasy-complete-outfits",
+      "lexicalDiversity": 0.05,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 7,
+      "concepts": 200,
+      "family": "fantasy-humanoid-vocations",
+      "lexicalDiversity": 0.0314,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.85,
+      "concepts": 200,
+      "family": "footwear-material-finishes",
+      "lexicalDiversity": 0.0387,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 12.03,
+      "concepts": 200,
+      "family": "formal-dress-details",
+      "lexicalDiversity": 0.0353,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 8.6,
+      "concepts": 200,
+      "family": "garment-material-library",
+      "lexicalDiversity": 0.0436,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.64,
+      "concepts": 200,
+      "family": "garment-silhouette-construction",
+      "lexicalDiversity": 0.0338,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 8.95,
+      "concepts": 200,
+      "family": "garment-surface-treatments",
+      "lexicalDiversity": 0.0497,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.1,
+      "concepts": 200,
+      "family": "headwear-color-patterns",
+      "lexicalDiversity": 0.0405,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.46,
+      "concepts": 200,
+      "family": "hosiery-patterns",
+      "lexicalDiversity": 0.0406,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.34,
+      "concepts": 200,
+      "family": "jewelry-material-motifs",
+      "lexicalDiversity": 0.0419,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.84,
+      "concepts": 200,
+      "family": "knit-top-construction",
+      "lexicalDiversity": 0.0401,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 12.93,
+      "concepts": 200,
+      "family": "layered-styled-complete-outfits",
+      "lexicalDiversity": 0.0452,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.79,
+      "concepts": 200,
+      "family": "light-outerwear-details",
+      "lexicalDiversity": 0.0417,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.46,
+      "concepts": 200,
+      "family": "practical-armor-sets",
+      "lexicalDiversity": 0.055,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 13.17,
+      "concepts": 200,
+      "family": "professional-work-uniforms",
+      "lexicalDiversity": 0.0425,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.59,
+      "concepts": 200,
+      "family": "protective-weather-outerwear",
+      "lexicalDiversity": 0.0393,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 14.49,
+      "concepts": 200,
+      "family": "respectful-cultural-inspired-ensembles",
+      "lexicalDiversity": 0.0442,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 16.39,
+      "concepts": 200,
+      "family": "science-fiction-complete-outfits",
+      "lexicalDiversity": 0.0427,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.04,
+      "concepts": 200,
+      "family": "skirt-materials",
+      "lexicalDiversity": 0.0398,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.3,
+      "concepts": 200,
+      "family": "tailored-complete-suits",
+      "lexicalDiversity": 0.0381,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.7,
+      "concepts": 200,
+      "family": "trouser-materials",
+      "lexicalDiversity": 0.0393,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.3,
+      "concepts": 200,
+      "family": "weather-adapted-complete-outfits",
+      "lexicalDiversity": 0.0575,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.85,
+      "concepts": 200,
+      "family": "woven-top-details",
+      "lexicalDiversity": 0.0406,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 3.06,
+      "concepts": 192,
+      "family": "expression-nuance",
+      "lexicalDiversity": 0.0578,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 2.25,
+      "concepts": 192,
+      "family": "lighting-quality",
+      "lexicalDiversity": 0.0694,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 2.29,
+      "concepts": 192,
+      "family": "pose-structure",
+      "lexicalDiversity": 0.0727,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 2.83,
+      "concepts": 192,
+      "family": "style-treatment",
+      "lexicalDiversity": 0.0662,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.92,
+      "concepts": 160,
+      "family": "adult-face-shape-nose",
+      "lexicalDiversity": 0.037,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 3.44,
+      "concepts": 160,
+      "family": "environment-atmosphere",
+      "lexicalDiversity": 0.1491,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 4.19,
+      "concepts": 160,
+      "family": "palette-treatment",
+      "lexicalDiversity": 0.0582,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 3.67,
+      "concepts": 150,
+      "family": "camera-intent",
+      "lexicalDiversity": 0.0582,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 2.39,
+      "concepts": 150,
+      "family": "composition-intent",
+      "lexicalDiversity": 0.078,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 2.97,
+      "concepts": 150,
+      "family": "effect-treatment",
+      "lexicalDiversity": 0.0764,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 3.07,
+      "concepts": 150,
+      "family": "motif-arrangement",
+      "lexicalDiversity": 0.0587,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 13.66,
+      "concepts": 128,
+      "family": "two-consenting-adults-intimate-pose",
+      "lexicalDiversity": 0.0314,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 8.18,
+      "concepts": 120,
+      "family": "adult-eyes-brows",
+      "lexicalDiversity": 0.0367,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 7.63,
+      "concepts": 120,
+      "family": "adult-hands-fingers",
+      "lexicalDiversity": 0.035,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 8.92,
+      "concepts": 120,
+      "family": "adult-lingerie-separates",
+      "lexicalDiversity": 0.043,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 3.25,
+      "concepts": 120,
+      "family": "fantasy-anatomy",
+      "lexicalDiversity": 0.0795,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 12.04,
+      "concepts": 120,
+      "family": "fictional-adult-fantasy-intimate-wardrobe",
+      "lexicalDiversity": 0.0491,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.11,
+      "concepts": 112,
+      "family": "solo-adult-intimate-pose",
+      "lexicalDiversity": 0.0426,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.33,
+      "concepts": 112,
+      "family": "solo-adult-pleasure-expression",
+      "lexicalDiversity": 0.0458,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 2.83,
+      "concepts": 109,
+      "family": "foundation",
+      "lexicalDiversity": 0.7152,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.42,
+      "concepts": 96,
+      "family": "abstract-energy",
+      "lexicalDiversity": 0.0536,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.5,
+      "concepts": 96,
+      "family": "adult-intimate-body-adornment",
+      "lexicalDiversity": 0.0548,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.88,
+      "concepts": 96,
+      "family": "analog-artifact",
+      "lexicalDiversity": 0.0652,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.13,
+      "concepts": 96,
+      "family": "analog-photographic-process",
+      "lexicalDiversity": 0.0765,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5.58,
+      "concepts": 96,
+      "family": "animation-editorial",
+      "lexicalDiversity": 0.0858,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6,
+      "concepts": 96,
+      "family": "architectural-ornament",
+      "lexicalDiversity": 0.0712,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.32,
+      "concepts": 96,
+      "family": "atmospheric-depth",
+      "lexicalDiversity": 0.0675,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.88,
+      "concepts": 96,
+      "family": "botanical-arrangement",
+      "lexicalDiversity": 0.0621,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5.95,
+      "concepts": 96,
+      "family": "botanical-bloom",
+      "lexicalDiversity": 0.056,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6,
+      "concepts": 96,
+      "family": "celebration-scatter",
+      "lexicalDiversity": 0.0712,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5.92,
+      "concepts": 96,
+      "family": "celestial-arrangement",
+      "lexicalDiversity": 0.0739,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.25,
+      "concepts": 96,
+      "family": "cinematic-dual-tone",
+      "lexicalDiversity": 0.045,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.15,
+      "concepts": 96,
+      "family": "coastal-weather",
+      "lexicalDiversity": 0.0661,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 4.29,
+      "concepts": 96,
+      "family": "color-precision",
+      "lexicalDiversity": 0.0607,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5.88,
+      "concepts": 96,
+      "family": "decorative-surface",
+      "lexicalDiversity": 0.0798,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5.04,
+      "concepts": 96,
+      "family": "depth-separation",
+      "lexicalDiversity": 0.064,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5.13,
+      "concepts": 96,
+      "family": "detail-hierarchy",
+      "lexicalDiversity": 0.0671,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.46,
+      "concepts": 96,
+      "family": "directional-flow",
+      "lexicalDiversity": 0.0435,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 7.17,
+      "concepts": 96,
+      "family": "distortion-region",
+      "lexicalDiversity": 0.0741,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.08,
+      "concepts": 96,
+      "family": "drafted-visual",
+      "lexicalDiversity": 0.0805,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.25,
+      "concepts": 96,
+      "family": "emissive-surface",
+      "lexicalDiversity": 0.0717,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5.32,
+      "concepts": 96,
+      "family": "ensemble-staging",
+      "lexicalDiversity": 0.0548,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 12.21,
+      "concepts": 96,
+      "family": "fictional-sapient-adult-fantasy-anatomy",
+      "lexicalDiversity": 0.0444,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5.04,
+      "concepts": 96,
+      "family": "finish-discipline",
+      "lexicalDiversity": 0.0558,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.28,
+      "concepts": 96,
+      "family": "folk-craft-symbol",
+      "lexicalDiversity": 0.0713,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5.91,
+      "concepts": 96,
+      "family": "gemstone-metal",
+      "lexicalDiversity": 0.0635,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6,
+      "concepts": 96,
+      "family": "geometric-formation",
+      "lexicalDiversity": 0.0729,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 4.2,
+      "concepts": 96,
+      "family": "ink-illustration",
+      "lexicalDiversity": 0.0769,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.04,
+      "concepts": 96,
+      "family": "landscape-depth",
+      "lexicalDiversity": 0.0603,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 4.29,
+      "concepts": 96,
+      "family": "lighting-coherence",
+      "lexicalDiversity": 0.0752,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5,
+      "concepts": 96,
+      "family": "line-integrity",
+      "lexicalDiversity": 0.0604,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.73,
+      "concepts": 96,
+      "family": "maritime-emblem",
+      "lexicalDiversity": 0.0588,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.11,
+      "concepts": 96,
+      "family": "mechanical-component",
+      "lexicalDiversity": 0.0716,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.9,
+      "concepts": 96,
+      "family": "mineral-earth",
+      "lexicalDiversity": 0.0589,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5,
+      "concepts": 96,
+      "family": "monochrome-range",
+      "lexicalDiversity": 0.0625,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 4.67,
+      "concepts": 96,
+      "family": "motion-readability",
+      "lexicalDiversity": 0.0625,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.6,
+      "concepts": 96,
+      "family": "negative-space-field",
+      "lexicalDiversity": 0.0568,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.7,
+      "concepts": 96,
+      "family": "neon-night",
+      "lexicalDiversity": 0.0575,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.75,
+      "concepts": 96,
+      "family": "optical-placement",
+      "lexicalDiversity": 0.0694,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5.75,
+      "concepts": 96,
+      "family": "paint-handling",
+      "lexicalDiversity": 0.0797,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 4.05,
+      "concepts": 96,
+      "family": "panel-linkage",
+      "lexicalDiversity": 0.09,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5.24,
+      "concepts": 96,
+      "family": "paper-craft",
+      "lexicalDiversity": 0.0815,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.5,
+      "concepts": 96,
+      "family": "particle-motion",
+      "lexicalDiversity": 0.0689,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5.25,
+      "concepts": 96,
+      "family": "portrait-balance",
+      "lexicalDiversity": 0.0734,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.38,
+      "concepts": 96,
+      "family": "print-ink-paper",
+      "lexicalDiversity": 0.0458,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 4.83,
+      "concepts": 96,
+      "family": "printmaking-process",
+      "lexicalDiversity": 0.0776,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5.84,
+      "concepts": 96,
+      "family": "radial-anchor",
+      "lexicalDiversity": 0.066,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.17,
+      "concepts": 96,
+      "family": "retro-pixel-system",
+      "lexicalDiversity": 0.0676,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.79,
+      "concepts": 96,
+      "family": "reveal-transition",
+      "lexicalDiversity": 0.0598,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 7.89,
+      "concepts": 96,
+      "family": "scale-contrast",
+      "lexicalDiversity": 0.0594,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.08,
+      "concepts": 96,
+      "family": "scholarly-cartographic",
+      "lexicalDiversity": 0.0736,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.74,
+      "concepts": 96,
+      "family": "seasonal-highlight",
+      "lexicalDiversity": 0.0649,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.83,
+      "concepts": 96,
+      "family": "soft-color-accent",
+      "lexicalDiversity": 0.0503,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5.38,
+      "concepts": 96,
+      "family": "still-life-view",
+      "lexicalDiversity": 0.0678,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5.92,
+      "concepts": 96,
+      "family": "surface-rendering",
+      "lexicalDiversity": 0.0722,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 4.82,
+      "concepts": 96,
+      "family": "symmetry-variation",
+      "lexicalDiversity": 0.0713,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5.17,
+      "concepts": 96,
+      "family": "textile-illustration",
+      "lexicalDiversity": 0.0827,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 4.75,
+      "concepts": 96,
+      "family": "texture-fidelity",
+      "lexicalDiversity": 0.068,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 4.42,
+      "concepts": 96,
+      "family": "tonal-control",
+      "lexicalDiversity": 0.0637,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.42,
+      "concepts": 96,
+      "family": "two-adult-oral-sex-interaction",
+      "lexicalDiversity": 0.058,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.71,
+      "concepts": 96,
+      "family": "water-lighting",
+      "lexicalDiversity": 0.0621,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.13,
+      "concepts": 96,
+      "family": "weather-flow",
+      "lexicalDiversity": 0.068,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6.13,
+      "concepts": 96,
+      "family": "weather-mark",
+      "lexicalDiversity": 0.0714,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 8.5,
+      "concepts": 80,
+      "family": "adult-body-builds",
+      "lexicalDiversity": 0.0471,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 8.13,
+      "concepts": 80,
+      "family": "adult-mouth-lower-face",
+      "lexicalDiversity": 0.0523,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 7.65,
+      "concepts": 80,
+      "family": "adult-origin-archetypes",
+      "lexicalDiversity": 0.0556,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.96,
+      "concepts": 80,
+      "family": "amusement-playfulness-expressions",
+      "lexicalDiversity": 0.0678,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.24,
+      "concepts": 80,
+      "family": "anger-frustration-expressions",
+      "lexicalDiversity": 0.0696,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.6,
+      "concepts": 80,
+      "family": "bashful-social-nuance-expressions",
+      "lexicalDiversity": 0.0684,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.1,
+      "concepts": 80,
+      "family": "body-language-silhouette-poses",
+      "lexicalDiversity": 0.0597,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.9,
+      "concepts": 80,
+      "family": "chair-seated-poses",
+      "lexicalDiversity": 0.0494,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11,
+      "concepts": 80,
+      "family": "concentration-curiosity-expressions",
+      "lexicalDiversity": 0.0682,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 12.69,
+      "concepts": 80,
+      "family": "confident-standing-poses",
+      "lexicalDiversity": 0.0631,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.4,
+      "concepts": 80,
+      "family": "crouching-poses",
+      "lexicalDiversity": 0.0636,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.93,
+      "concepts": 80,
+      "family": "determination-courage-expressions",
+      "lexicalDiversity": 0.0629,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.6,
+      "concepts": 80,
+      "family": "explicit-adult-breast-anatomy",
+      "lexicalDiversity": 0.0443,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.95,
+      "concepts": 80,
+      "family": "explicit-adult-hip-buttock-anatomy",
+      "lexicalDiversity": 0.0491,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.07,
+      "concepts": 80,
+      "family": "explicit-adult-penis-anatomy",
+      "lexicalDiversity": 0.0565,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.04,
+      "concepts": 80,
+      "family": "explicit-adult-torso-body-hair",
+      "lexicalDiversity": 0.043,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.47,
+      "concepts": 80,
+      "family": "explicit-adult-vulva-anatomy",
+      "lexicalDiversity": 0.0418,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.74,
+      "concepts": 80,
+      "family": "fear-surprise-expressions",
+      "lexicalDiversity": 0.064,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 12.69,
+      "concepts": 80,
+      "family": "floor-seated-poses",
+      "lexicalDiversity": 0.0502,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.36,
+      "concepts": 80,
+      "family": "kneeling-poses",
+      "lexicalDiversity": 0.0594,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.72,
+      "concepts": 80,
+      "family": "leaning-poses",
+      "lexicalDiversity": 0.0458,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 13.8,
+      "concepts": 80,
+      "family": "magic-ready-poses",
+      "lexicalDiversity": 0.0616,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.4,
+      "concepts": 80,
+      "family": "neutral-standing-poses",
+      "lexicalDiversity": 0.0614,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.88,
+      "concepts": 80,
+      "family": "sadness-grief-expressions",
+      "lexicalDiversity": 0.0658,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.74,
+      "concepts": 80,
+      "family": "serenity-contentment-expressions",
+      "lexicalDiversity": 0.0655,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.28,
+      "concepts": 80,
+      "family": "sfw-reclining-poses",
+      "lexicalDiversity": 0.0488,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.13,
+      "concepts": 80,
+      "family": "skepticism-doubt-expressions",
+      "lexicalDiversity": 0.0663,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.61,
+      "concepts": 80,
+      "family": "static-balance-poses",
+      "lexicalDiversity": 0.0518,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 14.03,
+      "concepts": 80,
+      "family": "unarmed-combat-ready-poses",
+      "lexicalDiversity": 0.0508,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 13.3,
+      "concepts": 80,
+      "family": "upper-body-portrait-poses",
+      "lexicalDiversity": 0.047,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.94,
+      "concepts": 80,
+      "family": "warmth-joy-expressions",
+      "lexicalDiversity": 0.0591,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.25,
+      "concepts": 80,
+      "family": "worry-anxiety-expressions",
+      "lexicalDiversity": 0.0695,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 13.08,
+      "concepts": 72,
+      "family": "fictional-sapient-adult-fantasy-interaction",
+      "lexicalDiversity": 0.0372,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 12.25,
+      "concepts": 72,
+      "family": "solo-adult-insertable-toy-use",
+      "lexicalDiversity": 0.0533,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 12.42,
+      "concepts": 72,
+      "family": "solo-adult-penis-masturbation",
+      "lexicalDiversity": 0.0481,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.08,
+      "concepts": 72,
+      "family": "solo-adult-vulva-masturbation",
+      "lexicalDiversity": 0.0627,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.14,
+      "concepts": 72,
+      "family": "two-adult-anal-interaction",
+      "lexicalDiversity": 0.0726,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.79,
+      "concepts": 72,
+      "family": "two-adult-mutual-consent-expression",
+      "lexicalDiversity": 0.0742,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.5,
+      "concepts": 72,
+      "family": "two-adult-negotiated-sensory-restraint",
+      "lexicalDiversity": 0.0994,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.49,
+      "concepts": 72,
+      "family": "two-adult-penis-vulva-interaction",
+      "lexicalDiversity": 0.0596,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.94,
+      "concepts": 72,
+      "family": "two-adult-toy-assisted-interaction",
+      "lexicalDiversity": 0.0782,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.08,
+      "concepts": 72,
+      "family": "two-adult-vulva-focused-interaction",
+      "lexicalDiversity": 0.0714,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.27,
+      "concepts": 60,
+      "family": "acrobatic-movement-actions",
+      "lexicalDiversity": 0.0863,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.03,
+      "concepts": 60,
+      "family": "consenting-adult-group-interaction",
+      "lexicalDiversity": 0.0831,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 12.13,
+      "concepts": 60,
+      "family": "consenting-adult-group-pose",
+      "lexicalDiversity": 0.0646,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.88,
+      "concepts": 60,
+      "family": "dance-sport-actions",
+      "lexicalDiversity": 0.0766,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.53,
+      "concepts": 60,
+      "family": "elemental-magic-actions",
+      "lexicalDiversity": 0.0902,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.08,
+      "concepts": 60,
+      "family": "everyday-home-garden-actions",
+      "lexicalDiversity": 0.0722,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.42,
+      "concepts": 60,
+      "family": "everyday-kitchen-actions",
+      "lexicalDiversity": 0.0704,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.98,
+      "concepts": 60,
+      "family": "everyday-personal-leisure-actions",
+      "lexicalDiversity": 0.0851,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 12.55,
+      "concepts": 60,
+      "family": "everyday-work-craft-actions",
+      "lexicalDiversity": 0.0797,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.12,
+      "concepts": 60,
+      "family": "explicit-adult-intimacy-camera",
+      "lexicalDiversity": 0.0615,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.68,
+      "concepts": 60,
+      "family": "explicit-adult-intimacy-composition",
+      "lexicalDiversity": 0.0764,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 8.63,
+      "concepts": 60,
+      "family": "ground-locomotion-actions",
+      "lexicalDiversity": 0.1004,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 12.42,
+      "concepts": 60,
+      "family": "illusion-conjuration-magic-actions",
+      "lexicalDiversity": 0.0725,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 12.5,
+      "concepts": 60,
+      "family": "polearm-combat-actions",
+      "lexicalDiversity": 0.0773,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 13.05,
+      "concepts": 60,
+      "family": "private-adult-fantasy-intimacy-environment",
+      "lexicalDiversity": 0.0702,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.77,
+      "concepts": 60,
+      "family": "private-adult-intimacy-environment",
+      "lexicalDiversity": 0.0635,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 13.27,
+      "concepts": 60,
+      "family": "protective-restorative-magic-actions",
+      "lexicalDiversity": 0.0779,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.57,
+      "concepts": 60,
+      "family": "ranged-combat-actions",
+      "lexicalDiversity": 0.0801,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.78,
+      "concepts": 60,
+      "family": "sword-combat-actions",
+      "lexicalDiversity": 0.0801,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.55,
+      "concepts": 60,
+      "family": "terrain-traversal-actions",
+      "lexicalDiversity": 0.1012,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.37,
+      "concepts": 60,
+      "family": "unarmed-combat-actions",
+      "lexicalDiversity": 0.0836,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.98,
+      "concepts": 60,
+      "family": "utility-magic-actions",
+      "lexicalDiversity": 0.0926,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.98,
+      "concepts": 48,
+      "family": "explicit-adult-fantasy-intimacy-motif",
+      "lexicalDiversity": 0.08,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.65,
+      "concepts": 48,
+      "family": "explicit-adult-intimacy-effect",
+      "lexicalDiversity": 0.0966,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.3,
+      "concepts": 40,
+      "family": "community-crowd-interactions",
+      "lexicalDiversity": 0.1456,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11.97,
+      "concepts": 40,
+      "family": "cooperative-adventure-interactions",
+      "lexicalDiversity": 0.1148,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.7,
+      "concepts": 40,
+      "family": "family-friend-interactions",
+      "lexicalDiversity": 0.1145,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.15,
+      "concepts": 40,
+      "family": "fantasy-ears",
+      "lexicalDiversity": 0.0739,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 8.95,
+      "concepts": 40,
+      "family": "fantasy-eyes",
+      "lexicalDiversity": 0.0782,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.9,
+      "concepts": 40,
+      "family": "fantasy-horns",
+      "lexicalDiversity": 0.0833,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 8.65,
+      "concepts": 40,
+      "family": "fantasy-skin",
+      "lexicalDiversity": 0.0954,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.93,
+      "concepts": 40,
+      "family": "group-planning-interactions",
+      "lexicalDiversity": 0.1184,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 12.4,
+      "concepts": 40,
+      "family": "negotiation-deescalation-interactions",
+      "lexicalDiversity": 0.125,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.47,
+      "concepts": 40,
+      "family": "paired-movement-interactions",
+      "lexicalDiversity": 0.1217,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 12.13,
+      "concepts": 40,
+      "family": "partner-magic-interactions",
+      "lexicalDiversity": 0.1196,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 12.2,
+      "concepts": 40,
+      "family": "rescue-assistance-interactions",
+      "lexicalDiversity": 0.1127,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.7,
+      "concepts": 40,
+      "family": "service-exchange-interactions",
+      "lexicalDiversity": 0.1332,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 10.93,
+      "concepts": 40,
+      "family": "social-conversation-interactions",
+      "lexicalDiversity": 0.1053,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 12.1,
+      "concepts": 40,
+      "family": "support-care-interactions",
+      "lexicalDiversity": 0.1054,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 9.93,
+      "concepts": 40,
+      "family": "team-competition-interactions",
+      "lexicalDiversity": 0.1259,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 12.18,
+      "concepts": 40,
+      "family": "training-sparring-interactions",
+      "lexicalDiversity": 0.117,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 11,
+      "concepts": 40,
+      "family": "workplace-collaboration-interactions",
+      "lexicalDiversity": 0.1136,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 4.5,
+      "concepts": 34,
+      "family": "installed-lora",
+      "lexicalDiversity": 0.6013,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 3.13,
+      "concepts": 24,
+      "family": "adult-pose",
+      "lexicalDiversity": 0.1733,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 3.07,
+      "concepts": 15,
+      "family": "adult-interaction",
+      "lexicalDiversity": 0.5217,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 4.27,
+      "concepts": 11,
+      "family": "graphic-horror",
+      "lexicalDiversity": 0.8723,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6,
+      "concepts": 5,
+      "family": "curated-composition",
+      "lexicalDiversity": 1,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5.2,
+      "concepts": 5,
+      "family": "curated-effect",
+      "lexicalDiversity": 1,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5.4,
+      "concepts": 5,
+      "family": "curated-motif",
+      "lexicalDiversity": 0.963,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6,
+      "concepts": 5,
+      "family": "curated-palette",
+      "lexicalDiversity": 0.8333,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 3.6,
+      "concepts": 5,
+      "family": "curated-quality",
+      "lexicalDiversity": 1,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 3.4,
+      "concepts": 5,
+      "family": "curated-style",
+      "lexicalDiversity": 1,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 3,
+      "concepts": 5,
+      "family": "eye-colour",
+      "lexicalDiversity": 0.7333,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 2.6,
+      "concepts": 5,
+      "family": "hair-colour",
+      "lexicalDiversity": 0.6923,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 2.6,
+      "concepts": 5,
+      "family": "hair-style",
+      "lexicalDiversity": 0.9231,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 2,
+      "concepts": 3,
+      "family": "beastman-feline",
+      "lexicalDiversity": 0.6667,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 2.67,
+      "concepts": 3,
+      "family": "beastman-leporine",
+      "lexicalDiversity": 0.875,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 3,
+      "concepts": 3,
+      "family": "eye-shape",
+      "lexicalDiversity": 0.7778,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 1,
+      "concepts": 3,
+      "family": "wai-illustrious-style-token",
+      "lexicalDiversity": 1,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 2,
+      "concepts": 2,
+      "family": "beastman-lupine",
+      "lexicalDiversity": 0.75,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 2,
+      "concepts": 2,
+      "family": "beastman-vulpine",
+      "lexicalDiversity": 0.75,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 3.5,
+      "concepts": 2,
+      "family": "eye-finish",
+      "lexicalDiversity": 1,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 3,
+      "concepts": 2,
+      "family": "eye-pupils",
+      "lexicalDiversity": 0.8333,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 6,
+      "concepts": 2,
+      "family": "wardrobe-scope",
+      "lexicalDiversity": 0.8333,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 2,
+      "concepts": 1,
+      "family": "beastman-shared",
+      "lexicalDiversity": 1,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 4,
+      "concepts": 1,
+      "family": "bunny-costume",
+      "lexicalDiversity": 1,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 2,
+      "concepts": 1,
+      "family": "eye-sclera",
+      "lexicalDiversity": 1,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 7,
+      "concepts": 1,
+      "family": "japanese-domestic",
+      "lexicalDiversity": 1,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5,
+      "concepts": 1,
+      "family": "modern-street",
+      "lexicalDiversity": 1,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 3,
+      "concepts": 1,
+      "family": "studio",
+      "lexicalDiversity": 1,
+      "promptUniqueness": 1
+    },
+    {
+      "averagePromptTokens": 5,
+      "concepts": 1,
+      "family": "urban-night",
+      "lexicalDiversity": 1,
+      "promptUniqueness": 1
+    }
+  ],
+  "ratios": {
+    "aliasCoverage": 1,
+    "canonicalPromptUniqueness": 0.9988,
+    "completeRequiredRecipeSlots": 1,
+    "provenanceCoverage": 0.9958,
+    "structurallyValid": 1
+  },
+  "risks": [],
+  "schemaVersion": 1,
+  "score": 99.9
+}

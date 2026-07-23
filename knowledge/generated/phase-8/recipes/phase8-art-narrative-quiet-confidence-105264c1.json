@@ -1,0 +1,1904 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.narrative.quiet-confidence",
+  "fingerprint": "c82f66be77ec7757e416556760806a4b2c22ff29d62d0053390519c86b759b83",
+  "recipes": [
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with delicate color accents style, waist-up portrait with left-weighted balance composition, teal shadows with coral highlights cinematic palette, golden-hour backlight 0e796418790b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.0e796418790b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-foreground-framed-composition-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-left-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-foreground-street-furniture-lived-in-urban-atm"
+        ],
+        "expression": [
+          "curated.expression.openly-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-delicate-color-accents-style"
+        ]
+      },
+      "name": "Quiet Confidence 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with delicate color accents style, waist-up portrait with left-weighted balance composition, teal shadows with coral highlights cinematic palette, golden-hour backlight 0e796418790b"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with soft atmospheric backgrounds style, waist-up portrait with off-axis tension composition, indigo shadows with pearl highlights cinematic palette, golden-hour backlight 20b098f8fd61"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.20b098f8fd61",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-foreground-framed-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-crossing-traffic-lines-cinematic-metropolitan-"
+        ],
+        "expression": [
+          "curated.expression.barely-restrained-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-shadows-with-pearl-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Quiet Confidence 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with soft atmospheric backgrounds style, waist-up portrait with off-axis tension composition, indigo shadows with pearl highlights cinematic palette, golden-hour backlight 20b098f8fd61"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with soft atmospheric backgrounds style, waist-up portrait with mirrored side balance composition, teal shadows with coral highlights cinematic palette, golden-hour backlight 31a42b974f55"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.31a42b974f55",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-foreground-framed-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-mirrored-side-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-overhead-infrastructure-lived-in-urban-atmosph"
+        ],
+        "expression": [
+          "curated.expression.gently-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Quiet Confidence 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with soft atmospheric backgrounds style, waist-up portrait with mirrored side balance composition, teal shadows with coral highlights cinematic palette, golden-hour backlight 31a42b974f55"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with flat painted shadows style, waist-up portrait with centered balance composition, olive shadows with rose highlights cinematic palette, golden-hour backlight 353c1fc0f48b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.353c1fc0f48b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-frame-within-frame-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-centered-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-layered-street-frontage-orderly-architectural-"
+        ],
+        "expression": [
+          "curated.expression.dreamily-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-flat-painted-shadows-style"
+        ]
+      },
+      "name": "Quiet Confidence 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with flat painted shadows style, waist-up portrait with centered balance composition, olive shadows with rose highlights cinematic palette, golden-hour backlight 353c1fc0f48b"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with clean key poses style, waist-up portrait with right-weighted balance composition, forest-green shadows with coral highlights cinematic palette, golden-hour backlight 361c40b6ab50"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.361c40b6ab50",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-left-weighted-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-right-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-crossing-traffic-lines-orderly-architectural-a"
+        ],
+        "expression": [
+          "curated.expression.fearlessly-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-green-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-clean-key-poses-style"
+        ]
+      },
+      "name": "Quiet Confidence 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with clean key poses style, waist-up portrait with right-weighted balance composition, forest-green shadows with coral highlights cinematic palette, golden-hour backlight 361c40b6ab50"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with soft atmospheric backgrounds style, waist-up portrait with centered balance composition, plum shadows with cyan highlights cinematic palette, golden-hour backlight 38bee72ecb83"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.38bee72ecb83",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-centered-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-centered-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-pedestrian-scale-detail-lived-in-urban-atmosph"
+        ],
+        "expression": [
+          "curated.expression.subtly-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-shadows-with-cyan-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Quiet Confidence 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with soft atmospheric backgrounds style, waist-up portrait with centered balance composition, plum shadows with cyan highlights cinematic palette, golden-hour backlight 38bee72ecb83"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with bold shape language style, waist-up portrait with lower visual anchor composition, teal shadows with coral highlights cinematic palette, golden-hour backlight 504e1fd054e4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.504e1fd054e4",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-centered-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-lower-visual-anchor-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-pedestrian-scale-detail-orderly-architectural-"
+        ],
+        "expression": [
+          "curated.expression.solemnly-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-bold-shape-language-style"
+        ]
+      },
+      "name": "Quiet Confidence 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with bold shape language style, waist-up portrait with lower visual anchor composition, teal shadows with coral highlights cinematic palette, golden-hour backlight 504e1fd054e4"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with cinematic layout design style, waist-up portrait with mirrored side balance composition, teal shadows with mint highlights cinematic palette, golden-hour backlight 63cf1ee049ae"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.63cf1ee049ae",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-layered-composition-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-mirrored-side-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-a-long-urban-sightline-orderly-architectural-a"
+        ],
+        "expression": [
+          "curated.expression.gently-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-cinematic-layout-design-style"
+        ]
+      },
+      "name": "Quiet Confidence 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with cinematic layout design style, waist-up portrait with mirrored side balance composition, teal shadows with mint highlights cinematic palette, golden-hour backlight 63cf1ee049ae"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with clean key poses style, waist-up portrait with diagonal counterweight composition, black-cherry shadows with rose highlights cinematic palette, golden-hour backlight 72aa122697d7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.72aa122697d7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-frame-within-frame-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-diagonal-counterweight-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-foreground-street-furniture-cinematic-metropol"
+        ],
+        "expression": [
+          "curated.expression.openly-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.black-cherry-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-clean-key-poses-style"
+        ]
+      },
+      "name": "Quiet Confidence 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with clean key poses style, waist-up portrait with diagonal counterweight composition, black-cherry shadows with rose highlights cinematic palette, golden-hour backlight 72aa122697d7"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with cinematic layout design style, waist-up portrait with lower visual anchor composition, teal shadows with lemon highlights cinematic palette, golden-hour backlight 75e322cf5a51"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.75e322cf5a51",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-left-weighted-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-lower-visual-anchor-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-reflective-street-surfaces-cinematic-metropoli"
+        ],
+        "expression": [
+          "curated.expression.nervously-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-lemon-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-cinematic-layout-design-style"
+        ]
+      },
+      "name": "Quiet Confidence 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with cinematic layout design style, waist-up portrait with lower visual anchor composition, teal shadows with lemon highlights cinematic palette, golden-hour backlight 75e322cf5a51"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with soft atmospheric backgrounds style, waist-up portrait with right-weighted balance composition, cobalt shadows with mint highlights cinematic palette, golden-hour backlight 7fda9bc371a3"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.7fda9bc371a3",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-foreground-framed-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-right-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-foreground-street-furniture-cinematic-metropol"
+        ],
+        "expression": [
+          "curated.expression.quietly-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Quiet Confidence 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with soft atmospheric backgrounds style, waist-up portrait with right-weighted balance composition, cobalt shadows with mint highlights cinematic palette, golden-hour backlight 7fda9bc371a3"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with flat painted shadows style, waist-up portrait with centered balance composition, plum shadows with lemon highlights cinematic palette, golden-hour backlight 9f0164ceb3af"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.9f0164ceb3af",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-right-weighted-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-centered-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-foreground-street-furniture-cinematic-metropol"
+        ],
+        "expression": [
+          "curated.expression.quietly-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-shadows-with-lemon-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-flat-painted-shadows-style"
+        ]
+      },
+      "name": "Quiet Confidence 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with flat painted shadows style, waist-up portrait with centered balance composition, plum shadows with lemon highlights cinematic palette, golden-hour backlight 9f0164ceb3af"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with flat painted shadows style, waist-up portrait with centered balance composition, charcoal shadows with rose highlights cinematic palette, golden-hour backlight ac3d9b8057ea"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.ac3d9b8057ea",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-negative-space-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-centered-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-a-framed-intersection-orderly-architectural-at"
+        ],
+        "expression": [
+          "curated.expression.painfully-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-flat-painted-shadows-style"
+        ]
+      },
+      "name": "Quiet Confidence 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with flat painted shadows style, waist-up portrait with centered balance composition, charcoal shadows with rose highlights cinematic palette, golden-hour backlight ac3d9b8057ea"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with delicate color accents style, waist-up portrait with mirrored side balance composition, teal shadows with copper highlights cinematic palette, golden-hour backlight ad7825d75831"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.ad7825d75831",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-foreground-framed-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-mirrored-side-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-a-distant-skyline-backdrop-orderly-architectur"
+        ],
+        "expression": [
+          "curated.expression.fiercely-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-delicate-color-accents-style"
+        ]
+      },
+      "name": "Quiet Confidence 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with delicate color accents style, waist-up portrait with mirrored side balance composition, teal shadows with copper highlights cinematic palette, golden-hour backlight ad7825d75831"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with rough expressive lines style, waist-up portrait with left-weighted balance composition, indigo shadows with copper highlights cinematic palette, golden-hour backlight b4a000fa1fec"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.b4a000fa1fec",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-left-weighted-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-left-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-a-framed-intersection-cinematic-metropolitan-a"
+        ],
+        "expression": [
+          "curated.expression.painfully-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-rough-expressive-lines-style"
+        ]
+      },
+      "name": "Quiet Confidence 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with rough expressive lines style, waist-up portrait with left-weighted balance composition, indigo shadows with copper highlights cinematic palette, golden-hour backlight b4a000fa1fec"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with cinematic layout design style, waist-up portrait with off-axis tension composition, charcoal shadows with copper highlights cinematic palette, golden-hour backlight b945ac2a249b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.b945ac2a249b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-negative-space-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-crossing-traffic-lines-cinematic-metropolitan-"
+        ],
+        "expression": [
+          "curated.expression.gently-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-cinematic-layout-design-style"
+        ]
+      },
+      "name": "Quiet Confidence 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with cinematic layout design style, waist-up portrait with off-axis tension composition, charcoal shadows with copper highlights cinematic palette, golden-hour backlight b945ac2a249b"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with flat painted shadows style, waist-up portrait with centered balance composition, plum shadows with mint highlights cinematic palette, golden-hour backlight baf7986bd91a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.baf7986bd91a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-layered-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-centered-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-a-distant-skyline-backdrop-orderly-architectur"
+        ],
+        "expression": [
+          "curated.expression.nervously-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-flat-painted-shadows-style"
+        ]
+      },
+      "name": "Quiet Confidence 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with flat painted shadows style, waist-up portrait with centered balance composition, plum shadows with mint highlights cinematic palette, golden-hour backlight baf7986bd91a"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with handmade texture overlays style, waist-up portrait with centered balance composition, black-cherry shadows with rose highlights cinematic palette, golden-hour backlight c17a08fb8458"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.c17a08fb8458",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-left-weighted-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-centered-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-a-distant-skyline-backdrop-orderly-architectur"
+        ],
+        "expression": [
+          "curated.expression.subtly-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.black-cherry-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-handmade-texture-overlays-style"
+        ]
+      },
+      "name": "Quiet Confidence 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with handmade texture overlays style, waist-up portrait with centered balance composition, black-cherry shadows with rose highlights cinematic palette, golden-hour backlight c17a08fb8458"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with bold shape language style, waist-up portrait with diagonal counterweight composition, charcoal shadows with mint highlights cinematic palette, golden-hour backlight cda85c945d3a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.cda85c945d3a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-foreground-framed-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-diagonal-counterweight-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-a-framed-intersection-cinematic-metropolitan-a"
+        ],
+        "expression": [
+          "curated.expression.proudly-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-bold-shape-language-style"
+        ]
+      },
+      "name": "Quiet Confidence 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with bold shape language style, waist-up portrait with diagonal counterweight composition, charcoal shadows with mint highlights cinematic palette, golden-hour backlight cda85c945d3a"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with clean key poses style, waist-up portrait with off-axis tension composition, cobalt shadows with amber highlights cinematic palette, golden-hour backlight db961726f705"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.db961726f705",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-layered-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-layered-street-frontage-orderly-architectural-"
+        ],
+        "expression": [
+          "curated.expression.proudly-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-shadows-with-amber-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-clean-key-poses-style"
+        ]
+      },
+      "name": "Quiet Confidence 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with clean key poses style, waist-up portrait with off-axis tension composition, cobalt shadows with amber highlights cinematic palette, golden-hour backlight db961726f705"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with soft atmospheric backgrounds style, waist-up portrait with upper negative space composition, violet shadows with mint highlights cinematic palette, golden-hour backlight e1bc70721c15"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.e1bc70721c15",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-layered-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-upper-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-a-long-urban-sightline-lived-in-urban-atmosphe"
+        ],
+        "expression": [
+          "curated.expression.fiercely-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Quiet Confidence 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with soft atmospheric backgrounds style, waist-up portrait with upper negative space composition, violet shadows with mint highlights cinematic palette, golden-hour backlight e1bc70721c15"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with cinematic layout design style, waist-up portrait with off-axis tension composition, burgundy shadows with cyan highlights cinematic palette, golden-hour backlight ec307f6e2f36"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.ec307f6e2f36",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-foreground-framed-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-foreground-street-furniture-orderly-architectu"
+        ],
+        "expression": [
+          "curated.expression.barely-restrained-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-shadows-with-cyan-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-cinematic-layout-design-style"
+        ]
+      },
+      "name": "Quiet Confidence 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with cinematic layout design style, waist-up portrait with off-axis tension composition, burgundy shadows with cyan highlights cinematic palette, golden-hour backlight ec307f6e2f36"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with flat painted shadows style, waist-up portrait with right-weighted balance composition, olive shadows with mint highlights cinematic palette, golden-hour backlight f54ec52f6046"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.f54ec52f6046",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-negative-space-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-right-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-overhead-infrastructure-lived-in-urban-atmosph"
+        ],
+        "expression": [
+          "curated.expression.proudly-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-flat-painted-shadows-style"
+        ]
+      },
+      "name": "Quiet Confidence 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with flat painted shadows style, waist-up portrait with right-weighted balance composition, olive shadows with mint highlights cinematic palette, golden-hour backlight f54ec52f6046"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "quiet confidence featuring fashion editorial drawing with rough expressive lines style, waist-up portrait with mirrored side balance composition, forest-green shadows with copper highlights cinematic palette, golden-hour backlight faf0aaea08db"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.quiet-confidence",
+      "familyTriggers": [
+        "quiet confidence narrative direction",
+        "composed authority portrait",
+        "understated self-possession"
+      ],
+      "id": "phase8.art.narrative.quiet-confidence.faf0aaea08db",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-shot-frame-within-frame-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.waist-up-portrait-with-mirrored-side-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.civic-plaza-district-with-foreground-street-furniture-lived-in-urban-atm"
+        ],
+        "expression": [
+          "curated.expression.subtly-confident-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-green-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-rough-expressive-lines-style"
+        ]
+      },
+      "name": "Quiet Confidence 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.quiet-confidence",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "quietly confident gaze",
+        "balanced civic authority",
+        "restrained editorial poise"
+      ],
+      "triggers": [
+        "quiet confidence featuring fashion editorial drawing with rough expressive lines style, waist-up portrait with mirrored side balance composition, forest-green shadows with copper highlights cinematic palette, golden-hour backlight faf0aaea08db"
+      ],
+      "variantIndex": 1
+    }
+  ],
+  "schemaVersion": 2
+}

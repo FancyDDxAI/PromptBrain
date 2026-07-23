@@ -1,0 +1,1784 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.graphic.stained-glass-myth",
+  "fingerprint": "253a8692c94f04cffb4d65ba325d4a437d03585253b759e32ee3fe90e7ed620d",
+  "recipes": [
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with luminous translucent shapes decorative style, wheel hub anchoring concentric framing composition, ruby red with antique gold gemstone palette, golden-hour backlight 024a5c1b4403"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.024a5c1b4403",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-front-diagonal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wheel-hub-anchoring-concentric-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-colossal-ceremonial-arches-mysterious-storybook-"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-luminous-translucent-shapes-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with luminous translucent shapes decorative style, wheel hub anchoring concentric framing composition, ruby red with antique gold gemstone palette, golden-hour backlight 024a5c1b4403"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with crackled color planes decorative style, moon disk anchoring counterclockwise spiral flow composition, citrine yellow with bright silver gemstone palette, golden-hour backlight 03bc2bbf491f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.03bc2bbf491f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-right-offset-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.moon-disk-anchoring-counterclockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-spiraling-monumental-stairs-wonder-filled-epic-a"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.citrine-yellow-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-crackled-color-planes-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with crackled color planes decorative style, moon disk anchoring counterclockwise spiral flow composition, citrine yellow with bright silver gemstone palette, golden-hour backlight 03bc2bbf491f"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with luminous translucent shapes decorative style, sun disk anchoring clockwise spiral flow composition, sapphire blue with pewter gray gemstone palette, golden-hour backlight 062b0e8cc6ef"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.062b0e8cc6ef",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-center-axis-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.sun-disk-anchoring-clockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-impossible-suspended-bridges-wonder-filled-epic-"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sapphire-blue-with-pewter-gray-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-luminous-translucent-shapes-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with luminous translucent shapes decorative style, sun disk anchoring clockwise spiral flow composition, sapphire blue with pewter gray gemstone palette, golden-hour backlight 062b0e8cc6ef"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with crackled color planes decorative style, flower center anchoring broken-ring framing composition, emerald green with antique gold gemstone palette, golden-hour backlight 1d0a29dde93d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.1d0a29dde93d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-front-diagonal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.flower-center-anchoring-broken-ring-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-spiraling-monumental-stairs-wonder-filled-epic-a"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-green-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-crackled-color-planes-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with crackled color planes decorative style, flower center anchoring broken-ring framing composition, emerald green with antique gold gemstone palette, golden-hour backlight 1d0a29dde93d"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with layered scenic panels decorative style, arched dome anchoring broken-ring framing composition, garnet burgundy with oxidized copper gemstone palette, golden-hour backlight 2a1604309346"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.2a1604309346",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-center-axis-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.arched-dome-anchoring-broken-ring-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-layered-magical-landmarks-wonder-filled-epic-atm"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.garnet-burgundy-with-oxidized-copper-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-layered-scenic-panels-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with layered scenic panels decorative style, arched dome anchoring broken-ring framing composition, garnet burgundy with oxidized copper gemstone palette, golden-hour backlight 2a1604309346"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with layered scenic panels decorative style, lens aperture anchoring outward radial flow composition, garnet burgundy with oxidized copper gemstone palette, golden-hour backlight 3e74a98a4324"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.3e74a98a4324",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-transverse-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lens-aperture-anchoring-outward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-ornate-guardian-statues-serene-mythical-atmosphe"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.garnet-burgundy-with-oxidized-copper-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-layered-scenic-panels-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with layered scenic panels decorative style, lens aperture anchoring outward radial flow composition, garnet burgundy with oxidized copper gemstone palette, golden-hour backlight 3e74a98a4324"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with layered scenic panels decorative style, arched dome anchoring inward radial flow composition, tourmaline pink with blackened steel gemstone palette, golden-hour backlight 49ccde962939"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.49ccde962939",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-front-diagonal-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.arched-dome-anchoring-inward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-layered-magical-landmarks-serene-mythical-atmosp"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tourmaline-pink-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-layered-scenic-panels-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with layered scenic panels decorative style, arched dome anchoring inward radial flow composition, tourmaline pink with blackened steel gemstone palette, golden-hour backlight 49ccde962939"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with luminous translucent shapes decorative style, halo ring anchoring inward radial flow composition, sapphire blue with blackened steel gemstone palette, golden-hour backlight 4f36e0a8c524"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.4f36e0a8c524",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-longitudinal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.halo-ring-anchoring-inward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-layered-magical-landmarks-mysterious-storybook-a"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sapphire-blue-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-luminous-translucent-shapes-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with luminous translucent shapes decorative style, halo ring anchoring inward radial flow composition, sapphire blue with blackened steel gemstone palette, golden-hour backlight 4f36e0a8c524"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with geometric borderwork decorative style, moon disk anchoring counterclockwise spiral flow composition, moonstone gray with bright silver gemstone palette, golden-hour backlight 6009015091d0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.6009015091d0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-rear-diagonal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.moon-disk-anchoring-counterclockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-layered-magical-landmarks-wonder-filled-epic-atm"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.moonstone-gray-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-geometric-borderwork-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with geometric borderwork decorative style, moon disk anchoring counterclockwise spiral flow composition, moonstone gray with bright silver gemstone palette, golden-hour backlight 6009015091d0"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with restrained symbolic accents decorative style, lens aperture anchoring counterclockwise spiral flow composition, sapphire blue with oxidized copper gemstone palette, golden-hour backlight 61f2509cb4e5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.61f2509cb4e5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-longitudinal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lens-aperture-anchoring-counterclockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-spiraling-monumental-stairs-mysterious-storybook"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sapphire-blue-with-oxidized-copper-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-restrained-symbolic-accents-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with restrained symbolic accents decorative style, lens aperture anchoring counterclockwise spiral flow composition, sapphire blue with oxidized copper gemstone palette, golden-hour backlight 61f2509cb4e5"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with luminous translucent shapes decorative style, halo ring anchoring inward radial flow composition, moonstone gray with rose gold gemstone palette, golden-hour backlight 68adefed4844"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.68adefed4844",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-front-diagonal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.halo-ring-anchoring-inward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-glowing-botanical-accents-wonder-filled-epic-atm"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.moonstone-gray-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-luminous-translucent-shapes-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with luminous translucent shapes decorative style, halo ring anchoring inward radial flow composition, moonstone gray with rose gold gemstone palette, golden-hour backlight 68adefed4844"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with luminous translucent shapes decorative style, water ripple anchoring inward radial flow composition, opal pastel with antique gold gemstone palette, golden-hour backlight 6bf8c8011861"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.6bf8c8011861",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-right-offset-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.water-ripple-anchoring-inward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-spiraling-monumental-stairs-mysterious-storybook"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.opal-pastel-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-luminous-translucent-shapes-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with luminous translucent shapes decorative style, water ripple anchoring inward radial flow composition, opal pastel with antique gold gemstone palette, golden-hour backlight 6bf8c8011861"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with high-contrast silhouettes decorative style, wheel hub anchoring tangent-line framing composition, lapis blue with pale brass gemstone palette, golden-hour backlight 70aeda0b9f18"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.70aeda0b9f18",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-cross-corner-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wheel-hub-anchoring-tangent-line-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-levitating-stone-fragments-wonder-filled-epic-at"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lapis-blue-with-pale-brass-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-high-contrast-silhouettes-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with high-contrast silhouettes decorative style, wheel hub anchoring tangent-line framing composition, lapis blue with pale brass gemstone palette, golden-hour backlight 70aeda0b9f18"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with fine outlined figures decorative style, halo ring anchoring offset orbit framing composition, sapphire blue with antique gold gemstone palette, golden-hour backlight 7896a00547d1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.7896a00547d1",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-longitudinal-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.halo-ring-anchoring-offset-orbit-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-ornate-guardian-statues-mysterious-storybook-atm"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sapphire-blue-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-fine-outlined-figures-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with fine outlined figures decorative style, halo ring anchoring offset orbit framing composition, sapphire blue with antique gold gemstone palette, golden-hour backlight 7896a00547d1"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with high-contrast silhouettes decorative style, round window anchoring broken-ring framing composition, moonstone gray with pewter gray gemstone palette, golden-hour backlight 7e192836fa89"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.7e192836fa89",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-rear-diagonal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.round-window-anchoring-broken-ring-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-ornate-guardian-statues-wonder-filled-epic-atmos"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.moonstone-gray-with-pewter-gray-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-high-contrast-silhouettes-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with high-contrast silhouettes decorative style, round window anchoring broken-ring framing composition, moonstone gray with pewter gray gemstone palette, golden-hour backlight 7e192836fa89"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with fine outlined figures decorative style, sun disk anchoring inward radial flow composition, opal pastel with antique gold gemstone palette, golden-hour backlight 823028c8be83"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.823028c8be83",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-transverse-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.sun-disk-anchoring-inward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-glowing-botanical-accents-mysterious-storybook-a"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.opal-pastel-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-fine-outlined-figures-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with fine outlined figures decorative style, sun disk anchoring inward radial flow composition, opal pastel with antique gold gemstone palette, golden-hour backlight 823028c8be83"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with crackled color planes decorative style, spiral shell anchoring tangent-line framing composition, opal pastel with pewter gray gemstone palette, golden-hour backlight 9c6b40b47da7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.9c6b40b47da7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-cross-corner-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.spiral-shell-anchoring-tangent-line-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-spiraling-monumental-stairs-wonder-filled-epic-a"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.opal-pastel-with-pewter-gray-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-crackled-color-planes-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with crackled color planes decorative style, spiral shell anchoring tangent-line framing composition, opal pastel with pewter gray gemstone palette, golden-hour backlight 9c6b40b47da7"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with crackled color planes decorative style, wheel hub anchoring tangent-line framing composition, ruby red with oxidized copper gemstone palette, golden-hour backlight b6d3f985ce2a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.b6d3f985ce2a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-right-offset-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wheel-hub-anchoring-tangent-line-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-layered-magical-landmarks-wonder-filled-epic-atm"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-oxidized-copper-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-crackled-color-planes-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with crackled color planes decorative style, wheel hub anchoring tangent-line framing composition, ruby red with oxidized copper gemstone palette, golden-hour backlight b6d3f985ce2a"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with high-contrast silhouettes decorative style, water ripple anchoring outward radial flow composition, tourmaline pink with antique gold gemstone palette, golden-hour backlight c4ca6df25cbe"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.c4ca6df25cbe",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-transverse-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.water-ripple-anchoring-outward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-glowing-botanical-accents-serene-mythical-atmosp"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tourmaline-pink-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-high-contrast-silhouettes-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with high-contrast silhouettes decorative style, water ripple anchoring outward radial flow composition, tourmaline pink with antique gold gemstone palette, golden-hour backlight c4ca6df25cbe"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with bold floral fields decorative style, clock face anchoring tangent-line framing composition, peridot green with rose gold gemstone palette, golden-hour backlight c62a87255100"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.c62a87255100",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-rear-diagonal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.clock-face-anchoring-tangent-line-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-spiraling-monumental-stairs-mysterious-storybook"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peridot-green-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-bold-floral-fields-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with bold floral fields decorative style, clock face anchoring tangent-line framing composition, peridot green with rose gold gemstone palette, golden-hour backlight c62a87255100"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with bold floral fields decorative style, round window anchoring offset orbit framing composition, emerald green with pewter gray gemstone palette, golden-hour backlight e075cd56282c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.e075cd56282c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-longitudinal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.round-window-anchoring-offset-orbit-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-spiraling-monumental-stairs-mysterious-storybook"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-green-with-pewter-gray-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-bold-floral-fields-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with bold floral fields decorative style, round window anchoring offset orbit framing composition, emerald green with pewter gray gemstone palette, golden-hour backlight e075cd56282c"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with high-contrast silhouettes decorative style, halo ring anchoring offset orbit framing composition, peridot green with antique gold gemstone palette, golden-hour backlight e1f168441d43"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.e1f168441d43",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-right-offset-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.halo-ring-anchoring-offset-orbit-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-spiraling-monumental-stairs-wonder-filled-epic-a"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peridot-green-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-high-contrast-silhouettes-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with high-contrast silhouettes decorative style, halo ring anchoring offset orbit framing composition, peridot green with antique gold gemstone palette, golden-hour backlight e1f168441d43"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with luminous translucent shapes decorative style, circular table anchoring broken-ring framing composition, garnet burgundy with rose gold gemstone palette, golden-hour backlight f2860cf71b13"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.f2860cf71b13",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-longitudinal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.circular-table-anchoring-broken-ring-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-ornate-guardian-statues-mysterious-storybook-atm"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.garnet-burgundy-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-luminous-translucent-shapes-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with luminous translucent shapes decorative style, circular table anchoring broken-ring framing composition, garnet burgundy with rose gold gemstone palette, golden-hour backlight f2860cf71b13"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "stained glass myth featuring stained glass with restrained symbolic accents decorative style, water ripple anchoring clockwise spiral flow composition, tourmaline pink with champagne gold gemstone palette, golden-hour backlight f6cbce8cef3d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.stained-glass-myth",
+      "familyTriggers": [
+        "stained glass myth direction",
+        "luminous cathedral fantasy",
+        "jewel-window epic treatment"
+      ],
+      "id": "phase8.art.graphic.stained-glass-myth.f6cbce8cef3d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-center-axis-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.water-ripple-anchoring-clockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cloudborne-citadel-with-layered-magical-landmarks-serene-mythical-atmosp"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tourmaline-pink-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.stained-glass-with-restrained-symbolic-accents-decorative-style"
+        ]
+      },
+      "name": "Stained Glass Myth 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.stained-glass-myth",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stained-glass contour myth",
+        "radial jewel illumination",
+        "citadel window grandeur"
+      ],
+      "triggers": [
+        "stained glass myth featuring stained glass with restrained symbolic accents decorative style, water ripple anchoring clockwise spiral flow composition, tourmaline pink with champagne gold gemstone palette, golden-hour backlight f6cbce8cef3d"
+      ],
+      "variantIndex": 18
+    }
+  ],
+  "schemaVersion": 2
+}

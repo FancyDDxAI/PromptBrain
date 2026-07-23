@@ -1,0 +1,249 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Alice Zuberg",
+        "Alice Zuberg (Sword Art Online)"
+      ],
+      "id": "character.sword-art-online.alice-zuberg",
+      "kind": "named-character",
+      "name": "Alice Zuberg",
+      "namespace": "Sword Art Online",
+      "promptTags": [
+        "Alice Zuberg",
+        "Sword Art Online",
+        "female",
+        "Integrity Knight"
+      ],
+      "provenance": {
+        "groupId": "sword-art-online",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "knight"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Asuna Yuuki",
+        "Asuna Yuuki (Sword Art Online)"
+      ],
+      "id": "character.sword-art-online.asuna-yuuki",
+      "kind": "named-character",
+      "name": "Asuna Yuuki",
+      "namespace": "Sword Art Online",
+      "promptTags": [
+        "Asuna Yuuki",
+        "Sword Art Online",
+        "female",
+        "virtual swordswoman"
+      ],
+      "provenance": {
+        "groupId": "sword-art-online",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "swordswoman"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Eugeo",
+        "Eugeo (Sword Art Online)"
+      ],
+      "id": "character.sword-art-online.eugeo",
+      "kind": "named-character",
+      "name": "Eugeo",
+      "namespace": "Sword Art Online",
+      "promptTags": [
+        "Eugeo",
+        "Sword Art Online",
+        "male",
+        "swordsman"
+      ],
+      "provenance": {
+        "groupId": "sword-art-online",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "swordsman"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kazuto Kirigaya",
+        "Kazuto Kirigaya (Sword Art Online)",
+        "Kirito (Sword Art Online)"
+      ],
+      "id": "character.sword-art-online.kazuto-kirigaya",
+      "kind": "named-character",
+      "name": "Kazuto Kirigaya",
+      "namespace": "Sword Art Online",
+      "promptTags": [
+        "Kazuto Kirigaya",
+        "Sword Art Online",
+        "male",
+        "virtual swordsman"
+      ],
+      "provenance": {
+        "groupId": "sword-art-online",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "swordsman"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Shino Asada",
+        "Shino Asada (Sword Art Online)",
+        "Sinon (Sword Art Online)"
+      ],
+      "id": "character.sword-art-online.shino-asada",
+      "kind": "named-character",
+      "name": "Shino Asada",
+      "namespace": "Sword Art Online",
+      "promptTags": [
+        "Shino Asada",
+        "Sword Art Online",
+        "female",
+        "virtual sniper"
+      ],
+      "provenance": {
+        "groupId": "sword-art-online",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "sniper"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Suguha Kirigaya",
+        "Suguha Kirigaya (Sword Art Online)"
+      ],
+      "id": "character.sword-art-online.suguha-kirigaya",
+      "kind": "named-character",
+      "name": "Suguha Kirigaya",
+      "namespace": "Sword Art Online",
+      "promptTags": [
+        "Suguha Kirigaya",
+        "Sword Art Online",
+        "female",
+        "virtual warrior"
+      ],
+      "provenance": {
+        "groupId": "sword-art-online",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "warrior"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Yuuki Konno",
+        "Yuuki Konno (Sword Art Online)"
+      ],
+      "id": "character.sword-art-online.yuuki-konno",
+      "kind": "named-character",
+      "name": "Yuuki Konno",
+      "namespace": "Sword Art Online",
+      "promptTags": [
+        "Yuuki Konno",
+        "Sword Art Online",
+        "female",
+        "virtual swordswoman"
+      ],
+      "provenance": {
+        "groupId": "sword-art-online",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "swordswoman"
+      ]
+    }
+  ],
+  "fingerprint": "5ae6a95f83c013432e4c157145062db48e5ee992b1466afe4a64ff6c97802539",
+  "namespace": "Sword Art Online",
+  "schemaVersion": 2
+}

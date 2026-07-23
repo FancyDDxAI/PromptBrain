@@ -1,0 +1,1415 @@
+{
+  "schemaVersion": 1,
+  "packId": "phase8.visual-language",
+  "source": "phase-8-curated-visual-language",
+  "defaults": {
+    "contentMode": "sfw",
+    "priority": 6,
+    "traits": [
+      "visual-language",
+      "phase-8"
+    ]
+  },
+  "entries": [
+    {
+      "kind": "quality",
+      "prompt": "gallery-ready edge discipline",
+      "group": "quality.curated-finish",
+      "family": "curated-quality"
+    },
+    {
+      "kind": "quality",
+      "prompt": "clean focal-detail prioritization",
+      "group": "quality.curated-finish",
+      "family": "curated-quality"
+    },
+    {
+      "kind": "quality",
+      "prompt": "cohesive material rendering",
+      "group": "quality.curated-finish",
+      "family": "curated-quality"
+    },
+    {
+      "kind": "quality",
+      "prompt": "controlled highlight placement",
+      "group": "quality.curated-finish",
+      "family": "curated-quality"
+    },
+    {
+      "kind": "quality",
+      "prompt": "production-grade visual polish",
+      "group": "quality.curated-finish",
+      "family": "curated-quality"
+    },
+    {
+      "id": "phase8.visual-language.style.usnr",
+      "kind": "style",
+      "prompt": "usnr",
+      "aliases": [
+        "usnr style token"
+      ],
+      "bases": [
+        "SDXL"
+      ],
+      "checkpointIds": [
+        "waiIllustriousXL",
+        "illustriousXL",
+        "noobAIXL"
+      ],
+      "group": "style.checkpoint-token",
+      "family": "wai-illustrious-style-token",
+      "priority": 9,
+      "traits": [
+        "checkpoint-native-token",
+        "prompt-token",
+        "anime-style"
+      ]
+    },
+    {
+      "id": "phase8.visual-language.style.bbg-style",
+      "kind": "style",
+      "prompt": "bbg_style",
+      "aliases": [
+        "bbg style token"
+      ],
+      "bases": [
+        "SDXL"
+      ],
+      "checkpointIds": [
+        "waiIllustriousXL",
+        "illustriousXL",
+        "noobAIXL"
+      ],
+      "group": "style.checkpoint-token",
+      "family": "wai-illustrious-style-token",
+      "priority": 9,
+      "traits": [
+        "checkpoint-native-token",
+        "prompt-token",
+        "anime-style"
+      ]
+    },
+    {
+      "id": "phase8.visual-language.style.748cmstyle",
+      "kind": "style",
+      "prompt": "748cmstyle",
+      "aliases": [
+        "748cmstyle token"
+      ],
+      "bases": [
+        "SDXL"
+      ],
+      "checkpointIds": [
+        "waiIllustriousXL",
+        "illustriousXL",
+        "noobAIXL"
+      ],
+      "group": "style.checkpoint-token",
+      "family": "wai-illustrious-style-token",
+      "priority": 9,
+      "traits": [
+        "checkpoint-native-token",
+        "prompt-token",
+        "anime-style"
+      ]
+    },
+    {
+      "kind": "style",
+      "prompt": "risograph storybook modernism",
+      "group": "style.curated-hybrid",
+      "family": "curated-style"
+    },
+    {
+      "kind": "style",
+      "prompt": "gouache cut-paper editorial style",
+      "group": "style.curated-hybrid",
+      "family": "curated-style"
+    },
+    {
+      "kind": "style",
+      "prompt": "etched cel-animation hybrid",
+      "group": "style.curated-hybrid",
+      "family": "curated-style"
+    },
+    {
+      "kind": "style",
+      "prompt": "stained-glass fashion illustration",
+      "group": "style.curated-hybrid",
+      "family": "curated-style"
+    },
+    {
+      "kind": "style",
+      "prompt": "charcoal blueprint surrealism",
+      "group": "style.curated-hybrid",
+      "family": "curated-style"
+    },
+    {
+      "kind": "composition",
+      "prompt": "quiet-center composition with active peripheral rhythm",
+      "group": "composition.curated-structure",
+      "family": "curated-composition"
+    },
+    {
+      "kind": "composition",
+      "prompt": "layered threshold framing around an open focal path",
+      "group": "composition.curated-structure",
+      "family": "curated-composition"
+    },
+    {
+      "kind": "composition",
+      "prompt": "asymmetric visual weight balanced by distant counterpoint",
+      "group": "composition.curated-structure",
+      "family": "curated-composition"
+    },
+    {
+      "kind": "composition",
+      "prompt": "nested silhouettes guiding attention toward the subject",
+      "group": "composition.curated-structure",
+      "family": "curated-composition"
+    },
+    {
+      "kind": "composition",
+      "prompt": "foreground interruption revealing a secondary narrative plane",
+      "group": "composition.curated-structure",
+      "family": "curated-composition"
+    },
+    {
+      "kind": "palette",
+      "prompt": "oxidized copper, apricot, and ink-black palette",
+      "group": "palette.curated-triad",
+      "family": "curated-palette"
+    },
+    {
+      "kind": "palette",
+      "prompt": "glacier blue, persimmon, and warm gray palette",
+      "group": "palette.curated-triad",
+      "family": "curated-palette"
+    },
+    {
+      "kind": "palette",
+      "prompt": "mulberry, celadon, and parchment-white palette",
+      "group": "palette.curated-triad",
+      "family": "curated-palette"
+    },
+    {
+      "kind": "palette",
+      "prompt": "petrol green, coral pink, and brushed silver palette",
+      "group": "palette.curated-triad",
+      "family": "curated-palette"
+    },
+    {
+      "kind": "palette",
+      "prompt": "saffron, storm violet, and chalk-white palette",
+      "group": "palette.curated-triad",
+      "family": "curated-palette"
+    },
+    {
+      "kind": "motif",
+      "prompt": "interlocking keyhole and sunbeam motif",
+      "group": "motif.curated-symbol",
+      "family": "curated-motif"
+    },
+    {
+      "kind": "motif",
+      "prompt": "floating ribbon maps and compass ticks motif",
+      "group": "motif.curated-symbol",
+      "family": "curated-motif"
+    },
+    {
+      "kind": "motif",
+      "prompt": "pressed fern silhouettes with tiny star marks",
+      "group": "motif.curated-symbol",
+      "family": "curated-motif"
+    },
+    {
+      "kind": "motif",
+      "prompt": "broken checker arcs with pearl dots",
+      "group": "motif.curated-symbol",
+      "family": "curated-motif"
+    },
+    {
+      "kind": "motif",
+      "prompt": "window-lattice shadows crossed by paper cranes",
+      "group": "motif.curated-symbol",
+      "family": "curated-motif"
+    },
+    {
+      "kind": "effect",
+      "prompt": "subtle chromatic edge breathing",
+      "group": "effect.curated-finish",
+      "family": "curated-effect"
+    },
+    {
+      "kind": "effect",
+      "prompt": "paper-fiber shimmer in bright regions",
+      "group": "effect.curated-finish",
+      "family": "curated-effect"
+    },
+    {
+      "kind": "effect",
+      "prompt": "soft prismatic breakup along silhouette edges",
+      "group": "effect.curated-finish",
+      "family": "curated-effect"
+    },
+    {
+      "kind": "effect",
+      "prompt": "layered dust trails with staggered focus",
+      "group": "effect.curated-finish",
+      "family": "curated-effect"
+    },
+    {
+      "kind": "effect",
+      "prompt": "ink-bloom transition across shadow boundaries",
+      "group": "effect.curated-finish",
+      "family": "curated-effect"
+    }
+  ],
+  "matrices": [
+    {
+      "id": "quality.line-integrity",
+      "kind": "quality",
+      "family": "line-integrity",
+      "group": "quality.line-integrity",
+      "template": "{finish} {target} line integrity",
+      "axes": {
+        "finish": [
+          "crisp", "clean", "controlled", "confident", "delicate", "exact",
+          "fluid", "polished", "refined", "stable", "taut", "nuanced"
+        ],
+        "target": [
+          "contour work", "facial linework", "garment seams", "mechanical edges",
+          "architectural lines", "foliage edges", "hair strands", "ornament details"
+        ]
+      },
+      "traits": ["quality-control", "linework"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "quality.surface-rendering",
+      "kind": "quality",
+      "family": "surface-rendering",
+      "group": "quality.surface-rendering",
+      "template": "{fidelity} {surface} surface rendering",
+      "axes": {
+        "fidelity": [
+          "high-fidelity", "micro-detailed", "material-accurate", "finely resolved",
+          "tactile", "precisely shaded", "subtly varied", "well-defined",
+          "richly textured", "carefully modeled", "artifact-free", "studio-finished"
+        ],
+        "surface": [
+          "brushed metal", "polished stone", "glazed ceramic", "woven fabric",
+          "weathered wood", "clear glass", "soft leather", "matte plastic"
+        ]
+      },
+      "traits": ["quality-control", "material-fidelity"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "quality.texture-fidelity",
+      "kind": "quality",
+      "family": "texture-fidelity",
+      "group": "quality.texture-fidelity",
+      "template": "{standard} {texture} texture fidelity",
+      "axes": {
+        "standard": [
+          "fine-grained", "naturalistic", "high-resolution", "subtly irregular",
+          "tactile", "cleanly separated", "carefully layered", "material-specific",
+          "close-view", "consistently scaled", "light-responsive", "production-polished"
+        ],
+        "texture": [
+          "skin", "fur", "feather", "paper", "masonry", "foliage", "cloud", "water"
+        ]
+      },
+      "traits": ["quality-control", "texture"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "quality.tonal-control",
+      "kind": "quality",
+      "family": "tonal-control",
+      "group": "quality.tonal-control",
+      "template": "{control} {region} tonal control",
+      "axes": {
+        "control": [
+          "balanced", "cinematic", "measured", "subtle", "high-range", "softly graduated",
+          "cleanly separated", "deeply modeled", "luminous", "restrained", "nuanced", "print-ready"
+        ],
+        "region": [
+          "midtone", "shadow", "highlight", "ambient", "backdrop", "facial", "costume", "environmental"
+        ]
+      },
+      "traits": ["quality-control", "tone"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "quality.color-precision",
+      "kind": "quality",
+      "family": "color-precision",
+      "group": "quality.color-precision",
+      "template": "{precision} {task} color precision",
+      "axes": {
+        "precision": [
+          "accurate", "harmonized", "clean", "layered", "vibrant", "restrained",
+          "nuanced", "stable", "luminous", "print-balanced", "selective", "well-separated"
+        ],
+        "task": [
+          "skin-tone", "fabric-color", "foliage-color", "sky-color",
+          "metal-color", "neon-color", "pastel-color", "shadow-color"
+        ]
+      },
+      "traits": ["quality-control", "color"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "quality.lighting-coherence",
+      "kind": "quality",
+      "family": "lighting-coherence",
+      "group": "quality.lighting-coherence",
+      "template": "{quality} {setup} lighting coherence",
+      "axes": {
+        "quality": [
+          "coherent", "physically grounded", "softly unified", "directionally clear",
+          "cinematic", "naturalistic", "carefully bounced", "well-balanced",
+          "atmospheric", "studio-controlled", "dramatically legible", "subtly integrated"
+        ],
+        "setup": [
+          "window-light", "rim-light", "overcast", "sunset",
+          "moonlight", "interior-lamp", "stage-light", "mixed-light"
+        ]
+      },
+      "traits": ["quality-control", "lighting"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "quality.depth-separation",
+      "kind": "quality",
+      "family": "depth-separation",
+      "group": "quality.depth-separation",
+      "template": "{method} {plane} depth separation",
+      "axes": {
+        "method": [
+          "crisp", "subtle", "cinematic", "layered", "natural", "controlled",
+          "atmospheric", "high-clarity", "soft-focus", "tonally distinct", "color-separated", "spatially legible"
+        ],
+        "plane": [
+          "foreground", "midground", "background", "subject-to-backdrop",
+          "crowd-layer", "interior-space", "landscape-plane", "architectural-plane"
+        ]
+      },
+      "traits": ["quality-control", "depth"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "quality.detail-hierarchy",
+      "kind": "quality",
+      "family": "detail-hierarchy",
+      "group": "quality.detail-hierarchy",
+      "template": "{strategy} {subject} detail hierarchy",
+      "axes": {
+        "strategy": [
+          "focal-first", "face-prioritized", "silhouette-led", "material-aware",
+          "narrative-led", "center-weighted", "edge-controlled", "selectively dense",
+          "quiet-background", "progressively layered", "balanced-density", "readability-first"
+        ],
+        "subject": [
+          "portrait", "character", "creature", "vehicle", "architecture", "still-life", "landscape", "ensemble"
+        ]
+      },
+      "traits": ["quality-control", "detail"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "quality.finish-discipline",
+      "kind": "quality",
+      "family": "finish-discipline",
+      "group": "quality.finish-discipline",
+      "template": "{finish} {medium} finish discipline",
+      "axes": {
+        "finish": [
+          "gallery-ready", "publication-ready", "animation-ready", "print-clean",
+          "portfolio-grade", "production-polished", "archival", "presentation-ready",
+          "collector-print", "editorial-grade", "exhibition-grade", "client-ready"
+        ],
+        "medium": [
+          "digital-paint", "ink", "gouache", "watercolor", "charcoal", "collage", "pixel-art", "vector"
+        ]
+      },
+      "traits": ["quality-control", "finish"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "quality.motion-readability",
+      "kind": "quality",
+      "family": "motion-readability",
+      "group": "quality.motion-readability",
+      "template": "{clarity} {motion} motion readability",
+      "axes": {
+        "clarity": [
+          "crisp", "fluid", "dynamic", "controlled", "cinematic", "gesture-led",
+          "silhouette-clear", "directionally strong", "impactful", "graceful", "rhythmically staged", "freeze-frame"
+        ],
+        "motion": [
+          "running", "dancing", "falling", "flying", "turning", "splashing", "fabric-flow", "crowd-flow"
+        ]
+      },
+      "traits": ["quality-control", "motion"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "style.printmaking-process",
+      "kind": "style",
+      "family": "printmaking-process",
+      "group": "style.printmaking",
+      "template": "{process} with {treatment} print style",
+      "axes": {
+        "process": [
+          "woodcut", "linocut", "copper engraving", "drypoint", "mezzotint", "aquatint",
+          "screenprint", "risograph", "lithograph", "monotype", "letterpress", "stencil print"
+        ],
+        "treatment": [
+          "bold spot color", "fine crosshatching", "selective hand tint", "rough deckled texture",
+          "high-contrast inking", "muted paper grain", "layered registration", "minimal contour work"
+        ]
+      },
+      "traits": ["printmaking", "physical-media"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "style.ink-illustration",
+      "kind": "style",
+      "family": "ink-illustration",
+      "group": "style.ink",
+      "template": "{technique} with {character} illustration",
+      "axes": {
+        "character": [
+          "airy linework", "dense shadows", "expressive splatter", "precise contours",
+          "soft wash fields", "broken drybrush", "ornamental hatching", "minimal accents"
+        ],
+        "technique": [
+          "sumi-e ink", "brush-and-ink", "technical pen", "reed pen", "ink wash", "stippling ink",
+          "crosshatched ink", "white-on-black ink", "sepia ink", "colored ink", "scratchboard ink", "marker ink"
+        ]
+      },
+      "traits": ["ink", "illustration"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "style.paint-handling",
+      "kind": "style",
+      "family": "paint-handling",
+      "group": "style.paint",
+      "template": "{medium} with {handling} painting style",
+      "axes": {
+        "handling": [
+          "broad flat strokes", "dry textured strokes", "soft blended edges", "visible underpainting",
+          "scumbled highlights", "precise small brushes", "layered translucent marks", "graphic shape blocking"
+        ],
+        "medium": [
+          "opaque gouache", "transparent watercolor", "egg tempera", "casein paint", "oil glaze", "acrylic wash",
+          "encaustic wax", "pastel paint", "fresco pigment", "poster paint", "digital impasto", "matte airbrush"
+        ]
+      },
+      "traits": ["painting", "brushwork"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "style.textile-illustration",
+      "kind": "style",
+      "family": "textile-illustration",
+      "group": "style.textile",
+      "template": "{craft} {design} textile illustration",
+      "axes": {
+        "craft": [
+          "embroidered", "quilted", "tapestry-woven", "ikat-dyed", "batik-resist", "sashiko-stitched",
+          "applique", "needle-felted", "lace-cut", "jacquard", "block-printed textile", "tufted yarn"
+        ],
+        "design": [
+          "figurative panels", "geometric borders", "botanical repeats", "narrative bands",
+          "bold color blocks", "fine contour motifs", "layered fabric relief", "minimal folk symbols"
+        ]
+      },
+      "traits": ["textile", "craft"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "style.decorative-surface",
+      "kind": "style",
+      "family": "decorative-surface",
+      "group": "style.decorative-surface",
+      "template": "{medium} with {treatment} decorative style",
+      "axes": {
+        "medium": [
+          "porcelain glaze", "raku ceramic", "majolica", "celadon ceramic", "stoneware slip", "cloisonne enamel",
+          "champleve enamel", "mosaic tessera", "stained glass", "lacquer inlay", "marquetry wood", "mother-of-pearl inlay"
+        ],
+        "treatment": [
+          "fine outlined figures", "bold floral fields", "crackled color planes", "luminous translucent shapes",
+          "geometric borderwork", "restrained symbolic accents", "layered scenic panels", "high-contrast silhouettes"
+        ]
+      },
+      "traits": ["decorative-art", "material-style"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "style.analog-photographic-process",
+      "kind": "style",
+      "family": "analog-photographic-process",
+      "group": "style.photographic-process",
+      "template": "{process} with {look} photographic style",
+      "axes": {
+        "look": [
+          "soft edge falloff", "fine surface grain", "muted tonal range", "deep shadow detail",
+          "luminous highlights", "toned highlight bloom", "centered period framing", "careful studio staging"
+        ],
+        "process": [
+          "cyanotype", "salt print", "albumen print", "platinum print", "wet-plate collodion", "daguerreotype",
+          "instant film", "cross-processed film", "bleach bypass film", "infrared film", "expired color film", "hand-tinted photograph"
+        ]
+      },
+      "traits": ["photography", "analog-process"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "style.retro-pixel-system",
+      "kind": "style",
+      "family": "retro-pixel-system",
+      "group": "style.pixel-art",
+      "template": "{platform} with {rendering} digital style",
+      "axes": {
+        "platform": [
+          "8-bit console pixel art", "16-bit console pixel art", "32-bit sprite art", "early PC VGA art",
+          "handheld pixel art", "arcade sprite art", "demoscene pixel art", "pixel workstation art",
+          "isometric pixel art", "pre-rendered sprite art", "tile-map pixel art", "one-bit pixel art"
+        ],
+        "rendering": [
+          "limited color logic", "crisp modular shapes", "ordered dithering", "chunky edge stepping",
+          "scanline texture", "selective highlights", "layered parallax depth", "graphic silhouettes"
+        ]
+      },
+      "traits": ["pixel-art", "retro-digital"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "style.paper-craft",
+      "kind": "style",
+      "family": "paper-craft",
+      "group": "style.paper-craft",
+      "template": "{craft} with {construction} style",
+      "axes": {
+        "construction": [
+          "shallow shadowbox depth", "bold planar layering", "delicate edge detail", "visible handmade fibers",
+          "precise folded geometry", "soft backlit translucency", "narrative panel staging", "minimal color blocking"
+        ],
+        "craft": [
+          "layered paper-cut", "kirigami", "origami collage", "torn-paper collage", "quilled paper", "papier-mache",
+          "folded cardstock", "tissue-paper collage", "marbled paper", "silhouette cut-paper", "paper mosaic", "accordion-book"
+        ]
+      },
+      "traits": ["paper-craft", "handmade"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "style.drafted-visual",
+      "kind": "style",
+      "family": "drafted-visual",
+      "group": "style.drafting",
+      "template": "{idiom} with {render} visual style",
+      "axes": {
+        "idiom": [
+          "architectural blueprint", "axonometric drawing", "isometric cutaway", "exploded technical drawing",
+          "mapmaker illustration", "botanical plate", "scientific diagram", "patent drawing",
+          "fashion croquis", "storyboard drawing", "concept-design sheet", "museum reconstruction"
+        ],
+        "render": [
+          "fine ink notation", "muted wash accents", "clean measured lines", "selective color coding",
+          "aged paper texture", "precise labeled details", "soft graphite shading", "bold silhouette overlays"
+        ]
+      },
+      "traits": ["drafting", "diagrammatic-style"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "style.animation-editorial",
+      "kind": "style",
+      "family": "animation-editorial",
+      "group": "style.animation-editorial",
+      "template": "{tradition} with {finish} style",
+      "axes": {
+        "finish": [
+          "clean key poses", "rough expressive lines", "flat painted shadows", "soft atmospheric backgrounds",
+          "bold shape language", "delicate color accents", "handmade texture overlays", "cinematic layout design"
+        ],
+        "tradition": [
+          "mid-century animation", "limited cel animation", "full cel animation", "cutout animation",
+          "paint-on-glass animation", "charcoal animation", "paperless 2D animation", "editorial cartoon",
+          "fashion editorial drawing", "children's book animation", "motion-graphic illustration", "independent anime"
+        ]
+      },
+      "traits": ["animation", "editorial-style"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "composition.portrait-balance",
+      "kind": "composition",
+      "family": "portrait-balance",
+      "group": "composition.portrait",
+      "template": "{crop} with {balance} composition",
+      "axes": {
+        "balance": [
+          "centered balance", "left-weighted balance", "right-weighted balance", "upper negative space",
+          "lower visual anchor", "diagonal counterweight", "mirrored side balance", "off-axis tension"
+        ],
+        "crop": [
+          "extreme close-up", "face close-up", "head-and-shoulders", "bust portrait", "waist-up portrait", "three-quarter portrait",
+          "full-length portrait", "profile portrait", "over-shoulder portrait", "seated portrait", "reclining portrait", "walking portrait"
+        ]
+      },
+      "traits": ["portrait-composition", "balance"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "composition.landscape-depth",
+      "kind": "composition",
+      "family": "landscape-depth",
+      "group": "composition.landscape",
+      "template": "{anchor} foreground with {horizon} landscape composition",
+      "axes": {
+        "anchor": [
+          "rock ledge", "wild grass", "tree branch", "archway", "fence line", "reflective pool",
+          "path bend", "ruin fragment", "flower cluster", "snow bank", "rooftop edge", "shoreline stones"
+        ],
+        "horizon": [
+          "low horizon", "high horizon", "centered horizon", "hidden horizon",
+          "tilted horizon", "mist-softened horizon", "layered horizon", "broken horizon"
+        ]
+      },
+      "traits": ["landscape-composition", "depth"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "composition.directional-flow",
+      "kind": "composition",
+      "family": "directional-flow",
+      "group": "composition.flow",
+      "template": "{entry} into a {path} composition",
+      "axes": {
+        "entry": [
+          "lower-left entry", "lower-right entry", "upper-left entry", "upper-right entry",
+          "left-edge entry", "right-edge entry", "bottom-center entry", "top-center entry",
+          "near-center entry", "off-frame entry", "foreground entry", "background entry"
+        ],
+        "path": [
+          "rising diagonal path", "falling diagonal path", "spiral inward path", "sweeping curve path",
+          "zigzag path", "S-curve path", "radial path", "staggered step path"
+        ]
+      },
+      "traits": ["directional-composition", "visual-flow"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "composition.symmetry-variation",
+      "kind": "composition",
+      "family": "symmetry-variation",
+      "group": "composition.symmetry",
+      "template": "{structure} structure with {variation} composition",
+      "axes": {
+        "structure": [
+          "bilateral", "radial", "axial", "architectural", "reflectional", "rotational",
+          "frieze-like", "grid-based", "portal-centered", "altar-like", "emblematic", "kaleidoscopic"
+        ],
+        "variation": [
+          "strict symmetry", "soft asymmetry", "single offset accent", "paired counterweights",
+          "broken lower balance", "broken upper balance", "alternating detail rhythm", "centered void"
+        ]
+      },
+      "traits": ["symmetry", "balance"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "composition.negative-space-field",
+      "kind": "composition",
+      "family": "negative-space-field",
+      "group": "composition.negative-space",
+      "template": "{void} as {position} composition",
+      "axes": {
+        "position": [
+          "above-subject negative space", "below-subject negative space", "left-side negative space", "right-side negative space",
+          "central negative space", "corner negative space", "encircling negative space", "split-field negative space"
+        ],
+        "void": [
+          "open sky", "blank wall", "calm water", "deep shadow", "mist field", "paper margin",
+          "empty floor", "unlit doorway", "snow field", "soft bokeh", "plain fabric", "distant horizon"
+        ]
+      },
+      "traits": ["negative-space", "visual-balance"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "composition.ensemble-staging",
+      "kind": "composition",
+      "family": "ensemble-staging",
+      "group": "composition.ensemble",
+      "template": "{arrangement} ensemble with {depth} composition",
+      "axes": {
+        "arrangement": [
+          "single-file", "triangular", "semicircular", "staggered-row", "clustered", "paired",
+          "leader-centered", "ring-shaped", "processional", "tableau", "converging", "diverging"
+        ],
+        "depth": [
+          "single-plane staging", "two-plane staging", "three-plane staging", "deep overlap staging",
+          "shallow overlap staging", "foreground-led staging", "midground-led staging", "background-led staging"
+        ]
+      },
+      "traits": ["ensemble-composition", "staging"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "composition.radial-anchor",
+      "kind": "composition",
+      "family": "radial-anchor",
+      "group": "composition.radial",
+      "template": "{anchor} anchoring {flow} composition",
+      "axes": {
+        "anchor": [
+          "sun disk", "moon disk", "round window", "clock face", "flower center", "water ripple",
+          "halo ring", "wheel hub", "circular table", "spiral shell", "arched dome", "lens aperture"
+        ],
+        "flow": [
+          "inward radial flow", "outward radial flow", "clockwise spiral flow", "counterclockwise spiral flow",
+          "concentric framing", "broken-ring framing", "offset orbit framing", "tangent-line framing"
+        ]
+      },
+      "traits": ["radial-composition", "circular-flow"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "composition.panel-linkage",
+      "kind": "composition",
+      "family": "panel-linkage",
+      "group": "composition.panel",
+      "template": "{layout} with {link} composition",
+      "axes": {
+        "layout": [
+          "diptych", "triptych", "vertical split", "horizontal split", "diagonal split", "inset panel",
+          "comic-strip", "contact-sheet", "window-grid", "before-and-after", "mirrored panel", "nested panel"
+        ],
+        "link": [
+          "continuous eyeline", "matched horizon", "repeated silhouette", "shared color bridge",
+          "cross-panel motion", "contrasting scale", "alternating rhythm", "central hinge"
+        ]
+      },
+      "traits": ["panel-composition", "visual-continuity"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "composition.scale-contrast",
+      "kind": "composition",
+      "family": "scale-contrast",
+      "group": "composition.scale",
+      "template": "{near} against a {far} scale composition",
+      "axes": {
+        "far": [
+          "tiny distant figure", "small distant building", "far vehicle silhouette", "minute horizon light",
+          "distant crowd line", "small mountain structure", "far boat shape", "tiny airborne object"
+        ],
+        "near": [
+          "giant foreground hand", "close foreground flower", "large foreground wheel", "nearby arch fragment",
+          "oversized shadow shape", "close fabric fold", "large window frame", "foreground sign shape",
+          "near tree trunk", "close tool silhouette", "large rock edge", "foreground vessel"
+        ]
+      },
+      "traits": ["scale-contrast", "forced-depth"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "composition.still-life-view",
+      "kind": "composition",
+      "family": "still-life-view",
+      "group": "composition.still-life",
+      "template": "{arrangement} still life in {view} composition",
+      "axes": {
+        "arrangement": [
+          "pyramidal", "linear", "circular", "scattered", "stacked", "suspended",
+          "shelf-aligned", "corner-clustered", "diagonally stepped", "symmetrically paired",
+          "asymmetrically balanced", "center-isolated"
+        ],
+        "view": [
+          "eye-level view", "top-down view", "low-angle view", "three-quarter view",
+          "side-on view", "close-cropped view", "wide contextual view", "through-frame view"
+        ]
+      },
+      "traits": ["still-life", "viewpoint"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "palette.gemstone-metal",
+      "kind": "palette",
+      "family": "gemstone-metal",
+      "group": "palette.gemstone",
+      "template": "{gem} with {metal} gemstone palette",
+      "axes": {
+        "gem": [
+          "sapphire blue", "emerald green", "ruby red", "amethyst violet", "citrine yellow", "garnet burgundy",
+          "aquamarine", "peridot green", "opal pastel", "moonstone gray", "tourmaline pink", "lapis blue"
+        ],
+        "metal": [
+          "antique gold", "bright silver", "rose gold", "oxidized copper",
+          "pale brass", "blackened steel", "champagne gold", "pewter gray"
+        ]
+      },
+      "traits": ["gemstone-color", "metal-accent"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "palette.botanical-bloom",
+      "kind": "palette",
+      "family": "botanical-bloom",
+      "group": "palette.botanical",
+      "template": "{foliage} with {bloom} botanical palette",
+      "axes": {
+        "bloom": [
+          "coral bloom", "peony pink", "marigold orange", "iris violet",
+          "poppy red", "lavender", "magnolia white", "cornflower blue"
+        ],
+        "foliage": [
+          "sage green", "olive green", "fern green", "eucalyptus blue-green", "moss green", "chartreuse leaf",
+          "pine green", "mint leaf", "tea green", "ivy green", "celadon leaf", "deep laurel"
+        ]
+      },
+      "traits": ["botanical-color", "natural-palette"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "palette.coastal-weather",
+      "kind": "palette",
+      "family": "coastal-weather",
+      "group": "palette.coastal",
+      "template": "{water} with {sky} coastal palette",
+      "axes": {
+        "sky": [
+          "peach dawn", "coral sunset", "overcast silver", "clear cerulean",
+          "storm violet", "golden haze", "moonlit pearl", "fog white"
+        ],
+        "water": [
+          "lagoon turquoise", "deep ocean blue", "sea-glass green", "stormwater gray", "arctic blue", "tidal teal",
+          "harbor navy", "foam white", "kelp green", "reef cyan", "slate blue", "moonlit indigo"
+        ]
+      },
+      "traits": ["coastal-color", "weather-palette"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "palette.mineral-earth",
+      "kind": "palette",
+      "family": "mineral-earth",
+      "group": "palette.mineral-earth",
+      "template": "{earth} with {mineral} mineral-earth palette",
+      "axes": {
+        "earth": [
+          "burnt sienna", "raw umber", "ochre clay", "terracotta", "red sandstone", "basalt gray",
+          "chalk white", "peat brown", "desert rose", "adobe orange", "loam olive", "volcanic black"
+        ],
+        "mineral": [
+          "malachite green", "azurite blue", "quartz white", "pyrite gold",
+          "fluorite violet", "cinnabar red", "mica silver", "turquoise blue"
+        ]
+      },
+      "traits": ["earth-color", "mineral-accent"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "palette.neon-night",
+      "kind": "palette",
+      "family": "neon-night",
+      "group": "palette.neon-night",
+      "template": "{base} with {neon} neon-night palette",
+      "axes": {
+        "base": [
+          "ink black", "midnight navy", "charcoal gray", "deep plum", "petrol blue", "bottle green",
+          "oxblood red", "aubergine", "graphite", "deep teal", "smoky violet", "black cherry"
+        ],
+        "neon": [
+          "electric cyan", "laser magenta", "acid lime", "signal orange",
+          "ultraviolet", "hot pink", "plasma blue", "phosphor yellow"
+        ]
+      },
+      "traits": ["neon-color", "dark-base"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "palette.soft-color-accent",
+      "kind": "palette",
+      "family": "soft-color-accent",
+      "group": "palette.soft-color",
+      "template": "{base} with {accent} soft-color palette",
+      "axes": {
+        "accent": [
+          "apricot accent", "raspberry accent", "teal accent", "marigold accent",
+          "plum accent", "cobalt accent", "coral accent", "moss accent"
+        ],
+        "base": [
+          "powder blue", "blush pink", "mint cream", "lilac mist", "butter yellow", "peach cream",
+          "seafoam", "dove gray", "pale aqua", "dusty rose", "soft pistachio", "cloud lavender"
+        ]
+      },
+      "traits": ["soft-color", "accent-palette"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "palette.print-ink-paper",
+      "kind": "palette",
+      "family": "print-ink-paper",
+      "group": "palette.print",
+      "template": "{ink} on {paper} print palette",
+      "axes": {
+        "ink": [
+          "indigo ink", "vermilion ink", "forest ink", "sepia ink", "ultramarine ink", "charcoal ink",
+          "plum ink", "teal ink", "rust ink", "mustard ink", "burgundy ink", "slate ink"
+        ],
+        "paper": [
+          "warm ivory", "cool white", "pale gray", "blush paper",
+          "pale mint paper", "pale sky paper", "cream paper", "light kraft paper"
+        ]
+      },
+      "traits": ["print-color", "paper-tone"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "palette.seasonal-highlight",
+      "kind": "palette",
+      "family": "seasonal-highlight",
+      "group": "palette.seasonal",
+      "template": "{season} with {highlight} seasonal palette",
+      "axes": {
+        "highlight": [
+          "pearl highlight", "sunlight yellow", "snow white", "rain silver",
+          "berry red", "leaf green", "twilight violet", "hearth amber"
+        ],
+        "season": [
+          "early-spring green", "late-spring blossom", "midsummer blue", "late-summer gold",
+          "early-autumn russet", "late-autumn plum", "midwinter blue-gray", "thaw-season brown",
+          "monsoon teal", "dry-season ochre", "harvest orange", "frost-season lavender"
+        ]
+      },
+      "traits": ["seasonal-color", "highlight-color"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "palette.monochrome-range",
+      "kind": "palette",
+      "family": "monochrome-range",
+      "group": "palette.monochrome",
+      "template": "{hue} {range} palette",
+      "axes": {
+        "hue": [
+          "cobalt", "vermilion", "emerald", "violet", "amber", "teal",
+          "magenta", "sepia", "graphite", "indigo", "olive", "coral"
+        ],
+        "range": [
+          "high-key monochrome", "low-key monochrome", "duotone wash", "three-value study",
+          "misty tonal scale", "ink-dense tonal scale", "pastel tonal scale", "metallic-accent monochrome"
+        ]
+      },
+      "traits": ["monochrome", "tonal-palette"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "palette.cinematic-dual-tone",
+      "kind": "palette",
+      "family": "cinematic-dual-tone",
+      "group": "palette.cinematic",
+      "template": "{shadow} shadows with {highlight} highlights cinematic palette",
+      "axes": {
+        "highlight": [
+          "amber", "coral", "pearl", "mint", "lemon", "rose", "cyan", "copper"
+        ],
+        "shadow": [
+          "teal", "cobalt", "plum", "olive", "charcoal", "burgundy",
+          "indigo", "umber", "forest-green", "violet", "slate-blue", "black-cherry"
+        ]
+      },
+      "traits": ["cinematic-color", "dual-tone"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "motif.celestial-arrangement",
+      "kind": "motif",
+      "family": "celestial-arrangement",
+      "group": "motif.celestial",
+      "template": "{symbol} in a {arrangement} celestial motif",
+      "axes": {
+        "arrangement": [
+          "border", "medallion", "scattered field", "corner cluster",
+          "radial repeat", "vertical chain", "diagonal trail", "central emblem"
+        ],
+        "symbol": [
+          "crescent moons", "sun disks", "eight-point stars", "comet tails", "eclipse rings", "constellation dots",
+          "planet orbits", "aurora ribbons", "meteor streaks", "zodiac wheels", "dawn rays", "polar-star crosses"
+        ]
+      },
+      "traits": ["celestial-symbol", "ornament"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "motif.botanical-arrangement",
+      "kind": "motif",
+      "family": "botanical-arrangement",
+      "group": "motif.botanical",
+      "template": "{plant} as a {arrangement} botanical motif",
+      "axes": {
+        "arrangement": [
+          "trailing border", "mirrored pair", "wreath", "scattered repeat",
+          "climbing column", "corner flourish", "central bouquet", "interlocking lattice"
+        ],
+        "plant": [
+          "fern fronds", "ginkgo leaves", "ivy vines", "eucalyptus sprigs", "cherry blossoms", "poppy stems",
+          "lotus petals", "pine needles", "oak leaves", "wheat stalks", "magnolia blooms", "wildflower clusters"
+        ]
+      },
+      "traits": ["botanical-symbol", "ornament"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "motif.geometric-formation",
+      "kind": "motif",
+      "family": "geometric-formation",
+      "group": "motif.geometric",
+      "template": "{shape} in a {formation} geometric motif",
+      "axes": {
+        "formation": [
+          "border repeat", "radial grid", "staggered field", "central emblem",
+          "diagonal band", "corner framework", "layered lattice", "sparse scatter"
+        ],
+        "shape": [
+          "nested triangles", "offset circles", "broken squares", "hexagon cells", "checker diamonds", "stepped chevrons",
+          "concentric arcs", "interlocking rings", "parallel stripes", "tessellated kites", "pinwheel wedges", "rounded rectangles"
+        ]
+      },
+      "traits": ["geometric-symbol", "pattern"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "motif.weather-mark",
+      "kind": "motif",
+      "family": "weather-mark",
+      "group": "motif.weather",
+      "template": "{mark} in a {arrangement} weather motif",
+      "axes": {
+        "arrangement": [
+          "window-edge trail", "overhead cluster", "diagonal drift", "border repeat",
+          "central crest", "scattered field", "layered band", "corner accent"
+        ],
+        "mark": [
+          "raindrop marks", "snowflake marks", "wind curls", "lightning forks", "cloud puffs", "sunshower lines",
+          "hail dots", "fog bands", "rainbow arcs", "frost stars", "storm spirals", "dew beads"
+        ]
+      },
+      "traits": ["weather-symbol", "pattern"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "motif.maritime-emblem",
+      "kind": "motif",
+      "family": "maritime-emblem",
+      "group": "motif.maritime",
+      "template": "{symbol} as a {treatment} maritime motif",
+      "axes": {
+        "symbol": [
+          "shell", "compass rose", "wave crest", "lighthouse beam", "sailboat", "anchor",
+          "rope knot", "coral branch", "fish scale", "buoy stripe", "sea star", "oar pair"
+        ],
+        "treatment": [
+          "badge emblem", "tiled repeat", "border chain", "central seal",
+          "silhouette field", "line-art scatter", "mirrored pair", "ribbon crest"
+        ]
+      },
+      "traits": ["maritime-symbol", "emblem"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "motif.folk-craft-symbol",
+      "kind": "motif",
+      "family": "folk-craft-symbol",
+      "group": "motif.folk-craft",
+      "template": "{symbol} in a {treatment} folk motif",
+      "axes": {
+        "symbol": [
+          "rosette", "eight-petal flower", "woven diamond", "protective eye", "sun wheel", "bird pair",
+          "tree of life", "harvest sheaf", "mountain zigzag", "river meander", "house mark", "handprint"
+        ],
+        "treatment": [
+          "embroidered border", "painted chest panel", "woven band", "paper-cut repeat",
+          "carved medallion", "beaded strip", "stamped field", "quilt-block layout"
+        ]
+      },
+      "traits": ["folk-symbol", "craft-pattern"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "motif.mechanical-component",
+      "kind": "motif",
+      "family": "mechanical-component",
+      "group": "motif.mechanical",
+      "template": "{part} in a {arrangement} mechanical motif",
+      "axes": {
+        "arrangement": [
+          "radial repeat", "border run", "exploded cluster", "diagonal chain",
+          "central emblem", "layered grid", "corner framework", "scattered technical field"
+        ],
+        "part": [
+          "gear teeth", "spring coils", "circuit traces", "rivet rows", "bearing rings", "piston rods",
+          "dial ticks", "vent slats", "cable loops", "chain links", "bolt heads", "fan blades"
+        ]
+      },
+      "traits": ["mechanical-symbol", "technical-pattern"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "motif.scholarly-cartographic",
+      "kind": "motif",
+      "family": "scholarly-cartographic",
+      "group": "motif.cartographic",
+      "template": "{symbol} in a {arrangement} cartographic motif",
+      "axes": {
+        "arrangement": [
+          "margin border", "central diagram", "corner key", "layered field",
+          "radial index", "vertical legend", "diagonal overlay", "framed inset"
+        ],
+        "symbol": [
+          "compass ticks", "contour lines", "map grid", "coordinate marks", "measurement arrows", "annotation brackets",
+          "star chart dots", "botanical labels", "specimen numbers", "route dashes", "scale bars", "topographic rings"
+        ]
+      },
+      "traits": ["cartographic-symbol", "scholarly-mark"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "motif.celebration-scatter",
+      "kind": "motif",
+      "family": "celebration-scatter",
+      "group": "motif.celebration",
+      "template": "{element} in a {motion} celebration motif",
+      "axes": {
+        "element": [
+          "paper confetti", "ribbon curls", "lantern shapes", "firework stars", "festival flags", "paper streamers",
+          "balloon silhouettes", "flower petals", "sparkler trails", "gift bows", "rosette badges", "ticket stubs"
+        ],
+        "motion": [
+          "upward burst", "gentle fall", "spiral scatter", "border parade",
+          "central cluster", "diagonal sweep", "floating field", "corner cascade"
+        ]
+      },
+      "traits": ["celebration-symbol", "decorative-scatter"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "motif.architectural-ornament",
+      "kind": "motif",
+      "family": "architectural-ornament",
+      "group": "motif.architectural",
+      "template": "{ornament} in a {placement} architectural motif",
+      "axes": {
+        "ornament": [
+          "arched windows", "rose windows", "column capitals", "mosaic borders", "balcony rails", "roof tiles",
+          "doorway keystones", "stair balusters", "ironwork curls", "floor medallions", "brick patterns", "ceiling coffers"
+        ],
+        "placement": [
+          "facade repeat", "framing border", "central emblem", "corner detail",
+          "vertical stack", "horizontal band", "radial layout", "scattered study"
+        ]
+      },
+      "traits": ["architectural-symbol", "ornament"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "effect.particle-motion",
+      "kind": "effect",
+      "family": "particle-motion",
+      "group": "effect.particle",
+      "template": "{particle} with {motion} particle effect",
+      "axes": {
+        "motion": [
+          "slow upward drift", "fast diagonal streak", "gentle spiral motion", "shallow-focus float",
+          "radial burst", "layered crosswind", "settling fall", "orbiting trail"
+        ],
+        "particle": [
+          "gold dust", "silver motes", "paper flecks", "pollen specks", "ember sparks", "snow crystals",
+          "water droplets", "glass glitter", "chalk dust", "ink droplets", "petal fragments", "pixel motes"
+        ]
+      },
+      "traits": ["particle-effect", "motion"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "effect.optical-placement",
+      "kind": "effect",
+      "family": "optical-placement",
+      "group": "effect.optical",
+      "template": "{optic} {placement} optical effect",
+      "axes": {
+        "optic": [
+          "prismatic flare", "anamorphic flare", "starburst flare", "rainbow refraction", "lens ghosting", "soft halation",
+          "edge diffraction", "caustic rainbow", "chromatic glint", "bloom ring", "aperture bokeh", "polarized sheen"
+        ],
+        "placement": [
+          "behind the subject", "across frame center", "along silhouette edges", "in upper corners",
+          "near bright windows", "over reflective surfaces", "through foreground glass", "around point lights"
+        ]
+      },
+      "traits": ["optical-effect", "lens-treatment"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "effect.atmospheric-depth",
+      "kind": "effect",
+      "family": "atmospheric-depth",
+      "group": "effect.atmospheric",
+      "template": "{medium} with {depth} atmospheric effect",
+      "axes": {
+        "depth": [
+          "foreground clarity", "midground softening", "background washout", "layered depth bands",
+          "silhouette reveal", "low-ground pooling", "overhead diffusion", "directional drift"
+        ],
+        "medium": [
+          "thin mist", "dense fog", "sea haze", "desert dust", "rain veil", "snow haze",
+          "smoke wisps", "steam clouds", "pollen haze", "salt spray", "cool vapor", "ground-hugging vapor"
+        ]
+      },
+      "traits": ["atmospheric-effect", "depth"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "effect.emissive-surface",
+      "kind": "effect",
+      "family": "emissive-surface",
+      "group": "effect.emissive",
+      "template": "{source} with {behavior} emissive effect",
+      "axes": {
+        "behavior": [
+          "soft edge bloom", "hard core glow", "pulsing bands", "color spill",
+          "reflected glow", "haloed intersections", "fading gradient", "selective flicker"
+        ],
+        "source": [
+          "neon tubing", "glowing runes", "bioluminescent paint", "LED grid", "molten cracks", "starlit fabric",
+          "phosphor ink", "luminous glass", "electric filaments", "glowstick trails", "backlit paper", "radiant mosaic"
+        ]
+      },
+      "traits": ["emissive-effect", "glow"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "effect.distortion-region",
+      "kind": "effect",
+      "family": "distortion-region",
+      "group": "effect.distortion",
+      "template": "{distortion} {region} distortion effect",
+      "axes": {
+        "distortion": [
+          "heat-haze warp", "water-ripple warp", "glass-block refraction", "fisheye bend", "rolling-shutter skew", "datamosh smear",
+          "pixel-sorting stretch", "scanline displacement", "mirage doubling", "prism-slice offset", "paper-fold warp", "magnetic-field bend"
+        ],
+        "region": [
+          "at frame edges", "behind the subject", "through the background", "across reflections",
+          "inside a circular mask", "along a diagonal band", "within shadow regions", "around bright objects"
+        ]
+      },
+      "traits": ["distortion-effect", "spatial-treatment"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "effect.analog-artifact",
+      "kind": "effect",
+      "family": "analog-artifact",
+      "group": "effect.analog",
+      "template": "{artifact} with {treatment} analog effect",
+      "axes": {
+        "artifact": [
+          "film grain", "paper grain", "ink misregistration", "halftone dots", "screenprint bleed", "photocopy noise",
+          "tape tracking lines", "dust scratches", "light leaks", "chemical stains", "paper fiber noise", "print roller marks"
+        ],
+        "treatment": [
+          "subtle presence", "moderate presence", "bold presence", "localized edge emphasis",
+          "selective background use", "layered handmade variation", "clean masked use", "rhythmic repeated use"
+        ]
+      },
+      "traits": ["analog-effect", "artifact-texture"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "effect.abstract-energy",
+      "kind": "effect",
+      "family": "abstract-energy",
+      "group": "effect.energy",
+      "template": "{form} with {motion} abstract energy effect",
+      "axes": {
+        "form": [
+          "ribbon energy", "ring energy", "arc energy", "spiral energy", "wavefront energy", "threadlike energy",
+          "geometric energy", "calligraphic energy", "constellation energy", "petal-shaped energy", "grid energy", "smoke-like energy"
+        ],
+        "motion": [
+          "coiling motion", "expanding pulse", "converging flow", "orbiting motion",
+          "upward surge", "downward cascade", "cross-frame sweep", "quiet suspended motion"
+        ]
+      },
+      "traits": ["energy-effect", "abstract-motion"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "effect.water-lighting",
+      "kind": "effect",
+      "family": "water-lighting",
+      "group": "effect.water",
+      "template": "{water} with {treatment} water effect",
+      "axes": {
+        "treatment": [
+          "backlit treatment", "side-lit treatment", "moonlit treatment", "sunlit treatment",
+          "high-speed frozen treatment", "soft long-exposure treatment", "shallow-focus treatment", "silhouette-cutting treatment"
+        ],
+        "water": [
+          "droplet spray", "sheeting water", "breaking wave", "rising bubbles", "falling rain", "fountain mist",
+          "shore foam", "puddle ripples", "stream eddies", "pouring water", "splash crown", "waterfall veil"
+        ]
+      },
+      "traits": ["water-effect", "light-response"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "effect.weather-flow",
+      "kind": "effect",
+      "family": "weather-flow",
+      "group": "effect.weather",
+      "template": "{weather} in {direction} weather effect",
+      "axes": {
+        "direction": [
+          "vertical fall", "leftward slant", "rightward slant", "foreground crosswind",
+          "background drift", "spiral gust", "radial burst", "layered depth flow"
+        ],
+        "weather": [
+          "fine rain", "heavy rain", "powder snow", "windblown snow", "soft hail", "autumn leaves",
+          "sand gusts", "sea spray", "ice crystals", "sunshower drops", "storm debris", "spring petals"
+        ]
+      },
+      "traits": ["weather-effect", "directional-motion"],
+      "maxCombinations": 96
+    },
+    {
+      "id": "effect.reveal-transition",
+      "kind": "effect",
+      "family": "reveal-transition",
+      "group": "effect.transition",
+      "template": "{reveal} with {boundary} reveal effect",
+      "axes": {
+        "boundary": [
+          "soft feathered boundary", "crisp graphic boundary", "irregular handmade boundary", "diagonal moving boundary",
+          "radial expanding boundary", "center-out boundary", "edge-in boundary", "layered staggered boundary"
+        ],
+        "reveal": [
+          "ink bloom", "watercolor wash", "paper tear", "paint wipe", "pixel dissolve", "mosaic dissolve",
+          "smoke reveal", "light sweep", "shadow wipe", "frost spread", "sand scatter", "thread unravel"
+        ]
+      },
+      "traits": ["transition-effect", "reveal"],
+      "maxCombinations": 96
+    }
+  ]
+}

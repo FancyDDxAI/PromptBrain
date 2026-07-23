@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "packId": "phase7.example-art-direction",
+  "source": "phase-7-human-curated-example",
+  "defaults": {
+    "contentMode": "sfw",
+    "bases": [
+      "SDXL"
+    ],
+    "priority": 8,
+    "traits": [
+      "art-direction"
+    ]
+  },
+  "entries": [
+    {
+      "kind": "style",
+      "prompt": "layered paper-cut shadowbox anime illustration",
+      "aliases": [
+        "paper-cut shadowbox anime",
+        "layered paper theater style"
+      ],
+      "family": "paper-shadowbox"
+    },
+    {
+      "kind": "composition",
+      "prompt": "foreground paper layers framing a luminous central subject",
+      "aliases": [
+        "layered paper foreground frame"
+      ],
+      "group": "composition.primary",
+      "family": "paper-shadowbox"
+    }
+  ],
+  "matrices": [
+    {
+      "id": "pearlescent-edge-light",
+      "kind": "lighting",
+      "family": "pearlescent-edge-light",
+      "template": "{temperature} pearlescent {direction}",
+      "aliasTemplates": [
+        "{temperature} pearl {direction}"
+      ],
+      "axes": {
+        "temperature": [
+          "cobalt",
+          "amber",
+          "magenta"
+        ],
+        "direction": [
+          "edge illumination",
+          "window spill"
+        ]
+      },
+      "exclude": [
+        {
+          "temperature": "magenta",
+          "direction": "window spill"
+        }
+      ],
+      "maxCombinations": 8
+    }
+  ]
+}

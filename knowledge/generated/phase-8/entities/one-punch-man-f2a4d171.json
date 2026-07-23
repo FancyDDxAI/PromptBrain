@@ -1,0 +1,252 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Fubuki",
+        "Fubuki (One-Punch Man)"
+      ],
+      "id": "character.one-punch-man.fubuki",
+      "kind": "named-character",
+      "name": "Fubuki",
+      "namespace": "One-Punch Man",
+      "promptTags": [
+        "Fubuki",
+        "One-Punch Man",
+        "female",
+        "esper hero"
+      ],
+      "provenance": {
+        "groupId": "one-punch-man",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "esper",
+        "hero"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Garou",
+        "Garou (One-Punch Man)"
+      ],
+      "id": "character.one-punch-man.garou",
+      "kind": "named-character",
+      "name": "Garou",
+      "namespace": "One-Punch Man",
+      "promptTags": [
+        "Garou",
+        "One-Punch Man",
+        "male",
+        "martial artist"
+      ],
+      "provenance": {
+        "groupId": "one-punch-man",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "martial-artist",
+        "antagonist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Genos",
+        "Genos (One-Punch Man)"
+      ],
+      "id": "character.one-punch-man.genos",
+      "kind": "named-character",
+      "name": "Genos",
+      "namespace": "One-Punch Man",
+      "promptTags": [
+        "Genos",
+        "One-Punch Man",
+        "male",
+        "cyborg hero"
+      ],
+      "provenance": {
+        "groupId": "one-punch-man",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "cyborg",
+        "hero"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Mumen Rider",
+        "Mumen Rider (One-Punch Man)"
+      ],
+      "id": "character.one-punch-man.mumen-rider",
+      "kind": "named-character",
+      "name": "Mumen Rider",
+      "namespace": "One-Punch Man",
+      "promptTags": [
+        "Mumen Rider",
+        "One-Punch Man",
+        "male",
+        "pro hero"
+      ],
+      "provenance": {
+        "groupId": "one-punch-man",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "hero"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Saitama",
+        "Saitama (One-Punch Man)"
+      ],
+      "id": "character.one-punch-man.saitama",
+      "kind": "named-character",
+      "name": "Saitama",
+      "namespace": "One-Punch Man",
+      "promptTags": [
+        "Saitama",
+        "One-Punch Man",
+        "male",
+        "pro hero"
+      ],
+      "provenance": {
+        "groupId": "one-punch-man",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "hero"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Speed-o'-Sound Sonic",
+        "Speed-o'-Sound Sonic (One-Punch Man)"
+      ],
+      "id": "character.one-punch-man.speed-o-sound-sonic",
+      "kind": "named-character",
+      "name": "Speed-o'-Sound Sonic",
+      "namespace": "One-Punch Man",
+      "promptTags": [
+        "Speed-o'-Sound Sonic",
+        "One-Punch Man",
+        "male",
+        "ninja"
+      ],
+      "provenance": {
+        "groupId": "one-punch-man",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "ninja",
+        "rival"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Tatsumaki",
+        "Tatsumaki (One-Punch Man)"
+      ],
+      "id": "character.one-punch-man.tatsumaki",
+      "kind": "named-character",
+      "name": "Tatsumaki",
+      "namespace": "One-Punch Man",
+      "promptTags": [
+        "Tatsumaki",
+        "One-Punch Man",
+        "female",
+        "esper hero"
+      ],
+      "provenance": {
+        "groupId": "one-punch-man",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "esper",
+        "hero"
+      ]
+    }
+  ],
+  "fingerprint": "10efa654735321ea64871cad0288d1d84e3fcdc5632f273c4468b6df8e4bc596",
+  "namespace": "One-Punch Man",
+  "schemaVersion": 2
+}

@@ -1,0 +1,254 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Gakushu Asano",
+        "Gakushu Asano (Assassination Classroom)"
+      ],
+      "id": "character.assassination-classroom.gakushu-asano",
+      "kind": "named-character",
+      "name": "Gakushu Asano",
+      "namespace": "Assassination Classroom",
+      "promptTags": [
+        "Gakushu Asano",
+        "Assassination Classroom",
+        "male",
+        "student council president"
+      ],
+      "provenance": {
+        "groupId": "assassination-classroom",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "student",
+        "leader"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Irina Jelavic",
+        "Irina Jelavic (Assassination Classroom)"
+      ],
+      "id": "character.assassination-classroom.irina-jelavic",
+      "kind": "named-character",
+      "name": "Irina Jelavic",
+      "namespace": "Assassination Classroom",
+      "promptTags": [
+        "Irina Jelavic",
+        "Assassination Classroom",
+        "female",
+        "assassin teacher"
+      ],
+      "provenance": {
+        "groupId": "assassination-classroom",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "assassin",
+        "teacher"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kaede Kayano",
+        "Kaede Kayano (Assassination Classroom)"
+      ],
+      "id": "character.assassination-classroom.kaede-kayano",
+      "kind": "named-character",
+      "name": "Kaede Kayano",
+      "namespace": "Assassination Classroom",
+      "promptTags": [
+        "Kaede Kayano",
+        "Assassination Classroom",
+        "female",
+        "student assassin"
+      ],
+      "provenance": {
+        "groupId": "assassination-classroom",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student",
+        "assassin"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Karma Akabane",
+        "Karma Akabane (Assassination Classroom)"
+      ],
+      "id": "character.assassination-classroom.karma-akabane",
+      "kind": "named-character",
+      "name": "Karma Akabane",
+      "namespace": "Assassination Classroom",
+      "promptTags": [
+        "Karma Akabane",
+        "Assassination Classroom",
+        "male",
+        "student assassin"
+      ],
+      "provenance": {
+        "groupId": "assassination-classroom",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "student",
+        "assassin"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Koro-sensei",
+        "Koro-sensei (Assassination Classroom)"
+      ],
+      "id": "character.assassination-classroom.koro-sensei",
+      "kind": "named-character",
+      "name": "Koro-sensei",
+      "namespace": "Assassination Classroom",
+      "promptTags": [
+        "Koro-sensei",
+        "Assassination Classroom",
+        "male",
+        "teacher"
+      ],
+      "provenance": {
+        "groupId": "assassination-classroom",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "teacher",
+        "target"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Nagisa Shiota",
+        "Nagisa Shiota (Assassination Classroom)"
+      ],
+      "id": "character.assassination-classroom.nagisa-shiota",
+      "kind": "named-character",
+      "name": "Nagisa Shiota",
+      "namespace": "Assassination Classroom",
+      "promptTags": [
+        "Nagisa Shiota",
+        "Assassination Classroom",
+        "male",
+        "student assassin"
+      ],
+      "provenance": {
+        "groupId": "assassination-classroom",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "student",
+        "assassin"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Tadaomi Karasuma",
+        "Tadaomi Karasuma (Assassination Classroom)"
+      ],
+      "id": "character.assassination-classroom.tadaomi-karasuma",
+      "kind": "named-character",
+      "name": "Tadaomi Karasuma",
+      "namespace": "Assassination Classroom",
+      "promptTags": [
+        "Tadaomi Karasuma",
+        "Assassination Classroom",
+        "male",
+        "government agent teacher"
+      ],
+      "provenance": {
+        "groupId": "assassination-classroom",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "agent",
+        "teacher"
+      ]
+    }
+  ],
+  "fingerprint": "22a849dd0bdd1bb4f7b67ba1ddaeee24865d32a1fad375f5c8ad95aa5fa0f811",
+  "namespace": "Assassination Classroom",
+  "schemaVersion": 2
+}

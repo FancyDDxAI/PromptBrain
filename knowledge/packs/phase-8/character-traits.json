@@ -1,0 +1,388 @@
+{
+  "schemaVersion": 1,
+  "packId": "phase8.character-traits",
+  "source": "phase-8-authored-character-traits",
+  "defaults": {
+    "contentMode": "sfw",
+    "priority": 14,
+    "traits": ["character-traits", "phase-8", "authored"]
+  },
+  "entries": [
+    {
+      "id": "phase8.traits.anatomy.cat-ears",
+      "kind": "anatomy",
+      "prompt": "cat ears",
+      "aliases": ["feline ears", "neko ears"],
+      "group": "anatomy.ears",
+      "family": "beastman-feline",
+      "traits": ["race:feline", "ears"]
+    },
+    {
+      "id": "phase8.traits.anatomy.cat-tail",
+      "kind": "anatomy",
+      "prompt": "cat tail",
+      "aliases": ["feline tail", "neko tail"],
+      "group": "anatomy.tail",
+      "family": "beastman-feline",
+      "traits": ["race:feline", "tail"]
+    },
+    {
+      "id": "phase8.traits.anatomy.slit-pupils",
+      "kind": "anatomy",
+      "prompt": "slit pupils",
+      "aliases": ["vertical pupils", "feline pupils"],
+      "group": "anatomy.pupils",
+      "family": "eye-pupils",
+      "traits": ["race:feline", "race:draconic", "eyes", "pupils"]
+    },
+    {
+      "id": "phase8.traits.anatomy.small-fangs",
+      "kind": "anatomy",
+      "prompt": "small fangs",
+      "aliases": ["fangs", "pointed canines"],
+      "group": "anatomy.mouth",
+      "family": "beastman-shared",
+      "traits": ["fangs"]
+    },
+    {
+      "id": "phase8.traits.anatomy.fox-ears",
+      "kind": "anatomy",
+      "prompt": "fox ears",
+      "aliases": ["kitsune ears", "vulpine ears"],
+      "group": "anatomy.ears",
+      "family": "beastman-vulpine",
+      "traits": ["race:vulpine", "ears"]
+    },
+    {
+      "id": "phase8.traits.anatomy.wolf-ears",
+      "kind": "anatomy",
+      "prompt": "wolf ears",
+      "aliases": ["lupine ears"],
+      "group": "anatomy.ears",
+      "family": "beastman-lupine",
+      "traits": ["race:lupine", "ears"]
+    },
+    {
+      "id": "phase8.traits.anatomy.rabbit-ears",
+      "kind": "anatomy",
+      "prompt": "long rabbit ears",
+      "aliases": ["bunny ears", "rabbit ears"],
+      "group": "anatomy.ears",
+      "family": "beastman-leporine",
+      "traits": ["race:leporine", "ears"]
+    },
+    {
+      "id": "phase8.traits.anatomy.rabbit-tail",
+      "kind": "anatomy",
+      "prompt": "round cotton tail",
+      "aliases": ["bunny tail", "cotton tail"],
+      "group": "anatomy.tail",
+      "family": "beastman-leporine",
+      "traits": ["race:leporine", "tail"]
+    },
+
+    {
+      "id": "phase8.traits.subject.cat-girl",
+      "kind": "subject",
+      "prompt": "cat girl",
+      "aliases": ["catgirl", "nekomimi", "neko girl", "cat-eared girl", "feline girl"],
+      "group": "subject.beastman",
+      "family": "beastman-feline",
+      "priority": 20,
+      "traits": ["female", "race:feline", "beastman"],
+      "requires": [
+        "phase8.traits.anatomy.cat-ears"
+      ]
+    },
+    {
+      "id": "phase8.traits.subject.fox-girl",
+      "kind": "subject",
+      "prompt": "fox girl",
+      "aliases": ["foxgirl", "kitsune girl", "vulpine girl"],
+      "group": "subject.beastman",
+      "family": "beastman-vulpine",
+      "priority": 20,
+      "traits": ["female", "race:vulpine", "beastman"],
+      "requires": [
+        "phase8.traits.anatomy.fox-ears",
+        "curated.anatomy.fluffy-fox-tail"
+      ]
+    },
+    {
+      "id": "phase8.traits.subject.wolf-girl",
+      "kind": "subject",
+      "prompt": "wolf girl",
+      "aliases": ["wolfgirl", "lupine girl"],
+      "group": "subject.beastman",
+      "family": "beastman-lupine",
+      "priority": 20,
+      "traits": ["female", "race:lupine", "beastman"],
+      "requires": [
+        "phase8.traits.anatomy.wolf-ears",
+        "curated.anatomy.wolf-tail"
+      ]
+    },
+    {
+      "id": "phase8.traits.subject.bunny-girl",
+      "kind": "subject",
+      "prompt": "woman wearing a bunny suit",
+      "aliases": ["bunny girl", "bunnygirl", "bunny costume", "bunny suit"],
+      "group": "subject.costume",
+      "family": "bunny-costume",
+      "priority": 20,
+      "traits": ["female", "costume", "bunny-suit"]
+    },
+    {
+      "id": "phase8.traits.subject.rabbit-woman",
+      "kind": "subject",
+      "prompt": "rabbit woman",
+      "aliases": ["rabbit girl", "usagi girl", "leporine woman", "rabbit-person woman"],
+      "group": "subject.beastman",
+      "family": "beastman-leporine",
+      "priority": 20,
+      "traits": ["female", "race:leporine", "beastman"],
+      "requires": [
+        "phase8.traits.anatomy.rabbit-ears",
+        "phase8.traits.anatomy.rabbit-tail"
+      ]
+    },
+    {
+      "id": "phase8.traits.anatomy.black-sclera",
+      "kind": "anatomy",
+      "prompt": "black sclera",
+      "aliases": ["black eye whites", "blackened sclera", "dark sclera"],
+      "group": "anatomy.eye-sclera",
+      "family": "eye-sclera",
+      "traits": ["eyes", "sclera", "horror"]
+    },
+    {
+      "id": "phase8.traits.anatomy.red-ringed-pupils",
+      "kind": "anatomy",
+      "prompt": "red ringed hypnotic pupils",
+      "aliases": ["hypnotic eyes", "ringed pupils", "spiral pupils", "hypnotic pupils"],
+      "group": "anatomy.pupils",
+      "family": "eye-pupils",
+      "traits": ["eyes", "pupils", "horror"]
+    },
+    {
+      "id": "phase8.traits.anatomy.glowing-eyes",
+      "kind": "anatomy",
+      "prompt": "faintly glowing eyes",
+      "aliases": ["glowing eyes", "luminous eyes"],
+      "group": "anatomy.eye-finish",
+      "family": "eye-finish",
+      "traits": ["eyes", "finish"]
+    },
+    {
+      "id": "phase8.traits.anatomy.detailed-iris",
+      "kind": "anatomy",
+      "prompt": "detailed iris with inner light",
+      "aliases": ["detailed iris", "intricate iris", "detailed eyes"],
+      "group": "anatomy.eye-finish",
+      "family": "eye-finish",
+      "traits": ["eyes", "finish"]
+    },
+    {
+      "id": "phase8.traits.anatomy.heterochromia-red-gold",
+      "kind": "anatomy",
+      "prompt": "heterochromia, one red eye and one gold eye",
+      "aliases": ["heterochromia", "odd eyes", "mismatched eyes"],
+      "group": "anatomy.eye-colour",
+      "family": "eye-colour",
+      "traits": ["eyes", "colour"]
+    },
+    {
+      "id": "phase8.traits.anatomy.golden-eyes",
+      "kind": "anatomy",
+      "prompt": "golden eyes",
+      "aliases": ["gold eyes", "amber eyes", "yellow eyes"],
+      "group": "anatomy.eye-colour",
+      "family": "eye-colour",
+      "traits": ["eyes", "colour"]
+    },
+    {
+      "id": "phase8.traits.anatomy.violet-eyes",
+      "kind": "anatomy",
+      "prompt": "violet eyes",
+      "aliases": ["purple eyes", "amethyst eyes"],
+      "group": "anatomy.eye-colour",
+      "family": "eye-colour",
+      "traits": ["eyes", "colour"]
+    },
+    {
+      "id": "phase8.traits.anatomy.crimson-eyes",
+      "kind": "anatomy",
+      "prompt": "deep red eyes",
+      "aliases": ["red eyes", "crimson eyes"],
+      "group": "anatomy.eye-colour",
+      "family": "eye-colour",
+      "traits": ["eyes", "colour"]
+    },
+    {
+      "id": "phase8.traits.anatomy.emerald-eyes",
+      "kind": "anatomy",
+      "prompt": "emerald green eyes",
+      "aliases": ["green eyes", "emerald eyes"],
+      "group": "anatomy.eye-colour",
+      "family": "eye-colour",
+      "traits": ["eyes", "colour"]
+    },
+    {
+      "id": "phase8.traits.anatomy.tsurime",
+      "kind": "anatomy",
+      "prompt": "sharp upturned eyes",
+      "aliases": ["tsurime", "sharp eyes"],
+      "group": "anatomy.eye-shape",
+      "family": "eye-shape",
+      "traits": ["eyes", "shape"],
+      "conflicts": ["phase8.traits.anatomy.tareme"]
+    },
+    {
+      "id": "phase8.traits.anatomy.tareme",
+      "kind": "anatomy",
+      "prompt": "soft downturned eyes",
+      "aliases": ["tareme", "droopy eyes"],
+      "group": "anatomy.eye-shape",
+      "family": "eye-shape",
+      "traits": ["eyes", "shape"],
+      "conflicts": ["phase8.traits.anatomy.tsurime"]
+    },
+    {
+      "id": "phase8.traits.anatomy.half-lidded-eyes",
+      "kind": "anatomy",
+      "prompt": "half-lidded eyes",
+      "aliases": ["sleepy eyes", "lidded gaze"],
+      "group": "anatomy.eye-shape",
+      "family": "eye-shape",
+      "traits": ["eyes", "shape"]
+    },
+
+    {
+      "id": "phase8.traits.anatomy.hime-cut",
+      "kind": "anatomy",
+      "prompt": "hime cut",
+      "aliases": ["hime haircut", "princess cut"],
+      "group": "anatomy.hair-style",
+      "family": "hair-style",
+      "traits": ["hair", "style"]
+    },
+    {
+      "id": "phase8.traits.anatomy.short-bob",
+      "kind": "anatomy",
+      "prompt": "short bob",
+      "aliases": ["bob cut", "bob"],
+      "group": "anatomy.hair-style",
+      "family": "hair-style",
+      "traits": ["hair", "style"]
+    },
+    {
+      "id": "phase8.traits.anatomy.long-wavy-hair",
+      "kind": "anatomy",
+      "prompt": "long wavy hair",
+      "aliases": ["wavy hair", "long waves"],
+      "group": "anatomy.hair-style",
+      "family": "hair-style",
+      "traits": ["hair", "style"]
+    },
+    {
+      "id": "phase8.traits.anatomy.twin-tails",
+      "kind": "anatomy",
+      "prompt": "twin tails",
+      "aliases": ["twintails", "pigtails"],
+      "group": "anatomy.hair-style",
+      "family": "hair-style",
+      "traits": ["hair", "style"]
+    },
+    {
+      "id": "phase8.traits.anatomy.messy-shoulder-length-hair",
+      "kind": "anatomy",
+      "prompt": "messy shoulder-length hair",
+      "aliases": ["shoulder length hair", "messy hair"],
+      "group": "anatomy.hair-style",
+      "family": "hair-style",
+      "traits": ["hair", "style"]
+    },
+    {
+      "id": "phase8.traits.anatomy.white-hair",
+      "kind": "anatomy",
+      "prompt": "white hair",
+      "aliases": ["snow white hair", "platinum hair"],
+      "group": "anatomy.hair-colour",
+      "family": "hair-colour",
+      "traits": ["hair", "colour"]
+    },
+    {
+      "id": "phase8.traits.anatomy.black-hair",
+      "kind": "anatomy",
+      "prompt": "black hair",
+      "aliases": ["jet black hair", "raven hair"],
+      "group": "anatomy.hair-colour",
+      "family": "hair-colour",
+      "traits": ["hair", "colour"]
+    },
+    {
+      "id": "phase8.traits.anatomy.auburn-hair",
+      "kind": "anatomy",
+      "prompt": "auburn red hair",
+      "aliases": ["auburn hair", "russet hair"],
+      "group": "anatomy.hair-colour",
+      "family": "hair-colour",
+      "traits": ["hair", "colour"]
+    },
+    {
+      "id": "phase8.traits.anatomy.dark-purple-hair",
+      "kind": "anatomy",
+      "prompt": "dark purple hair",
+      "aliases": ["dark violet hair", "purple hair"],
+      "group": "anatomy.hair-colour",
+      "family": "hair-colour",
+      "traits": ["hair", "colour"]
+    },
+    {
+      "id": "phase8.traits.anatomy.champagne-blonde-hair",
+      "kind": "anatomy",
+      "prompt": "champagne blonde hair",
+      "aliases": ["blonde hair", "champagne hair"],
+      "group": "anatomy.hair-colour",
+      "family": "hair-colour",
+      "traits": ["hair", "colour"]
+    },
+
+    {
+      "id": "phase8.traits.environment.engawa-dusk",
+      "kind": "environment",
+      "prompt": "wooden engawa veranda facing a dim garden at dusk",
+      "aliases": ["engawa", "veranda", "japanese porch"],
+      "group": "environment.japanese",
+      "family": "japanese-domestic",
+      "traits": ["environment", "japanese", "time:dusk"]
+    },
+    {
+      "id": "phase8.traits.environment.photo-studio",
+      "kind": "environment",
+      "prompt": "seamless studio backdrop",
+      "aliases": ["photo studio", "studio backdrop"],
+      "group": "environment.studio",
+      "family": "studio",
+      "traits": ["environment", "studio"]
+    },
+    {
+      "id": "phase8.traits.environment.neon-street-night",
+      "kind": "environment",
+      "prompt": "rain-slick neon street at night",
+      "aliases": ["neon street", "night street", "city street at night"],
+      "group": "environment.urban",
+      "family": "urban-night",
+      "traits": ["environment", "urban", "time:night"]
+    },
+    {
+      "id": "phase8.traits.wardrobe.techwear",
+      "kind": "wardrobe",
+      "prompt": "layered technical techwear with utility straps",
+      "aliases": ["techwear", "tech wear", "technical outerwear"],
+      "group": "wardrobe.modern",
+      "family": "modern-street",
+      "traits": ["wardrobe", "modern"]
+    }
+  ]
+}

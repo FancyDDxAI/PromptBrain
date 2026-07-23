@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "packType": "recipes",
+  "packId": "phase8.character-staging-recipes",
+  "source": "phase-9-authored-character-staging",
+  "families": [
+    {
+      "id": "phase9.staging.grounded-portrait",
+      "name": "Grounded Character Portrait",
+      "category": "character-staging",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "priority": 40,
+      "requiredSlots": ["pose", "wardrobe", "lighting", "camera", "composition", "palette"],
+      "ingredientSelectors": {
+        "pose": {
+          "groups": ["character-performance.pose.standing"],
+          "traitsAll": ["character-performance", "sfw", "static-pose", "standing"]
+        },
+        "wardrobe": {
+          "groups": ["wardrobe.complete-outfit.layering-style"],
+          "traitsAll": ["wardrobe", "sfw", "complete-outfit"],
+          "count": 1
+        },
+        "lighting": {
+          "groups": ["lighting.cinematic-source"],
+          "promptIncludes": ["window daylight", "softbox array", "ceiling skylight"]
+        },
+        "camera": {
+          "groups": ["camera.lens"],
+          "promptIncludes": ["85mm", "105mm", "135mm"]
+        },
+        "composition": { "groups": ["composition.portrait"] },
+        "palette": { "groups": ["palette.soft-color"] }
+      },
+      "triggers": ["character portrait", "portrait of", "standing portrait", "grounded portrait staging"],
+      "signals": ["readable silhouette", "clear facial performance", "coherent wardrobe"]
+    },
+    {
+      "id": "phase9.staging.combat-stance",
+      "name": "Combat Ready Stance",
+      "category": "character-staging",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "priority": 40,
+      "requiredSlots": ["pose", "wardrobe", "camera", "composition", "palette", "effects"],
+      "ingredientSelectors": {
+        "pose": {
+          "groups": ["character-performance.pose.combat-ready"],
+          "traitsAll": ["character-performance", "sfw", "combat-ready"]
+        },
+        "wardrobe": {
+          "groups": ["wardrobe.complete-outfit.armor"],
+          "traitsAll": ["wardrobe", "sfw", "complete-outfit"],
+          "count": 1
+        },
+        "camera": {
+          "groups": ["camera.angle"],
+          "promptIncludes": ["low angle", "dynamic", "three-quarter"]
+        },
+        "composition": { "groups": ["composition.flow"] },
+        "palette": { "groups": ["palette.cinematic"] },
+        "effects": { "groups": ["effect.energy"], "count": 2 }
+      },
+      "triggers": ["combat stance", "battle ready", "fight scene staging", "combat ready staging"],
+      "signals": ["weighted stance", "committed guard", "readable threat line"]
+    },
+    {
+      "id": "phase9.staging.quiet-interior-moment",
+      "name": "Quiet Interior Moment",
+      "category": "character-staging",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "priority": 40,
+      "requiredSlots": ["pose", "wardrobe", "environment", "composition", "palette"],
+      "ingredientSelectors": {
+        "pose": {
+          "groups": ["character-performance.pose.seated"],
+          "traitsAll": ["character-performance", "sfw", "static-pose"]
+        },
+        "wardrobe": {
+          "groups": ["wardrobe.complete-outfit.layering-style"],
+          "traitsAll": ["wardrobe", "sfw", "complete-outfit"],
+          "count": 1
+        },
+        "environment": {
+          "groups": ["environment.interior"],
+          "promptIncludes": ["cozy reading room", "minimalist bedroom", "public library hall", "artist studio interior"]
+        },
+        "composition": { "groups": ["composition.negative-space"] },
+        "palette": { "groups": ["palette.soft-color"] }
+      },
+      "triggers": ["quiet interior moment", "sitting indoors", "calm indoor scene", "quiet moment staging"],
+      "signals": ["settled weight", "inward attention", "lived-in room"]
+    },
+    {
+      "id": "phase9.staging.editorial-studio-figure",
+      "name": "Editorial Studio Figure",
+      "category": "character-staging",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "priority": 40,
+      "requiredSlots": ["pose", "wardrobe", "lighting", "composition", "palette", "camera"],
+      "ingredientSelectors": {
+        "pose": {
+          "groups": ["character-performance.pose.body-language"],
+          "traitsAll": ["character-performance", "sfw", "static-pose"]
+        },
+        "wardrobe": {
+          "groups": ["wardrobe.complete-outfit.layering-style"],
+          "traitsAll": ["wardrobe", "sfw", "complete-outfit"],
+          "count": 1
+        },
+        "lighting": {
+          "groups": ["lighting.cinematic-source"],
+          "promptIncludes": ["softbox array", "window daylight"]
+        },
+        "camera": {
+          "groups": ["camera.lens"],
+          "promptIncludes": ["85mm", "105mm"]
+        },
+        "composition": { "groups": ["composition.symmetry"] },
+        "palette": { "groups": ["palette.monochrome"] }
+      },
+      "triggers": ["editorial studio figure", "studio fashion figure", "editorial figure staging"],
+      "signals": ["deliberate posture", "styled silhouette", "controlled studio light"]
+    },
+    {
+      "id": "phase9.staging.field-adventure",
+      "name": "Field Adventure Staging",
+      "category": "character-staging",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "priority": 40,
+      "requiredSlots": ["action", "environment", "camera"],
+      "ingredientSelectors": {
+        "action": {
+          "groups": ["character-performance.action.movement"],
+          "traitsAll": ["character-performance", "sfw", "dynamic"]
+        },
+        "environment": {
+          "groups": ["environment.natural"],
+          "traitsAll": ["scene-craft", "environment"]
+        },
+        "camera": {
+          "groups": ["camera.lens"],
+          "promptIncludes": ["21mm", "35mm", "24mm"]
+        }
+      },
+      "triggers": ["field adventure staging", "travelling outdoors", "expedition scene"],
+      "signals": ["forward momentum", "weather-appropriate kit", "open terrain"]
+    },
+    {
+      "id": "phase9.staging.street-candid",
+      "name": "Street Candid",
+      "category": "character-staging",
+      "variants": 24,
+      "contentModes": ["sfw"],
+      "priority": 40,
+      "requiredSlots": ["pose", "wardrobe", "environment", "composition", "effects"],
+      "ingredientSelectors": {
+        "pose": {
+          "groups": ["character-performance.pose.leaning"],
+          "traitsAll": ["character-performance", "sfw", "static-pose"]
+        },
+        "wardrobe": {
+          "groups": ["wardrobe.complete-outfit.layering-style"],
+          "traitsAll": ["wardrobe", "sfw", "complete-outfit"],
+          "count": 1
+        },
+        "environment": {
+          "groups": ["environment.urban"],
+          "traitsAll": ["scene-craft", "environment"]
+        },
+        "composition": { "groups": ["composition.negative-space"] },
+        "effects": { "groups": ["effect.analog"], "count": 1 }
+      },
+      "triggers": ["street candid", "candid street scene", "street candid staging"],
+      "signals": ["relaxed weight", "urban texture", "available light"]
+    }
+  ]
+}

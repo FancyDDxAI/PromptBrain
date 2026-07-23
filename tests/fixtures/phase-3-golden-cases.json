@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 2,
+  "checkpointId": "waiIllustriousXL",
+  "cases": [
+    {
+      "id": "artistic-graphic-oni",
+      "input": "make it artistic: an oni woman with black white and red graphic design",
+      "mustResolve": ["oni woman", "black white red palette", "graphic composition"],
+      "mustPlan": ["composition", "palette", "lighting", "motifs"],
+      "mustNotContain": ["it artistic:", "rainbow palette"]
+    },
+    {
+      "id": "ukiyoe-miqote",
+      "input": "Miqote woman in a purple kimono, ukiyo-e portrait with Hokusai waves",
+      "mustResolve": ["Miqote woman", "purple kimono", "ukiyo-e"],
+      "mustPlan": ["medium", "decorative composition", "controlled negative space"],
+      "mustNotContain": ["soft studio portrait default"]
+    },
+    {
+      "id": "overhead-horror-oni",
+      "input": "horror oni woman from above inside a ring of blood",
+      "mustResolve": ["oni woman", "from above", "ring of blood"],
+      "mustPlan": ["overhead composition", "horror palette", "symbolic framing"],
+      "mustNotContain": ["from below", "cheerful pastel palette"]
+    },
+    {
+      "id": "cinematic-eren-action",
+      "input": "Eren Yeager flying through a city using ODM gear at sunset",
+      "mustResolve": ["Eren Yeager", "Attack on Titan", "ODM gear"],
+      "mustPlan": ["airborne action", "foreshortening", "city depth", "sunset rim light"],
+      "mustNotContain": ["standing still", "studio backdrop"]
+    },
+    {
+      "id": "generic-dragon-girl",
+      "input": "dragon girl fighting in ancient ruins",
+      "mustResolve": ["generic dragon girl", "combat", "ancient ruins"],
+      "mustPlan": ["action pose", "environment", "camera"],
+      "mustNotContain": ["Tohru", "Miss Kobayashi's Dragon Maid"]
+    },
+    {
+      "id": "dragon-ball-namespace",
+      "input": "Android 18 from Dragon Ball fighting in a ruined city",
+      "mustResolve": ["Android 18", "Dragon Ball", "combat"],
+      "mustPlan": ["action pose", "ruined city", "impact composition"],
+      "mustNotContain": ["dragon horns", "dragon tail", "dragon wings"]
+    },
+    {
+      "id": "explicit-camera-lock",
+      "input": "adult demon woman in a neon hotel room, low angle, dutch tilt, close-up",
+      "contentMode": "adult",
+      "mustResolve": ["adult demon woman", "neon hotel room"],
+      "mustPlan": ["low angle", "dutch tilt", "close-up"],
+      "mustNotContain": ["from above", "wide establishing shot"]
+    },
+    {
+      "id": "negative-instruction",
+      "input": "an ice elf charging with a spear, no cape, no close-up",
+      "mustResolve": ["ice elf", "charging", "spear"],
+      "mustPlan": ["dynamic action", "wider framing"],
+      "mustNotContain": ["cape", "close-up"]
+    },
+    {
+      "id": "checkpoint-ordering",
+      "input": "mouse woman in a moonlit bedroom with cinematic lighting",
+      "mustResolve": ["mouse woman", "moonlit bedroom"],
+      "mustPlan": ["lighting", "environment"],
+      "assertions": ["quality and style precede subject", "camera does not precede action"]
+    },
+    {
+      "id": "seeded-variation",
+      "input": "artistic fantasy swordswoman on a rooftop",
+      "seed": 481516,
+      "mustPlan": ["art recipe", "action", "camera", "environment"],
+      "assertions": ["same seed produces identical plan", "different seed may vary only unlocked choices"]
+    }
+  ]
+}

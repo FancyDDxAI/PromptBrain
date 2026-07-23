@@ -1,0 +1,220 @@
+{
+  "count": 6,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Hitori Gotoh",
+        "Hitori Gotoh (Bocchi the Rock!)"
+      ],
+      "id": "character.bocchi-the-rock.hitori-gotoh",
+      "kind": "named-character",
+      "name": "Hitori Gotoh",
+      "namespace": "Bocchi the Rock!",
+      "promptTags": [
+        "Hitori Gotoh",
+        "Bocchi the Rock!",
+        "female",
+        "guitarist"
+      ],
+      "provenance": {
+        "groupId": "bocchi-the-rock",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "protagonist",
+        "musician",
+        "guitarist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Ikuyo Kita",
+        "Ikuyo Kita (Bocchi the Rock!)"
+      ],
+      "id": "character.bocchi-the-rock.ikuyo-kita",
+      "kind": "named-character",
+      "name": "Ikuyo Kita",
+      "namespace": "Bocchi the Rock!",
+      "promptTags": [
+        "Ikuyo Kita",
+        "Bocchi the Rock!",
+        "female",
+        "vocalist guitarist"
+      ],
+      "provenance": {
+        "groupId": "bocchi-the-rock",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "musician",
+        "vocalist",
+        "guitarist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kikuri Hiroi",
+        "Kikuri Hiroi (Bocchi the Rock!)"
+      ],
+      "id": "character.bocchi-the-rock.kikuri-hiroi",
+      "kind": "named-character",
+      "name": "Kikuri Hiroi",
+      "namespace": "Bocchi the Rock!",
+      "promptTags": [
+        "Kikuri Hiroi",
+        "Bocchi the Rock!",
+        "female",
+        "bassist vocalist"
+      ],
+      "provenance": {
+        "groupId": "bocchi-the-rock",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "musician",
+        "bassist",
+        "vocalist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Nijika Ijichi",
+        "Nijika Ijichi (Bocchi the Rock!)"
+      ],
+      "id": "character.bocchi-the-rock.nijika-ijichi",
+      "kind": "named-character",
+      "name": "Nijika Ijichi",
+      "namespace": "Bocchi the Rock!",
+      "promptTags": [
+        "Nijika Ijichi",
+        "Bocchi the Rock!",
+        "female",
+        "drummer"
+      ],
+      "provenance": {
+        "groupId": "bocchi-the-rock",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "musician",
+        "drummer"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Ryo Yamada",
+        "Ryo Yamada (Bocchi the Rock!)"
+      ],
+      "id": "character.bocchi-the-rock.ryo-yamada",
+      "kind": "named-character",
+      "name": "Ryo Yamada",
+      "namespace": "Bocchi the Rock!",
+      "promptTags": [
+        "Ryo Yamada",
+        "Bocchi the Rock!",
+        "female",
+        "bassist"
+      ],
+      "provenance": {
+        "groupId": "bocchi-the-rock",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "musician",
+        "bassist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Seika Ijichi",
+        "Seika Ijichi (Bocchi the Rock!)"
+      ],
+      "id": "character.bocchi-the-rock.seika-ijichi",
+      "kind": "named-character",
+      "name": "Seika Ijichi",
+      "namespace": "Bocchi the Rock!",
+      "promptTags": [
+        "Seika Ijichi",
+        "Bocchi the Rock!",
+        "female",
+        "music venue manager"
+      ],
+      "provenance": {
+        "groupId": "bocchi-the-rock",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "manager"
+      ]
+    }
+  ],
+  "fingerprint": "b3d43d39f50e39cd8bf2217e7b2d38cf2c6350f5a430203207c319e754a43d5c",
+  "namespace": "Bocchi the Rock!",
+  "schemaVersion": 2
+}

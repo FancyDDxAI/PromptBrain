@@ -1,0 +1,1904 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+  "fingerprint": "059af6193ca15afbe30138cbfa9ec9b81639ec192f4862621cf2abbbe05d305e",
+  "recipes": [
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with soft graphite shading visual style, window-grid with alternating rhythm composition, black-cherry shadows with mint highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, reflected from nearby surfaces 072d99b580d0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.072d99b580d0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-frame-within-frame-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.window-grid-with-alternating-rhythm-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-exposed-modular-conduits-weathered-utili"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-reflected-from-near"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.black-cherry-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-soft-graphite-shading-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.smart-fabric-ventilation-panels-salvage-technician-coverall-tool-belt-ja"
+        ]
+      },
+      "name": "Orbital Utility Fashion 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with soft graphite shading visual style, window-grid with alternating rhythm composition, black-cherry shadows with mint highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, reflected from nearby surfaces 072d99b580d0"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with clean measured lines visual style, inset panel with continuous eyeline composition, umber shadows with coral highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, contained in a localized pool 0ea78d53cc50"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.0ea78d53cc50",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-left-weighted-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.inset-panel-with-continuous-eyeline-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-magnetic-transit-rails-clean-high-techno"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-contained-in-a-loca"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.umber-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-clean-measured-lines-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.thermal-underlayer-and-insulated-oversuit-asteroid-miner-work-suit-prote"
+        ]
+      },
+      "name": "Orbital Utility Fashion 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with clean measured lines visual style, inset panel with continuous eyeline composition, umber shadows with coral highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, contained in a localized pool 0ea78d53cc50"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with muted wash accents visual style, comic-strip with cross-panel motion composition, violet shadows with cyan highlights cinematic palette, crisp shadow edges from fluorescent practicals, contained in a localized pool 18ca7775752c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.18ca7775752c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-centered-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.comic-strip-with-cross-panel-motion-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-sealed-observation-windows-clean-high-te"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-fluorescent-practicals-contained-in-a-localized-"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-shadows-with-cyan-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-muted-wash-accents-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.matte-anti-glare-finish-and-tonal-insignia-salvage-technician-coverall-t"
+        ]
+      },
+      "name": "Orbital Utility Fashion 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with muted wash accents visual style, comic-strip with cross-panel motion composition, violet shadows with cyan highlights cinematic palette, crisp shadow edges from fluorescent practicals, contained in a localized pool 18ca7775752c"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with bold silhouette overlays visual style, contact-sheet with alternating rhythm composition, burgundy shadows with coral highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, layered across depth planes 233098f0f0ef"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.233098f0f0ef",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-frame-within-frame-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.contact-sheet-with-alternating-rhythm-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-pressurized-access-corridors-credible-ne"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-layered-across-dept"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-bold-silhouette-overlays-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.thermal-underlayer-and-insulated-oversuit-orbital-engineer-coverall-util"
+        ]
+      },
+      "name": "Orbital Utility Fashion 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with bold silhouette overlays visual style, contact-sheet with alternating rhythm composition, burgundy shadows with coral highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, layered across depth planes 233098f0f0ef"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with soft graphite shading visual style, nested panel with central hinge composition, burgundy shadows with cyan highlights cinematic palette, soft diffusion from fluorescent practicals, falling off into shadow 39d24bcd82d2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.39d24bcd82d2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-negative-space-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.nested-panel-with-central-hinge-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-stacked-utility-modules-clean-high-techn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-shadows-with-cyan-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-soft-graphite-shading-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.low-profile-helmet-dock-and-cable-guides-salvage-technician-coverall-too"
+        ]
+      },
+      "name": "Orbital Utility Fashion 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with soft graphite shading visual style, nested panel with central hinge composition, burgundy shadows with cyan highlights cinematic palette, soft diffusion from fluorescent practicals, falling off into shadow 39d24bcd82d2"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with aged paper texture visual style, nested panel with continuous eyeline composition, plum shadows with amber highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, spilling into the background 43a0cdfc4015"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.43a0cdfc4015",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-negative-space-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.nested-panel-with-continuous-eyeline-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-volumetric-status-displays-clean-high-te"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-spilling-into-the-b"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-shadows-with-amber-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-aged-paper-texture-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.haptic-glove-pads-and-forearm-display-exoplanet-botanist-field-suit-apro"
+        ]
+      },
+      "name": "Orbital Utility Fashion 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with aged paper texture visual style, nested panel with continuous eyeline composition, plum shadows with amber highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, spilling into the background 43a0cdfc4015"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with bold silhouette overlays visual style, contact-sheet with matched horizon composition, slate-blue shadows with coral highlights cinematic palette, controlled high contrast from fluorescent practicals, reflected from nearby surfaces 4a1ea78ba9e1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.4a1ea78ba9e1",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-frame-within-frame-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.contact-sheet-with-matched-horizon-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-stacked-utility-modules-weathered-utilit"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-reflected-from-near"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-bold-silhouette-overlays-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.fold-flat-utility-pouches-and-sample-loops-diplomatic-envoy-long-coat-fo"
+        ]
+      },
+      "name": "Orbital Utility Fashion 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with bold silhouette overlays visual style, contact-sheet with matched horizon composition, slate-blue shadows with coral highlights cinematic palette, controlled high contrast from fluorescent practicals, reflected from nearby surfaces 4a1ea78ba9e1"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with selective color coding visual style, nested panel with alternating rhythm composition, burgundy shadows with coral highlights cinematic palette, controlled high contrast from fluorescent practicals, focused on the subject plane 4bc19fd5be79"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.4bc19fd5be79",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-layered-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.nested-panel-with-alternating-rhythm-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-volumetric-status-displays-clean-high-te"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-focused-on-the-subj"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-selective-color-coding-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.matte-anti-glare-finish-and-tonal-insignia-zero-gravity-medic-tunic-suit"
+        ]
+      },
+      "name": "Orbital Utility Fashion 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with selective color coding visual style, nested panel with alternating rhythm composition, burgundy shadows with coral highlights cinematic palette, controlled high contrast from fluorescent practicals, focused on the subject plane 4bc19fd5be79"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with aged paper texture visual style, diptych with continuous eyeline composition, slate-blue shadows with lemon highlights cinematic palette, soft diffusion from fluorescent practicals, layered across depth planes 51c035b9cdbb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.51c035b9cdbb",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-left-weighted-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.diptych-with-continuous-eyeline-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-holographic-navigation-panels-weathered-"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-shadows-with-lemon-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-aged-paper-texture-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.recycled-polymer-panels-and-repair-patches-interplanetary-courier-jacket"
+        ]
+      },
+      "name": "Orbital Utility Fashion 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with aged paper texture visual style, diptych with continuous eyeline composition, slate-blue shadows with lemon highlights cinematic palette, soft diffusion from fluorescent practicals, layered across depth planes 51c035b9cdbb"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with clean measured lines visual style, contact-sheet with cross-panel motion composition, forest-green shadows with pearl highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, grazing textured surfaces 529c17117dbc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.529c17117dbc",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-negative-space-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.contact-sheet-with-cross-panel-motion-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-holographic-navigation-panels-weathered-"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-grazing-textured-su"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-green-shadows-with-pearl-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-clean-measured-lines-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.formal-metallic-collar-and-hidden-fasteners-salvage-technician-coverall-"
+        ]
+      },
+      "name": "Orbital Utility Fashion 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with clean measured lines visual style, contact-sheet with cross-panel motion composition, forest-green shadows with pearl highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, grazing textured surfaces 529c17117dbc"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with selective color coding visual style, before-and-after with contrasting scale composition, olive shadows with rose highlights cinematic palette, crisp shadow edges from fluorescent practicals, spilling into the background 5319a7224179"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.5319a7224179",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-foreground-framed-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.before-and-after-with-contrasting-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-volumetric-status-displays-clean-high-te"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-fluorescent-practicals-spilling-into-the-backgro"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-selective-color-coding-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.color-coded-life-support-conduits-exoplanet-botanist-field-suit-apron-gl"
+        ]
+      },
+      "name": "Orbital Utility Fashion 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with selective color coding visual style, before-and-after with contrasting scale composition, olive shadows with rose highlights cinematic palette, crisp shadow edges from fluorescent practicals, spilling into the background 5319a7224179"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with soft graphite shading visual style, triptych with continuous eyeline composition, slate-blue shadows with copper highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, grazing textured surfaces 59c268d53393"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.59c268d53393",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-right-weighted-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.triptych-with-continuous-eyeline-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-magnetic-transit-rails-clean-high-techno"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-grazing-textured-su"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-soft-graphite-shading-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.illuminated-identification-piping-interplanetary-courier-jacket-trousers"
+        ]
+      },
+      "name": "Orbital Utility Fashion 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with soft graphite shading visual style, triptych with continuous eyeline composition, slate-blue shadows with copper highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, grazing textured surfaces 59c268d53393"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with bold silhouette overlays visual style, triptych with repeated silhouette composition, slate-blue shadows with coral highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, broken by foreground shapes 66333aa88c81"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.66333aa88c81",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-frame-within-frame-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.triptych-with-repeated-silhouette-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-magnetic-transit-rails-credible-near-fut"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-broken-by-foregroun"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-bold-silhouette-overlays-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.biometric-cuff-and-medical-access-panels-exoplanet-botanist-field-suit-a"
+        ]
+      },
+      "name": "Orbital Utility Fashion 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with bold silhouette overlays visual style, triptych with repeated silhouette composition, slate-blue shadows with coral highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, broken by foreground shapes 66333aa88c81"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with precise labeled details visual style, nested panel with continuous eyeline composition, teal shadows with mint highlights cinematic palette, controlled high contrast from fluorescent practicals, contained in a localized pool 66b9ad6a868a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.66b9ad6a868a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-left-weighted-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.nested-panel-with-continuous-eyeline-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-holographic-navigation-panels-clean-high"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-contained-in-a-loca"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-precise-labeled-details-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.dust-sealed-closures-and-boot-gaiters-salvage-technician-coverall-tool-b"
+        ]
+      },
+      "name": "Orbital Utility Fashion 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with precise labeled details visual style, nested panel with continuous eyeline composition, teal shadows with mint highlights cinematic palette, controlled high contrast from fluorescent practicals, contained in a localized pool 66b9ad6a868a"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with soft graphite shading visual style, mirrored panel with contrasting scale composition, teal shadows with pearl highlights cinematic palette, controlled high contrast from fluorescent practicals, grazing textured surfaces 748c0916c296"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.748c0916c296",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-negative-space-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.mirrored-panel-with-contrasting-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-exposed-modular-conduits-weathered-utili"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-grazing-textured-su"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-pearl-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-soft-graphite-shading-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.magnetic-tool-anchors-at-belt-and-thighs-salvage-technician-coverall-too"
+        ]
+      },
+      "name": "Orbital Utility Fashion 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with soft graphite shading visual style, mirrored panel with contrasting scale composition, teal shadows with pearl highlights cinematic palette, controlled high contrast from fluorescent practicals, grazing textured surfaces 748c0916c296"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with precise labeled details visual style, vertical split with matched horizon composition, olive shadows with lemon highlights cinematic palette, soft diffusion from fluorescent practicals, spilling into the background 7f03f30d02a8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.7f03f30d02a8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-symmetrical-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.vertical-split-with-matched-horizon-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-volumetric-status-displays-clean-high-te"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-shadows-with-lemon-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-precise-labeled-details-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.microgravity-restraint-loops-and-soft-footwear-deep-space-pilot-flight-s"
+        ]
+      },
+      "name": "Orbital Utility Fashion 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with precise labeled details visual style, vertical split with matched horizon composition, olive shadows with lemon highlights cinematic palette, soft diffusion from fluorescent practicals, spilling into the background 7f03f30d02a8"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with aged paper texture visual style, diptych with alternating rhythm composition, plum shadows with mint highlights cinematic palette, controlled high contrast from fluorescent practicals, reflected from nearby surfaces 866e488b96b6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.866e488b96b6",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-symmetrical-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.diptych-with-alternating-rhythm-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-magnetic-transit-rails-clean-high-techno"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-reflected-from-near"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-aged-paper-texture-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.biometric-cuff-and-medical-access-panels-diplomatic-envoy-long-coat-form"
+        ]
+      },
+      "name": "Orbital Utility Fashion 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with aged paper texture visual style, diptych with alternating rhythm composition, plum shadows with mint highlights cinematic palette, controlled high contrast from fluorescent practicals, reflected from nearby surfaces 866e488b96b6"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with bold silhouette overlays visual style, inset panel with continuous eyeline composition, umber shadows with mint highlights cinematic palette, soft diffusion from fluorescent practicals, focused on the subject plane 95ef829b7c9a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.95ef829b7c9a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-negative-space-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.inset-panel-with-continuous-eyeline-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-layered-maintenance-gantries-weathered-u"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.umber-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-bold-silhouette-overlays-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.clear-map-pocket-and-route-display-interplanetary-courier-jacket-trouser"
+        ]
+      },
+      "name": "Orbital Utility Fashion 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with bold silhouette overlays visual style, inset panel with continuous eyeline composition, umber shadows with mint highlights cinematic palette, soft diffusion from fluorescent practicals, focused on the subject plane 95ef829b7c9a"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with muted wash accents visual style, diagonal split with alternating rhythm composition, forest-green shadows with amber highlights cinematic palette, soft diffusion from fluorescent practicals, reflected from nearby surfaces a4e4d3ae0178"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.a4e4d3ae0178",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-layered-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.diagonal-split-with-alternating-rhythm-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-stacked-utility-modules-weathered-utilit"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-reflected-from-nearby-surface"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-green-shadows-with-amber-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-muted-wash-accents-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.low-profile-helmet-dock-and-cable-guides-interplanetary-courier-jacket-t"
+        ]
+      },
+      "name": "Orbital Utility Fashion 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with muted wash accents visual style, diagonal split with alternating rhythm composition, forest-green shadows with amber highlights cinematic palette, soft diffusion from fluorescent practicals, reflected from nearby surfaces a4e4d3ae0178"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with aged paper texture visual style, triptych with central hinge composition, umber shadows with mint highlights cinematic palette, crisp shadow edges from fluorescent practicals, spilling into the background aa1022e0a6df"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.aa1022e0a6df",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-frame-within-frame-composition-with-observational-distanc"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.triptych-with-central-hinge-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-sealed-observation-windows-clean-high-te"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-fluorescent-practicals-spilling-into-the-backgro"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.umber-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-aged-paper-texture-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.illuminated-identification-piping-asteroid-miner-work-suit-protective-ve"
+        ]
+      },
+      "name": "Orbital Utility Fashion 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with aged paper texture visual style, triptych with central hinge composition, umber shadows with mint highlights cinematic palette, crisp shadow edges from fluorescent practicals, spilling into the background aa1022e0a6df"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with clean measured lines visual style, window-grid with cross-panel motion composition, plum shadows with pearl highlights cinematic palette, soft diffusion from fluorescent practicals, creating a luminous frame ba162e48027f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.ba162e48027f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-layered-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.window-grid-with-cross-panel-motion-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-pressurized-access-corridors-clean-high-"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-shadows-with-pearl-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-clean-measured-lines-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.formal-metallic-collar-and-hidden-fasteners-asteroid-miner-work-suit-pro"
+        ]
+      },
+      "name": "Orbital Utility Fashion 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with clean measured lines visual style, window-grid with cross-panel motion composition, plum shadows with pearl highlights cinematic palette, soft diffusion from fluorescent practicals, creating a luminous frame ba162e48027f"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with bold silhouette overlays visual style, triptych with contrasting scale composition, forest-green shadows with amber highlights cinematic palette, controlled high contrast from fluorescent practicals, focused on the subject plane d88afb5ce14f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.d88afb5ce14f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-negative-space-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.triptych-with-contrasting-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-magnetic-transit-rails-credible-near-fut"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-focused-on-the-subj"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-green-shadows-with-amber-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-bold-silhouette-overlays-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.low-profile-helmet-dock-and-cable-guides-orbital-engineer-coverall-utili"
+        ]
+      },
+      "name": "Orbital Utility Fashion 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with bold silhouette overlays visual style, triptych with contrasting scale composition, forest-green shadows with amber highlights cinematic palette, controlled high contrast from fluorescent practicals, focused on the subject plane d88afb5ce14f"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with clean measured lines visual style, diagonal split with matched horizon composition, charcoal shadows with amber highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, layered across depth planes ded1bbbc9fa1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.ded1bbbc9fa1",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-centered-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.diagonal-split-with-matched-horizon-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-autonomous-service-drones-clean-high-tec"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-layered-across-dept"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-shadows-with-amber-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-clean-measured-lines-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.matte-anti-glare-finish-and-tonal-insignia-zero-gravity-medic-tunic-suit"
+        ]
+      },
+      "name": "Orbital Utility Fashion 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with clean measured lines visual style, diagonal split with matched horizon composition, charcoal shadows with amber highlights cinematic palette, gentle atmospheric bloom from fluorescent practicals, layered across depth planes ded1bbbc9fa1"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "orbital utility fashion featuring concept-design sheet with selective color coding visual style, nested panel with cross-panel motion composition, umber shadows with rose highlights cinematic palette, soft diffusion from fluorescent practicals, focused on the subject plane fba82381a633"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.orbital-utility-fashion",
+      "familyTriggers": [
+        "orbital utility fashion direction",
+        "technical spacewear lookbook",
+        "station-ready future editorial"
+      ],
+      "id": "phase8.art.wardrobe.orbital-utility-fashion.fba82381a633",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-frame-within-frame-composition-with-observational-distanc"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.nested-panel-with-cross-panel-motion-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.orbital-greenhouse-station-with-layered-maintenance-gantries-weathered-u"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.umber-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.concept-design-sheet-with-selective-color-coding-visual-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.recycled-polymer-panels-and-repair-patches-interplanetary-courier-jacket"
+        ]
+      },
+      "name": "Orbital Utility Fashion 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.orbital-utility-fashion",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "complete technical spacewear",
+        "panelled utility presentation",
+        "orbital role-fashion clarity"
+      ],
+      "triggers": [
+        "orbital utility fashion featuring concept-design sheet with selective color coding visual style, nested panel with cross-panel motion composition, umber shadows with rose highlights cinematic palette, soft diffusion from fluorescent practicals, focused on the subject plane fba82381a633"
+      ],
+      "variantIndex": 3
+    }
+  ],
+  "schemaVersion": 2
+}

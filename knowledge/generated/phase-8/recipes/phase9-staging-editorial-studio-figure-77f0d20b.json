@@ -1,0 +1,1784 @@
+{
+  "count": 24,
+  "familyId": "phase9.staging.editorial-studio-figure",
+  "fingerprint": "75789be9cd9c2a3f381a90aeb5910ac156523c2b9d04ffaf0631d6d2be03fa12",
+  "recipes": [
+    {
+      "aliases": [
+        "editorial studio figure featuring grid-based structure with centered void composition, graphite low-key monochrome palette, gentle atmospheric bloom from window daylight, spilling into the background, 105mm short-telephoto lens, at a wide aperture, controlled highlight bloom 1af6b32fbe25"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.1af6b32fbe25",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.105mm-short-telephoto-lens-at-a-wide-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.grid-based-structure-with-centered-void-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-spilling-into-the-backgrou"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.graphite-low-key-monochrome-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.gaze-directed-sideways-a-slightly-hunched-guarded-silhouette-static-adul"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.waistcoat-over-a-rolled-sleeve-shirt-rugby-shirt-cargo-trousers-and-hiki"
+        ]
+      },
+      "name": "Editorial Studio Figure 19",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring grid-based structure with centered void composition, graphite low-key monochrome palette, gentle atmospheric bloom from window daylight, spilling into the background, 105mm short-telephoto lens, at a wide aperture, controlled highlight bloom 1af6b32fbe25"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring reflectional structure with centered void composition, violet duotone wash palette, controlled high contrast from softbox array, falling off into shadow, 85mm portrait lens, at a moderate aperture, gentle edge softness 20c6475a383b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.20c6475a383b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-moderate-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflectional-structure-with-centered-void-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-duotone-wash-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.arms-hanging-loosely-a-softly-rounded-relaxed-silhouette-static-adult-bo"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.cropped-bomber-over-a-tucked-base-layer-draped-blouse-a-line-skirt-and-f"
+        ]
+      },
+      "name": "Editorial Studio Figure 24",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring reflectional structure with centered void composition, violet duotone wash palette, controlled high contrast from softbox array, falling off into shadow, 85mm portrait lens, at a moderate aperture, gentle edge softness 20c6475a383b"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring radial structure with single offset accent composition, indigo three-value study palette, soft diffusion from window daylight, contained in a localized pool, 85mm portrait lens, at a mid-range aperture, high-microcontrast glass 26fad2d7c354"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.26fad2d7c354",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-mid-range-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.radial-structure-with-single-offset-accent-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-window-daylight-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-three-value-study-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.gaze-directed-sideways-a-compact-self-contained-silhouette-static-adult-"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.cropped-denim-jacket-with-rolled-cuffs-cable-sweater-tapered-chinos-and-"
+        ]
+      },
+      "name": "Editorial Studio Figure 13",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring radial structure with single offset accent composition, indigo three-value study palette, soft diffusion from window daylight, contained in a localized pool, 85mm portrait lens, at a mid-range aperture, high-microcontrast glass 26fad2d7c354"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring grid-based structure with centered void composition, cobalt ink-dense tonal scale palette, gentle atmospheric bloom from softbox array, broken by foreground shapes, 85mm portrait lens, at a mid-range aperture, neutral optical rendering 2fd8844c45af"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.2fd8844c45af",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-mid-range-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.grid-based-structure-with-centered-void-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-ink-dense-tonal-scale-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.gaze-directed-sideways-a-compact-self-contained-silhouette-static-adult-"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.sweater-vest-over-a-collared-shirt-rugby-shirt-cargo-trousers-and-hiking"
+        ]
+      },
+      "name": "Editorial Studio Figure 22",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring grid-based structure with centered void composition, cobalt ink-dense tonal scale palette, gentle atmospheric bloom from softbox array, broken by foreground shapes, 85mm portrait lens, at a mid-range aperture, neutral optical rendering 2fd8844c45af"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring portal-centered structure with centered void composition, magenta misty tonal scale palette, crisp shadow edges from softbox array, spilling into the background, 85mm portrait lens, at a wide aperture, soft vintage rendering 451db5fe083f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.451db5fe083f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-wide-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.portal-centered-structure-with-centered-void-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.magenta-misty-tonal-scale-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.head-tilted-to-the-right-a-slightly-hunched-guarded-silhouette-static-ad"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tonal-three-layer-stack-with-varied-hem-lengths-draped-blouse-a-line-ski"
+        ]
+      },
+      "name": "Editorial Studio Figure 8",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring portal-centered structure with centered void composition, magenta misty tonal scale palette, crisp shadow edges from softbox array, spilling into the background, 85mm portrait lens, at a wide aperture, soft vintage rendering 451db5fe083f"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring bilateral structure with strict symmetry composition, coral low-key monochrome palette, soft diffusion from window daylight, spilling into the background, 105mm short-telephoto lens, at a stopped-down aperture, soft vintage rendering 5c908284c26b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.5c908284c26b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.105mm-short-telephoto-lens-at-a-stopped-down-aperture-soft-vintage-rende"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-strict-symmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-window-daylight-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.coral-low-key-monochrome-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.chin-raised-slightly-an-upright-open-chested-silhouette-static-adult-bod"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.shirt-jacket-over-a-fine-gauge-knit-draped-blouse-a-line-skirt-and-flats"
+        ]
+      },
+      "name": "Editorial Studio Figure 18",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring bilateral structure with strict symmetry composition, coral low-key monochrome palette, soft diffusion from window daylight, spilling into the background, 105mm short-telephoto lens, at a stopped-down aperture, soft vintage rendering 5c908284c26b"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring axial structure with single offset accent composition, amber metallic-accent monochrome palette, soft diffusion from softbox array, spilling into the background, 85mm portrait lens, at a stopped-down aperture, neutral optical rendering 5d3813896764"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.5d3813896764",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-stopped-down-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.axial-structure-with-single-offset-accent-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.amber-metallic-accent-monochrome-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.gaze-directed-downward-an-upright-open-chested-silhouette-static-adult-b"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.matching-overshirt-and-trouser-set-with-contrast-tee-crewneck-t-shirt-st"
+        ]
+      },
+      "name": "Editorial Studio Figure 23",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring axial structure with single offset accent composition, amber metallic-accent monochrome palette, soft diffusion from softbox array, spilling into the background, 85mm portrait lens, at a stopped-down aperture, neutral optical rendering 5d3813896764"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring grid-based structure with alternating detail rhythm composition, olive duotone wash palette, controlled high contrast from softbox array, creating a luminous frame, 105mm short-telephoto lens, at a moderate aperture, low-contrast glass 6efe7a86b7ec"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.6efe7a86b7ec",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.105mm-short-telephoto-lens-at-a-moderate-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.grid-based-structure-with-alternating-detail-rhythm-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-duotone-wash-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.gaze-directed-downward-an-upright-open-chested-silhouette-static-adult-b"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.waistcoat-over-a-rolled-sleeve-shirt-midi-dress-and-low-profile-sneakers"
+        ]
+      },
+      "name": "Editorial Studio Figure 14",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring grid-based structure with alternating detail rhythm composition, olive duotone wash palette, controlled high contrast from softbox array, creating a luminous frame, 105mm short-telephoto lens, at a moderate aperture, low-contrast glass 6efe7a86b7ec"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring rotational structure with broken lower balance composition, vermilion ink-dense tonal scale palette, crisp shadow edges from softbox array, spilling into the background, 85mm portrait lens, at a moderate aperture, controlled highlight bloom 71f99551a7e2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.71f99551a7e2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.rotational-structure-with-broken-lower-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.vermilion-ink-dense-tonal-scale-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.gaze-directed-downward-a-silhouette-with-the-shoulders-drawn-inward-stat"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.quilted-liner-under-a-field-jacket-crewneck-t-shirt-straight-jeans-and-s"
+        ]
+      },
+      "name": "Editorial Studio Figure 5",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring rotational structure with broken lower balance composition, vermilion ink-dense tonal scale palette, crisp shadow edges from softbox array, spilling into the background, 85mm portrait lens, at a moderate aperture, controlled highlight bloom 71f99551a7e2"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring architectural structure with paired counterweights composition, vermilion low-key monochrome palette, gentle atmospheric bloom from softbox array, focused on the subject plane, 105mm short-telephoto lens, at a stopped-down aperture, low-contrast glass 864c1482dc41"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.864c1482dc41",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.105mm-short-telephoto-lens-at-a-stopped-down-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.architectural-structure-with-paired-counterweights-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.vermilion-low-key-monochrome-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.gaze-directed-sideways-a-slightly-hunched-guarded-silhouette-static-adul"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tonal-three-layer-stack-with-varied-hem-lengths-cable-sweater-tapered-ch"
+        ]
+      },
+      "name": "Editorial Studio Figure 6",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring architectural structure with paired counterweights composition, vermilion low-key monochrome palette, gentle atmospheric bloom from softbox array, focused on the subject plane, 105mm short-telephoto lens, at a stopped-down aperture, low-contrast glass 864c1482dc41"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring rotational structure with strict symmetry composition, sepia misty tonal scale palette, crisp shadow edges from softbox array, focused on the subject plane, 105mm short-telephoto lens, at a stopped-down aperture, soft vintage rendering 88268d17b68c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.88268d17b68c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.105mm-short-telephoto-lens-at-a-stopped-down-aperture-soft-vintage-rende"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.rotational-structure-with-strict-symmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-misty-tonal-scale-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.head-tilted-to-the-right-a-rigid-straight-backed-silhouette-static-adult"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-blazer-with-pushed-up-sleeves-draped-blouse-a-line-skirt-and-fl"
+        ]
+      },
+      "name": "Editorial Studio Figure 10",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring rotational structure with strict symmetry composition, sepia misty tonal scale palette, crisp shadow edges from softbox array, focused on the subject plane, 105mm short-telephoto lens, at a stopped-down aperture, soft vintage rendering 88268d17b68c"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring axial structure with alternating detail rhythm composition, olive misty tonal scale palette, controlled high contrast from window daylight, grazing textured surfaces, 85mm portrait lens, at a stopped-down aperture, low-contrast glass 8cd05e311a7a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.8cd05e311a7a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-stopped-down-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.axial-structure-with-alternating-detail-rhythm-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-window-daylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-misty-tonal-scale-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.head-tilted-to-the-left-a-rigid-straight-backed-silhouette-static-adult-"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.longline-trench-with-a-loose-neck-scarf-knit-polo-pleated-skirt-and-ankl"
+        ]
+      },
+      "name": "Editorial Studio Figure 9",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring axial structure with alternating detail rhythm composition, olive misty tonal scale palette, controlled high contrast from window daylight, grazing textured surfaces, 85mm portrait lens, at a stopped-down aperture, low-contrast glass 8cd05e311a7a"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring reflectional structure with soft asymmetry composition, teal low-key monochrome palette, controlled high contrast from window daylight, creating a luminous frame, 85mm portrait lens, at a mid-range aperture, clean modern rendering 93b44fc75ac4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.93b44fc75ac4",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-mid-range-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflectional-structure-with-soft-asymmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-window-daylight-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-low-key-monochrome-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.chin-raised-slightly-the-hips-shifted-with-relaxed-asymmetry-static-adul"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.utility-vest-over-a-lightweight-overshirt-mock-neck-sweater-wide-leg-tro"
+        ]
+      },
+      "name": "Editorial Studio Figure 1",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring reflectional structure with soft asymmetry composition, teal low-key monochrome palette, controlled high contrast from window daylight, creating a luminous frame, 85mm portrait lens, at a mid-range aperture, clean modern rendering 93b44fc75ac4"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring emblematic structure with strict symmetry composition, cobalt misty tonal scale palette, gentle atmospheric bloom from window daylight, falling off into shadow, 85mm portrait lens, at a wide aperture, low-contrast glass 96eaaa6fde5b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.96eaaa6fde5b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-wide-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.emblematic-structure-with-strict-symmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-misty-tonal-scale-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.gaze-directed-downward-a-compact-self-contained-silhouette-static-adult-"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.capelet-over-a-mock-neck-underlayer-draped-blouse-a-line-skirt-and-flats"
+        ]
+      },
+      "name": "Editorial Studio Figure 11",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring emblematic structure with strict symmetry composition, cobalt misty tonal scale palette, gentle atmospheric bloom from window daylight, falling off into shadow, 85mm portrait lens, at a wide aperture, low-contrast glass 96eaaa6fde5b"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring grid-based structure with broken upper balance composition, teal pastel tonal scale palette, gentle atmospheric bloom from softbox array, spilling into the background, 85mm portrait lens, at a wide aperture, low-contrast glass a2bfa70753f2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.a2bfa70753f2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-wide-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.grid-based-structure-with-broken-upper-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-pastel-tonal-scale-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.head-tilted-to-the-right-the-chest-lifted-with-the-shoulders-back-static"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.open-flannel-shirt-over-a-plain-tee-mock-neck-sweater-wide-leg-trousers-"
+        ]
+      },
+      "name": "Editorial Studio Figure 3",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring grid-based structure with broken upper balance composition, teal pastel tonal scale palette, gentle atmospheric bloom from softbox array, spilling into the background, 85mm portrait lens, at a wide aperture, low-contrast glass a2bfa70753f2"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring bilateral structure with soft asymmetry composition, vermilion high-key monochrome palette, crisp shadow edges from window daylight, falling off into shadow, 105mm short-telephoto lens, at a mid-range aperture, low-contrast glass afc66ec9e641"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.afc66ec9e641",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.105mm-short-telephoto-lens-at-a-mid-range-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-soft-asymmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.vermilion-high-key-monochrome-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.arms-hanging-loosely-the-chest-lifted-with-the-shoulders-back-static-adu"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-blazer-with-pushed-up-sleeves-midi-dress-and-low-profile-sneake"
+        ]
+      },
+      "name": "Editorial Studio Figure 20",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring bilateral structure with soft asymmetry composition, vermilion high-key monochrome palette, crisp shadow edges from window daylight, falling off into shadow, 105mm short-telephoto lens, at a mid-range aperture, low-contrast glass afc66ec9e641"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring frieze-like structure with single offset accent composition, indigo duotone wash palette, controlled high contrast from window daylight, focused on the subject plane, 105mm short-telephoto lens, at a mid-range aperture, neutral optical rendering b93b77d2dd19"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.b93b77d2dd19",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.105mm-short-telephoto-lens-at-a-mid-range-aperture-neutral-optical-rende"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.frieze-like-structure-with-single-offset-accent-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-window-daylight-focused-on-the-subject-pla"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-duotone-wash-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.head-tilted-to-the-right-a-compact-self-contained-silhouette-static-adul"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.quilted-liner-under-a-field-jacket-knit-polo-pleated-skirt-and-ankle-boo"
+        ]
+      },
+      "name": "Editorial Studio Figure 21",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring frieze-like structure with single offset accent composition, indigo duotone wash palette, controlled high contrast from window daylight, focused on the subject plane, 105mm short-telephoto lens, at a mid-range aperture, neutral optical rendering b93b77d2dd19"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring grid-based structure with centered void composition, olive misty tonal scale palette, controlled high contrast from softbox array, layered across depth planes, 105mm short-telephoto lens, at a wide aperture, gentle edge softness d3e72d97220a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.d3e72d97220a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.105mm-short-telephoto-lens-at-a-wide-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.grid-based-structure-with-centered-void-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-misty-tonal-scale-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.head-tilted-to-the-right-the-torso-angled-away-defensively-static-adult-"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.sleeveless-duster-over-tonal-separates-midi-dress-and-low-profile-sneake"
+        ]
+      },
+      "name": "Editorial Studio Figure 12",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring grid-based structure with centered void composition, olive misty tonal scale palette, controlled high contrast from softbox array, layered across depth planes, 105mm short-telephoto lens, at a wide aperture, gentle edge softness d3e72d97220a"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring bilateral structure with broken upper balance composition, amber ink-dense tonal scale palette, crisp shadow edges from softbox array, creating a luminous frame, 85mm portrait lens, at a mid-range aperture, neutral optical rendering d527004b2cc1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.d527004b2cc1",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-mid-range-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-broken-upper-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.amber-ink-dense-tonal-scale-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.hands-held-close-to-the-torso-a-silhouette-with-the-shoulders-drawn-inwa"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.utility-vest-over-a-lightweight-overshirt-long-tunic-slim-trousers-and-s"
+        ]
+      },
+      "name": "Editorial Studio Figure 2",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring bilateral structure with broken upper balance composition, amber ink-dense tonal scale palette, crisp shadow edges from softbox array, creating a luminous frame, 85mm portrait lens, at a mid-range aperture, neutral optical rendering d527004b2cc1"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring reflectional structure with broken lower balance composition, sepia duotone wash palette, gentle atmospheric bloom from window daylight, broken by foreground shapes, 85mm portrait lens, at a moderate aperture, subtle halation e5a40468b84c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.e5a40468b84c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-moderate-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflectional-structure-with-broken-lower-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-broken-by-foreground-shape"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-duotone-wash-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.chin-raised-slightly-the-chest-lifted-with-the-shoulders-back-static-adu"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.longline-trench-with-a-loose-neck-scarf-draped-blouse-a-line-skirt-and-f"
+        ]
+      },
+      "name": "Editorial Studio Figure 4",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring reflectional structure with broken lower balance composition, sepia duotone wash palette, gentle atmospheric bloom from window daylight, broken by foreground shapes, 85mm portrait lens, at a moderate aperture, subtle halation e5a40468b84c"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring architectural structure with alternating detail rhythm composition, olive ink-dense tonal scale palette, gentle atmospheric bloom from softbox array, layered across depth planes, 85mm portrait lens, at a mid-range aperture, high-microcontrast glass e91c64f8c719"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.e91c64f8c719",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-mid-range-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.architectural-structure-with-alternating-detail-rhythm-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-ink-dense-tonal-scale-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.chin-raised-slightly-a-compact-self-contained-silhouette-static-adult-bo"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.shirt-jacket-over-a-fine-gauge-knit-draped-blouse-a-line-skirt-and-flats"
+        ]
+      },
+      "name": "Editorial Studio Figure 7",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring architectural structure with alternating detail rhythm composition, olive ink-dense tonal scale palette, gentle atmospheric bloom from softbox array, layered across depth planes, 85mm portrait lens, at a mid-range aperture, high-microcontrast glass e91c64f8c719"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring radial structure with strict symmetry composition, magenta duotone wash palette, controlled high contrast from window daylight, layered across depth planes, 105mm short-telephoto lens, at a mid-range aperture, low-contrast glass e94b42b21026"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.e94b42b21026",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.105mm-short-telephoto-lens-at-a-mid-range-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.radial-structure-with-strict-symmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-window-daylight-layered-across-depth-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.magenta-duotone-wash-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.gaze-directed-sideways-a-compact-self-contained-silhouette-static-adult-"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.quilted-liner-under-a-field-jacket-crewneck-t-shirt-straight-jeans-and-s"
+        ]
+      },
+      "name": "Editorial Studio Figure 16",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring radial structure with strict symmetry composition, magenta duotone wash palette, controlled high contrast from window daylight, layered across depth planes, 105mm short-telephoto lens, at a mid-range aperture, low-contrast glass e94b42b21026"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring kaleidoscopic structure with paired counterweights composition, vermilion pastel tonal scale palette, soft diffusion from window daylight, spilling into the background, 105mm short-telephoto lens, at a mid-range aperture, low-contrast glass ec3ebb0f4b13"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.ec3ebb0f4b13",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.105mm-short-telephoto-lens-at-a-mid-range-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.kaleidoscopic-structure-with-paired-counterweights-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-window-daylight-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.vermilion-pastel-tonal-scale-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.gaze-directed-downward-the-torso-angled-away-defensively-static-adult-bo"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tonal-three-layer-stack-with-varied-hem-lengths-draped-blouse-a-line-ski"
+        ]
+      },
+      "name": "Editorial Studio Figure 15",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring kaleidoscopic structure with paired counterweights composition, vermilion pastel tonal scale palette, soft diffusion from window daylight, spilling into the background, 105mm short-telephoto lens, at a mid-range aperture, low-contrast glass ec3ebb0f4b13"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "editorial studio figure featuring kaleidoscopic structure with strict symmetry composition, emerald pastel tonal scale palette, soft diffusion from window daylight, broken by foreground shapes, 105mm short-telephoto lens, at a stopped-down aperture, subtle halation ee4911a820ef"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.editorial-studio-figure",
+      "familyTriggers": [
+        "editorial studio figure",
+        "studio fashion figure",
+        "editorial figure staging"
+      ],
+      "id": "phase9.staging.editorial-studio-figure.ee4911a820ef",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.105mm-short-telephoto-lens-at-a-stopped-down-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.kaleidoscopic-structure-with-strict-symmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-window-daylight-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-pastel-tonal-scale-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.gaze-directed-sideways-a-rigid-straight-backed-silhouette-static-adult-b"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.cropped-denim-jacket-with-rolled-cuffs-draped-blouse-a-line-skirt-and-fl"
+        ]
+      },
+      "name": "Editorial Studio Figure 17",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.editorial-studio-figure",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "lighting",
+        "composition",
+        "palette",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "deliberate posture",
+        "styled silhouette",
+        "controlled studio light"
+      ],
+      "triggers": [
+        "editorial studio figure featuring kaleidoscopic structure with strict symmetry composition, emerald pastel tonal scale palette, soft diffusion from window daylight, broken by foreground shapes, 105mm short-telephoto lens, at a stopped-down aperture, subtle halation ee4911a820ef"
+      ],
+      "variantIndex": 16
+    }
+  ],
+  "schemaVersion": 2
+}

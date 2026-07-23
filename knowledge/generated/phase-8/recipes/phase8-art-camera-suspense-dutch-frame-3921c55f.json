@@ -1,0 +1,1664 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.camera.suspense-dutch-frame",
+  "fingerprint": "5250ba57beb8d3d675f1c6273bb458ac82a3a87bce053ced81d32c38f47ee2d6",
+  "recipes": [
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with minimal accents illustration, empty floor as encircling negative space composition, teal ink-dense tonal scale palette, soft diffusion from doorway spill, layered across depth planes 00a76391a17b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.00a76391a17b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.subtle-clockwise-roll-with-kinetic-urgency-corner-to-corner-framing"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-encircling-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-minimal-accents-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with minimal accents illustration, empty floor as encircling negative space composition, teal ink-dense tonal scale palette, soft diffusion from doorway spill, layered across depth planes 00a76391a17b"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with broken drybrush illustration, calm water as above-subject negative space composition, indigo three-value study palette, gentle atmospheric bloom from doorway spill, layered across depth planes 00cc45074ff1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.00cc45074ff1",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.unstable-shifting-dutch-tilt-with-psychological-tension-corner-to-corner"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-above-subject-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-doorway-spill-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-broken-drybrush-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with broken drybrush illustration, calm water as above-subject negative space composition, indigo three-value study palette, gentle atmospheric bloom from doorway spill, layered across depth planes 00cc45074ff1"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with airy linework illustration, calm water as encircling negative space composition, graphite high-key monochrome palette, crisp shadow edges from doorway spill, layered across depth planes 080b88e0b619"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.080b88e0b619",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.subtle-clockwise-roll-with-restrained-unease-foreground-line-framing"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-encircling-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.graphite-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-airy-linework-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with airy linework illustration, calm water as encircling negative space composition, graphite high-key monochrome palette, crisp shadow edges from doorway spill, layered across depth planes 080b88e0b619"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with minimal accents illustration, open sky as below-subject negative space composition, sepia three-value study palette, crisp shadow edges from doorway spill, reflected from nearby surfaces 08773ce79697"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.08773ce79697",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-diagonal-clockwise-tilt-with-psychological-tension-doorway-framed-c"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.open-sky-as-below-subject-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-minimal-accents-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with minimal accents illustration, open sky as below-subject negative space composition, sepia three-value study palette, crisp shadow edges from doorway spill, reflected from nearby surfaces 08773ce79697"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with precise contours illustration, distant horizon as above-subject negative space composition, teal three-value study palette, soft diffusion from doorway spill, focused on the subject plane 0c5de118f6f0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.0c5de118f6f0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-diagonal-counterclockwise-tilt-with-restrained-unease-architecture-"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.distant-horizon-as-above-subject-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-precise-contours-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with precise contours illustration, distant horizon as above-subject negative space composition, teal three-value study palette, soft diffusion from doorway spill, focused on the subject plane 0c5de118f6f0"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with precise contours illustration, paper margin as central negative space composition, magenta high-key monochrome palette, crisp shadow edges from doorway spill, falling off into shadow 162f045456f9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.162f045456f9",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.moderate-counterclockwise-dutch-tilt-with-kinetic-urgency-corner-to-corn"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-central-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.magenta-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-precise-contours-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with precise contours illustration, paper margin as central negative space composition, magenta high-key monochrome palette, crisp shadow edges from doorway spill, falling off into shadow 162f045456f9"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with soft wash fields illustration, soft bokeh as encircling negative space composition, emerald metallic-accent monochrome palette, crisp shadow edges from doorway spill, contained in a localized pool 2de91afd9672"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.2de91afd9672",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.unstable-shifting-dutch-tilt-with-kinetic-urgency-foreground-line-framin"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.soft-bokeh-as-encircling-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-soft-wash-fields-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with soft wash fields illustration, soft bokeh as encircling negative space composition, emerald metallic-accent monochrome palette, crisp shadow edges from doorway spill, contained in a localized pool 2de91afd9672"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with ornamental hatching illustration, blank wall as right-side negative space composition, coral high-key monochrome palette, crisp shadow edges from doorway spill, layered across depth planes 342f323c141f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.342f323c141f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-diagonal-counterclockwise-tilt-with-kinetic-urgency-vanishing-point"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.blank-wall-as-right-side-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.coral-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-ornamental-hatching-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with ornamental hatching illustration, blank wall as right-side negative space composition, coral high-key monochrome palette, crisp shadow edges from doorway spill, layered across depth planes 342f323c141f"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with dense shadows illustration, mist field as below-subject negative space composition, magenta ink-dense tonal scale palette, soft diffusion from doorway spill, spilling into the background 3af18c13d923"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.3af18c13d923",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.subtle-counterclockwise-roll-with-playful-imbalance-architecture-led-fra"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.mist-field-as-below-subject-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.magenta-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-dense-shadows-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with dense shadows illustration, mist field as below-subject negative space composition, magenta ink-dense tonal scale palette, soft diffusion from doorway spill, spilling into the background 3af18c13d923"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with precise contours illustration, blank wall as split-field negative space composition, vermilion metallic-accent monochrome palette, gentle atmospheric bloom from doorway spill, contained in a localized pool 5d16f214853d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.5d16f214853d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.strong-counterclockwise-dutch-tilt-with-kinetic-urgency-architecture-led"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.blank-wall-as-split-field-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-doorway-spill-contained-in-a-localized-poo"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.vermilion-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-precise-contours-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with precise contours illustration, blank wall as split-field negative space composition, vermilion metallic-accent monochrome palette, gentle atmospheric bloom from doorway spill, contained in a localized pool 5d16f214853d"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with airy linework illustration, calm water as below-subject negative space composition, graphite low-key monochrome palette, soft diffusion from doorway spill, layered across depth planes 61e6e5437e52"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.61e6e5437e52",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.unstable-shifting-dutch-tilt-with-kinetic-urgency-negative-space-framing"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-below-subject-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.graphite-low-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-airy-linework-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with airy linework illustration, calm water as below-subject negative space composition, graphite low-key monochrome palette, soft diffusion from doorway spill, layered across depth planes 61e6e5437e52"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with precise contours illustration, calm water as encircling negative space composition, teal high-key monochrome palette, soft diffusion from doorway spill, broken by foreground shapes 67cdad59696f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.67cdad59696f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.subtle-clockwise-roll-with-kinetic-urgency-horizon-led-framing"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-encircling-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-precise-contours-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with precise contours illustration, calm water as encircling negative space composition, teal high-key monochrome palette, soft diffusion from doorway spill, broken by foreground shapes 67cdad59696f"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with airy linework illustration, mist field as split-field negative space composition, violet misty tonal scale palette, crisp shadow edges from doorway spill, layered across depth planes 6d428a5a5c33"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.6d428a5a5c33",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.strong-counterclockwise-dutch-tilt-with-restrained-unease-corner-to-corn"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.mist-field-as-split-field-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-misty-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-airy-linework-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with airy linework illustration, mist field as split-field negative space composition, violet misty tonal scale palette, crisp shadow edges from doorway spill, layered across depth planes 6d428a5a5c33"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with soft wash fields illustration, snow field as below-subject negative space composition, cobalt metallic-accent monochrome palette, crisp shadow edges from doorway spill, falling off into shadow 77456223b54a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.77456223b54a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.strong-counterclockwise-dutch-tilt-with-kinetic-urgency-corner-to-corner"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.snow-field-as-below-subject-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-soft-wash-fields-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with soft wash fields illustration, snow field as below-subject negative space composition, cobalt metallic-accent monochrome palette, crisp shadow edges from doorway spill, falling off into shadow 77456223b54a"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with precise contours illustration, empty floor as split-field negative space composition, magenta high-key monochrome palette, controlled high contrast from doorway spill, layered across depth planes 79435366a04d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.79435366a04d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-diagonal-clockwise-tilt-with-restrained-unease-foreground-line-fram"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-split-field-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-doorway-spill-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.magenta-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-precise-contours-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with precise contours illustration, empty floor as split-field negative space composition, magenta high-key monochrome palette, controlled high contrast from doorway spill, layered across depth planes 79435366a04d"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with soft wash fields illustration, deep shadow as above-subject negative space composition, olive misty tonal scale palette, soft diffusion from doorway spill, broken by foreground shapes 8b635a671b9e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.8b635a671b9e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-diagonal-counterclockwise-tilt-with-playful-imbalance-subject-cente"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-above-subject-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-misty-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-soft-wash-fields-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with soft wash fields illustration, deep shadow as above-subject negative space composition, olive misty tonal scale palette, soft diffusion from doorway spill, broken by foreground shapes 8b635a671b9e"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with minimal accents illustration, mist field as below-subject negative space composition, cobalt duotone wash palette, gentle atmospheric bloom from doorway spill, grazing textured surfaces 929e303e8253"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.929e303e8253",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.subtle-clockwise-roll-with-psychological-tension-architecture-led-framin"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.mist-field-as-below-subject-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-doorway-spill-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-duotone-wash-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-minimal-accents-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with minimal accents illustration, mist field as below-subject negative space composition, cobalt duotone wash palette, gentle atmospheric bloom from doorway spill, grazing textured surfaces 929e303e8253"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with airy linework illustration, distant horizon as corner negative space composition, emerald low-key monochrome palette, soft diffusion from doorway spill, spilling into the background a3f5e5dcf401"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.a3f5e5dcf401",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.moderate-counterclockwise-dutch-tilt-with-psychological-tension-architec"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.distant-horizon-as-corner-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-low-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-airy-linework-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with airy linework illustration, distant horizon as corner negative space composition, emerald low-key monochrome palette, soft diffusion from doorway spill, spilling into the background a3f5e5dcf401"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with ornamental hatching illustration, paper margin as left-side negative space composition, indigo pastel tonal scale palette, controlled high contrast from doorway spill, reflected from nearby surfaces c22088862b49"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.c22088862b49",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.unstable-shifting-dutch-tilt-with-restrained-unease-corner-to-corner-fra"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-left-side-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-doorway-spill-reflected-from-nearby-surfac"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-pastel-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-ornamental-hatching-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with ornamental hatching illustration, paper margin as left-side negative space composition, indigo pastel tonal scale palette, controlled high contrast from doorway spill, reflected from nearby surfaces c22088862b49"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with minimal accents illustration, paper margin as left-side negative space composition, violet three-value study palette, soft diffusion from doorway spill, falling off into shadow d36b596f7a67"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.d36b596f7a67",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.subtle-clockwise-roll-with-kinetic-urgency-negative-space-framing"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-left-side-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-minimal-accents-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with minimal accents illustration, paper margin as left-side negative space composition, violet three-value study palette, soft diffusion from doorway spill, falling off into shadow d36b596f7a67"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with airy linework illustration, empty floor as below-subject negative space composition, magenta three-value study palette, soft diffusion from doorway spill, falling off into shadow d5d8ced7a89a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.d5d8ced7a89a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.unstable-shifting-dutch-tilt-with-psychological-tension-doorway-framed-c"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-below-subject-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.magenta-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-airy-linework-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with airy linework illustration, empty floor as below-subject negative space composition, magenta three-value study palette, soft diffusion from doorway spill, falling off into shadow d5d8ced7a89a"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with dense shadows illustration, distant horizon as corner negative space composition, amber ink-dense tonal scale palette, controlled high contrast from doorway spill, spilling into the background eb8da7024d7e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.eb8da7024d7e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.subtle-clockwise-roll-with-playful-imbalance-horizon-led-framing"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.distant-horizon-as-corner-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-doorway-spill-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.amber-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-dense-shadows-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with dense shadows illustration, distant horizon as corner negative space composition, amber ink-dense tonal scale palette, controlled high contrast from doorway spill, spilling into the background eb8da7024d7e"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with expressive splatter illustration, deep shadow as above-subject negative space composition, sepia three-value study palette, crisp shadow edges from doorway spill, reflected from nearby surfaces f118322ae213"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.f118322ae213",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.moderate-clockwise-dutch-tilt-with-restrained-unease-horizon-led-framing"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-above-subject-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-expressive-splatter-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with expressive splatter illustration, deep shadow as above-subject negative space composition, sepia three-value study palette, crisp shadow edges from doorway spill, reflected from nearby surfaces f118322ae213"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "suspense dutch frame featuring scratchboard ink with ornamental hatching illustration, unlit doorway as below-subject negative space composition, magenta ink-dense tonal scale palette, controlled high contrast from doorway spill, falling off into shadow f295fce946af"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.suspense-dutch-frame",
+      "familyTriggers": [
+        "suspense dutch frame grammar",
+        "tilted psychological framing",
+        "off-axis tension direction"
+      ],
+      "id": "phase8.art.camera.suspense-dutch-frame.f295fce946af",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.moderate-clockwise-dutch-tilt-with-kinetic-urgency-vanishing-point-frami"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-below-subject-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-doorway-spill-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.magenta-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-ornamental-hatching-illustration"
+        ]
+      },
+      "name": "Suspense Dutch Frame 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.suspense-dutch-frame",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "dutch-angle unease",
+        "tilted shadow field",
+        "off-balance suspense"
+      ],
+      "triggers": [
+        "suspense dutch frame featuring scratchboard ink with ornamental hatching illustration, unlit doorway as below-subject negative space composition, magenta ink-dense tonal scale palette, controlled high contrast from doorway spill, falling off into shadow f295fce946af"
+      ],
+      "variantIndex": 9
+    }
+  ],
+  "schemaVersion": 2
+}

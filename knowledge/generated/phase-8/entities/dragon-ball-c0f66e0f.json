@@ -1,0 +1,249 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Bulma",
+        "Bulma (Dragon Ball)"
+      ],
+      "id": "character.dragon-ball.bulma",
+      "kind": "named-character",
+      "name": "Bulma",
+      "namespace": "Dragon Ball",
+      "promptTags": [
+        "Bulma",
+        "Dragon Ball",
+        "female",
+        "inventor"
+      ],
+      "provenance": {
+        "groupId": "dragon-ball",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "inventor"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Frieza",
+        "Frieza (Dragon Ball)"
+      ],
+      "id": "character.dragon-ball.frieza",
+      "kind": "named-character",
+      "name": "Frieza",
+      "namespace": "Dragon Ball",
+      "promptTags": [
+        "Frieza",
+        "Dragon Ball",
+        "male",
+        "galactic emperor"
+      ],
+      "provenance": {
+        "groupId": "dragon-ball",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "antagonist",
+        "ruler"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Krillin",
+        "Krillin (Dragon Ball)"
+      ],
+      "id": "character.dragon-ball.krillin",
+      "kind": "named-character",
+      "name": "Krillin",
+      "namespace": "Dragon Ball",
+      "promptTags": [
+        "Krillin",
+        "Dragon Ball",
+        "male",
+        "martial artist"
+      ],
+      "provenance": {
+        "groupId": "dragon-ball",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "martial-artist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Piccolo (Dragon Ball)"
+      ],
+      "id": "character.dragon-ball.piccolo",
+      "kind": "named-character",
+      "name": "Piccolo (Dragon Ball)",
+      "namespace": "Dragon Ball",
+      "promptTags": [
+        "Piccolo",
+        "Dragon Ball",
+        "male",
+        "warrior mentor"
+      ],
+      "provenance": {
+        "groupId": "dragon-ball",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "warrior",
+        "mentor"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Son Gohan",
+        "Son Gohan (Dragon Ball)"
+      ],
+      "id": "character.dragon-ball.son-gohan",
+      "kind": "named-character",
+      "name": "Son Gohan",
+      "namespace": "Dragon Ball",
+      "promptTags": [
+        "Son Gohan",
+        "Dragon Ball",
+        "male",
+        "martial artist"
+      ],
+      "provenance": {
+        "groupId": "dragon-ball",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "martial-artist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Son Goku",
+        "Son Goku (Dragon Ball)"
+      ],
+      "id": "character.dragon-ball.son-goku",
+      "kind": "named-character",
+      "name": "Son Goku",
+      "namespace": "Dragon Ball",
+      "promptTags": [
+        "Son Goku",
+        "Dragon Ball",
+        "male",
+        "martial artist"
+      ],
+      "provenance": {
+        "groupId": "dragon-ball",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "martial-artist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Vegeta",
+        "Vegeta (Dragon Ball)"
+      ],
+      "id": "character.dragon-ball.vegeta",
+      "kind": "named-character",
+      "name": "Vegeta",
+      "namespace": "Dragon Ball",
+      "promptTags": [
+        "Vegeta",
+        "Dragon Ball",
+        "male",
+        "Saiyan warrior"
+      ],
+      "provenance": {
+        "groupId": "dragon-ball",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "warrior",
+        "rival"
+      ]
+    }
+  ],
+  "fingerprint": "07bf5e3e37e3c5541511d67cc8afd1284f203551151027b62722c3f9d536c1a0",
+  "namespace": "Dragon Ball",
+  "schemaVersion": 2
+}

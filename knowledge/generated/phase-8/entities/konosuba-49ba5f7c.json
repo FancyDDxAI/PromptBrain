@@ -1,0 +1,250 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kazuma Satou",
+        "Kazuma Satou (KonoSuba)"
+      ],
+      "id": "character.konosuba.kazuma-satou",
+      "kind": "named-character",
+      "name": "Kazuma Satou",
+      "namespace": "KonoSuba",
+      "promptTags": [
+        "Kazuma Satou",
+        "KonoSuba",
+        "male",
+        "adventurer"
+      ],
+      "provenance": {
+        "groupId": "konosuba",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "adventurer"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kyoya Mitsurugi",
+        "Kyoya Mitsurugi (KonoSuba)"
+      ],
+      "id": "character.konosuba.kyoya-mitsurugi",
+      "kind": "named-character",
+      "name": "Kyoya Mitsurugi",
+      "namespace": "KonoSuba",
+      "promptTags": [
+        "Kyoya Mitsurugi",
+        "KonoSuba",
+        "male",
+        "adventurer"
+      ],
+      "provenance": {
+        "groupId": "konosuba",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "adventurer"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Lalatina Ford Dustiness",
+        "Lalatina Ford Dustiness (KonoSuba)"
+      ],
+      "id": "character.konosuba.lalatina-ford-dustiness",
+      "kind": "named-character",
+      "name": "Lalatina Ford Dustiness",
+      "namespace": "KonoSuba",
+      "promptTags": [
+        "Lalatina Ford Dustiness",
+        "KonoSuba",
+        "female",
+        "crusader"
+      ],
+      "provenance": {
+        "groupId": "konosuba",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "crusader",
+        "adventurer"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Megumin",
+        "Megumin (KonoSuba)"
+      ],
+      "id": "character.konosuba.megumin",
+      "kind": "named-character",
+      "name": "Megumin",
+      "namespace": "KonoSuba",
+      "promptTags": [
+        "Megumin",
+        "KonoSuba",
+        "female",
+        "archwizard"
+      ],
+      "provenance": {
+        "groupId": "konosuba",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "archwizard",
+        "adventurer"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Vanir",
+        "Vanir (KonoSuba)"
+      ],
+      "id": "character.konosuba.vanir",
+      "kind": "named-character",
+      "name": "Vanir",
+      "namespace": "KonoSuba",
+      "promptTags": [
+        "Vanir",
+        "KonoSuba",
+        "male",
+        "demon merchant"
+      ],
+      "provenance": {
+        "groupId": "konosuba",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "demon",
+        "merchant"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Wolbach",
+        "Wolbach (KonoSuba)"
+      ],
+      "id": "character.konosuba.wolbach",
+      "kind": "named-character",
+      "name": "Wolbach",
+      "namespace": "KonoSuba",
+      "promptTags": [
+        "Wolbach",
+        "KonoSuba",
+        "female",
+        "goddess"
+      ],
+      "provenance": {
+        "groupId": "konosuba",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "goddess"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Yunyun",
+        "Yunyun (KonoSuba)"
+      ],
+      "id": "character.konosuba.yunyun",
+      "kind": "named-character",
+      "name": "Yunyun",
+      "namespace": "KonoSuba",
+      "promptTags": [
+        "Yunyun",
+        "KonoSuba",
+        "female",
+        "archwizard"
+      ],
+      "provenance": {
+        "groupId": "konosuba",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "archwizard"
+      ]
+    }
+  ],
+  "fingerprint": "4bc4056870d255fdc5f45793de228627142321c7609ddddf3536388a05883708",
+  "namespace": "KonoSuba",
+  "schemaVersion": 2
+}

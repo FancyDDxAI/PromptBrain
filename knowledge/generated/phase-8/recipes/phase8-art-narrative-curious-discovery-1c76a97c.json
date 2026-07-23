@@ -1,0 +1,1904 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.narrative.curious-discovery",
+  "fingerprint": "b5ea383664d342b24cb782446b9976bcce26094347c9665112dccc04cc3efbd0",
+  "recipes": [
+    {
+      "aliases": [
+        "curious discovery featuring silhouette cut-paper with narrative panel staging style, arched dome anchoring broken-ring framing composition, citrine yellow with pewter gray gemstone palette, bioluminescent ambient light 19ea40fabdb3"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.19ea40fabdb3",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-compressed-spatial-planes-with-color-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.arched-dome-anchoring-broken-ring-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-weathered-relic-formations-serene-mythical-a"
+        ],
+        "expression": [
+          "curated.expression.dreamily-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.citrine-yellow-with-pewter-gray-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.silhouette-cut-paper-with-narrative-panel-staging-style"
+        ]
+      },
+      "name": "Curious Discovery 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring silhouette cut-paper with narrative panel staging style, arched dome anchoring broken-ring framing composition, citrine yellow with pewter gray gemstone palette, bioluminescent ambient light 19ea40fabdb3"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "curious discovery featuring torn-paper collage with visible handmade fibers style, arched dome anchoring concentric framing composition, aquamarine with bright silver gemstone palette, bioluminescent ambient light 241ecbea69c9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.241ecbea69c9",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-receding-architecture-with-scale-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.arched-dome-anchoring-concentric-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-colossal-ceremonial-arches-wonder-filled-epi"
+        ],
+        "expression": [
+          "curated.expression.barely-restrained-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aquamarine-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.torn-paper-collage-with-visible-handmade-fibers-style"
+        ]
+      },
+      "name": "Curious Discovery 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring torn-paper collage with visible handmade fibers style, arched dome anchoring concentric framing composition, aquamarine with bright silver gemstone palette, bioluminescent ambient light 241ecbea69c9"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "curious discovery featuring origami collage with delicate edge detail style, spiral shell anchoring concentric framing composition, amethyst violet with rose gold gemstone palette, bioluminescent ambient light 2647466fc566"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.2647466fc566",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-receding-architecture-with-atmospheric-separatio"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.spiral-shell-anchoring-concentric-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-ancient-rune-pathways-serene-mythical-atmosp"
+        ],
+        "expression": [
+          "curated.expression.fiercely-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.amethyst-violet-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.origami-collage-with-delicate-edge-detail-style"
+        ]
+      },
+      "name": "Curious Discovery 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring origami collage with delicate edge detail style, spiral shell anchoring concentric framing composition, amethyst violet with rose gold gemstone palette, bioluminescent ambient light 2647466fc566"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "curious discovery featuring silhouette cut-paper with precise folded geometry style, flower center anchoring clockwise spiral flow composition, emerald green with champagne gold gemstone palette, bioluminescent ambient light 2c083512e7d7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.2c083512e7d7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-layered-midground-planes-with-scale-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.flower-center-anchoring-clockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-spiraling-monumental-stairs-wonder-filled-ep"
+        ],
+        "expression": [
+          "curated.expression.nervously-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-green-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.silhouette-cut-paper-with-precise-folded-geometry-style"
+        ]
+      },
+      "name": "Curious Discovery 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring silhouette cut-paper with precise folded geometry style, flower center anchoring clockwise spiral flow composition, emerald green with champagne gold gemstone palette, bioluminescent ambient light 2c083512e7d7"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "curious discovery featuring torn-paper collage with shallow shadowbox depth style, halo ring anchoring tangent-line framing composition, amethyst violet with pale brass gemstone palette, bioluminescent ambient light 309a396898a1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.309a396898a1",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-expansive-spatial-planes-with-color-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.halo-ring-anchoring-tangent-line-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-ancient-rune-pathways-wonder-filled-epic-atm"
+        ],
+        "expression": [
+          "curated.expression.quietly-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.amethyst-violet-with-pale-brass-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.torn-paper-collage-with-shallow-shadowbox-depth-style"
+        ]
+      },
+      "name": "Curious Discovery 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring torn-paper collage with shallow shadowbox depth style, halo ring anchoring tangent-line framing composition, amethyst violet with pale brass gemstone palette, bioluminescent ambient light 309a396898a1"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "curious discovery featuring layered paper-cut with precise folded geometry style, circular table anchoring clockwise spiral flow composition, opal pastel with blackened steel gemstone palette, bioluminescent ambient light 32ea399e4d0c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.32ea399e4d0c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-compressed-spatial-planes-with-tonal-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.circular-table-anchoring-clockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-a-shimmering-portal-structure-mysterious-sto"
+        ],
+        "expression": [
+          "curated.expression.proudly-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.opal-pastel-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.layered-paper-cut-with-precise-folded-geometry-style"
+        ]
+      },
+      "name": "Curious Discovery 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring layered paper-cut with precise folded geometry style, circular table anchoring clockwise spiral flow composition, opal pastel with blackened steel gemstone palette, bioluminescent ambient light 32ea399e4d0c"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "curious discovery featuring torn-paper collage with precise folded geometry style, round window anchoring outward radial flow composition, amethyst violet with bright silver gemstone palette, bioluminescent ambient light 3c9e99884b1c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.3c9e99884b1c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-layered-midground-planes-with-scale-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.round-window-anchoring-outward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-weathered-relic-formations-wonder-filled-epi"
+        ],
+        "expression": [
+          "curated.expression.dreamily-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.amethyst-violet-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.torn-paper-collage-with-precise-folded-geometry-style"
+        ]
+      },
+      "name": "Curious Discovery 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring torn-paper collage with precise folded geometry style, round window anchoring outward radial flow composition, amethyst violet with bright silver gemstone palette, bioluminescent ambient light 3c9e99884b1c"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "curious discovery featuring quilled paper with soft backlit translucency style, round window anchoring broken-ring framing composition, sapphire blue with oxidized copper gemstone palette, bioluminescent ambient light 4171628dd3f8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.4171628dd3f8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-foreground-framing-with-texture-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.round-window-anchoring-broken-ring-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-layered-magical-landmarks-serene-mythical-at"
+        ],
+        "expression": [
+          "curated.expression.intensely-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sapphire-blue-with-oxidized-copper-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.quilled-paper-with-soft-backlit-translucency-style"
+        ]
+      },
+      "name": "Curious Discovery 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring quilled paper with soft backlit translucency style, round window anchoring broken-ring framing composition, sapphire blue with oxidized copper gemstone palette, bioluminescent ambient light 4171628dd3f8"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "curious discovery featuring tissue-paper collage with shallow shadowbox depth style, spiral shell anchoring counterclockwise spiral flow composition, opal pastel with pale brass gemstone palette, bioluminescent ambient light 42a8b7c0318a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.42a8b7c0318a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-compressed-spatial-planes-with-tonal-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.spiral-shell-anchoring-counterclockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-ancient-rune-pathways-mysterious-storybook-a"
+        ],
+        "expression": [
+          "curated.expression.fearlessly-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.opal-pastel-with-pale-brass-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.tissue-paper-collage-with-shallow-shadowbox-depth-style"
+        ]
+      },
+      "name": "Curious Discovery 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring tissue-paper collage with shallow shadowbox depth style, spiral shell anchoring counterclockwise spiral flow composition, opal pastel with pale brass gemstone palette, bioluminescent ambient light 42a8b7c0318a"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "curious discovery featuring tissue-paper collage with minimal color blocking style, wheel hub anchoring inward radial flow composition, moonstone gray with pewter gray gemstone palette, bioluminescent ambient light 63da818bfd24"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.63da818bfd24",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-foreground-framing-with-tonal-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wheel-hub-anchoring-inward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-spiraling-monumental-stairs-mysterious-story"
+        ],
+        "expression": [
+          "curated.expression.proudly-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.moonstone-gray-with-pewter-gray-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.tissue-paper-collage-with-minimal-color-blocking-style"
+        ]
+      },
+      "name": "Curious Discovery 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring tissue-paper collage with minimal color blocking style, wheel hub anchoring inward radial flow composition, moonstone gray with pewter gray gemstone palette, bioluminescent ambient light 63da818bfd24"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "curious discovery featuring accordion-book with delicate edge detail style, wheel hub anchoring tangent-line framing composition, citrine yellow with bright silver gemstone palette, bioluminescent ambient light 6a5f5ffc7b0d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.6a5f5ffc7b0d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-receding-architecture-with-scale-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wheel-hub-anchoring-tangent-line-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-spiraling-monumental-stairs-wonder-filled-ep"
+        ],
+        "expression": [
+          "curated.expression.proudly-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.citrine-yellow-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.accordion-book-with-delicate-edge-detail-style"
+        ]
+      },
+      "name": "Curious Discovery 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring accordion-book with delicate edge detail style, wheel hub anchoring tangent-line framing composition, citrine yellow with bright silver gemstone palette, bioluminescent ambient light 6a5f5ffc7b0d"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "curious discovery featuring silhouette cut-paper with narrative panel staging style, sun disk anchoring outward radial flow composition, aquamarine with pale brass gemstone palette, bioluminescent ambient light 8f56a64316b8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.8f56a64316b8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-expansive-spatial-planes-with-rim-light-separati"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.sun-disk-anchoring-outward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-a-shimmering-portal-structure-mysterious-sto"
+        ],
+        "expression": [
+          "curated.expression.warmly-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aquamarine-with-pale-brass-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.silhouette-cut-paper-with-narrative-panel-staging-style"
+        ]
+      },
+      "name": "Curious Discovery 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring silhouette cut-paper with narrative panel staging style, sun disk anchoring outward radial flow composition, aquamarine with pale brass gemstone palette, bioluminescent ambient light 8f56a64316b8"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "curious discovery featuring marbled paper with minimal color blocking style, clock face anchoring tangent-line framing composition, emerald green with pewter gray gemstone palette, bioluminescent ambient light 9481137ac450"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.9481137ac450",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-foreground-framing-with-rim-light-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.clock-face-anchoring-tangent-line-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-levitating-stone-fragments-wonder-filled-epi"
+        ],
+        "expression": [
+          "curated.expression.intensely-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-green-with-pewter-gray-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.marbled-paper-with-minimal-color-blocking-style"
+        ]
+      },
+      "name": "Curious Discovery 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring marbled paper with minimal color blocking style, clock face anchoring tangent-line framing composition, emerald green with pewter gray gemstone palette, bioluminescent ambient light 9481137ac450"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "curious discovery featuring marbled paper with shallow shadowbox depth style, flower center anchoring tangent-line framing composition, ruby red with blackened steel gemstone palette, bioluminescent ambient light 981034312839"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.981034312839",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-overlapping-silhouettes-with-color-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.flower-center-anchoring-tangent-line-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-ornate-guardian-statues-mysterious-storybook"
+        ],
+        "expression": [
+          "curated.expression.nervously-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.marbled-paper-with-shallow-shadowbox-depth-style"
+        ]
+      },
+      "name": "Curious Discovery 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring marbled paper with shallow shadowbox depth style, flower center anchoring tangent-line framing composition, ruby red with blackened steel gemstone palette, bioluminescent ambient light 981034312839"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "curious discovery featuring quilled paper with soft backlit translucency style, wheel hub anchoring clockwise spiral flow composition, citrine yellow with pewter gray gemstone palette, bioluminescent ambient light 9b3218f89da9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.9b3218f89da9",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-overlapping-silhouettes-with-texture-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wheel-hub-anchoring-clockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-spiraling-monumental-stairs-serene-mythical-"
+        ],
+        "expression": [
+          "curated.expression.openly-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.citrine-yellow-with-pewter-gray-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.quilled-paper-with-soft-backlit-translucency-style"
+        ]
+      },
+      "name": "Curious Discovery 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring quilled paper with soft backlit translucency style, wheel hub anchoring clockwise spiral flow composition, citrine yellow with pewter gray gemstone palette, bioluminescent ambient light 9b3218f89da9"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "curious discovery featuring torn-paper collage with delicate edge detail style, sun disk anchoring clockwise spiral flow composition, aquamarine with rose gold gemstone palette, bioluminescent ambient light a8e1fad09155"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.a8e1fad09155",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-overlapping-silhouettes-with-tonal-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.sun-disk-anchoring-clockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-spiraling-monumental-stairs-wonder-filled-ep"
+        ],
+        "expression": [
+          "curated.expression.barely-restrained-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aquamarine-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.torn-paper-collage-with-delicate-edge-detail-style"
+        ]
+      },
+      "name": "Curious Discovery 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring torn-paper collage with delicate edge detail style, sun disk anchoring clockwise spiral flow composition, aquamarine with rose gold gemstone palette, bioluminescent ambient light a8e1fad09155"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "curious discovery featuring layered paper-cut with minimal color blocking style, circular table anchoring inward radial flow composition, moonstone gray with antique gold gemstone palette, bioluminescent ambient light b88cc6975e5a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.b88cc6975e5a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-deep-vanishing-point-layers-with-atmospheric-sep"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.circular-table-anchoring-inward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-a-shimmering-portal-structure-mysterious-sto"
+        ],
+        "expression": [
+          "curated.expression.proudly-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.moonstone-gray-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.layered-paper-cut-with-minimal-color-blocking-style"
+        ]
+      },
+      "name": "Curious Discovery 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring layered paper-cut with minimal color blocking style, circular table anchoring inward radial flow composition, moonstone gray with antique gold gemstone palette, bioluminescent ambient light b88cc6975e5a"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "curious discovery featuring layered paper-cut with delicate edge detail style, water ripple anchoring inward radial flow composition, citrine yellow with pale brass gemstone palette, bioluminescent ambient light b8ce2b03b801"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.b8ce2b03b801",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-a-clear-foreground-plane-with-color-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.water-ripple-anchoring-inward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-impossible-suspended-bridges-wonder-filled-e"
+        ],
+        "expression": [
+          "curated.expression.playfully-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.citrine-yellow-with-pale-brass-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.layered-paper-cut-with-delicate-edge-detail-style"
+        ]
+      },
+      "name": "Curious Discovery 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring layered paper-cut with delicate edge detail style, water ripple anchoring inward radial flow composition, citrine yellow with pale brass gemstone palette, bioluminescent ambient light b8ce2b03b801"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "curious discovery featuring kirigami with bold planar layering style, lens aperture anchoring concentric framing composition, opal pastel with blackened steel gemstone palette, bioluminescent ambient light bd3ca75c0eca"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.bd3ca75c0eca",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-foreground-framing-with-atmospheric-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lens-aperture-anchoring-concentric-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-impossible-suspended-bridges-serene-mythical"
+        ],
+        "expression": [
+          "curated.expression.openly-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.opal-pastel-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.kirigami-with-bold-planar-layering-style"
+        ]
+      },
+      "name": "Curious Discovery 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring kirigami with bold planar layering style, lens aperture anchoring concentric framing composition, opal pastel with blackened steel gemstone palette, bioluminescent ambient light bd3ca75c0eca"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "curious discovery featuring papier-mache with bold planar layering style, halo ring anchoring broken-ring framing composition, sapphire blue with pale brass gemstone palette, bioluminescent ambient light dd93c5bae7b7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.dd93c5bae7b7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-foreground-framing-with-texture-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.halo-ring-anchoring-broken-ring-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-a-shimmering-portal-structure-wonder-filled-"
+        ],
+        "expression": [
+          "curated.expression.nervously-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sapphire-blue-with-pale-brass-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.papier-mache-with-bold-planar-layering-style"
+        ]
+      },
+      "name": "Curious Discovery 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring papier-mache with bold planar layering style, halo ring anchoring broken-ring framing composition, sapphire blue with pale brass gemstone palette, bioluminescent ambient light dd93c5bae7b7"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "curious discovery featuring layered paper-cut with delicate edge detail style, clock face anchoring outward radial flow composition, sapphire blue with pale brass gemstone palette, bioluminescent ambient light e5d54b1878ec"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.e5d54b1878ec",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-foreground-framing-with-scale-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.clock-face-anchoring-outward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-spiraling-monumental-stairs-wonder-filled-ep"
+        ],
+        "expression": [
+          "curated.expression.gently-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sapphire-blue-with-pale-brass-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.layered-paper-cut-with-delicate-edge-detail-style"
+        ]
+      },
+      "name": "Curious Discovery 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring layered paper-cut with delicate edge detail style, clock face anchoring outward radial flow composition, sapphire blue with pale brass gemstone palette, bioluminescent ambient light e5d54b1878ec"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "curious discovery featuring silhouette cut-paper with minimal color blocking style, water ripple anchoring outward radial flow composition, opal pastel with oxidized copper gemstone palette, bioluminescent ambient light ec3f99843c98"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.ec3f99843c98",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-overlapping-silhouettes-with-color-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.water-ripple-anchoring-outward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-a-shimmering-portal-structure-serene-mythica"
+        ],
+        "expression": [
+          "curated.expression.proudly-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.opal-pastel-with-oxidized-copper-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.silhouette-cut-paper-with-minimal-color-blocking-style"
+        ]
+      },
+      "name": "Curious Discovery 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring silhouette cut-paper with minimal color blocking style, water ripple anchoring outward radial flow composition, opal pastel with oxidized copper gemstone palette, bioluminescent ambient light ec3f99843c98"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "curious discovery featuring paper mosaic with bold planar layering style, clock face anchoring concentric framing composition, aquamarine with oxidized copper gemstone palette, bioluminescent ambient light f3103dd17818"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.f3103dd17818",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-compressed-spatial-planes-with-atmospheric-separ"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.clock-face-anchoring-concentric-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-glowing-botanical-accents-wonder-filled-epic"
+        ],
+        "expression": [
+          "curated.expression.subtly-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aquamarine-with-oxidized-copper-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.paper-mosaic-with-bold-planar-layering-style"
+        ]
+      },
+      "name": "Curious Discovery 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring paper mosaic with bold planar layering style, clock face anchoring concentric framing composition, aquamarine with oxidized copper gemstone palette, bioluminescent ambient light f3103dd17818"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "curious discovery featuring folded cardstock with shallow shadowbox depth style, wheel hub anchoring tangent-line framing composition, tourmaline pink with blackened steel gemstone palette, bioluminescent ambient light f76f23f313c2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.curious-discovery",
+      "familyTriggers": [
+        "curious discovery narrative direction",
+        "crystal-cavern wonder",
+        "inquisitive magical reveal"
+      ],
+      "id": "phase8.art.narrative.curious-discovery.f76f23f313c2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.selective-focus-staging-overlapping-silhouettes-with-rim-light-separatio"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wheel-hub-anchoring-tangent-line-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.crystal-cavern-kingdom-with-a-shimmering-portal-structure-mysterious-sto"
+        ],
+        "expression": [
+          "curated.expression.coldly-curious-look"
+        ],
+        "lighting": [
+          "curated.lighting.bioluminescent-ambient-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tourmaline-pink-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.folded-cardstock-with-shallow-shadowbox-depth-style"
+        ]
+      },
+      "name": "Curious Discovery 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.curious-discovery",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "curious searching look",
+        "crystal radial reveal",
+        "selective-focus wonder"
+      ],
+      "triggers": [
+        "curious discovery featuring folded cardstock with shallow shadowbox depth style, wheel hub anchoring tangent-line framing composition, tourmaline pink with blackened steel gemstone palette, bioluminescent ambient light f76f23f313c2"
+      ],
+      "variantIndex": 10
+    }
+  ],
+  "schemaVersion": 2
+}

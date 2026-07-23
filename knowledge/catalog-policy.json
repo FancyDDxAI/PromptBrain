@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "minimums": {
+    "checkpoints": 12,
+    "entities": 4,
+    "concepts": 2800,
+    "recipes": 250,
+    "adultConcepts": 30
+  },
+  "minimumConceptsByKind": {
+    "quality": 20,
+    "style": 100,
+    "subject": 30,
+    "anatomy": 80,
+    "action": 100,
+    "interaction": 20,
+    "pose": 100,
+    "expression": 100,
+    "wardrobe": 200,
+    "environment": 100,
+    "lighting": 100,
+    "camera": 100,
+    "composition": 100,
+    "palette": 100,
+    "motif": 100,
+    "effect": 100
+  },
+  "requiredCheckpointBases": [
+    "SD1.5",
+    "SDXL",
+    "Pony",
+    "FLUX"
+  ],
+  "coverageSeverity": "warning",
+  "phase8Targets": {
+    "concepts": 20000,
+    "recipes": 1000,
+    "namedEntities": 250,
+    "maximumStructuralErrors": 0,
+    "maximumNewCanonicalDuplicates": 0
+  }
+}

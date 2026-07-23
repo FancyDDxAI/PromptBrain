@@ -1,0 +1,247 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Ami Mizuno",
+        "Ami Mizuno (Sailor Moon)"
+      ],
+      "id": "character.sailor-moon.ami-mizuno",
+      "kind": "named-character",
+      "name": "Ami Mizuno",
+      "namespace": "Sailor Moon",
+      "promptTags": [
+        "Ami Mizuno",
+        "Sailor Moon",
+        "female",
+        "Sailor Guardian"
+      ],
+      "provenance": {
+        "groupId": "sailor-moon",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "sailor-guardian"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Makoto Kino",
+        "Makoto Kino (Sailor Moon)"
+      ],
+      "id": "character.sailor-moon.makoto-kino",
+      "kind": "named-character",
+      "name": "Makoto Kino",
+      "namespace": "Sailor Moon",
+      "promptTags": [
+        "Makoto Kino",
+        "Sailor Moon",
+        "female",
+        "Sailor Guardian"
+      ],
+      "provenance": {
+        "groupId": "sailor-moon",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "sailor-guardian"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Mamoru Chiba",
+        "Mamoru Chiba (Sailor Moon)"
+      ],
+      "id": "character.sailor-moon.mamoru-chiba",
+      "kind": "named-character",
+      "name": "Mamoru Chiba",
+      "namespace": "Sailor Moon",
+      "promptTags": [
+        "Mamoru Chiba",
+        "Sailor Moon",
+        "male",
+        "masked guardian"
+      ],
+      "provenance": {
+        "groupId": "sailor-moon",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "guardian"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Minako Aino",
+        "Minako Aino (Sailor Moon)"
+      ],
+      "id": "character.sailor-moon.minako-aino",
+      "kind": "named-character",
+      "name": "Minako Aino",
+      "namespace": "Sailor Moon",
+      "promptTags": [
+        "Minako Aino",
+        "Sailor Moon",
+        "female",
+        "Sailor Guardian"
+      ],
+      "provenance": {
+        "groupId": "sailor-moon",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "sailor-guardian"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Rei Hino",
+        "Rei Hino (Sailor Moon)"
+      ],
+      "id": "character.sailor-moon.rei-hino",
+      "kind": "named-character",
+      "name": "Rei Hino",
+      "namespace": "Sailor Moon",
+      "promptTags": [
+        "Rei Hino",
+        "Sailor Moon",
+        "female",
+        "Sailor Guardian"
+      ],
+      "provenance": {
+        "groupId": "sailor-moon",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "sailor-guardian"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Setsuna Meioh",
+        "Setsuna Meioh (Sailor Moon)"
+      ],
+      "id": "character.sailor-moon.setsuna-meioh",
+      "kind": "named-character",
+      "name": "Setsuna Meioh",
+      "namespace": "Sailor Moon",
+      "promptTags": [
+        "Setsuna Meioh",
+        "Sailor Moon",
+        "female",
+        "Sailor Guardian"
+      ],
+      "provenance": {
+        "groupId": "sailor-moon",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "sailor-guardian"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Usagi Tsukino",
+        "Usagi Tsukino (Sailor Moon)"
+      ],
+      "id": "character.sailor-moon.usagi-tsukino",
+      "kind": "named-character",
+      "name": "Usagi Tsukino",
+      "namespace": "Sailor Moon",
+      "promptTags": [
+        "Usagi Tsukino",
+        "Sailor Moon",
+        "female",
+        "Sailor Guardian"
+      ],
+      "provenance": {
+        "groupId": "sailor-moon",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "protagonist",
+        "sailor-guardian"
+      ]
+    }
+  ],
+  "fingerprint": "6458f7c1e990ddbfda70b96861792aa76f97031bb5c074d1b1bee517d534ed3b",
+  "namespace": "Sailor Moon",
+  "schemaVersion": 2
+}

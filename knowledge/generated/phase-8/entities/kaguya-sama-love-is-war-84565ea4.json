@@ -1,0 +1,220 @@
+{
+  "count": 6,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Ai Hayasaka",
+        "Ai Hayasaka (Kaguya-sama: Love Is War)"
+      ],
+      "id": "character.kaguya-sama-love-is-war.ai-hayasaka",
+      "kind": "named-character",
+      "name": "Ai Hayasaka",
+      "namespace": "Kaguya-sama: Love Is War",
+      "promptTags": [
+        "Ai Hayasaka",
+        "Kaguya-sama: Love Is War",
+        "female",
+        "student attendant"
+      ],
+      "provenance": {
+        "groupId": "kaguya-sama-love-is-war",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student",
+        "attendant"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Chika Fujiwara",
+        "Chika Fujiwara (Kaguya-sama: Love Is War)"
+      ],
+      "id": "character.kaguya-sama-love-is-war.chika-fujiwara",
+      "kind": "named-character",
+      "name": "Chika Fujiwara",
+      "namespace": "Kaguya-sama: Love Is War",
+      "promptTags": [
+        "Chika Fujiwara",
+        "Kaguya-sama: Love Is War",
+        "female",
+        "student council secretary"
+      ],
+      "provenance": {
+        "groupId": "kaguya-sama-love-is-war",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student",
+        "secretary"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kaguya Shinomiya",
+        "Kaguya Shinomiya (Kaguya-sama: Love Is War)"
+      ],
+      "id": "character.kaguya-sama-love-is-war.kaguya-shinomiya",
+      "kind": "named-character",
+      "name": "Kaguya Shinomiya",
+      "namespace": "Kaguya-sama: Love Is War",
+      "promptTags": [
+        "Kaguya Shinomiya",
+        "Kaguya-sama: Love Is War",
+        "female",
+        "student council vice president"
+      ],
+      "provenance": {
+        "groupId": "kaguya-sama-love-is-war",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "protagonist",
+        "student",
+        "vice-president"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Miko Iino",
+        "Miko Iino (Kaguya-sama: Love Is War)"
+      ],
+      "id": "character.kaguya-sama-love-is-war.miko-iino",
+      "kind": "named-character",
+      "name": "Miko Iino",
+      "namespace": "Kaguya-sama: Love Is War",
+      "promptTags": [
+        "Miko Iino",
+        "Kaguya-sama: Love Is War",
+        "female",
+        "student council member"
+      ],
+      "provenance": {
+        "groupId": "kaguya-sama-love-is-war",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student",
+        "council-member"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Miyuki Shirogane",
+        "Miyuki Shirogane (Kaguya-sama: Love Is War)"
+      ],
+      "id": "character.kaguya-sama-love-is-war.miyuki-shirogane",
+      "kind": "named-character",
+      "name": "Miyuki Shirogane",
+      "namespace": "Kaguya-sama: Love Is War",
+      "promptTags": [
+        "Miyuki Shirogane",
+        "Kaguya-sama: Love Is War",
+        "male",
+        "student council president"
+      ],
+      "provenance": {
+        "groupId": "kaguya-sama-love-is-war",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "student",
+        "president"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Yu Ishigami",
+        "Yu Ishigami (Kaguya-sama: Love Is War)"
+      ],
+      "id": "character.kaguya-sama-love-is-war.yu-ishigami",
+      "kind": "named-character",
+      "name": "Yu Ishigami",
+      "namespace": "Kaguya-sama: Love Is War",
+      "promptTags": [
+        "Yu Ishigami",
+        "Kaguya-sama: Love Is War",
+        "male",
+        "student council treasurer"
+      ],
+      "provenance": {
+        "groupId": "kaguya-sama-love-is-war",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "student",
+        "treasurer"
+      ]
+    }
+  ],
+  "fingerprint": "faa7364766884e67cc017f1660d89ea4a6608142cd5a6e6e5898242c4a6b5e06",
+  "namespace": "Kaguya-sama: Love Is War",
+  "schemaVersion": 2
+}

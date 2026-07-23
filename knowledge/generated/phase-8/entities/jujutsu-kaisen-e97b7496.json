@@ -1,0 +1,249 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Maki Zenin",
+        "Maki Zenin (Jujutsu Kaisen)"
+      ],
+      "id": "character.jujutsu-kaisen.maki-zenin",
+      "kind": "named-character",
+      "name": "Maki Zenin",
+      "namespace": "Jujutsu Kaisen",
+      "promptTags": [
+        "Maki Zenin",
+        "Jujutsu Kaisen",
+        "female",
+        "jujutsu sorcerer"
+      ],
+      "provenance": {
+        "groupId": "jujutsu-kaisen",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "sorcerer"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Megumi Fushiguro",
+        "Megumi Fushiguro (Jujutsu Kaisen)"
+      ],
+      "id": "character.jujutsu-kaisen.megumi-fushiguro",
+      "kind": "named-character",
+      "name": "Megumi Fushiguro",
+      "namespace": "Jujutsu Kaisen",
+      "promptTags": [
+        "Megumi Fushiguro",
+        "Jujutsu Kaisen",
+        "male",
+        "jujutsu sorcerer"
+      ],
+      "provenance": {
+        "groupId": "jujutsu-kaisen",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "sorcerer"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Nobara Kugisaki",
+        "Nobara Kugisaki (Jujutsu Kaisen)"
+      ],
+      "id": "character.jujutsu-kaisen.nobara-kugisaki",
+      "kind": "named-character",
+      "name": "Nobara Kugisaki",
+      "namespace": "Jujutsu Kaisen",
+      "promptTags": [
+        "Nobara Kugisaki",
+        "Jujutsu Kaisen",
+        "female",
+        "jujutsu sorcerer"
+      ],
+      "provenance": {
+        "groupId": "jujutsu-kaisen",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "sorcerer"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Ryomen Sukuna",
+        "Ryomen Sukuna (Jujutsu Kaisen)"
+      ],
+      "id": "character.jujutsu-kaisen.ryomen-sukuna",
+      "kind": "named-character",
+      "name": "Ryomen Sukuna",
+      "namespace": "Jujutsu Kaisen",
+      "promptTags": [
+        "Ryomen Sukuna",
+        "Jujutsu Kaisen",
+        "male",
+        "curse king"
+      ],
+      "provenance": {
+        "groupId": "jujutsu-kaisen",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "antagonist",
+        "curse"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Satoru Gojo",
+        "Satoru Gojo (Jujutsu Kaisen)"
+      ],
+      "id": "character.jujutsu-kaisen.satoru-gojo",
+      "kind": "named-character",
+      "name": "Satoru Gojo",
+      "namespace": "Jujutsu Kaisen",
+      "promptTags": [
+        "Satoru Gojo",
+        "Jujutsu Kaisen",
+        "male",
+        "jujutsu teacher"
+      ],
+      "provenance": {
+        "groupId": "jujutsu-kaisen",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "sorcerer",
+        "teacher"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Yuji Itadori",
+        "Yuji Itadori (Jujutsu Kaisen)"
+      ],
+      "id": "character.jujutsu-kaisen.yuji-itadori",
+      "kind": "named-character",
+      "name": "Yuji Itadori",
+      "namespace": "Jujutsu Kaisen",
+      "promptTags": [
+        "Yuji Itadori",
+        "Jujutsu Kaisen",
+        "male",
+        "jujutsu sorcerer"
+      ],
+      "provenance": {
+        "groupId": "jujutsu-kaisen",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "sorcerer"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Yuta Okkotsu",
+        "Yuta Okkotsu (Jujutsu Kaisen)"
+      ],
+      "id": "character.jujutsu-kaisen.yuta-okkotsu",
+      "kind": "named-character",
+      "name": "Yuta Okkotsu",
+      "namespace": "Jujutsu Kaisen",
+      "promptTags": [
+        "Yuta Okkotsu",
+        "Jujutsu Kaisen",
+        "male",
+        "jujutsu sorcerer"
+      ],
+      "provenance": {
+        "groupId": "jujutsu-kaisen",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "sorcerer"
+      ]
+    }
+  ],
+  "fingerprint": "bacb83239844543621eb9de870bfc011e3c05997ca229ed0320a8617fd1eb2bb",
+  "namespace": "Jujutsu Kaisen",
+  "schemaVersion": 2
+}

@@ -1,0 +1,251 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Alex Louis Armstrong",
+        "Alex Louis Armstrong (Fullmetal Alchemist)"
+      ],
+      "id": "character.fullmetal-alchemist.alex-louis-armstrong",
+      "kind": "named-character",
+      "name": "Alex Louis Armstrong",
+      "namespace": "Fullmetal Alchemist",
+      "promptTags": [
+        "Alex Louis Armstrong",
+        "Fullmetal Alchemist",
+        "male",
+        "state alchemist officer"
+      ],
+      "provenance": {
+        "groupId": "fullmetal-alchemist",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "alchemist",
+        "military-officer"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Alphonse Elric",
+        "Alphonse Elric (Fullmetal Alchemist)"
+      ],
+      "id": "character.fullmetal-alchemist.alphonse-elric",
+      "kind": "named-character",
+      "name": "Alphonse Elric",
+      "namespace": "Fullmetal Alchemist",
+      "promptTags": [
+        "Alphonse Elric",
+        "Fullmetal Alchemist",
+        "male",
+        "alchemist"
+      ],
+      "provenance": {
+        "groupId": "fullmetal-alchemist",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "alchemist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Edward Elric",
+        "Edward Elric (Fullmetal Alchemist)"
+      ],
+      "id": "character.fullmetal-alchemist.edward-elric",
+      "kind": "named-character",
+      "name": "Edward Elric",
+      "namespace": "Fullmetal Alchemist",
+      "promptTags": [
+        "Edward Elric",
+        "Fullmetal Alchemist",
+        "male",
+        "state alchemist"
+      ],
+      "provenance": {
+        "groupId": "fullmetal-alchemist",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "alchemist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Olivier Mira Armstrong",
+        "Olivier Mira Armstrong (Fullmetal Alchemist)"
+      ],
+      "id": "character.fullmetal-alchemist.olivier-mira-armstrong",
+      "kind": "named-character",
+      "name": "Olivier Mira Armstrong",
+      "namespace": "Fullmetal Alchemist",
+      "promptTags": [
+        "Olivier Mira Armstrong",
+        "Fullmetal Alchemist",
+        "female",
+        "military general"
+      ],
+      "provenance": {
+        "groupId": "fullmetal-alchemist",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "military-officer",
+        "general"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Riza Hawkeye",
+        "Riza Hawkeye (Fullmetal Alchemist)"
+      ],
+      "id": "character.fullmetal-alchemist.riza-hawkeye",
+      "kind": "named-character",
+      "name": "Riza Hawkeye",
+      "namespace": "Fullmetal Alchemist",
+      "promptTags": [
+        "Riza Hawkeye",
+        "Fullmetal Alchemist",
+        "female",
+        "military officer"
+      ],
+      "provenance": {
+        "groupId": "fullmetal-alchemist",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "military-officer",
+        "marksman"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Roy Mustang",
+        "Roy Mustang (Fullmetal Alchemist)"
+      ],
+      "id": "character.fullmetal-alchemist.roy-mustang",
+      "kind": "named-character",
+      "name": "Roy Mustang",
+      "namespace": "Fullmetal Alchemist",
+      "promptTags": [
+        "Roy Mustang",
+        "Fullmetal Alchemist",
+        "male",
+        "state alchemist officer"
+      ],
+      "provenance": {
+        "groupId": "fullmetal-alchemist",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "alchemist",
+        "military-officer"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Winry Rockbell",
+        "Winry Rockbell (Fullmetal Alchemist)"
+      ],
+      "id": "character.fullmetal-alchemist.winry-rockbell",
+      "kind": "named-character",
+      "name": "Winry Rockbell",
+      "namespace": "Fullmetal Alchemist",
+      "promptTags": [
+        "Winry Rockbell",
+        "Fullmetal Alchemist",
+        "female",
+        "automail mechanic"
+      ],
+      "provenance": {
+        "groupId": "fullmetal-alchemist",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "mechanic"
+      ]
+    }
+  ],
+  "fingerprint": "655713f445e75f08bc002c43d1dbf030099211d9c43696c8598262ba1383fb09",
+  "namespace": "Fullmetal Alchemist",
+  "schemaVersion": 2
+}

@@ -1,0 +1,251 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Artoria Pendragon",
+        "Artoria Pendragon (Fate Series)"
+      ],
+      "id": "character.fate-series.artoria-pendragon",
+      "kind": "named-character",
+      "name": "Artoria Pendragon",
+      "namespace": "Fate Series",
+      "promptTags": [
+        "Artoria Pendragon",
+        "Fate Series",
+        "female",
+        "knight Servant"
+      ],
+      "provenance": {
+        "groupId": "fate-series",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "knight",
+        "servant"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Illyasviel von Einzbern",
+        "Illyasviel von Einzbern (Fate Series)"
+      ],
+      "id": "character.fate-series.illyasviel-von-einzbern",
+      "kind": "named-character",
+      "name": "Illyasviel von Einzbern",
+      "namespace": "Fate Series",
+      "promptTags": [
+        "Illyasviel von Einzbern",
+        "Fate Series",
+        "female",
+        "mage Master"
+      ],
+      "provenance": {
+        "groupId": "fate-series",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "mage",
+        "master"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kirei Kotomine",
+        "Kirei Kotomine (Fate Series)"
+      ],
+      "id": "character.fate-series.kirei-kotomine",
+      "kind": "named-character",
+      "name": "Kirei Kotomine",
+      "namespace": "Fate Series",
+      "promptTags": [
+        "Kirei Kotomine",
+        "Fate Series",
+        "male",
+        "priest"
+      ],
+      "provenance": {
+        "groupId": "fate-series",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "priest",
+        "antagonist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kiritsugu Emiya",
+        "Kiritsugu Emiya (Fate Series)"
+      ],
+      "id": "character.fate-series.kiritsugu-emiya",
+      "kind": "named-character",
+      "name": "Kiritsugu Emiya",
+      "namespace": "Fate Series",
+      "promptTags": [
+        "Kiritsugu Emiya",
+        "Fate Series",
+        "male",
+        "mage"
+      ],
+      "provenance": {
+        "groupId": "fate-series",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "mage",
+        "master"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Rin Tohsaka",
+        "Rin Tohsaka (Fate Series)"
+      ],
+      "id": "character.fate-series.rin-tohsaka",
+      "kind": "named-character",
+      "name": "Rin Tohsaka",
+      "namespace": "Fate Series",
+      "promptTags": [
+        "Rin Tohsaka",
+        "Fate Series",
+        "female",
+        "mage"
+      ],
+      "provenance": {
+        "groupId": "fate-series",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "mage"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Sakura Matou",
+        "Sakura Matou (Fate Series)"
+      ],
+      "id": "character.fate-series.sakura-matou",
+      "kind": "named-character",
+      "name": "Sakura Matou",
+      "namespace": "Fate Series",
+      "promptTags": [
+        "Sakura Matou",
+        "Fate Series",
+        "female",
+        "mage"
+      ],
+      "provenance": {
+        "groupId": "fate-series",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "mage"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Shirou Emiya",
+        "Shirou Emiya (Fate Series)"
+      ],
+      "id": "character.fate-series.shirou-emiya",
+      "kind": "named-character",
+      "name": "Shirou Emiya",
+      "namespace": "Fate Series",
+      "promptTags": [
+        "Shirou Emiya",
+        "Fate Series",
+        "male",
+        "mage"
+      ],
+      "provenance": {
+        "groupId": "fate-series",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "mage"
+      ]
+    }
+  ],
+  "fingerprint": "1f8dc11e6d1b763dca1c7106f9b8cded316b0d76ca0c9a8f294f275227b83094",
+  "namespace": "Fate Series",
+  "schemaVersion": 2
+}

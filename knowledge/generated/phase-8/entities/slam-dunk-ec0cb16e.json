@@ -1,0 +1,250 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Akira Sendoh",
+        "Akira Sendoh (Slam Dunk)"
+      ],
+      "id": "character.slam-dunk.akira-sendoh",
+      "kind": "named-character",
+      "name": "Akira Sendoh",
+      "namespace": "Slam Dunk",
+      "promptTags": [
+        "Akira Sendoh",
+        "Slam Dunk",
+        "male",
+        "basketball player"
+      ],
+      "provenance": {
+        "groupId": "slam-dunk",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "basketball-player"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Hanamichi Sakuragi",
+        "Hanamichi Sakuragi (Slam Dunk)"
+      ],
+      "id": "character.slam-dunk.hanamichi-sakuragi",
+      "kind": "named-character",
+      "name": "Hanamichi Sakuragi",
+      "namespace": "Slam Dunk",
+      "promptTags": [
+        "Hanamichi Sakuragi",
+        "Slam Dunk",
+        "male",
+        "basketball player"
+      ],
+      "provenance": {
+        "groupId": "slam-dunk",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "basketball-player"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Haruko Akagi",
+        "Haruko Akagi (Slam Dunk)"
+      ],
+      "id": "character.slam-dunk.haruko-akagi",
+      "kind": "named-character",
+      "name": "Haruko Akagi",
+      "namespace": "Slam Dunk",
+      "promptTags": [
+        "Haruko Akagi",
+        "Slam Dunk",
+        "female",
+        "basketball supporter"
+      ],
+      "provenance": {
+        "groupId": "slam-dunk",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student",
+        "supporter"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Hisashi Mitsui",
+        "Hisashi Mitsui (Slam Dunk)"
+      ],
+      "id": "character.slam-dunk.hisashi-mitsui",
+      "kind": "named-character",
+      "name": "Hisashi Mitsui",
+      "namespace": "Slam Dunk",
+      "promptTags": [
+        "Hisashi Mitsui",
+        "Slam Dunk",
+        "male",
+        "basketball player"
+      ],
+      "provenance": {
+        "groupId": "slam-dunk",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "basketball-player"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kaede Rukawa",
+        "Kaede Rukawa (Slam Dunk)"
+      ],
+      "id": "character.slam-dunk.kaede-rukawa",
+      "kind": "named-character",
+      "name": "Kaede Rukawa",
+      "namespace": "Slam Dunk",
+      "promptTags": [
+        "Kaede Rukawa",
+        "Slam Dunk",
+        "male",
+        "basketball player"
+      ],
+      "provenance": {
+        "groupId": "slam-dunk",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "basketball-player",
+        "rival"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Ryota Miyagi",
+        "Ryota Miyagi (Slam Dunk)"
+      ],
+      "id": "character.slam-dunk.ryota-miyagi",
+      "kind": "named-character",
+      "name": "Ryota Miyagi",
+      "namespace": "Slam Dunk",
+      "promptTags": [
+        "Ryota Miyagi",
+        "Slam Dunk",
+        "male",
+        "basketball player"
+      ],
+      "provenance": {
+        "groupId": "slam-dunk",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "basketball-player"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Takenori Akagi",
+        "Takenori Akagi (Slam Dunk)"
+      ],
+      "id": "character.slam-dunk.takenori-akagi",
+      "kind": "named-character",
+      "name": "Takenori Akagi",
+      "namespace": "Slam Dunk",
+      "promptTags": [
+        "Takenori Akagi",
+        "Slam Dunk",
+        "male",
+        "basketball captain"
+      ],
+      "provenance": {
+        "groupId": "slam-dunk",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "basketball-player",
+        "captain"
+      ]
+    }
+  ],
+  "fingerprint": "65bf77fa9b9be36bdff35f25c38bf1071673f02aefdc70f9f177f048dc7f8661",
+  "namespace": "Slam Dunk",
+  "schemaVersion": 2
+}

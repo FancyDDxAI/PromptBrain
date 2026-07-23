@@ -1,0 +1,1904 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.narrative.restrained-melancholy",
+  "fingerprint": "639d5f6fafe92d293f7df9f75ba23b9557e8ddc3fb5668088643d3a8a0ce0c4f",
+  "recipes": [
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with careful studio staging photographic style, empty floor as below-subject negative space composition, cobalt ink-dense tonal scale palette, blue hour illumination 0a63adb8f356"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.0a63adb8f356",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-wide-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-below-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.city-boulevard-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.coldly-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with careful studio staging photographic style, empty floor as below-subject negative space composition, cobalt ink-dense tonal scale palette, blue hour illumination 0a63adb8f356"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with centered period framing photographic style, deep shadow as right-side negative space composition, cobalt low-key monochrome palette, blue hour illumination 11fc2ce5e561"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.11fc2ce5e561",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-moderate-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-right-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.mountain-pass-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.coldly-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-low-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with centered period framing photographic style, deep shadow as right-side negative space composition, cobalt low-key monochrome palette, blue hour illumination 11fc2ce5e561"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with centered period framing photographic style, deep shadow as central negative space composition, emerald misty tonal scale palette, blue hour illumination 1c14f4abde80"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.1c14f4abde80",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-stopped-down-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-central-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.harbor-district-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.barely-restrained-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-misty-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with centered period framing photographic style, deep shadow as central negative space composition, emerald misty tonal scale palette, blue hour illumination 1c14f4abde80"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with centered period framing photographic style, calm water as right-side negative space composition, teal misty tonal scale palette, blue hour illumination 1edd7bd3939a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.1edd7bd3939a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-wide-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-right-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-village-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.playfully-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-misty-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with centered period framing photographic style, calm water as right-side negative space composition, teal misty tonal scale palette, blue hour illumination 1edd7bd3939a"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with luminous highlights photographic style, unlit doorway as above-subject negative space composition, violet misty tonal scale palette, blue hour illumination 1fa837e032ac"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.1fa837e032ac",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-mid-range-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-above-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.forest-clearing-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.fiercely-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-misty-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with luminous highlights photographic style, unlit doorway as above-subject negative space composition, violet misty tonal scale palette, blue hour illumination 1fa837e032ac"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with deep shadow detail photographic style, paper margin as left-side negative space composition, indigo misty tonal scale palette, blue hour illumination 286e0580d46b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.286e0580d46b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-moderate-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-left-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.city-boulevard-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.openly-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-misty-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with deep shadow detail photographic style, paper margin as left-side negative space composition, indigo misty tonal scale palette, blue hour illumination 286e0580d46b"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with muted tonal range photographic style, empty floor as left-side negative space composition, violet ink-dense tonal scale palette, blue hour illumination 38cad9b22c7c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.38cad9b22c7c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-moderate-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-left-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-shoreline-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.fearlessly-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with muted tonal range photographic style, empty floor as left-side negative space composition, violet ink-dense tonal scale palette, blue hour illumination 38cad9b22c7c"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with muted tonal range photographic style, open sky as corner negative space composition, graphite high-key monochrome palette, blue hour illumination 449efe5ff306"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.449efe5ff306",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-mid-range-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.open-sky-as-corner-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.river-valley-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.playfully-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.graphite-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with muted tonal range photographic style, open sky as corner negative space composition, graphite high-key monochrome palette, blue hour illumination 449efe5ff306"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with soft edge falloff photographic style, unlit doorway as central negative space composition, magenta low-key monochrome palette, blue hour illumination 4cbf5edca28d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.4cbf5edca28d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-mid-range-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-central-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.suburban-neighborhood-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.proudly-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.magenta-low-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with soft edge falloff photographic style, unlit doorway as central negative space composition, magenta low-key monochrome palette, blue hour illumination 4cbf5edca28d"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with muted tonal range photographic style, open sky as encircling negative space composition, violet high-key monochrome palette, blue hour illumination 5666bf6e2e37"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.5666bf6e2e37",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.open-sky-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.river-valley-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.proudly-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with muted tonal range photographic style, open sky as encircling negative space composition, violet high-key monochrome palette, blue hour illumination 5666bf6e2e37"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with fine surface grain photographic style, mist field as encircling negative space composition, indigo metallic-accent monochrome palette, blue hour illumination 5b27a497f7ea"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.5b27a497f7ea",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-stopped-down-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.mist-field-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-shoreline-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.fiercely-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with fine surface grain photographic style, mist field as encircling negative space composition, indigo metallic-accent monochrome palette, blue hour illumination 5b27a497f7ea"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with luminous highlights photographic style, deep shadow as corner negative space composition, graphite pastel tonal scale palette, blue hour illumination 76d5181c638a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.76d5181c638a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-moderate-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-corner-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.harbor-district-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.painfully-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.graphite-pastel-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with luminous highlights photographic style, deep shadow as corner negative space composition, graphite pastel tonal scale palette, blue hour illumination 76d5181c638a"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with luminous highlights photographic style, unlit doorway as encircling negative space composition, coral ink-dense tonal scale palette, blue hour illumination 8e2f34585f2e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.8e2f34585f2e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-wide-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.mountain-pass-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.dreamily-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.coral-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with luminous highlights photographic style, unlit doorway as encircling negative space composition, coral ink-dense tonal scale palette, blue hour illumination 8e2f34585f2e"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with fine surface grain photographic style, blank wall as above-subject negative space composition, teal three-value study palette, blue hour illumination 94e8f6bd179a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.94e8f6bd179a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-wide-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.blank-wall-as-above-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-village-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.gently-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with fine surface grain photographic style, blank wall as above-subject negative space composition, teal three-value study palette, blue hour illumination 94e8f6bd179a"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with fine surface grain photographic style, open sky as below-subject negative space composition, teal low-key monochrome palette, blue hour illumination a08fbfa5b21b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.a08fbfa5b21b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-stopped-down-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.open-sky-as-below-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-village-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.fearlessly-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-low-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with fine surface grain photographic style, open sky as below-subject negative space composition, teal low-key monochrome palette, blue hour illumination a08fbfa5b21b"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with toned highlight bloom photographic style, unlit doorway as split-field negative space composition, graphite high-key monochrome palette, blue hour illumination a22a2c901f3f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.a22a2c901f3f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-wide-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-split-field-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.open-countryside-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.openly-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.graphite-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-toned-highlight-bloom-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with toned highlight bloom photographic style, unlit doorway as split-field negative space composition, graphite high-key monochrome palette, blue hour illumination a22a2c901f3f"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with centered period framing photographic style, mist field as above-subject negative space composition, coral low-key monochrome palette, blue hour illumination a2b206d0f278"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.a2b206d0f278",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-moderate-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.mist-field-as-above-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.harbor-district-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.painfully-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.coral-low-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with centered period framing photographic style, mist field as above-subject negative space composition, coral low-key monochrome palette, blue hour illumination a2b206d0f278"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with centered period framing photographic style, unlit doorway as right-side negative space composition, magenta high-key monochrome palette, blue hour illumination a618d43f2613"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.a618d43f2613",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-wide-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-right-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.desert-highway-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.intensely-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.magenta-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with centered period framing photographic style, unlit doorway as right-side negative space composition, magenta high-key monochrome palette, blue hour illumination a618d43f2613"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with fine surface grain photographic style, empty floor as central negative space composition, sepia low-key monochrome palette, blue hour illumination ae77807d280f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.ae77807d280f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-wide-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-central-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.river-valley-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.gently-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-low-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with fine surface grain photographic style, empty floor as central negative space composition, sepia low-key monochrome palette, blue hour illumination ae77807d280f"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with fine surface grain photographic style, unlit doorway as encircling negative space composition, teal metallic-accent monochrome palette, blue hour illumination af51a5533e74"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.af51a5533e74",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-mid-range-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.harbor-district-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.solemnly-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with fine surface grain photographic style, unlit doorway as encircling negative space composition, teal metallic-accent monochrome palette, blue hour illumination af51a5533e74"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with deep shadow detail photographic style, paper margin as right-side negative space composition, magenta metallic-accent monochrome palette, blue hour illumination c233083094f5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.c233083094f5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-moderate-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-right-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.open-countryside-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.quietly-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.magenta-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with deep shadow detail photographic style, paper margin as right-side negative space composition, magenta metallic-accent monochrome palette, blue hour illumination c233083094f5"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with centered period framing photographic style, plain fabric as split-field negative space composition, graphite low-key monochrome palette, blue hour illumination cba4134bf3af"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.cba4134bf3af",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-stopped-down-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.plain-fabric-as-split-field-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.suburban-neighborhood-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.quietly-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.graphite-low-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with centered period framing photographic style, plain fabric as split-field negative space composition, graphite low-key monochrome palette, blue hour illumination cba4134bf3af"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with fine surface grain photographic style, paper margin as encircling negative space composition, olive ink-dense tonal scale palette, blue hour illumination f51f458f4e3c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.f51f458f4e3c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-stopped-down-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.river-valley-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.subtly-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with fine surface grain photographic style, paper margin as encircling negative space composition, olive ink-dense tonal scale palette, blue hour illumination f51f458f4e3c"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "restrained melancholy featuring expired color film with muted tonal range photographic style, deep shadow as split-field negative space composition, sepia duotone wash palette, blue hour illumination f9bc86d21416"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.restrained-melancholy",
+      "familyTriggers": [
+        "restrained melancholy narrative direction",
+        "distant sorrow atmosphere",
+        "quiet melancholic portrait"
+      ],
+      "id": "phase8.art.narrative.restrained-melancholy.f9bc86d21416",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.85mm-portrait-lens-at-a-moderate-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-split-field-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.mountain-pass-in-low-drifting-fog-at-predawn"
+        ],
+        "expression": [
+          "curated.expression.painfully-melancholic-expression"
+        ],
+        "lighting": [
+          "curated.lighting.blue-hour-illumination"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-duotone-wash-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Restrained Melancholy 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.restrained-melancholy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "contained melancholic gaze",
+        "fog-softened isolation",
+        "negative-space sorrow"
+      ],
+      "triggers": [
+        "restrained melancholy featuring expired color film with muted tonal range photographic style, deep shadow as split-field negative space composition, sepia duotone wash palette, blue hour illumination f9bc86d21416"
+      ],
+      "variantIndex": 1
+    }
+  ],
+  "schemaVersion": 2
+}

@@ -1,0 +1,1904 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.narrative.determined-resolve",
+  "fingerprint": "ac71024304c0d1562de9704141e580026ebad4cebe8545019bdfc1fd6db6011b",
+  "recipes": [
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with rough expressive lines style, foreground vessel against a small distant building scale composition, olive shadows with cyan highlights cinematic palette, holographic glow 1f55c9bf265e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.1f55c9bf265e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-front-diagonal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-vessel-against-a-small-distant-building-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-magnetic-transit-rails-clean-high-technology-"
+        ],
+        "expression": [
+          "curated.expression.subtly-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-shadows-with-cyan-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-rough-expressive-lines-style"
+        ]
+      },
+      "name": "Determined Resolve 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with rough expressive lines style, foreground vessel against a small distant building scale composition, olive shadows with cyan highlights cinematic palette, holographic glow 1f55c9bf265e"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with clean key poses style, close tool silhouette against a distant crowd line scale composition, olive shadows with cyan highlights cinematic palette, holographic glow 320489983912"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.320489983912",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-front-diagonal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.close-tool-silhouette-against-a-distant-crowd-line-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-sealed-observation-windows-clean-high-technol"
+        ],
+        "expression": [
+          "curated.expression.gently-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-shadows-with-cyan-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-clean-key-poses-style"
+        ]
+      },
+      "name": "Determined Resolve 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with clean key poses style, close tool silhouette against a distant crowd line scale composition, olive shadows with cyan highlights cinematic palette, holographic glow 320489983912"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with soft atmospheric backgrounds style, foreground sign shape against a tiny airborne object scale composition, charcoal shadows with rose highlights cinematic palette, holographic glow 3261058d0a04"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.3261058d0a04",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-front-diagonal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-sign-shape-against-a-tiny-airborne-object-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-pressurized-access-corridors-weathered-utilit"
+        ],
+        "expression": [
+          "curated.expression.coldly-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Determined Resolve 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with soft atmospheric backgrounds style, foreground sign shape against a tiny airborne object scale composition, charcoal shadows with rose highlights cinematic palette, holographic glow 3261058d0a04"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with soft atmospheric backgrounds style, large foreground wheel against a small mountain structure scale composition, plum shadows with mint highlights cinematic palette, holographic glow 39654383beb5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.39654383beb5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-front-diagonal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.large-foreground-wheel-against-a-small-mountain-structure-scale-composit"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-layered-maintenance-gantries-clean-high-techn"
+        ],
+        "expression": [
+          "curated.expression.dreamily-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Determined Resolve 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with soft atmospheric backgrounds style, large foreground wheel against a small mountain structure scale composition, plum shadows with mint highlights cinematic palette, holographic glow 39654383beb5"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with cinematic layout design style, foreground sign shape against a far boat shape scale composition, black-cherry shadows with cyan highlights cinematic palette, holographic glow 4430d44abecc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.4430d44abecc",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-left-offset-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-sign-shape-against-a-far-boat-shape-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-autonomous-service-drones-credible-near-futur"
+        ],
+        "expression": [
+          "curated.expression.intensely-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.black-cherry-shadows-with-cyan-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-cinematic-layout-design-style"
+        ]
+      },
+      "name": "Determined Resolve 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with cinematic layout design style, foreground sign shape against a far boat shape scale composition, black-cherry shadows with cyan highlights cinematic palette, holographic glow 4430d44abecc"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with clean key poses style, close fabric fold against a distant crowd line scale composition, plum shadows with copper highlights cinematic palette, holographic glow 4bd62915a32a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.4bd62915a32a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-rear-diagonal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.close-fabric-fold-against-a-distant-crowd-line-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-autonomous-service-drones-credible-near-futur"
+        ],
+        "expression": [
+          "curated.expression.intensely-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-clean-key-poses-style"
+        ]
+      },
+      "name": "Determined Resolve 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with clean key poses style, close fabric fold against a distant crowd line scale composition, plum shadows with copper highlights cinematic palette, holographic glow 4bd62915a32a"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with soft atmospheric backgrounds style, foreground sign shape against a far vehicle silhouette scale composition, olive shadows with pearl highlights cinematic palette, holographic glow 554ae3c14074"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.554ae3c14074",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-left-offset-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-sign-shape-against-a-far-vehicle-silhouette-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-autonomous-service-drones-credible-near-futur"
+        ],
+        "expression": [
+          "curated.expression.intensely-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-shadows-with-pearl-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Determined Resolve 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with soft atmospheric backgrounds style, foreground sign shape against a far vehicle silhouette scale composition, olive shadows with pearl highlights cinematic palette, holographic glow 554ae3c14074"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with clean key poses style, close foreground flower against a small mountain structure scale composition, teal shadows with mint highlights cinematic palette, holographic glow 61df321ddc41"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.61df321ddc41",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-front-diagonal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.close-foreground-flower-against-a-small-mountain-structure-scale-composi"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-exposed-modular-conduits-weathered-utilitaria"
+        ],
+        "expression": [
+          "curated.expression.proudly-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-clean-key-poses-style"
+        ]
+      },
+      "name": "Determined Resolve 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with clean key poses style, close foreground flower against a small mountain structure scale composition, teal shadows with mint highlights cinematic palette, holographic glow 61df321ddc41"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with handmade texture overlays style, large foreground wheel against a tiny airborne object scale composition, forest-green shadows with rose highlights cinematic palette, holographic glow 67c53ff0e6b6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.67c53ff0e6b6",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-cross-corner-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.large-foreground-wheel-against-a-tiny-airborne-object-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-holographic-navigation-panels-credible-near-f"
+        ],
+        "expression": [
+          "curated.expression.quietly-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-green-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-handmade-texture-overlays-style"
+        ]
+      },
+      "name": "Determined Resolve 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with handmade texture overlays style, large foreground wheel against a tiny airborne object scale composition, forest-green shadows with rose highlights cinematic palette, holographic glow 67c53ff0e6b6"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with cinematic layout design style, oversized shadow shape against a minute horizon light scale composition, cobalt shadows with coral highlights cinematic palette, holographic glow 69b9aee46a20"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.69b9aee46a20",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-left-offset-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.oversized-shadow-shape-against-a-minute-horizon-light-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-exposed-modular-conduits-weathered-utilitaria"
+        ],
+        "expression": [
+          "curated.expression.coldly-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-cinematic-layout-design-style"
+        ]
+      },
+      "name": "Determined Resolve 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with cinematic layout design style, oversized shadow shape against a minute horizon light scale composition, cobalt shadows with coral highlights cinematic palette, holographic glow 69b9aee46a20"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with handmade texture overlays style, foreground vessel against a small distant building scale composition, plum shadows with copper highlights cinematic palette, holographic glow 6adc0025ff92"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.6adc0025ff92",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-center-axis-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-vessel-against-a-small-distant-building-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-robotic-fabrication-arms-credible-near-future"
+        ],
+        "expression": [
+          "curated.expression.intensely-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-handmade-texture-overlays-style"
+        ]
+      },
+      "name": "Determined Resolve 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with handmade texture overlays style, foreground vessel against a small distant building scale composition, plum shadows with copper highlights cinematic palette, holographic glow 6adc0025ff92"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with flat painted shadows style, close tool silhouette against a small mountain structure scale composition, cobalt shadows with copper highlights cinematic palette, holographic glow 76ef176e11c8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.76ef176e11c8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-longitudinal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.close-tool-silhouette-against-a-small-mountain-structure-scale-compositi"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-robotic-fabrication-arms-weathered-utilitaria"
+        ],
+        "expression": [
+          "curated.expression.playfully-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-flat-painted-shadows-style"
+        ]
+      },
+      "name": "Determined Resolve 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with flat painted shadows style, close tool silhouette against a small mountain structure scale composition, cobalt shadows with copper highlights cinematic palette, holographic glow 76ef176e11c8"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with delicate color accents style, foreground vessel against a minute horizon light scale composition, indigo shadows with pearl highlights cinematic palette, holographic glow 7cb072a4c282"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.7cb072a4c282",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-left-offset-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-vessel-against-a-minute-horizon-light-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-stacked-utility-modules-clean-high-technology"
+        ],
+        "expression": [
+          "curated.expression.intensely-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-shadows-with-pearl-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-delicate-color-accents-style"
+        ]
+      },
+      "name": "Determined Resolve 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with delicate color accents style, foreground vessel against a minute horizon light scale composition, indigo shadows with pearl highlights cinematic palette, holographic glow 7cb072a4c282"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with rough expressive lines style, close foreground flower against a minute horizon light scale composition, cobalt shadows with mint highlights cinematic palette, holographic glow 87a6dc064439"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.87a6dc064439",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-rear-diagonal-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.close-foreground-flower-against-a-minute-horizon-light-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-magnetic-transit-rails-weathered-utilitarian-"
+        ],
+        "expression": [
+          "curated.expression.warmly-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-rough-expressive-lines-style"
+        ]
+      },
+      "name": "Determined Resolve 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with rough expressive lines style, close foreground flower against a minute horizon light scale composition, cobalt shadows with mint highlights cinematic palette, holographic glow 87a6dc064439"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with handmade texture overlays style, close tool silhouette against a small mountain structure scale composition, slate-blue shadows with rose highlights cinematic palette, holographic glow 94a90ba56e96"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.94a90ba56e96",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-front-diagonal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.close-tool-silhouette-against-a-small-mountain-structure-scale-compositi"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-stacked-utility-modules-weathered-utilitarian"
+        ],
+        "expression": [
+          "curated.expression.quietly-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-handmade-texture-overlays-style"
+        ]
+      },
+      "name": "Determined Resolve 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with handmade texture overlays style, close tool silhouette against a small mountain structure scale composition, slate-blue shadows with rose highlights cinematic palette, holographic glow 94a90ba56e96"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with delicate color accents style, near tree trunk against a small distant building scale composition, cobalt shadows with lemon highlights cinematic palette, holographic glow b37bf66aa1d1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.b37bf66aa1d1",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-left-offset-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.near-tree-trunk-against-a-small-distant-building-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-layered-maintenance-gantries-credible-near-fu"
+        ],
+        "expression": [
+          "curated.expression.gently-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-shadows-with-lemon-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-delicate-color-accents-style"
+        ]
+      },
+      "name": "Determined Resolve 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with delicate color accents style, near tree trunk against a small distant building scale composition, cobalt shadows with lemon highlights cinematic palette, holographic glow b37bf66aa1d1"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with cinematic layout design style, giant foreground hand against a small distant building scale composition, violet shadows with copper highlights cinematic palette, holographic glow d413e8d034f9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.d413e8d034f9",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-longitudinal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.giant-foreground-hand-against-a-small-distant-building-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-layered-maintenance-gantries-credible-near-fu"
+        ],
+        "expression": [
+          "curated.expression.gently-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-cinematic-layout-design-style"
+        ]
+      },
+      "name": "Determined Resolve 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with cinematic layout design style, giant foreground hand against a small distant building scale composition, violet shadows with copper highlights cinematic palette, holographic glow d413e8d034f9"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with rough expressive lines style, close tool silhouette against a minute horizon light scale composition, olive shadows with copper highlights cinematic palette, holographic glow d9dbdba0750e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.d9dbdba0750e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-center-axis-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.close-tool-silhouette-against-a-minute-horizon-light-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-stacked-utility-modules-credible-near-future-"
+        ],
+        "expression": [
+          "curated.expression.proudly-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-rough-expressive-lines-style"
+        ]
+      },
+      "name": "Determined Resolve 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with rough expressive lines style, close tool silhouette against a minute horizon light scale composition, olive shadows with copper highlights cinematic palette, holographic glow d9dbdba0750e"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with cinematic layout design style, close fabric fold against a tiny airborne object scale composition, charcoal shadows with pearl highlights cinematic palette, holographic glow da3f811233ef"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.da3f811233ef",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-center-axis-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.close-fabric-fold-against-a-tiny-airborne-object-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-volumetric-status-displays-clean-high-technol"
+        ],
+        "expression": [
+          "curated.expression.proudly-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-shadows-with-pearl-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-cinematic-layout-design-style"
+        ]
+      },
+      "name": "Determined Resolve 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with cinematic layout design style, close fabric fold against a tiny airborne object scale composition, charcoal shadows with pearl highlights cinematic palette, holographic glow da3f811233ef"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with flat painted shadows style, nearby arch fragment against a distant crowd line scale composition, burgundy shadows with amber highlights cinematic palette, holographic glow e3c0adfc5740"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.e3c0adfc5740",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-rear-diagonal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.nearby-arch-fragment-against-a-distant-crowd-line-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-robotic-fabrication-arms-clean-high-technolog"
+        ],
+        "expression": [
+          "curated.expression.nervously-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-shadows-with-amber-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-flat-painted-shadows-style"
+        ]
+      },
+      "name": "Determined Resolve 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with flat painted shadows style, nearby arch fragment against a distant crowd line scale composition, burgundy shadows with amber highlights cinematic palette, holographic glow e3c0adfc5740"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with handmade texture overlays style, foreground sign shape against a minute horizon light scale composition, indigo shadows with mint highlights cinematic palette, holographic glow f1eed022d97a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.f1eed022d97a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-cross-corner-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-sign-shape-against-a-minute-horizon-light-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-sealed-observation-windows-weathered-utilitar"
+        ],
+        "expression": [
+          "curated.expression.fearlessly-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-handmade-texture-overlays-style"
+        ]
+      },
+      "name": "Determined Resolve 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with handmade texture overlays style, foreground sign shape against a minute horizon light scale composition, indigo shadows with mint highlights cinematic palette, holographic glow f1eed022d97a"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with rough expressive lines style, close tool silhouette against a tiny distant figure scale composition, violet shadows with copper highlights cinematic palette, holographic glow f6f98298349f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.f6f98298349f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-center-axis-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.close-tool-silhouette-against-a-tiny-distant-figure-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-autonomous-service-drones-credible-near-futur"
+        ],
+        "expression": [
+          "curated.expression.warmly-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-rough-expressive-lines-style"
+        ]
+      },
+      "name": "Determined Resolve 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with rough expressive lines style, close tool silhouette against a tiny distant figure scale composition, violet shadows with copper highlights cinematic palette, holographic glow f6f98298349f"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with cinematic layout design style, large foreground wheel against a tiny airborne object scale composition, slate-blue shadows with pearl highlights cinematic palette, holographic glow fcb3bfd5ada6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.fcb3bfd5ada6",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-center-axis-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.large-foreground-wheel-against-a-tiny-airborne-object-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-exposed-modular-conduits-credible-near-future"
+        ],
+        "expression": [
+          "curated.expression.dreamily-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-shadows-with-pearl-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-cinematic-layout-design-style"
+        ]
+      },
+      "name": "Determined Resolve 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with cinematic layout design style, large foreground wheel against a tiny airborne object scale composition, slate-blue shadows with pearl highlights cinematic palette, holographic glow fcb3bfd5ada6"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "determined resolve featuring full cel animation with flat painted shadows style, close tool silhouette against a minute horizon light scale composition, violet shadows with coral highlights cinematic palette, holographic glow fcdc78b201a9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.determined-resolve",
+      "familyTriggers": [
+        "determined resolve narrative direction",
+        "steadfast defense-hub drama",
+        "resolute low-angle staging"
+      ],
+      "id": "phase8.art.narrative.determined-resolve.fcdc78b201a9",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-longitudinal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.close-tool-silhouette-against-a-minute-horizon-light-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.planetary-defense-hub-with-holographic-navigation-panels-clean-high-tech"
+        ],
+        "expression": [
+          "curated.expression.painfully-determined-gaze"
+        ],
+        "lighting": [
+          "curated.lighting.holographic-glow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-flat-painted-shadows-style"
+        ]
+      },
+      "name": "Determined Resolve 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.determined-resolve",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "determined forward gaze",
+        "defense-scale resolve",
+        "projected mission intensity"
+      ],
+      "triggers": [
+        "determined resolve featuring full cel animation with flat painted shadows style, close tool silhouette against a minute horizon light scale composition, violet shadows with coral highlights cinematic palette, holographic glow fcdc78b201a9"
+      ],
+      "variantIndex": 20
+    }
+  ],
+  "schemaVersion": 2
+}

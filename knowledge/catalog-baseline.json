@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "phase": 7,
+  "catalogFingerprint": "1cbacd5911cea7d63a3088a3e86191195a9ef40736b5c66b8131d2d03905d0b5",
+  "catalogQualityScore": 99.4,
+  "totals": {
+    "checkpoints": 17,
+    "entities": 6,
+    "concepts": 2950,
+    "recipes": 294,
+    "adultConcepts": 41
+  },
+  "structuralErrors": 0,
+  "knownDiagnostics": {
+    "concept.alias-cross-kind": 1,
+    "concept.alias-collision": 33,
+    "concept.cross-kind-prompt": 1,
+    "concept.duplicate-prompt": 29,
+    "concept.near-duplicate-prompt": 2,
+    "recipe.alias-cross-family": 10,
+    "recipe.alias-same-family": 64
+  },
+  "nearDuplicateAnalysis": {
+    "threshold": 0.9,
+    "candidatePairs": 78091,
+    "matches": 2
+  },
+  "phase8Rules": {
+    "allowNewStructuralErrors": false,
+    "allowNewCanonicalDuplicateGroups": false,
+    "allowNewCrossFamilyAliasCollisions": false,
+    "requireDeterministicCompilation": true,
+    "requireProvenance": true
+  }
+}

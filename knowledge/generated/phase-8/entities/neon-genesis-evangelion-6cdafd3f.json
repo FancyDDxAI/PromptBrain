@@ -1,0 +1,247 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Asuka Langley Soryu",
+        "Asuka Langley Soryu (Neon Genesis Evangelion)"
+      ],
+      "id": "character.neon-genesis-evangelion.asuka-langley-soryu",
+      "kind": "named-character",
+      "name": "Asuka Langley Soryu",
+      "namespace": "Neon Genesis Evangelion",
+      "promptTags": [
+        "Asuka Langley Soryu",
+        "Neon Genesis Evangelion",
+        "female",
+        "Eva pilot"
+      ],
+      "provenance": {
+        "groupId": "neon-genesis-evangelion",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "pilot"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Gendo Ikari",
+        "Gendo Ikari (Neon Genesis Evangelion)"
+      ],
+      "id": "character.neon-genesis-evangelion.gendo-ikari",
+      "kind": "named-character",
+      "name": "Gendo Ikari",
+      "namespace": "Neon Genesis Evangelion",
+      "promptTags": [
+        "Gendo Ikari",
+        "Neon Genesis Evangelion",
+        "male",
+        "commander"
+      ],
+      "provenance": {
+        "groupId": "neon-genesis-evangelion",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "commander"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kaworu Nagisa",
+        "Kaworu Nagisa (Neon Genesis Evangelion)"
+      ],
+      "id": "character.neon-genesis-evangelion.kaworu-nagisa",
+      "kind": "named-character",
+      "name": "Kaworu Nagisa",
+      "namespace": "Neon Genesis Evangelion",
+      "promptTags": [
+        "Kaworu Nagisa",
+        "Neon Genesis Evangelion",
+        "male",
+        "Eva pilot"
+      ],
+      "provenance": {
+        "groupId": "neon-genesis-evangelion",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "pilot"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Misato Katsuragi",
+        "Misato Katsuragi (Neon Genesis Evangelion)"
+      ],
+      "id": "character.neon-genesis-evangelion.misato-katsuragi",
+      "kind": "named-character",
+      "name": "Misato Katsuragi",
+      "namespace": "Neon Genesis Evangelion",
+      "promptTags": [
+        "Misato Katsuragi",
+        "Neon Genesis Evangelion",
+        "female",
+        "operations director"
+      ],
+      "provenance": {
+        "groupId": "neon-genesis-evangelion",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "operations-director"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Rei Ayanami",
+        "Rei Ayanami (Neon Genesis Evangelion)"
+      ],
+      "id": "character.neon-genesis-evangelion.rei-ayanami",
+      "kind": "named-character",
+      "name": "Rei Ayanami",
+      "namespace": "Neon Genesis Evangelion",
+      "promptTags": [
+        "Rei Ayanami",
+        "Neon Genesis Evangelion",
+        "female",
+        "Eva pilot"
+      ],
+      "provenance": {
+        "groupId": "neon-genesis-evangelion",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "pilot"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Ritsuko Akagi",
+        "Ritsuko Akagi (Neon Genesis Evangelion)"
+      ],
+      "id": "character.neon-genesis-evangelion.ritsuko-akagi",
+      "kind": "named-character",
+      "name": "Ritsuko Akagi",
+      "namespace": "Neon Genesis Evangelion",
+      "promptTags": [
+        "Ritsuko Akagi",
+        "Neon Genesis Evangelion",
+        "female",
+        "scientist"
+      ],
+      "provenance": {
+        "groupId": "neon-genesis-evangelion",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "scientist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Shinji Ikari",
+        "Shinji Ikari (Neon Genesis Evangelion)"
+      ],
+      "id": "character.neon-genesis-evangelion.shinji-ikari",
+      "kind": "named-character",
+      "name": "Shinji Ikari",
+      "namespace": "Neon Genesis Evangelion",
+      "promptTags": [
+        "Shinji Ikari",
+        "Neon Genesis Evangelion",
+        "male",
+        "Eva pilot"
+      ],
+      "provenance": {
+        "groupId": "neon-genesis-evangelion",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "pilot"
+      ]
+    }
+  ],
+  "fingerprint": "5f7f404979b76563be8347bf0b7ca9a7343a2a998f8aefbe8fd379834d46a58d",
+  "namespace": "Neon Genesis Evangelion",
+  "schemaVersion": 2
+}

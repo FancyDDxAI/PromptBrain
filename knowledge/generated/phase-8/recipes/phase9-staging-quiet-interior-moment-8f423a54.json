@@ -1,0 +1,1688 @@
+{
+  "count": 24,
+  "familyId": "phase9.staging.quiet-interior-moment",
+  "fingerprint": "fffbe09983d0d50fda0bfb72292706997226f978e65ea520438be72eb9b59bee",
+  "recipes": [
+    {
+      "aliases": [
+        "quiet interior moment featuring snow field as split-field negative space composition, blush pink with teal accent soft-color palette, minimalist bedroom with layered furniture arrangement, warm observational atmosphere 0cf28e67c09d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.0cf28e67c09d",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.snow-field-as-split-field-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.minimalist-bedroom-with-layered-furniture-arrangement-warm-observational"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.blush-pink-with-teal-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.hands-loosely-clasped-between-the-knees-sitting-back-against-a-chair-sta"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.sweater-vest-over-a-collared-shirt-utility-jumpsuit-and-lace-up-boots-co"
+        ]
+      },
+      "name": "Quiet Interior Moment 4",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring snow field as split-field negative space composition, blush pink with teal accent soft-color palette, minimalist bedroom with layered furniture arrangement, warm observational atmosphere 0cf28e67c09d"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring unlit doorway as central negative space composition, dove gray with teal accent soft-color palette, cozy reading room with layered furniture arrangement, polished editorial atmosphere 0e44a83ccc24"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.0e44a83ccc24",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-central-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-layered-furniture-arrangement-polished-editorial-"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dove-gray-with-teal-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-on-the-floor-and-one-on-a-thigh-sitting-back-on-the-heels-stati"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.longline-trench-with-a-loose-neck-scarf-draped-blouse-a-line-skirt-and-f"
+        ]
+      },
+      "name": "Quiet Interior Moment 24",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring unlit doorway as central negative space composition, dove gray with teal accent soft-color palette, cozy reading room with layered furniture arrangement, polished editorial atmosphere 0e44a83ccc24"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring calm water as right-side negative space composition, butter yellow with teal accent soft-color palette, artist studio interior with an intimate corner composition, calm inhabited atmosphere 186673fe842d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.186673fe842d",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-right-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.artist-studio-interior-with-an-intimate-corner-composition-calm-inhabite"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.butter-yellow-with-teal-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.arms-folded-lightly-across-the-torso-sitting-back-on-the-heels-static-ad"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.cropped-bomber-over-a-tucked-base-layer-button-front-shirt-tailored-trou"
+        ]
+      },
+      "name": "Quiet Interior Moment 8",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring calm water as right-side negative space composition, butter yellow with teal accent soft-color palette, artist studio interior with an intimate corner composition, calm inhabited atmosphere 186673fe842d"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring unlit doorway as above-subject negative space composition, dove gray with coral accent soft-color palette, public library hall with deep room perspective, warm observational atmosphere 1a1507353911"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.1a1507353911",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-above-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.public-library-hall-with-deep-room-perspective-warm-observational-atmosp"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dove-gray-with-coral-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.fingertips-touching-in-front-sitting-with-ankles-crossed-and-knees-bent-"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.waistcoat-over-a-rolled-sleeve-shirt-knit-polo-pleated-skirt-and-ankle-b"
+        ]
+      },
+      "name": "Quiet Interior Moment 15",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring unlit doorway as above-subject negative space composition, dove gray with coral accent soft-color palette, public library hall with deep room perspective, warm observational atmosphere 1a1507353911"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring deep shadow as encircling negative space composition, butter yellow with teal accent soft-color palette, cozy reading room with an intimate corner composition, calm inhabited atmosphere 38c8bab06f2b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.38c8bab06f2b",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-an-intimate-corner-composition-calm-inhabited-atm"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.butter-yellow-with-teal-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.arms-folded-lightly-across-the-torso-sitting-cross-legged-on-the-floor-s"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.hooded-sweatshirt-beneath-a-wool-coat-mock-neck-sweater-wide-leg-trouser"
+        ]
+      },
+      "name": "Quiet Interior Moment 11",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring deep shadow as encircling negative space composition, butter yellow with teal accent soft-color palette, cozy reading room with an intimate corner composition, calm inhabited atmosphere 38c8bab06f2b"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring empty floor as encircling negative space composition, cloud lavender with marigold accent soft-color palette, public library hall with deep room perspective, calm inhabited atmosphere 4cc1509186f5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.4cc1509186f5",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.public-library-hall-with-deep-room-perspective-calm-inhabited-atmosphere"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cloud-lavender-with-marigold-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-lightly-supporting-the-chin-sitting-with-one-leg-extended-sligh"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.cardigan-under-a-belted-raincoat-mock-neck-sweater-wide-leg-trousers-and"
+        ]
+      },
+      "name": "Quiet Interior Moment 18",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring empty floor as encircling negative space composition, cloud lavender with marigold accent soft-color palette, public library hall with deep room perspective, calm inhabited atmosphere 4cc1509186f5"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring plain fabric as encircling negative space composition, peach cream with marigold accent soft-color palette, minimalist bedroom with deep room perspective, warm observational atmosphere 4e8ef873dfd4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.4e8ef873dfd4",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.plain-fabric-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.minimalist-bedroom-with-deep-room-perspective-warm-observational-atmosph"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peach-cream-with-marigold-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.hands-loosely-clasped-between-the-knees-sitting-sideways-on-a-chair-stat"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.windbreaker-tied-at-waist-over-compact-layers-knit-polo-pleated-skirt-an"
+        ]
+      },
+      "name": "Quiet Interior Moment 20",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring plain fabric as encircling negative space composition, peach cream with marigold accent soft-color palette, minimalist bedroom with deep room perspective, warm observational atmosphere 4e8ef873dfd4"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring paper margin as left-side negative space composition, soft pistachio with raspberry accent soft-color palette, artist studio interior with repeating structural rhythm, warm observational atmosphere 4f683ef4f0b1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.4f683ef4f0b1",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-left-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.artist-studio-interior-with-repeating-structural-rhythm-warm-observation"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.soft-pistachio-with-raspberry-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-at-the-cheek-and-one-in-the-lap-sitting-cross-legged-on-the-flo"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.chore-coat-with-cuffed-sleeves-and-crossbody-bag-crewneck-t-shirt-straig"
+        ]
+      },
+      "name": "Quiet Interior Moment 12",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring paper margin as left-side negative space composition, soft pistachio with raspberry accent soft-color palette, artist studio interior with repeating structural rhythm, warm observational atmosphere 4f683ef4f0b1"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring deep shadow as above-subject negative space composition, dusty rose with raspberry accent soft-color palette, cozy reading room with deep room perspective, calm inhabited atmosphere 50c0d7d430b5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.50c0d7d430b5",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-above-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-deep-room-perspective-calm-inhabited-atmosphere"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dusty-rose-with-raspberry-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.palms-placed-beside-the-hips-sitting-with-one-knee-raised-and-the-other-"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.sleeveless-duster-over-tonal-separates-cable-sweater-tapered-chinos-and-"
+        ]
+      },
+      "name": "Quiet Interior Moment 21",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring deep shadow as above-subject negative space composition, dusty rose with raspberry accent soft-color palette, cozy reading room with deep room perspective, calm inhabited atmosphere 50c0d7d430b5"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring paper margin as below-subject negative space composition, blush pink with moss accent soft-color palette, minimalist bedroom with layered furniture arrangement, polished editorial atmosphere 52af4eb8948f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.52af4eb8948f",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-below-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.minimalist-bedroom-with-layered-furniture-arrangement-polished-editorial"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.blush-pink-with-moss-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.both-hands-resting-on-the-armrests-sitting-perched-on-the-chair-edge-sta"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.cardigan-under-a-belted-raincoat-knit-polo-pleated-skirt-and-ankle-boots"
+        ]
+      },
+      "name": "Quiet Interior Moment 16",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring paper margin as below-subject negative space composition, blush pink with moss accent soft-color palette, minimalist bedroom with layered furniture arrangement, polished editorial atmosphere 52af4eb8948f"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring soft bokeh as left-side negative space composition, dove gray with cobalt accent soft-color palette, cozy reading room with repeating structural rhythm, polished editorial atmosphere 5e3808a4fd90"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.5e3808a4fd90",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.soft-bokeh-as-left-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-repeating-structural-rhythm-polished-editorial-at"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dove-gray-with-cobalt-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.hands-loosely-clasped-at-the-midline-sitting-with-one-knee-raised-and-th"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.cropped-denim-jacket-with-rolled-cuffs-mock-neck-sweater-wide-leg-trouse"
+        ]
+      },
+      "name": "Quiet Interior Moment 14",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring soft bokeh as left-side negative space composition, dove gray with cobalt accent soft-color palette, cozy reading room with repeating structural rhythm, polished editorial atmosphere 5e3808a4fd90"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring calm water as right-side negative space composition, butter yellow with teal accent soft-color palette, artist studio interior with an intimate corner composition, polished editorial atmosphere 6d7dbda1693e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.6d7dbda1693e",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-right-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.artist-studio-interior-with-an-intimate-corner-composition-polished-edit"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.butter-yellow-with-teal-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.fingertips-touching-in-front-sitting-in-a-wide-relaxed-straddle-static-a"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.chore-coat-with-cuffed-sleeves-and-crossbody-bag-button-front-shirt-tail"
+        ]
+      },
+      "name": "Quiet Interior Moment 10",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring calm water as right-side negative space composition, butter yellow with teal accent soft-color palette, artist studio interior with an intimate corner composition, polished editorial atmosphere 6d7dbda1693e"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring unlit doorway as right-side negative space composition, peach cream with moss accent soft-color palette, artist studio interior with balanced functional clutter, warm observational atmosphere 6dee6c657677"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.6dee6c657677",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-right-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.artist-studio-interior-with-balanced-functional-clutter-warm-observation"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peach-cream-with-moss-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.arms-folded-lightly-across-the-torso-sitting-cross-legged-on-the-floor-s"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.utility-vest-over-a-lightweight-overshirt-mock-neck-sweater-wide-leg-tro"
+        ]
+      },
+      "name": "Quiet Interior Moment 6",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring unlit doorway as right-side negative space composition, peach cream with moss accent soft-color palette, artist studio interior with balanced functional clutter, warm observational atmosphere 6dee6c657677"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring open sky as below-subject negative space composition, butter yellow with moss accent soft-color palette, cozy reading room with an intimate corner composition, calm inhabited atmosphere 79a59197d4da"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.79a59197d4da",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.open-sky-as-below-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-an-intimate-corner-composition-calm-inhabited-atm"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.butter-yellow-with-moss-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-on-an-armrest-and-one-in-the-lap-sitting-with-one-ankle-over-th"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.hooded-sweatshirt-beneath-a-wool-coat-draped-blouse-a-line-skirt-and-fla"
+        ]
+      },
+      "name": "Quiet Interior Moment 1",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring open sky as below-subject negative space composition, butter yellow with moss accent soft-color palette, cozy reading room with an intimate corner composition, calm inhabited atmosphere 79a59197d4da"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring paper margin as left-side negative space composition, seafoam with marigold accent soft-color palette, minimalist bedroom with ceiling-to-floor detail, polished editorial atmosphere 7e99a743706b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.7e99a743706b",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-left-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.minimalist-bedroom-with-ceiling-to-floor-detail-polished-editorial-atmos"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.seafoam-with-marigold-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.hands-loosely-clasped-between-the-knees-sitting-sideways-on-a-chair-stat"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tonal-three-layer-stack-with-varied-hem-lengths-crewneck-t-shirt-straigh"
+        ]
+      },
+      "name": "Quiet Interior Moment 5",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring paper margin as left-side negative space composition, seafoam with marigold accent soft-color palette, minimalist bedroom with ceiling-to-floor detail, polished editorial atmosphere 7e99a743706b"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring empty floor as left-side negative space composition, cloud lavender with teal accent soft-color palette, artist studio interior with strong architectural symmetry, polished editorial atmosphere 894beba99689"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.894beba99689",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-left-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.artist-studio-interior-with-strong-architectural-symmetry-polished-edito"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cloud-lavender-with-teal-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-on-the-floor-and-one-on-a-thigh-sitting-in-a-wide-relaxed-strad"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.sweater-vest-over-a-collared-shirt-rugby-shirt-cargo-trousers-and-hiking"
+        ]
+      },
+      "name": "Quiet Interior Moment 9",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring empty floor as left-side negative space composition, cloud lavender with teal accent soft-color palette, artist studio interior with strong architectural symmetry, polished editorial atmosphere 894beba99689"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring calm water as left-side negative space composition, dusty rose with plum accent soft-color palette, public library hall with layered furniture arrangement, calm inhabited atmosphere a16e4c4e61f2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.a16e4c4e61f2",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-left-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.public-library-hall-with-layered-furniture-arrangement-calm-inhabited-at"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dusty-rose-with-plum-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.palms-placed-beside-the-hips-sitting-with-one-knee-raised-and-the-other-"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.hooded-sweatshirt-beneath-a-wool-coat-draped-blouse-a-line-skirt-and-fla"
+        ]
+      },
+      "name": "Quiet Interior Moment 2",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring calm water as left-side negative space composition, dusty rose with plum accent soft-color palette, public library hall with layered furniture arrangement, calm inhabited atmosphere a16e4c4e61f2"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring paper margin as right-side negative space composition, blush pink with coral accent soft-color palette, artist studio interior with repeating structural rhythm, polished editorial atmosphere a8b53f7f260e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.a8b53f7f260e",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-right-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.artist-studio-interior-with-repeating-structural-rhythm-polished-editori"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.blush-pink-with-coral-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.fingers-interlaced-in-the-lap-sitting-with-the-feet-planted-wide-static-"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.cropped-bomber-over-a-tucked-base-layer-draped-blouse-a-line-skirt-and-f"
+        ]
+      },
+      "name": "Quiet Interior Moment 17",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring paper margin as right-side negative space composition, blush pink with coral accent soft-color palette, artist studio interior with repeating structural rhythm, polished editorial atmosphere a8b53f7f260e"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring open sky as split-field negative space composition, butter yellow with marigold accent soft-color palette, cozy reading room with a clear central walkway, polished editorial atmosphere b0976719d669"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.b0976719d669",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.open-sky-as-split-field-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-a-clear-central-walkway-polished-editorial-atmosp"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.butter-yellow-with-marigold-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.hands-resting-on-the-thighs-sitting-perched-on-the-chair-edge-static-adu"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.open-flannel-shirt-over-a-plain-tee-cable-sweater-tapered-chinos-and-cou"
+        ]
+      },
+      "name": "Quiet Interior Moment 22",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring open sky as split-field negative space composition, butter yellow with marigold accent soft-color palette, cozy reading room with a clear central walkway, polished editorial atmosphere b0976719d669"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring mist field as below-subject negative space composition, dusty rose with coral accent soft-color palette, cozy reading room with strong architectural symmetry, calm inhabited atmosphere c2bdde767666"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.c2bdde767666",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.mist-field-as-below-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-strong-architectural-symmetry-calm-inhabited-atmo"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dusty-rose-with-coral-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.hands-resting-on-the-thighs-sitting-upright-near-the-front-of-a-chair-st"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.hooded-sweatshirt-beneath-a-wool-coat-crewneck-t-shirt-straight-jeans-an"
+        ]
+      },
+      "name": "Quiet Interior Moment 3",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring mist field as below-subject negative space composition, dusty rose with coral accent soft-color palette, cozy reading room with strong architectural symmetry, calm inhabited atmosphere c2bdde767666"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring calm water as encircling negative space composition, dove gray with coral accent soft-color palette, cozy reading room with balanced functional clutter, polished editorial atmosphere d562583bc553"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.d562583bc553",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-balanced-functional-clutter-polished-editorial-at"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dove-gray-with-coral-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-at-the-cheek-and-one-in-the-lap-sitting-cross-legged-on-the-flo"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.open-flannel-shirt-over-a-plain-tee-cable-sweater-tapered-chinos-and-cou"
+        ]
+      },
+      "name": "Quiet Interior Moment 13",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring calm water as encircling negative space composition, dove gray with coral accent soft-color palette, cozy reading room with balanced functional clutter, polished editorial atmosphere d562583bc553"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring paper margin as below-subject negative space composition, butter yellow with moss accent soft-color palette, cozy reading room with strong architectural symmetry, calm inhabited atmosphere e5897544ece9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.e5897544ece9",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-below-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-strong-architectural-symmetry-calm-inhabited-atmo"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.butter-yellow-with-moss-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.fingertips-touching-in-front-sitting-with-both-knees-raised-and-feet-pla"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.windbreaker-tied-at-waist-over-compact-layers-button-front-shirt-tailore"
+        ]
+      },
+      "name": "Quiet Interior Moment 19",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring paper margin as below-subject negative space composition, butter yellow with moss accent soft-color palette, cozy reading room with strong architectural symmetry, calm inhabited atmosphere e5897544ece9"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring blank wall as central negative space composition, butter yellow with moss accent soft-color palette, artist studio interior with layered furniture arrangement, calm inhabited atmosphere f25c119d132a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.f25c119d132a",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.blank-wall-as-central-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.artist-studio-interior-with-layered-furniture-arrangement-calm-inhabited"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.butter-yellow-with-moss-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-hand-at-the-collarbone-and-one-in-the-lap-sitting-with-the-ankles-cr"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.capelet-over-a-mock-neck-underlayer-crewneck-t-shirt-straight-jeans-and-"
+        ]
+      },
+      "name": "Quiet Interior Moment 7",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring blank wall as central negative space composition, butter yellow with moss accent soft-color palette, artist studio interior with layered furniture arrangement, calm inhabited atmosphere f25c119d132a"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "quiet interior moment featuring mist field as encircling negative space composition, lilac mist with marigold accent soft-color palette, public library hall with strong architectural symmetry, warm observational atmosphere fc5d992d8303"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.quiet-interior-moment",
+      "familyTriggers": [
+        "quiet interior moment",
+        "sitting indoors",
+        "calm indoor scene",
+        "quiet moment staging"
+      ],
+      "id": "phase9.staging.quiet-interior-moment.fc5d992d8303",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.mist-field-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.public-library-hall-with-strong-architectural-symmetry-warm-observationa"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lilac-mist-with-marigold-accent-soft-color-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.fingers-interlaced-in-the-lap-sitting-sideways-on-a-chair-static-adult-c"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.matching-overshirt-and-trouser-set-with-contrast-tee-button-front-shirt-"
+        ]
+      },
+      "name": "Quiet Interior Moment 23",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.quiet-interior-moment",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "environment",
+        "composition",
+        "palette"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "environment": 1,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "settled weight",
+        "inward attention",
+        "lived-in room"
+      ],
+      "triggers": [
+        "quiet interior moment featuring mist field as encircling negative space composition, lilac mist with marigold accent soft-color palette, public library hall with strong architectural symmetry, warm observational atmosphere fc5d992d8303"
+      ],
+      "variantIndex": 22
+    }
+  ],
+  "schemaVersion": 2
+}

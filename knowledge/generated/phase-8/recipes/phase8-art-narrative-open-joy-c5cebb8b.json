@@ -1,0 +1,1904 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.narrative.open-joy",
+  "fingerprint": "ab66eaf9ec025cfd0f9ce4a652e6a5db0d01fe802f567d3788ecc526db3cbbc5",
+  "recipes": [
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with scumbled highlights painting style, clock face anchoring concentric framing composition, pine green with peony pink botanical palette, golden-hour backlight 07f91269758c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.07f91269758c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-centered-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.clock-face-anchoring-concentric-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-an-uninterrupted-sky-corridor-windswept-expansive-atm"
+        ],
+        "expression": [
+          "curated.expression.openly-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.pine-green-with-peony-pink-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Open Joy 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with scumbled highlights painting style, clock face anchoring concentric framing composition, pine green with peony pink botanical palette, golden-hour backlight 07f91269758c"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with scumbled highlights painting style, clock face anchoring clockwise spiral flow composition, mint leaf with magnolia white botanical palette, golden-hour backlight 127552fd7fd2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.127552fd7fd2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-centered-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.clock-face-anchoring-clockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-an-uninterrupted-sky-corridor-crisp-documentary-atmos"
+        ],
+        "expression": [
+          "curated.expression.barely-restrained-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mint-leaf-with-magnolia-white-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Open Joy 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with scumbled highlights painting style, clock face anchoring clockwise spiral flow composition, mint leaf with magnolia white botanical palette, golden-hour backlight 127552fd7fd2"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with broad flat strokes painting style, circular table anchoring clockwise spiral flow composition, sage green with iris violet botanical palette, golden-hour backlight 2790025f2d30"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.2790025f2d30",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-layered-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.circular-table-anchoring-clockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-layered-midground-landforms-windswept-expansive-atmos"
+        ],
+        "expression": [
+          "curated.expression.nervously-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sage-green-with-iris-violet-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Open Joy 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with broad flat strokes painting style, circular table anchoring clockwise spiral flow composition, sage green with iris violet botanical palette, golden-hour backlight 2790025f2d30"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with visible underpainting painting style, lens aperture anchoring concentric framing composition, fern green with peony pink botanical palette, golden-hour backlight 34767b11d17c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.34767b11d17c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-negative-space-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lens-aperture-anchoring-concentric-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-scattered-rock-accents-quiet-untouched-atmosphere"
+        ],
+        "expression": [
+          "curated.expression.coldly-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.fern-green-with-peony-pink-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Open Joy 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with visible underpainting painting style, lens aperture anchoring concentric framing composition, fern green with peony pink botanical palette, golden-hour backlight 34767b11d17c"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with scumbled highlights painting style, halo ring anchoring tangent-line framing composition, olive green with iris violet botanical palette, golden-hour backlight 3c82a6171430"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.3c82a6171430",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-symmetrical-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.halo-ring-anchoring-tangent-line-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-layered-midground-landforms-crisp-documentary-atmosph"
+        ],
+        "expression": [
+          "curated.expression.openly-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-green-with-iris-violet-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Open Joy 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with scumbled highlights painting style, halo ring anchoring tangent-line framing composition, olive green with iris violet botanical palette, golden-hour backlight 3c82a6171430"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with precise small brushes painting style, sun disk anchoring clockwise spiral flow composition, mint leaf with coral bloom botanical palette, golden-hour backlight 66b66ddb1a5b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.66b66ddb1a5b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-symmetrical-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.sun-disk-anchoring-clockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-an-uninterrupted-sky-corridor-quiet-untouched-atmosph"
+        ],
+        "expression": [
+          "curated.expression.warmly-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mint-leaf-with-coral-bloom-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Open Joy 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with precise small brushes painting style, sun disk anchoring clockwise spiral flow composition, mint leaf with coral bloom botanical palette, golden-hour backlight 66b66ddb1a5b"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with dry textured strokes painting style, water ripple anchoring counterclockwise spiral flow composition, fern green with poppy red botanical palette, golden-hour backlight 825454a26122"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.825454a26122",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-symmetrical-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.water-ripple-anchoring-counterclockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-winding-natural-leading-lines-quiet-untouched-atmosph"
+        ],
+        "expression": [
+          "curated.expression.dreamily-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.fern-green-with-poppy-red-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-dry-textured-strokes-painting-style"
+        ]
+      },
+      "name": "Open Joy 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with dry textured strokes painting style, water ripple anchoring counterclockwise spiral flow composition, fern green with poppy red botanical palette, golden-hour backlight 825454a26122"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with scumbled highlights painting style, moon disk anchoring offset orbit framing composition, fern green with coral bloom botanical palette, golden-hour backlight 8712cf7f2fa4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.8712cf7f2fa4",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-foreground-framed-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.moon-disk-anchoring-offset-orbit-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-an-elevated-overlook-crisp-documentary-atmosphere"
+        ],
+        "expression": [
+          "curated.expression.solemnly-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.fern-green-with-coral-bloom-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Open Joy 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with scumbled highlights painting style, moon disk anchoring offset orbit framing composition, fern green with coral bloom botanical palette, golden-hour backlight 8712cf7f2fa4"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with broad flat strokes painting style, sun disk anchoring counterclockwise spiral flow composition, celadon leaf with magnolia white botanical palette, golden-hour backlight 87f98c4eea66"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.87f98c4eea66",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-centered-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.sun-disk-anchoring-counterclockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-an-elevated-overlook-windswept-expansive-atmosphere"
+        ],
+        "expression": [
+          "curated.expression.nervously-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.celadon-leaf-with-magnolia-white-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Open Joy 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with broad flat strokes painting style, sun disk anchoring counterclockwise spiral flow composition, celadon leaf with magnolia white botanical palette, golden-hour backlight 87f98c4eea66"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with precise small brushes painting style, arched dome anchoring outward radial flow composition, fern green with coral bloom botanical palette, golden-hour backlight 8b595d7504d2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.8b595d7504d2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-symmetrical-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.arched-dome-anchoring-outward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-an-open-central-clearing-windswept-expansive-atmosphe"
+        ],
+        "expression": [
+          "curated.expression.playfully-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.fern-green-with-coral-bloom-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Open Joy 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with precise small brushes painting style, arched dome anchoring outward radial flow composition, fern green with coral bloom botanical palette, golden-hour backlight 8b595d7504d2"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with graphic shape blocking painting style, sun disk anchoring offset orbit framing composition, pine green with cornflower blue botanical palette, golden-hour backlight 9a9a5eb9bf3f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.9a9a5eb9bf3f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-symmetrical-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.sun-disk-anchoring-offset-orbit-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-foreground-native-vegetation-quiet-untouched-atmosphe"
+        ],
+        "expression": [
+          "curated.expression.dreamily-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.pine-green-with-cornflower-blue-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Open Joy 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with graphic shape blocking painting style, sun disk anchoring offset orbit framing composition, pine green with cornflower blue botanical palette, golden-hour backlight 9a9a5eb9bf3f"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with scumbled highlights painting style, circular table anchoring broken-ring framing composition, tea green with coral bloom botanical palette, golden-hour backlight a5b64609a7d6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.a5b64609a7d6",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-layered-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.circular-table-anchoring-broken-ring-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-an-uninterrupted-sky-corridor-windswept-expansive-atm"
+        ],
+        "expression": [
+          "curated.expression.dreamily-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tea-green-with-coral-bloom-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Open Joy 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with scumbled highlights painting style, circular table anchoring broken-ring framing composition, tea green with coral bloom botanical palette, golden-hour backlight a5b64609a7d6"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with scumbled highlights painting style, circular table anchoring outward radial flow composition, tea green with marigold orange botanical palette, golden-hour backlight a944a7ecb899"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.a944a7ecb899",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-layered-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.circular-table-anchoring-outward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-scattered-rock-accents-quiet-untouched-atmosphere"
+        ],
+        "expression": [
+          "curated.expression.fiercely-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tea-green-with-marigold-orange-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Open Joy 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with scumbled highlights painting style, circular table anchoring outward radial flow composition, tea green with marigold orange botanical palette, golden-hour backlight a944a7ecb899"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with visible underpainting painting style, clock face anchoring outward radial flow composition, eucalyptus blue-green with magnolia white botanical palette, golden-hour backlight b644feb621ec"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.b644feb621ec",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-centered-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.clock-face-anchoring-outward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-an-uninterrupted-sky-corridor-windswept-expansive-atm"
+        ],
+        "expression": [
+          "curated.expression.fiercely-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.eucalyptus-blue-green-with-magnolia-white-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Open Joy 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with visible underpainting painting style, clock face anchoring outward radial flow composition, eucalyptus blue-green with magnolia white botanical palette, golden-hour backlight b644feb621ec"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with visible underpainting painting style, arched dome anchoring broken-ring framing composition, sage green with coral bloom botanical palette, golden-hour backlight c2976050f794"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.c2976050f794",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-frame-within-frame-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.arched-dome-anchoring-broken-ring-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-interlocking-terrain-layers-quiet-untouched-atmospher"
+        ],
+        "expression": [
+          "curated.expression.openly-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sage-green-with-coral-bloom-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Open Joy 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with visible underpainting painting style, arched dome anchoring broken-ring framing composition, sage green with coral bloom botanical palette, golden-hour backlight c2976050f794"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with precise small brushes painting style, arched dome anchoring broken-ring framing composition, pine green with iris violet botanical palette, golden-hour backlight c3f7acaaa096"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.c3f7acaaa096",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-layered-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.arched-dome-anchoring-broken-ring-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-layered-midground-landforms-crisp-documentary-atmosph"
+        ],
+        "expression": [
+          "curated.expression.nervously-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.pine-green-with-iris-violet-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Open Joy 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with precise small brushes painting style, arched dome anchoring broken-ring framing composition, pine green with iris violet botanical palette, golden-hour backlight c3f7acaaa096"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with layered translucent marks painting style, lens aperture anchoring counterclockwise spiral flow composition, sage green with cornflower blue botanical palette, golden-hour backlight cc14a3e9be21"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.cc14a3e9be21",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-right-weighted-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lens-aperture-anchoring-counterclockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-scattered-rock-accents-crisp-documentary-atmosphere"
+        ],
+        "expression": [
+          "curated.expression.playfully-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sage-green-with-cornflower-blue-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Open Joy 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with layered translucent marks painting style, lens aperture anchoring counterclockwise spiral flow composition, sage green with cornflower blue botanical palette, golden-hour backlight cc14a3e9be21"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with precise small brushes painting style, water ripple anchoring offset orbit framing composition, sage green with lavender botanical palette, golden-hour backlight ce8cc50dc8da"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.ce8cc50dc8da",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-layered-composition-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.water-ripple-anchoring-offset-orbit-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-scattered-rock-accents-windswept-expansive-atmosphere"
+        ],
+        "expression": [
+          "curated.expression.gently-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sage-green-with-lavender-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Open Joy 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with precise small brushes painting style, water ripple anchoring offset orbit framing composition, sage green with lavender botanical palette, golden-hour backlight ce8cc50dc8da"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with graphic shape blocking painting style, round window anchoring inward radial flow composition, olive green with lavender botanical palette, golden-hour backlight d80ddc1d676c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.d80ddc1d676c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-layered-composition-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.round-window-anchoring-inward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-interlocking-terrain-layers-crisp-documentary-atmosph"
+        ],
+        "expression": [
+          "curated.expression.nervously-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-green-with-lavender-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Open Joy 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with graphic shape blocking painting style, round window anchoring inward radial flow composition, olive green with lavender botanical palette, golden-hour backlight d80ddc1d676c"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with graphic shape blocking painting style, circular table anchoring clockwise spiral flow composition, chartreuse leaf with iris violet botanical palette, golden-hour backlight ddd914cf7864"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.ddd914cf7864",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-layered-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.circular-table-anchoring-clockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-interlocking-terrain-layers-crisp-documentary-atmosph"
+        ],
+        "expression": [
+          "curated.expression.painfully-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.chartreuse-leaf-with-iris-violet-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Open Joy 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with graphic shape blocking painting style, circular table anchoring clockwise spiral flow composition, chartreuse leaf with iris violet botanical palette, golden-hour backlight ddd914cf7864"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with soft blended edges painting style, water ripple anchoring inward radial flow composition, tea green with iris violet botanical palette, golden-hour backlight e467b1d85853"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.e467b1d85853",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-left-weighted-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.water-ripple-anchoring-inward-radial-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-an-uninterrupted-sky-corridor-quiet-untouched-atmosph"
+        ],
+        "expression": [
+          "curated.expression.nervously-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tea-green-with-iris-violet-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Open Joy 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with soft blended edges painting style, water ripple anchoring inward radial flow composition, tea green with iris violet botanical palette, golden-hour backlight e467b1d85853"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with broad flat strokes painting style, wheel hub anchoring clockwise spiral flow composition, tea green with marigold orange botanical palette, golden-hour backlight e5c36f09569b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.e5c36f09569b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-foreground-framed-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wheel-hub-anchoring-clockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-interlocking-terrain-layers-windswept-expansive-atmos"
+        ],
+        "expression": [
+          "curated.expression.nervously-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tea-green-with-marigold-orange-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Open Joy 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with broad flat strokes painting style, wheel hub anchoring clockwise spiral flow composition, tea green with marigold orange botanical palette, golden-hour backlight e5c36f09569b"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with broad flat strokes painting style, clock face anchoring tangent-line framing composition, moss green with lavender botanical palette, golden-hour backlight ef970871213f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.ef970871213f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-right-weighted-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.clock-face-anchoring-tangent-line-framing-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-scattered-rock-accents-quiet-untouched-atmosphere"
+        ],
+        "expression": [
+          "curated.expression.coldly-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.moss-green-with-lavender-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Open Joy 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with broad flat strokes painting style, clock face anchoring tangent-line framing composition, moss green with lavender botanical palette, golden-hour backlight ef970871213f"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "open joy featuring transparent watercolor with dry textured strokes painting style, water ripple anchoring counterclockwise spiral flow composition, fern green with lavender botanical palette, golden-hour backlight f779a8569b0c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.open-joy",
+      "familyTriggers": [
+        "open joy narrative direction",
+        "radiant outdoor delight",
+        "unreserved joyful staging"
+      ],
+      "id": "phase8.art.narrative.open-joy.f779a8569b0c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-full-shot-frame-within-frame-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.water-ripple-anchoring-counterclockwise-spiral-flow-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.alpine-meadow-with-winding-natural-leading-lines-quiet-untouched-atmosph"
+        ],
+        "expression": [
+          "curated.expression.intensely-joyful-expression"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.fern-green-with-lavender-botanical-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-dry-textured-strokes-painting-style"
+        ]
+      },
+      "name": "Open Joy 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.open-joy",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "openly joyful expression",
+        "botanical radial lift",
+        "daylit celebratory air"
+      ],
+      "triggers": [
+        "open joy featuring transparent watercolor with dry textured strokes painting style, water ripple anchoring counterclockwise spiral flow composition, fern green with lavender botanical palette, golden-hour backlight f779a8569b0c"
+      ],
+      "variantIndex": 2
+    }
+  ],
+  "schemaVersion": 2
+}

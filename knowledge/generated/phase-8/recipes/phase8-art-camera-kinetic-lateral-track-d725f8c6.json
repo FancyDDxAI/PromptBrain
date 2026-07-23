@@ -1,0 +1,1664 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.camera.kinetic-lateral-track",
+  "fingerprint": "d9999d153fc402703927070e71e46dc1a8363aba6863d25f4ab1c7c52fe5793f",
+  "recipes": [
+    {
+      "aliases": [
+        "kinetic lateral track featuring motion-graphic illustration with delicate color accents style, right-edge entry into a sweeping curve path composition, midnight navy with acid lime neon-night palette, soft diffusion from streetlamp pool, broken by foreground shapes 069a8be715e2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.069a8be715e2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-at-a-slow-controlled-pace-with-precise-mechanical-movemen"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.right-edge-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.midnight-navy-with-acid-lime-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.motion-graphic-illustration-with-delicate-color-accents-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring motion-graphic illustration with delicate color accents style, right-edge entry into a sweeping curve path composition, midnight navy with acid lime neon-night palette, soft diffusion from streetlamp pool, broken by foreground shapes 069a8be715e2"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring paint-on-glass animation with bold shape language style, upper-left entry into a zigzag path composition, aubergine with hot pink neon-night palette, controlled high contrast from streetlamp pool, focused on the subject plane 0ef269c1af2f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.0ef269c1af2f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-with-a-lingering-finish-with-precise-mechanical-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-left-entry-into-a-zigzag-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-streetlamp-pool-focused-on-the-subject-pla"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aubergine-with-hot-pink-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.paint-on-glass-animation-with-bold-shape-language-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring paint-on-glass animation with bold shape language style, upper-left entry into a zigzag path composition, aubergine with hot pink neon-night palette, controlled high contrast from streetlamp pool, focused on the subject plane 0ef269c1af2f"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring independent anime with rough expressive lines style, right-edge entry into a staggered step path composition, graphite with hot pink neon-night palette, crisp shadow edges from streetlamp pool, creating a luminous frame 150dd49343de"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.150dd49343de",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-with-steady-deceleration-with-precise-mechanical-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.right-edge-entry-into-a-staggered-step-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.graphite-with-hot-pink-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.independent-anime-with-rough-expressive-lines-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring independent anime with rough expressive lines style, right-edge entry into a staggered step path composition, graphite with hot pink neon-night palette, crisp shadow edges from streetlamp pool, creating a luminous frame 150dd49343de"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring mid-century animation with rough expressive lines style, bottom-center entry into a sweeping curve path composition, charcoal gray with signal orange neon-night palette, gentle atmospheric bloom from streetlamp pool, reflected from nearby surfaces 202e45d233f2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.202e45d233f2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-with-a-lingering-finish-on-stabilized-support"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bottom-center-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-streetlamp-pool-reflected-from-nearby-surf"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-gray-with-signal-orange-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-rough-expressive-lines-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring mid-century animation with rough expressive lines style, bottom-center entry into a sweeping curve path composition, charcoal gray with signal orange neon-night palette, gentle atmospheric bloom from streetlamp pool, reflected from nearby surfaces 202e45d233f2"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring independent anime with handmade texture overlays style, upper-right entry into a staggered step path composition, deep plum with ultraviolet neon-night palette, gentle atmospheric bloom from streetlamp pool, grazing textured surfaces 2478096cbffb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.2478096cbffb",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-with-steady-acceleration-on-stabilized-support"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-right-entry-into-a-staggered-step-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-streetlamp-pool-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-plum-with-ultraviolet-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.independent-anime-with-handmade-texture-overlays-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring independent anime with handmade texture overlays style, upper-right entry into a staggered step path composition, deep plum with ultraviolet neon-night palette, gentle atmospheric bloom from streetlamp pool, grazing textured surfaces 2478096cbffb"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring cutout animation with bold shape language style, top-center entry into a rising diagonal path composition, oxblood red with plasma blue neon-night palette, controlled high contrast from streetlamp pool, broken by foreground shapes 24c183e030f7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.24c183e030f7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-with-steady-acceleration-with-restrained-handheld-movemen"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.top-center-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-streetlamp-pool-broken-by-foreground-shape"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.oxblood-red-with-plasma-blue-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cutout-animation-with-bold-shape-language-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring cutout animation with bold shape language style, top-center entry into a rising diagonal path composition, oxblood red with plasma blue neon-night palette, controlled high contrast from streetlamp pool, broken by foreground shapes 24c183e030f7"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring motion-graphic illustration with soft atmospheric backgrounds style, top-center entry into a spiral inward path composition, deep teal with laser magenta neon-night palette, crisp shadow edges from streetlamp pool, contained in a localized pool 2e6060ab0712"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.2e6060ab0712",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-at-a-brisk-pace-with-floating-gimbal-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.top-center-entry-into-a-spiral-inward-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-teal-with-laser-magenta-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.motion-graphic-illustration-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring motion-graphic illustration with soft atmospheric backgrounds style, top-center entry into a spiral inward path composition, deep teal with laser magenta neon-night palette, crisp shadow edges from streetlamp pool, contained in a localized pool 2e6060ab0712"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring charcoal animation with soft atmospheric backgrounds style, upper-right entry into a rising diagonal path composition, aubergine with phosphor yellow neon-night palette, crisp shadow edges from streetlamp pool, grazing textured surfaces 35174aa7cda9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.35174aa7cda9",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-at-a-slow-controlled-pace-with-precise-mechanical-movemen"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-right-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aubergine-with-phosphor-yellow-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.charcoal-animation-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring charcoal animation with soft atmospheric backgrounds style, upper-right entry into a rising diagonal path composition, aubergine with phosphor yellow neon-night palette, crisp shadow edges from streetlamp pool, grazing textured surfaces 35174aa7cda9"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring mid-century animation with soft atmospheric backgrounds style, off-frame entry into a staggered step path composition, bottle green with hot pink neon-night palette, crisp shadow edges from streetlamp pool, falling off into shadow 3dab5463ac6d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.3dab5463ac6d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-with-a-sudden-start-with-floating-gimbal-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-staggered-step-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.bottle-green-with-hot-pink-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring mid-century animation with soft atmospheric backgrounds style, off-frame entry into a staggered step path composition, bottle green with hot pink neon-night palette, crisp shadow edges from streetlamp pool, falling off into shadow 3dab5463ac6d"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring paint-on-glass animation with flat painted shadows style, near-center entry into a zigzag path composition, deep teal with acid lime neon-night palette, gentle atmospheric bloom from streetlamp pool, layered across depth planes 4da984b823d2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.4da984b823d2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-at-a-brisk-pace-with-floating-gimbal-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.near-center-entry-into-a-zigzag-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-streetlamp-pool-layered-across-depth-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-teal-with-acid-lime-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.paint-on-glass-animation-with-flat-painted-shadows-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring paint-on-glass animation with flat painted shadows style, near-center entry into a zigzag path composition, deep teal with acid lime neon-night palette, gentle atmospheric bloom from streetlamp pool, layered across depth planes 4da984b823d2"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring independent anime with flat painted shadows style, near-center entry into a spiral inward path composition, smoky violet with laser magenta neon-night palette, soft diffusion from streetlamp pool, falling off into shadow 52dac7dc6267"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.52dac7dc6267",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-with-a-sudden-start-with-floating-gimbal-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.near-center-entry-into-a-spiral-inward-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.smoky-violet-with-laser-magenta-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.independent-anime-with-flat-painted-shadows-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring independent anime with flat painted shadows style, near-center entry into a spiral inward path composition, smoky violet with laser magenta neon-night palette, soft diffusion from streetlamp pool, falling off into shadow 52dac7dc6267"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring paperless 2D animation with flat painted shadows style, foreground entry into a falling diagonal path composition, deep plum with electric cyan neon-night palette, soft diffusion from streetlamp pool, layered across depth planes 56ebefeb4bfc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.56ebefeb4bfc",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-with-a-lingering-finish-with-precise-mechanical-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-entry-into-a-falling-diagonal-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-plum-with-electric-cyan-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.paperless-2d-animation-with-flat-painted-shadows-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring paperless 2D animation with flat painted shadows style, foreground entry into a falling diagonal path composition, deep plum with electric cyan neon-night palette, soft diffusion from streetlamp pool, layered across depth planes 56ebefeb4bfc"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring motion-graphic illustration with clean key poses style, lower-left entry into a zigzag path composition, petrol blue with hot pink neon-night palette, soft diffusion from streetlamp pool, layered across depth planes 763bb8bc503e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.763bb8bc503e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-with-a-sudden-start-with-floating-gimbal-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-left-entry-into-a-zigzag-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.petrol-blue-with-hot-pink-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.motion-graphic-illustration-with-clean-key-poses-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring motion-graphic illustration with clean key poses style, lower-left entry into a zigzag path composition, petrol blue with hot pink neon-night palette, soft diffusion from streetlamp pool, layered across depth planes 763bb8bc503e"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring cutout animation with delicate color accents style, background entry into a rising diagonal path composition, deep teal with acid lime neon-night palette, soft diffusion from streetlamp pool, layered across depth planes 7b470d91d9fa"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.7b470d91d9fa",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-at-a-slow-controlled-pace-with-precise-mechanical-movemen"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.background-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-teal-with-acid-lime-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cutout-animation-with-delicate-color-accents-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring cutout animation with delicate color accents style, background entry into a rising diagonal path composition, deep teal with acid lime neon-night palette, soft diffusion from streetlamp pool, layered across depth planes 7b470d91d9fa"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring children's book animation with soft atmospheric backgrounds style, upper-left entry into a staggered step path composition, charcoal gray with ultraviolet neon-night palette, soft diffusion from streetlamp pool, falling off into shadow 7e691a0b0009"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.7e691a0b0009",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-with-a-lingering-finish-on-stabilized-support"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-left-entry-into-a-staggered-step-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-gray-with-ultraviolet-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.children-s-book-animation-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring children's book animation with soft atmospheric backgrounds style, upper-left entry into a staggered step path composition, charcoal gray with ultraviolet neon-night palette, soft diffusion from streetlamp pool, falling off into shadow 7e691a0b0009"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring paint-on-glass animation with cinematic layout design style, lower-left entry into a zigzag path composition, petrol blue with electric cyan neon-night palette, soft diffusion from streetlamp pool, spilling into the background 804cd52adad7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.804cd52adad7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-at-a-slow-controlled-pace-with-precise-mechanical-movemen"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-left-entry-into-a-zigzag-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.petrol-blue-with-electric-cyan-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.paint-on-glass-animation-with-cinematic-layout-design-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring paint-on-glass animation with cinematic layout design style, lower-left entry into a zigzag path composition, petrol blue with electric cyan neon-night palette, soft diffusion from streetlamp pool, spilling into the background 804cd52adad7"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring cutout animation with soft atmospheric backgrounds style, lower-right entry into a staggered step path composition, smoky violet with electric cyan neon-night palette, gentle atmospheric bloom from streetlamp pool, broken by foreground shapes 8818b872e75f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.8818b872e75f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-at-a-brisk-pace-on-stabilized-support"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-right-entry-into-a-staggered-step-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-streetlamp-pool-broken-by-foreground-shape"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.smoky-violet-with-electric-cyan-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cutout-animation-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring cutout animation with soft atmospheric backgrounds style, lower-right entry into a staggered step path composition, smoky violet with electric cyan neon-night palette, gentle atmospheric bloom from streetlamp pool, broken by foreground shapes 8818b872e75f"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring independent anime with soft atmospheric backgrounds style, upper-right entry into a radial path composition, smoky violet with phosphor yellow neon-night palette, crisp shadow edges from streetlamp pool, layered across depth planes 89436f002f4f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.89436f002f4f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-with-steady-deceleration-with-floating-gimbal-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-right-entry-into-a-radial-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.smoky-violet-with-phosphor-yellow-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.independent-anime-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring independent anime with soft atmospheric backgrounds style, upper-right entry into a radial path composition, smoky violet with phosphor yellow neon-night palette, crisp shadow edges from streetlamp pool, layered across depth planes 89436f002f4f"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring motion-graphic illustration with handmade texture overlays style, background entry into a zigzag path composition, petrol blue with electric cyan neon-night palette, controlled high contrast from streetlamp pool, focused on the subject plane 988f7573a307"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.988f7573a307",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-with-steady-deceleration-with-restrained-handheld-movemen"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.background-entry-into-a-zigzag-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-streetlamp-pool-focused-on-the-subject-pla"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.petrol-blue-with-electric-cyan-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.motion-graphic-illustration-with-handmade-texture-overlays-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring motion-graphic illustration with handmade texture overlays style, background entry into a zigzag path composition, petrol blue with electric cyan neon-night palette, controlled high contrast from streetlamp pool, focused on the subject plane 988f7573a307"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring independent anime with soft atmospheric backgrounds style, background entry into a sweeping curve path composition, petrol blue with signal orange neon-night palette, controlled high contrast from streetlamp pool, layered across depth planes a55f5fefa781"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.a55f5fefa781",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-with-steady-deceleration-with-restrained-handheld-movemen"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.background-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-streetlamp-pool-layered-across-depth-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.petrol-blue-with-signal-orange-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.independent-anime-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring independent anime with soft atmospheric backgrounds style, background entry into a sweeping curve path composition, petrol blue with signal orange neon-night palette, controlled high contrast from streetlamp pool, layered across depth planes a55f5fefa781"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring cutout animation with bold shape language style, lower-left entry into a zigzag path composition, petrol blue with signal orange neon-night palette, controlled high contrast from streetlamp pool, grazing textured surfaces a775be6f4d27"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.a775be6f4d27",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-at-an-imperceptible-pace-with-floating-gimbal-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-left-entry-into-a-zigzag-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-streetlamp-pool-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.petrol-blue-with-signal-orange-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cutout-animation-with-bold-shape-language-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring cutout animation with bold shape language style, lower-left entry into a zigzag path composition, petrol blue with signal orange neon-night palette, controlled high contrast from streetlamp pool, grazing textured surfaces a775be6f4d27"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring paperless 2D animation with soft atmospheric backgrounds style, left-edge entry into a staggered step path composition, petrol blue with ultraviolet neon-night palette, controlled high contrast from streetlamp pool, spilling into the background c76395c0d7e6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.c76395c0d7e6",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-at-a-slow-controlled-pace-with-restrained-handheld-moveme"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.left-edge-entry-into-a-staggered-step-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-streetlamp-pool-spilling-into-the-backgrou"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.petrol-blue-with-ultraviolet-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.paperless-2d-animation-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring paperless 2D animation with soft atmospheric backgrounds style, left-edge entry into a staggered step path composition, petrol blue with ultraviolet neon-night palette, controlled high contrast from streetlamp pool, spilling into the background c76395c0d7e6"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring editorial cartoon with rough expressive lines style, off-frame entry into a spiral inward path composition, black cherry with acid lime neon-night palette, crisp shadow edges from streetlamp pool, grazing textured surfaces c78db189dedf"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.c78db189dedf",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-with-a-sudden-start-with-precise-mechanical-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-spiral-inward-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.black-cherry-with-acid-lime-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.editorial-cartoon-with-rough-expressive-lines-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring editorial cartoon with rough expressive lines style, off-frame entry into a spiral inward path composition, black cherry with acid lime neon-night palette, crisp shadow edges from streetlamp pool, grazing textured surfaces c78db189dedf"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "kinetic lateral track featuring full cel animation with delicate color accents style, off-frame entry into a sweeping curve path composition, midnight navy with hot pink neon-night palette, crisp shadow edges from streetlamp pool, layered across depth planes d7f374de69f1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.kinetic-lateral-track",
+      "familyTriggers": [
+        "kinetic lateral track grammar",
+        "sideways motion framing",
+        "lateral chase camera direction"
+      ],
+      "id": "phase8.art.camera.kinetic-lateral-track.d7f374de69f1",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.leftward-truck-with-a-lingering-finish-with-precise-mechanical-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.midnight-navy-with-hot-pink-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.full-cel-animation-with-delicate-color-accents-style"
+        ]
+      },
+      "name": "Kinetic Lateral Track 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.kinetic-lateral-track",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "lateral velocity line",
+        "tracked side-motion",
+        "neon directional sweep"
+      ],
+      "triggers": [
+        "kinetic lateral track featuring full cel animation with delicate color accents style, off-frame entry into a sweeping curve path composition, midnight navy with hot pink neon-night palette, crisp shadow edges from streetlamp pool, layered across depth planes d7f374de69f1"
+      ],
+      "variantIndex": 21
+    }
+  ],
+  "schemaVersion": 2
+}

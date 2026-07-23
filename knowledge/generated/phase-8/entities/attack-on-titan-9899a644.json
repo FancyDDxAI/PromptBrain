@@ -1,0 +1,252 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Annie Leonhart",
+        "Annie Leonhart (Attack on Titan)"
+      ],
+      "id": "character.attack-on-titan.annie-leonhart",
+      "kind": "named-character",
+      "name": "Annie Leonhart",
+      "namespace": "Attack on Titan",
+      "promptTags": [
+        "Annie Leonhart",
+        "Attack on Titan",
+        "female",
+        "warrior"
+      ],
+      "provenance": {
+        "groupId": "attack-on-titan",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "warrior",
+        "soldier"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Armin Arlert",
+        "Armin Arlert (Attack on Titan)"
+      ],
+      "id": "character.attack-on-titan.armin-arlert",
+      "kind": "named-character",
+      "name": "Armin Arlert",
+      "namespace": "Attack on Titan",
+      "promptTags": [
+        "Armin Arlert",
+        "Attack on Titan",
+        "male",
+        "soldier strategist"
+      ],
+      "provenance": {
+        "groupId": "attack-on-titan",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "soldier",
+        "strategist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Erwin Smith",
+        "Erwin Smith (Attack on Titan)"
+      ],
+      "id": "character.attack-on-titan.erwin-smith",
+      "kind": "named-character",
+      "name": "Erwin Smith",
+      "namespace": "Attack on Titan",
+      "promptTags": [
+        "Erwin Smith",
+        "Attack on Titan",
+        "male",
+        "military commander"
+      ],
+      "provenance": {
+        "groupId": "attack-on-titan",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "soldier",
+        "commander"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Hange Zoe",
+        "Hange Zoe (Attack on Titan)"
+      ],
+      "id": "character.attack-on-titan.hange-zoe",
+      "kind": "named-character",
+      "name": "Hange Zoe",
+      "namespace": "Attack on Titan",
+      "promptTags": [
+        "Hange Zoe",
+        "Attack on Titan",
+        "military scientist",
+        "commander"
+      ],
+      "provenance": {
+        "groupId": "attack-on-titan",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "soldier",
+        "scientist",
+        "commander"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Levi Ackerman",
+        "Levi Ackerman (Attack on Titan)"
+      ],
+      "id": "character.attack-on-titan.levi-ackerman",
+      "kind": "named-character",
+      "name": "Levi Ackerman",
+      "namespace": "Attack on Titan",
+      "promptTags": [
+        "Levi Ackerman",
+        "Attack on Titan",
+        "male",
+        "soldier captain"
+      ],
+      "provenance": {
+        "groupId": "attack-on-titan",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "soldier",
+        "captain"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Mikasa Ackerman",
+        "Mikasa Ackerman (Attack on Titan)"
+      ],
+      "id": "character.attack-on-titan.mikasa-ackerman",
+      "kind": "named-character",
+      "name": "Mikasa Ackerman",
+      "namespace": "Attack on Titan",
+      "promptTags": [
+        "Mikasa Ackerman",
+        "Attack on Titan",
+        "female",
+        "soldier"
+      ],
+      "provenance": {
+        "groupId": "attack-on-titan",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "soldier"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Reiner Braun",
+        "Reiner Braun (Attack on Titan)"
+      ],
+      "id": "character.attack-on-titan.reiner-braun",
+      "kind": "named-character",
+      "name": "Reiner Braun",
+      "namespace": "Attack on Titan",
+      "promptTags": [
+        "Reiner Braun",
+        "Attack on Titan",
+        "male",
+        "warrior"
+      ],
+      "provenance": {
+        "groupId": "attack-on-titan",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "warrior",
+        "soldier"
+      ]
+    }
+  ],
+  "fingerprint": "74cae57af44f975f3fe678908935ab3d64ed25b5102ea087c1011fa16637ae26",
+  "namespace": "Attack on Titan",
+  "schemaVersion": 2
+}

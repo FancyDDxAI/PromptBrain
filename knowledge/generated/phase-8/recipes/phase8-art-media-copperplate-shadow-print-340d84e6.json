@@ -1,0 +1,1544 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.media.copperplate-shadow-print",
+  "fingerprint": "53c0dfd5e56d30df14832bcbb9f8001be51bf8029377d18a42b0f19c9fa5f625",
+  "recipes": [
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with fine crosshatching print style, right-edge entry into a falling diagonal path composition, violet pastel tonal scale palette, soft diffusion from doorway spill, grazing textured surfaces 0e75b018caae"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.0e75b018caae",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.right-edge-entry-into-a-falling-diagonal-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-pastel-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-fine-crosshatching-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with fine crosshatching print style, right-edge entry into a falling diagonal path composition, violet pastel tonal scale palette, soft diffusion from doorway spill, grazing textured surfaces 0e75b018caae"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with layered registration print style, left-edge entry into a zigzag path composition, coral metallic-accent monochrome palette, soft diffusion from doorway spill, focused on the subject plane 15c2938fe7ef"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.15c2938fe7ef",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.left-edge-entry-into-a-zigzag-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.coral-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-layered-registration-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with layered registration print style, left-edge entry into a zigzag path composition, coral metallic-accent monochrome palette, soft diffusion from doorway spill, focused on the subject plane 15c2938fe7ef"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with minimal contour work print style, upper-right entry into a rising diagonal path composition, violet pastel tonal scale palette, controlled high contrast from doorway spill, falling off into shadow 224a9638b919"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.224a9638b919",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.upper-right-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-doorway-spill-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-pastel-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-minimal-contour-work-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with minimal contour work print style, upper-right entry into a rising diagonal path composition, violet pastel tonal scale palette, controlled high contrast from doorway spill, falling off into shadow 224a9638b919"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with bold spot color print style, lower-left entry into a S-curve path composition, indigo duotone wash palette, gentle atmospheric bloom from doorway spill, spilling into the background 2ef1350fc3e8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.2ef1350fc3e8",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.lower-left-entry-into-a-s-curve-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-doorway-spill-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-duotone-wash-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-bold-spot-color-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with bold spot color print style, lower-left entry into a S-curve path composition, indigo duotone wash palette, gentle atmospheric bloom from doorway spill, spilling into the background 2ef1350fc3e8"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with muted paper grain print style, bottom-center entry into a S-curve path composition, coral ink-dense tonal scale palette, soft diffusion from doorway spill, falling off into shadow 30e9ce5d9c8a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.30e9ce5d9c8a",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.bottom-center-entry-into-a-s-curve-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.coral-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-muted-paper-grain-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with muted paper grain print style, bottom-center entry into a S-curve path composition, coral ink-dense tonal scale palette, soft diffusion from doorway spill, falling off into shadow 30e9ce5d9c8a"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with muted paper grain print style, near-center entry into a staggered step path composition, emerald misty tonal scale palette, gentle atmospheric bloom from doorway spill, layered across depth planes 36c2d6a74e83"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.36c2d6a74e83",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.near-center-entry-into-a-staggered-step-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-doorway-spill-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-misty-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-muted-paper-grain-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with muted paper grain print style, near-center entry into a staggered step path composition, emerald misty tonal scale palette, gentle atmospheric bloom from doorway spill, layered across depth planes 36c2d6a74e83"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with fine crosshatching print style, off-frame entry into a sweeping curve path composition, coral metallic-accent monochrome palette, controlled high contrast from doorway spill, broken by foreground shapes 42cb421fde14"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.42cb421fde14",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-doorway-spill-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.coral-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-fine-crosshatching-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with fine crosshatching print style, off-frame entry into a sweeping curve path composition, coral metallic-accent monochrome palette, controlled high contrast from doorway spill, broken by foreground shapes 42cb421fde14"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with layered registration print style, off-frame entry into a spiral inward path composition, emerald pastel tonal scale palette, gentle atmospheric bloom from doorway spill, creating a luminous frame 468720612dd4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.468720612dd4",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-spiral-inward-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-doorway-spill-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-pastel-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-layered-registration-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with layered registration print style, off-frame entry into a spiral inward path composition, emerald pastel tonal scale palette, gentle atmospheric bloom from doorway spill, creating a luminous frame 468720612dd4"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with bold spot color print style, upper-left entry into a radial path composition, coral metallic-accent monochrome palette, controlled high contrast from doorway spill, spilling into the background 48cd4904d1c7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.48cd4904d1c7",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.upper-left-entry-into-a-radial-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-doorway-spill-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.coral-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-bold-spot-color-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with bold spot color print style, upper-left entry into a radial path composition, coral metallic-accent monochrome palette, controlled high contrast from doorway spill, spilling into the background 48cd4904d1c7"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with fine crosshatching print style, bottom-center entry into a staggered step path composition, vermilion pastel tonal scale palette, gentle atmospheric bloom from doorway spill, focused on the subject plane 70b977b0fd6a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.70b977b0fd6a",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.bottom-center-entry-into-a-staggered-step-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-doorway-spill-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.vermilion-pastel-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-fine-crosshatching-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with fine crosshatching print style, bottom-center entry into a staggered step path composition, vermilion pastel tonal scale palette, gentle atmospheric bloom from doorway spill, focused on the subject plane 70b977b0fd6a"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with bold spot color print style, lower-right entry into a rising diagonal path composition, graphite pastel tonal scale palette, soft diffusion from doorway spill, reflected from nearby surfaces 8510fee1b306"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.8510fee1b306",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.lower-right-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.graphite-pastel-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-bold-spot-color-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with bold spot color print style, lower-right entry into a rising diagonal path composition, graphite pastel tonal scale palette, soft diffusion from doorway spill, reflected from nearby surfaces 8510fee1b306"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with bold spot color print style, bottom-center entry into a sweeping curve path composition, teal duotone wash palette, controlled high contrast from doorway spill, layered across depth planes 9a423d574009"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.9a423d574009",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.bottom-center-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-doorway-spill-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-duotone-wash-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-bold-spot-color-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with bold spot color print style, bottom-center entry into a sweeping curve path composition, teal duotone wash palette, controlled high contrast from doorway spill, layered across depth planes 9a423d574009"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with rough deckled texture print style, near-center entry into a rising diagonal path composition, magenta ink-dense tonal scale palette, crisp shadow edges from doorway spill, contained in a localized pool 9f538ab4ff6d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.9f538ab4ff6d",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.near-center-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.magenta-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-rough-deckled-texture-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with rough deckled texture print style, near-center entry into a rising diagonal path composition, magenta ink-dense tonal scale palette, crisp shadow edges from doorway spill, contained in a localized pool 9f538ab4ff6d"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with rough deckled texture print style, near-center entry into a zigzag path composition, sepia three-value study palette, crisp shadow edges from doorway spill, broken by foreground shapes a46980e5f234"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.a46980e5f234",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.near-center-entry-into-a-zigzag-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-rough-deckled-texture-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with rough deckled texture print style, near-center entry into a zigzag path composition, sepia three-value study palette, crisp shadow edges from doorway spill, broken by foreground shapes a46980e5f234"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with high-contrast inking print style, upper-right entry into a staggered step path composition, coral high-key monochrome palette, controlled high contrast from doorway spill, broken by foreground shapes a59c88db8b1b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.a59c88db8b1b",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.upper-right-entry-into-a-staggered-step-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-doorway-spill-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.coral-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-high-contrast-inking-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with high-contrast inking print style, upper-right entry into a staggered step path composition, coral high-key monochrome palette, controlled high contrast from doorway spill, broken by foreground shapes a59c88db8b1b"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with minimal contour work print style, left-edge entry into a zigzag path composition, olive metallic-accent monochrome palette, crisp shadow edges from doorway spill, falling off into shadow a9675c7677fa"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.a9675c7677fa",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.left-edge-entry-into-a-zigzag-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-minimal-contour-work-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with minimal contour work print style, left-edge entry into a zigzag path composition, olive metallic-accent monochrome palette, crisp shadow edges from doorway spill, falling off into shadow a9675c7677fa"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with layered registration print style, lower-right entry into a S-curve path composition, emerald low-key monochrome palette, controlled high contrast from doorway spill, reflected from nearby surfaces b6f1ad55a9ca"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.b6f1ad55a9ca",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.lower-right-entry-into-a-s-curve-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-doorway-spill-reflected-from-nearby-surfac"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-low-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-layered-registration-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with layered registration print style, lower-right entry into a S-curve path composition, emerald low-key monochrome palette, controlled high contrast from doorway spill, reflected from nearby surfaces b6f1ad55a9ca"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with fine crosshatching print style, near-center entry into a staggered step path composition, coral misty tonal scale palette, soft diffusion from doorway spill, reflected from nearby surfaces c6dae590adfb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.c6dae590adfb",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.near-center-entry-into-a-staggered-step-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.coral-misty-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-fine-crosshatching-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with fine crosshatching print style, near-center entry into a staggered step path composition, coral misty tonal scale palette, soft diffusion from doorway spill, reflected from nearby surfaces c6dae590adfb"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with bold spot color print style, bottom-center entry into a sweeping curve path composition, graphite high-key monochrome palette, gentle atmospheric bloom from doorway spill, reflected from nearby surfaces cace4920beea"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.cace4920beea",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.bottom-center-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-doorway-spill-reflected-from-nearby-surfac"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.graphite-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-bold-spot-color-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with bold spot color print style, bottom-center entry into a sweeping curve path composition, graphite high-key monochrome palette, gentle atmospheric bloom from doorway spill, reflected from nearby surfaces cace4920beea"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with high-contrast inking print style, left-edge entry into a staggered step path composition, amber pastel tonal scale palette, gentle atmospheric bloom from doorway spill, falling off into shadow ce48cc8fc6f8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.ce48cc8fc6f8",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.left-edge-entry-into-a-staggered-step-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-doorway-spill-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.amber-pastel-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-high-contrast-inking-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with high-contrast inking print style, left-edge entry into a staggered step path composition, amber pastel tonal scale palette, gentle atmospheric bloom from doorway spill, falling off into shadow ce48cc8fc6f8"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with rough deckled texture print style, upper-right entry into a spiral inward path composition, coral three-value study palette, controlled high contrast from doorway spill, grazing textured surfaces d36205b117e6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.d36205b117e6",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.upper-right-entry-into-a-spiral-inward-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-doorway-spill-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.coral-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-rough-deckled-texture-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with rough deckled texture print style, upper-right entry into a spiral inward path composition, coral three-value study palette, controlled high contrast from doorway spill, grazing textured surfaces d36205b117e6"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with high-contrast inking print style, right-edge entry into a S-curve path composition, violet low-key monochrome palette, gentle atmospheric bloom from doorway spill, falling off into shadow dad807d741ef"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.dad807d741ef",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.right-edge-entry-into-a-s-curve-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-doorway-spill-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-low-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-high-contrast-inking-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with high-contrast inking print style, right-edge entry into a S-curve path composition, violet low-key monochrome palette, gentle atmospheric bloom from doorway spill, falling off into shadow dad807d741ef"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with high-contrast inking print style, top-center entry into a falling diagonal path composition, teal misty tonal scale palette, controlled high contrast from doorway spill, contained in a localized pool ddff994b91c6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.ddff994b91c6",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.top-center-entry-into-a-falling-diagonal-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-doorway-spill-contained-in-a-localized-poo"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-misty-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-high-contrast-inking-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with high-contrast inking print style, top-center entry into a falling diagonal path composition, teal misty tonal scale palette, controlled high contrast from doorway spill, contained in a localized pool ddff994b91c6"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "copperplate shadow print featuring copper engraving with muted paper grain print style, right-edge entry into a rising diagonal path composition, cobalt misty tonal scale palette, crisp shadow edges from doorway spill, reflected from nearby surfaces e48fb22eb68a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.copperplate-shadow-print",
+      "familyTriggers": [
+        "copperplate shadow direction",
+        "engraved directional drama",
+        "intaglio tonal staging"
+      ],
+      "id": "phase8.art.media.copperplate-shadow-print.e48fb22eb68a",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.right-edge-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-misty-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.copper-engraving-with-muted-paper-grain-print-style"
+        ]
+      },
+      "name": "Copperplate Shadow Print 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.copperplate-shadow-print",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "engraved crosshatch flow",
+        "plate-shadow contrast",
+        "monochrome intaglio rhythm"
+      ],
+      "triggers": [
+        "copperplate shadow print featuring copper engraving with muted paper grain print style, right-edge entry into a rising diagonal path composition, cobalt misty tonal scale palette, crisp shadow edges from doorway spill, reflected from nearby surfaces e48fb22eb68a"
+      ],
+      "variantIndex": 10
+    }
+  ],
+  "schemaVersion": 2
+}

@@ -1,0 +1,1904 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.narrative.suspicious-unease",
+  "fingerprint": "726ef3f21c49bf184209ecc8ecd3fb87062f5bd1832da54b9b2584ca475e9b3e",
+  "recipes": [
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with ornamental hatching illustration, empty floor as central negative space composition, emerald pastel tonal scale palette, soft diffusion from doorway spill, falling off into shadow 001c948a9535"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.001c948a9535",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.unstable-shifting-dutch-tilt-with-playful-imbalance-negative-space-frami"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-central-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-flickering-practical-lights-quiet-psychologic"
+        ],
+        "expression": [
+          "curated.expression.openly-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-pastel-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-ornamental-hatching-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with ornamental hatching illustration, empty floor as central negative space composition, emerald pastel tonal scale palette, soft diffusion from doorway spill, falling off into shadow 001c948a9535"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with expressive splatter illustration, unlit doorway as corner negative space composition, sepia duotone wash palette, crisp shadow edges from doorway spill, focused on the subject plane 0246d73e2b3d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.0246d73e2b3d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-diagonal-counterclockwise-tilt-with-kinetic-urgency-architecture-le"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-corner-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-flickering-practical-lights-quiet-psychologic"
+        ],
+        "expression": [
+          "curated.expression.subtly-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-duotone-wash-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-expressive-splatter-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with expressive splatter illustration, unlit doorway as corner negative space composition, sepia duotone wash palette, crisp shadow edges from doorway spill, focused on the subject plane 0246d73e2b3d"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with ornamental hatching illustration, empty floor as above-subject negative space composition, olive three-value study palette, crisp shadow edges from doorway spill, contained in a localized pool 057795af11ac"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.057795af11ac",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-diagonal-clockwise-tilt-with-psychological-tension-vanishing-point-"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-above-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-flickering-practical-lights-quiet-psychologic"
+        ],
+        "expression": [
+          "curated.expression.fearlessly-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-ornamental-hatching-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with ornamental hatching illustration, empty floor as above-subject negative space composition, olive three-value study palette, crisp shadow edges from doorway spill, contained in a localized pool 057795af11ac"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with ornamental hatching illustration, paper margin as corner negative space composition, indigo three-value study palette, crisp shadow edges from doorway spill, contained in a localized pool 0c0b8615cf6d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.0c0b8615cf6d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.subtle-clockwise-roll-with-playful-imbalance-horizon-led-framing"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-corner-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-doors-left-slightly-ajar-quiet-psychological-"
+        ],
+        "expression": [
+          "curated.expression.barely-restrained-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-ornamental-hatching-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with ornamental hatching illustration, paper margin as corner negative space composition, indigo three-value study palette, crisp shadow edges from doorway spill, contained in a localized pool 0c0b8615cf6d"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with precise contours illustration, deep shadow as right-side negative space composition, cobalt duotone wash palette, controlled high contrast from doorway spill, grazing textured surfaces 15c87aa6e9c7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.15c87aa6e9c7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.strong-clockwise-dutch-tilt-with-psychological-tension-horizon-led-frami"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-right-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-repeating-shadow-patterns-restrained-supernat"
+        ],
+        "expression": [
+          "curated.expression.gently-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-doorway-spill-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-duotone-wash-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-precise-contours-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with precise contours illustration, deep shadow as right-side negative space composition, cobalt duotone wash palette, controlled high contrast from doorway spill, grazing textured surfaces 15c87aa6e9c7"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with expressive splatter illustration, distant horizon as encircling negative space composition, graphite three-value study palette, gentle atmospheric bloom from doorway spill, contained in a localized pool 204825f82c3b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.204825f82c3b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.strong-clockwise-dutch-tilt-with-psychological-tension-architecture-led-"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.distant-horizon-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-long-empty-sightlines-restrained-supernatural"
+        ],
+        "expression": [
+          "curated.expression.playfully-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-doorway-spill-contained-in-a-localized-poo"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.graphite-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-expressive-splatter-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with expressive splatter illustration, distant horizon as encircling negative space composition, graphite three-value study palette, gentle atmospheric bloom from doorway spill, contained in a localized pool 204825f82c3b"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with expressive splatter illustration, calm water as corner negative space composition, violet low-key monochrome palette, gentle atmospheric bloom from doorway spill, creating a luminous frame 220bf596d673"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.220bf596d673",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.unstable-shifting-dutch-tilt-with-restrained-unease-subject-centered-fra"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-corner-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-signs-of-sudden-departure-restrained-supernat"
+        ],
+        "expression": [
+          "curated.expression.barely-restrained-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-doorway-spill-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-low-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-expressive-splatter-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with expressive splatter illustration, calm water as corner negative space composition, violet low-key monochrome palette, gentle atmospheric bloom from doorway spill, creating a luminous frame 220bf596d673"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with dense shadows illustration, blank wall as above-subject negative space composition, olive misty tonal scale palette, controlled high contrast from doorway spill, broken by foreground shapes 32cbb58bf083"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.32cbb58bf083",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.subtle-clockwise-roll-with-kinetic-urgency-architecture-led-framing"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.blank-wall-as-above-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-misaligned-furnishings-slow-building-suspense"
+        ],
+        "expression": [
+          "curated.expression.dreamily-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-doorway-spill-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-misty-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-dense-shadows-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with dense shadows illustration, blank wall as above-subject negative space composition, olive misty tonal scale palette, controlled high contrast from doorway spill, broken by foreground shapes 32cbb58bf083"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with dense shadows illustration, blank wall as corner negative space composition, amber ink-dense tonal scale palette, gentle atmospheric bloom from doorway spill, focused on the subject plane 3550cb7d4363"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.3550cb7d4363",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.moderate-clockwise-dutch-tilt-with-kinetic-urgency-architecture-led-fram"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.blank-wall-as-corner-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-repeating-shadow-patterns-quiet-psychological"
+        ],
+        "expression": [
+          "curated.expression.fearlessly-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-doorway-spill-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.amber-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-dense-shadows-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with dense shadows illustration, blank wall as corner negative space composition, amber ink-dense tonal scale palette, gentle atmospheric bloom from doorway spill, focused on the subject plane 3550cb7d4363"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with broken drybrush illustration, empty floor as encircling negative space composition, cobalt pastel tonal scale palette, crisp shadow edges from doorway spill, layered across depth planes 450e4e3dba86"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.450e4e3dba86",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.unstable-shifting-dutch-tilt-with-psychological-tension-negative-space-f"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-misaligned-furnishings-restrained-supernatura"
+        ],
+        "expression": [
+          "curated.expression.painfully-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-pastel-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-broken-drybrush-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with broken drybrush illustration, empty floor as encircling negative space composition, cobalt pastel tonal scale palette, crisp shadow edges from doorway spill, layered across depth planes 450e4e3dba86"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with soft wash fields illustration, snow field as encircling negative space composition, sepia misty tonal scale palette, controlled high contrast from doorway spill, layered across depth planes 492797258a60"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.492797258a60",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-diagonal-counterclockwise-tilt-with-kinetic-urgency-horizon-led-fra"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.snow-field-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-misaligned-furnishings-slow-building-suspense"
+        ],
+        "expression": [
+          "curated.expression.gently-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-doorway-spill-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-misty-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-soft-wash-fields-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with soft wash fields illustration, snow field as encircling negative space composition, sepia misty tonal scale palette, controlled high contrast from doorway spill, layered across depth planes 492797258a60"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with expressive splatter illustration, soft bokeh as right-side negative space composition, cobalt high-key monochrome palette, crisp shadow edges from doorway spill, contained in a localized pool 5566fe38da96"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.5566fe38da96",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-diagonal-clockwise-tilt-with-kinetic-urgency-architecture-led-frami"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.soft-bokeh-as-right-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-misaligned-furnishings-restrained-supernatura"
+        ],
+        "expression": [
+          "curated.expression.fearlessly-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-expressive-splatter-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with expressive splatter illustration, soft bokeh as right-side negative space composition, cobalt high-key monochrome palette, crisp shadow edges from doorway spill, contained in a localized pool 5566fe38da96"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with soft wash fields illustration, unlit doorway as above-subject negative space composition, olive pastel tonal scale palette, soft diffusion from doorway spill, layered across depth planes 56fc73a05ff2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.56fc73a05ff2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.strong-counterclockwise-dutch-tilt-with-restrained-unease-negative-space"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-above-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-repeating-shadow-patterns-slow-building-suspe"
+        ],
+        "expression": [
+          "curated.expression.playfully-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-pastel-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-soft-wash-fields-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with soft wash fields illustration, unlit doorway as above-subject negative space composition, olive pastel tonal scale palette, soft diffusion from doorway spill, layered across depth planes 56fc73a05ff2"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with ornamental hatching illustration, paper margin as left-side negative space composition, magenta ink-dense tonal scale palette, soft diffusion from doorway spill, focused on the subject plane 74fa955eeb79"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.74fa955eeb79",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-diagonal-counterclockwise-tilt-with-restrained-unease-corner-to-cor"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-left-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-worn-personal-belongings-slow-building-suspen"
+        ],
+        "expression": [
+          "curated.expression.warmly-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.magenta-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-ornamental-hatching-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with ornamental hatching illustration, paper margin as left-side negative space composition, magenta ink-dense tonal scale palette, soft diffusion from doorway spill, focused on the subject plane 74fa955eeb79"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with minimal accents illustration, deep shadow as corner negative space composition, emerald three-value study palette, gentle atmospheric bloom from doorway spill, creating a luminous frame 775c18937aaf"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.775c18937aaf",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.moderate-counterclockwise-dutch-tilt-with-playful-imbalance-vanishing-po"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-corner-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-long-empty-sightlines-slow-building-suspense"
+        ],
+        "expression": [
+          "curated.expression.openly-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-doorway-spill-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-minimal-accents-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with minimal accents illustration, deep shadow as corner negative space composition, emerald three-value study palette, gentle atmospheric bloom from doorway spill, creating a luminous frame 775c18937aaf"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with broken drybrush illustration, plain fabric as below-subject negative space composition, emerald metallic-accent monochrome palette, soft diffusion from doorway spill, spilling into the background 8d3901bb5877"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.8d3901bb5877",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-diagonal-clockwise-tilt-with-kinetic-urgency-corner-to-corner-frami"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.plain-fabric-as-below-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-doors-left-slightly-ajar-slow-building-suspen"
+        ],
+        "expression": [
+          "curated.expression.barely-restrained-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-broken-drybrush-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with broken drybrush illustration, plain fabric as below-subject negative space composition, emerald metallic-accent monochrome palette, soft diffusion from doorway spill, spilling into the background 8d3901bb5877"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with ornamental hatching illustration, distant horizon as below-subject negative space composition, magenta duotone wash palette, soft diffusion from doorway spill, grazing textured surfaces 95de5a56b8e7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.95de5a56b8e7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-diagonal-clockwise-tilt-with-playful-imbalance-vanishing-point-fram"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.distant-horizon-as-below-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-signs-of-sudden-departure-restrained-supernat"
+        ],
+        "expression": [
+          "curated.expression.solemnly-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.magenta-duotone-wash-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-ornamental-hatching-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with ornamental hatching illustration, distant horizon as below-subject negative space composition, magenta duotone wash palette, soft diffusion from doorway spill, grazing textured surfaces 95de5a56b8e7"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with minimal accents illustration, calm water as above-subject negative space composition, olive low-key monochrome palette, soft diffusion from doorway spill, reflected from nearby surfaces 96c12998abdd"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.96c12998abdd",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.unstable-shifting-dutch-tilt-with-playful-imbalance-subject-centered-fra"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-above-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-long-empty-sightlines-restrained-supernatural"
+        ],
+        "expression": [
+          "curated.expression.painfully-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-low-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-minimal-accents-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with minimal accents illustration, calm water as above-subject negative space composition, olive low-key monochrome palette, soft diffusion from doorway spill, reflected from nearby surfaces 96c12998abdd"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with broken drybrush illustration, soft bokeh as encircling negative space composition, amber metallic-accent monochrome palette, crisp shadow edges from doorway spill, spilling into the background c3e641432303"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.c3e641432303",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.strong-counterclockwise-dutch-tilt-with-playful-imbalance-foreground-lin"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.soft-bokeh-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-long-empty-sightlines-slow-building-suspense"
+        ],
+        "expression": [
+          "curated.expression.quietly-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.amber-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-broken-drybrush-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with broken drybrush illustration, soft bokeh as encircling negative space composition, amber metallic-accent monochrome palette, crisp shadow edges from doorway spill, spilling into the background c3e641432303"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with broken drybrush illustration, mist field as right-side negative space composition, magenta metallic-accent monochrome palette, crisp shadow edges from doorway spill, reflected from nearby surfaces e01d6714a76a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.e01d6714a76a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.subtle-counterclockwise-roll-with-restrained-unease-negative-space-frami"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.mist-field-as-right-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-flickering-practical-lights-quiet-psychologic"
+        ],
+        "expression": [
+          "curated.expression.intensely-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.magenta-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-broken-drybrush-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with broken drybrush illustration, mist field as right-side negative space composition, magenta metallic-accent monochrome palette, crisp shadow edges from doorway spill, reflected from nearby surfaces e01d6714a76a"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with ornamental hatching illustration, mist field as encircling negative space composition, sepia metallic-accent monochrome palette, gentle atmospheric bloom from doorway spill, falling off into shadow e09ede535f5b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.e09ede535f5b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.moderate-counterclockwise-dutch-tilt-with-kinetic-urgency-negative-space"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.mist-field-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-repeating-shadow-patterns-quiet-psychological"
+        ],
+        "expression": [
+          "curated.expression.openly-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-doorway-spill-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-ornamental-hatching-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with ornamental hatching illustration, mist field as encircling negative space composition, sepia metallic-accent monochrome palette, gentle atmospheric bloom from doorway spill, falling off into shadow e09ede535f5b"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with expressive splatter illustration, unlit doorway as below-subject negative space composition, amber misty tonal scale palette, soft diffusion from doorway spill, falling off into shadow e5ccc86f8a17"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.e5ccc86f8a17",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.subtle-counterclockwise-roll-with-kinetic-urgency-subject-centered-frami"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-below-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-unexplained-damp-footprints-quiet-psychologic"
+        ],
+        "expression": [
+          "curated.expression.subtly-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-doorway-spill-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.amber-misty-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-expressive-splatter-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with expressive splatter illustration, unlit doorway as below-subject negative space composition, amber misty tonal scale palette, soft diffusion from doorway spill, falling off into shadow e5ccc86f8a17"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with precise contours illustration, calm water as corner negative space composition, magenta high-key monochrome palette, crisp shadow edges from doorway spill, contained in a localized pool e6e00469e9b4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.e6e00469e9b4",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.moderate-counterclockwise-dutch-tilt-with-psychological-tension-corner-t"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-corner-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-signs-of-sudden-departure-restrained-supernat"
+        ],
+        "expression": [
+          "curated.expression.dreamily-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-doorway-spill-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.magenta-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-precise-contours-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with precise contours illustration, calm water as corner negative space composition, magenta high-key monochrome palette, crisp shadow edges from doorway spill, contained in a localized pool e6e00469e9b4"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "suspicious unease featuring scratchboard ink with broken drybrush illustration, soft bokeh as above-subject negative space composition, sepia high-key monochrome palette, gentle atmospheric bloom from doorway spill, spilling into the background ecb5e8925159"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.suspicious-unease",
+      "familyTriggers": [
+        "suspicious unease narrative direction",
+        "watchful cabin suspense",
+        "distrustful off-axis tension"
+      ],
+      "id": "phase8.art.narrative.suspicious-unease.ecb5e8925159",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.near-diagonal-clockwise-tilt-with-playful-imbalance-negative-space-frami"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.soft-bokeh-as-above-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.isolated-forest-cabin-with-long-empty-sightlines-quiet-psychological-dre"
+        ],
+        "expression": [
+          "curated.expression.nervously-suspicious-expression"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-doorway-spill-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.scratchboard-ink-with-broken-drybrush-illustration"
+        ]
+      },
+      "name": "Suspicious Unease 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.suspicious-unease",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "suspicious scanning gaze",
+        "non-graphic cabin dread",
+        "tilted doorway suspicion"
+      ],
+      "triggers": [
+        "suspicious unease featuring scratchboard ink with broken drybrush illustration, soft bokeh as above-subject negative space composition, sepia high-key monochrome palette, gentle atmospheric bloom from doorway spill, spilling into the background ecb5e8925159"
+      ],
+      "variantIndex": 2
+    }
+  ],
+  "schemaVersion": 2
+}

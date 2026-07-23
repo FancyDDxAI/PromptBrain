@@ -1,0 +1,254 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Monkey D. Luffy",
+        "Monkey D. Luffy (One Piece)"
+      ],
+      "id": "character.one-piece.monkey-d-luffy",
+      "kind": "named-character",
+      "name": "Monkey D. Luffy",
+      "namespace": "One Piece",
+      "promptTags": [
+        "Monkey D. Luffy",
+        "One Piece",
+        "male",
+        "pirate captain"
+      ],
+      "provenance": {
+        "groupId": "one-piece",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "pirate"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Nami",
+        "Nami (One Piece)"
+      ],
+      "id": "character.one-piece.nami",
+      "kind": "named-character",
+      "name": "Nami",
+      "namespace": "One Piece",
+      "promptTags": [
+        "Nami",
+        "One Piece",
+        "female",
+        "navigator"
+      ],
+      "provenance": {
+        "groupId": "one-piece",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "pirate",
+        "navigator"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Nico Robin",
+        "Nico Robin (One Piece)"
+      ],
+      "id": "character.one-piece.nico-robin",
+      "kind": "named-character",
+      "name": "Nico Robin",
+      "namespace": "One Piece",
+      "promptTags": [
+        "Nico Robin",
+        "One Piece",
+        "female",
+        "archaeologist"
+      ],
+      "provenance": {
+        "groupId": "one-piece",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "pirate",
+        "archaeologist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Roronoa Zoro",
+        "Roronoa Zoro (One Piece)"
+      ],
+      "id": "character.one-piece.roronoa-zoro",
+      "kind": "named-character",
+      "name": "Roronoa Zoro",
+      "namespace": "One Piece",
+      "promptTags": [
+        "Roronoa Zoro",
+        "One Piece",
+        "male",
+        "swordsman"
+      ],
+      "provenance": {
+        "groupId": "one-piece",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "pirate",
+        "swordsman"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Sanji Vinsmoke",
+        "Vinsmoke Sanji",
+        "Sanji Vinsmoke (One Piece)"
+      ],
+      "id": "character.one-piece.sanji-vinsmoke",
+      "kind": "named-character",
+      "name": "Sanji Vinsmoke",
+      "namespace": "One Piece",
+      "promptTags": [
+        "Sanji Vinsmoke",
+        "One Piece",
+        "male",
+        "cook"
+      ],
+      "provenance": {
+        "groupId": "one-piece",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "pirate",
+        "cook"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Tony Tony Chopper",
+        "Tony Tony Chopper (One Piece)"
+      ],
+      "id": "character.one-piece.tony-tony-chopper",
+      "kind": "named-character",
+      "name": "Tony Tony Chopper",
+      "namespace": "One Piece",
+      "promptTags": [
+        "Tony Tony Chopper",
+        "One Piece",
+        "male",
+        "doctor"
+      ],
+      "provenance": {
+        "groupId": "one-piece",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "pirate",
+        "doctor"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Usopp",
+        "Usopp (One Piece)"
+      ],
+      "id": "character.one-piece.usopp",
+      "kind": "named-character",
+      "name": "Usopp",
+      "namespace": "One Piece",
+      "promptTags": [
+        "Usopp",
+        "One Piece",
+        "male",
+        "sniper"
+      ],
+      "provenance": {
+        "groupId": "one-piece",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "pirate",
+        "sniper"
+      ]
+    }
+  ],
+  "fingerprint": "68a2820397003d3855f1b505876923edac794db954e1c2afd672028f7d06dc1e",
+  "namespace": "One Piece",
+  "schemaVersion": 2
+}

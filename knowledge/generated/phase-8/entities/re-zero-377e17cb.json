@@ -1,0 +1,250 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Crusch Karsten",
+        "Crusch Karsten (Re:Zero)"
+      ],
+      "id": "character.re-zero.crusch-karsten",
+      "kind": "named-character",
+      "name": "Crusch Karsten",
+      "namespace": "Re:Zero",
+      "promptTags": [
+        "Crusch Karsten",
+        "Re:Zero",
+        "female",
+        "noble leader"
+      ],
+      "provenance": {
+        "groupId": "re-zero",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "noble",
+        "leader"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Felix Argyle",
+        "Felix Argyle (Re:Zero)"
+      ],
+      "id": "character.re-zero.felix-argyle",
+      "kind": "named-character",
+      "name": "Felix Argyle",
+      "namespace": "Re:Zero",
+      "promptTags": [
+        "Felix Argyle",
+        "Re:Zero",
+        "male",
+        "healer knight"
+      ],
+      "provenance": {
+        "groupId": "re-zero",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "healer",
+        "knight"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Garfiel Tinsel",
+        "Garfiel Tinsel (Re:Zero)"
+      ],
+      "id": "character.re-zero.garfiel-tinsel",
+      "kind": "named-character",
+      "name": "Garfiel Tinsel",
+      "namespace": "Re:Zero",
+      "promptTags": [
+        "Garfiel Tinsel",
+        "Re:Zero",
+        "male",
+        "fighter"
+      ],
+      "provenance": {
+        "groupId": "re-zero",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "fighter"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Otto Suwen",
+        "Otto Suwen (Re:Zero)"
+      ],
+      "id": "character.re-zero.otto-suwen",
+      "kind": "named-character",
+      "name": "Otto Suwen",
+      "namespace": "Re:Zero",
+      "promptTags": [
+        "Otto Suwen",
+        "Re:Zero",
+        "male",
+        "merchant"
+      ],
+      "provenance": {
+        "groupId": "re-zero",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "merchant"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Reinhard van Astrea",
+        "Reinhard van Astrea (Re:Zero)"
+      ],
+      "id": "character.re-zero.reinhard-van-astrea",
+      "kind": "named-character",
+      "name": "Reinhard van Astrea",
+      "namespace": "Re:Zero",
+      "promptTags": [
+        "Reinhard van Astrea",
+        "Re:Zero",
+        "male",
+        "knight"
+      ],
+      "provenance": {
+        "groupId": "re-zero",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "knight"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Roswaal L. Mathers",
+        "Roswaal L. Mathers (Re:Zero)"
+      ],
+      "id": "character.re-zero.roswaal-l-mathers",
+      "kind": "named-character",
+      "name": "Roswaal L. Mathers",
+      "namespace": "Re:Zero",
+      "promptTags": [
+        "Roswaal L. Mathers",
+        "Re:Zero",
+        "male",
+        "noble mage"
+      ],
+      "provenance": {
+        "groupId": "re-zero",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "noble",
+        "mage"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Subaru Natsuki",
+        "Subaru Natsuki (Re:Zero)"
+      ],
+      "id": "character.re-zero.subaru-natsuki",
+      "kind": "named-character",
+      "name": "Subaru Natsuki",
+      "namespace": "Re:Zero",
+      "promptTags": [
+        "Subaru Natsuki",
+        "Re:Zero",
+        "male",
+        "otherworld traveler"
+      ],
+      "provenance": {
+        "groupId": "re-zero",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "traveler"
+      ]
+    }
+  ],
+  "fingerprint": "fbe7c9f322a7938bcdf35efe3f8b83ec63de042164ee4a6c4c4fc28d360b10a8",
+  "namespace": "Re:Zero",
+  "schemaVersion": 2
+}

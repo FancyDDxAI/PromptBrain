@@ -1,0 +1,1544 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.media.woven-chronicle",
+  "fingerprint": "f606424d93473c120ed537ddea3acece329e86b7017863e197384f23a30797a6",
+  "recipes": [
+    {
+      "aliases": [
+        "woven chronicle featuring ikat-dyed narrative bands textile illustration, diagonal split with contrasting scale composition, midsummer blue with twilight violet seasonal palette, crisp shadow edges from softbox array, falling off into shadow 0b252ea9c07a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.0b252ea9c07a",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.diagonal-split-with-contrasting-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.midsummer-blue-with-twilight-violet-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.ikat-dyed-narrative-bands-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring ikat-dyed narrative bands textile illustration, diagonal split with contrasting scale composition, midsummer blue with twilight violet seasonal palette, crisp shadow edges from softbox array, falling off into shadow 0b252ea9c07a"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring tufted yarn layered fabric relief textile illustration, before-and-after with matched horizon composition, late-autumn plum with twilight violet seasonal palette, crisp shadow edges from softbox array, layered across depth planes 0f1d0d95c656"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.0f1d0d95c656",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.before-and-after-with-matched-horizon-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.late-autumn-plum-with-twilight-violet-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.tufted-yarn-layered-fabric-relief-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring tufted yarn layered fabric relief textile illustration, before-and-after with matched horizon composition, late-autumn plum with twilight violet seasonal palette, crisp shadow edges from softbox array, layered across depth planes 0f1d0d95c656"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring quilted layered fabric relief textile illustration, diagonal split with shared color bridge composition, late-autumn plum with leaf green seasonal palette, gentle atmospheric bloom from softbox array, reflected from nearby surfaces 17530c9c391c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.17530c9c391c",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.diagonal-split-with-shared-color-bridge-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-reflected-from-nearby-surfac"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.late-autumn-plum-with-leaf-green-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.quilted-layered-fabric-relief-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring quilted layered fabric relief textile illustration, diagonal split with shared color bridge composition, late-autumn plum with leaf green seasonal palette, gentle atmospheric bloom from softbox array, reflected from nearby surfaces 17530c9c391c"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring quilted bold color blocks textile illustration, diptych with cross-panel motion composition, dry-season ochre with rain silver seasonal palette, controlled high contrast from softbox array, spilling into the background 25ccfe010c19"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.25ccfe010c19",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.diptych-with-cross-panel-motion-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dry-season-ochre-with-rain-silver-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.quilted-bold-color-blocks-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring quilted bold color blocks textile illustration, diptych with cross-panel motion composition, dry-season ochre with rain silver seasonal palette, controlled high contrast from softbox array, spilling into the background 25ccfe010c19"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring lace-cut narrative bands textile illustration, triptych with shared color bridge composition, early-spring green with snow white seasonal palette, soft diffusion from softbox array, spilling into the background 2d5d682739a8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.2d5d682739a8",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.triptych-with-shared-color-bridge-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.early-spring-green-with-snow-white-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.lace-cut-narrative-bands-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring lace-cut narrative bands textile illustration, triptych with shared color bridge composition, early-spring green with snow white seasonal palette, soft diffusion from softbox array, spilling into the background 2d5d682739a8"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring ikat-dyed geometric borders textile illustration, triptych with matched horizon composition, thaw-season brown with hearth amber seasonal palette, soft diffusion from softbox array, creating a luminous frame 315ecc021a83"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.315ecc021a83",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.triptych-with-matched-horizon-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.thaw-season-brown-with-hearth-amber-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.ikat-dyed-geometric-borders-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring ikat-dyed geometric borders textile illustration, triptych with matched horizon composition, thaw-season brown with hearth amber seasonal palette, soft diffusion from softbox array, creating a luminous frame 315ecc021a83"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring block-printed textile layered fabric relief textile illustration, triptych with continuous eyeline composition, late-summer gold with hearth amber seasonal palette, crisp shadow edges from softbox array, grazing textured surfaces 45e5f610188f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.45e5f610188f",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.triptych-with-continuous-eyeline-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.late-summer-gold-with-hearth-amber-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.block-printed-textile-layered-fabric-relief-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring block-printed textile layered fabric relief textile illustration, triptych with continuous eyeline composition, late-summer gold with hearth amber seasonal palette, crisp shadow edges from softbox array, grazing textured surfaces 45e5f610188f"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring tufted yarn layered fabric relief textile illustration, inset panel with central hinge composition, early-spring green with snow white seasonal palette, soft diffusion from softbox array, spilling into the background 4709ed8b8961"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.4709ed8b8961",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.inset-panel-with-central-hinge-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.early-spring-green-with-snow-white-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.tufted-yarn-layered-fabric-relief-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring tufted yarn layered fabric relief textile illustration, inset panel with central hinge composition, early-spring green with snow white seasonal palette, soft diffusion from softbox array, spilling into the background 4709ed8b8961"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring jacquard minimal folk symbols textile illustration, before-and-after with continuous eyeline composition, harvest orange with pearl highlight seasonal palette, gentle atmospheric bloom from softbox array, focused on the subject plane 4c5b888a0ae4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.4c5b888a0ae4",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.before-and-after-with-continuous-eyeline-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.harvest-orange-with-pearl-highlight-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.jacquard-minimal-folk-symbols-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring jacquard minimal folk symbols textile illustration, before-and-after with continuous eyeline composition, harvest orange with pearl highlight seasonal palette, gentle atmospheric bloom from softbox array, focused on the subject plane 4c5b888a0ae4"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring ikat-dyed fine contour motifs textile illustration, window-grid with shared color bridge composition, monsoon teal with hearth amber seasonal palette, gentle atmospheric bloom from softbox array, broken by foreground shapes 4e99ddb68ec9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.4e99ddb68ec9",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.window-grid-with-shared-color-bridge-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.monsoon-teal-with-hearth-amber-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.ikat-dyed-fine-contour-motifs-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring ikat-dyed fine contour motifs textile illustration, window-grid with shared color bridge composition, monsoon teal with hearth amber seasonal palette, gentle atmospheric bloom from softbox array, broken by foreground shapes 4e99ddb68ec9"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring batik-resist botanical repeats textile illustration, horizontal split with cross-panel motion composition, late-summer gold with pearl highlight seasonal palette, gentle atmospheric bloom from softbox array, falling off into shadow 625552dc99e2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.625552dc99e2",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.horizontal-split-with-cross-panel-motion-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.late-summer-gold-with-pearl-highlight-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.batik-resist-botanical-repeats-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring batik-resist botanical repeats textile illustration, horizontal split with cross-panel motion composition, late-summer gold with pearl highlight seasonal palette, gentle atmospheric bloom from softbox array, falling off into shadow 625552dc99e2"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring block-printed textile botanical repeats textile illustration, diptych with contrasting scale composition, harvest orange with sunlight yellow seasonal palette, controlled high contrast from softbox array, creating a luminous frame 70575e58a891"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.70575e58a891",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.diptych-with-contrasting-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.harvest-orange-with-sunlight-yellow-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.block-printed-textile-botanical-repeats-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring block-printed textile botanical repeats textile illustration, diptych with contrasting scale composition, harvest orange with sunlight yellow seasonal palette, controlled high contrast from softbox array, creating a luminous frame 70575e58a891"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring tufted yarn botanical repeats textile illustration, triptych with central hinge composition, late-autumn plum with pearl highlight seasonal palette, gentle atmospheric bloom from softbox array, spilling into the background 7138ab8a7882"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.7138ab8a7882",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.triptych-with-central-hinge-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.late-autumn-plum-with-pearl-highlight-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.tufted-yarn-botanical-repeats-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring tufted yarn botanical repeats textile illustration, triptych with central hinge composition, late-autumn plum with pearl highlight seasonal palette, gentle atmospheric bloom from softbox array, spilling into the background 7138ab8a7882"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring needle-felted figurative panels textile illustration, diptych with matched horizon composition, harvest orange with leaf green seasonal palette, soft diffusion from softbox array, focused on the subject plane 784de2c32925"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.784de2c32925",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.diptych-with-matched-horizon-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.harvest-orange-with-leaf-green-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.needle-felted-figurative-panels-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring needle-felted figurative panels textile illustration, diptych with matched horizon composition, harvest orange with leaf green seasonal palette, soft diffusion from softbox array, focused on the subject plane 784de2c32925"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring lace-cut fine contour motifs textile illustration, inset panel with shared color bridge composition, late-autumn plum with twilight violet seasonal palette, gentle atmospheric bloom from softbox array, broken by foreground shapes 7a3a02d61743"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.7a3a02d61743",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.inset-panel-with-shared-color-bridge-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.late-autumn-plum-with-twilight-violet-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.lace-cut-fine-contour-motifs-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring lace-cut fine contour motifs textile illustration, inset panel with shared color bridge composition, late-autumn plum with twilight violet seasonal palette, gentle atmospheric bloom from softbox array, broken by foreground shapes 7a3a02d61743"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring needle-felted bold color blocks textile illustration, contact-sheet with repeated silhouette composition, monsoon teal with hearth amber seasonal palette, crisp shadow edges from softbox array, contained in a localized pool 8be633085d12"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.8be633085d12",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.contact-sheet-with-repeated-silhouette-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.monsoon-teal-with-hearth-amber-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.needle-felted-bold-color-blocks-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring needle-felted bold color blocks textile illustration, contact-sheet with repeated silhouette composition, monsoon teal with hearth amber seasonal palette, crisp shadow edges from softbox array, contained in a localized pool 8be633085d12"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring embroidered layered fabric relief textile illustration, vertical split with continuous eyeline composition, early-spring green with hearth amber seasonal palette, controlled high contrast from softbox array, contained in a localized pool 94c6ed64d5fd"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.94c6ed64d5fd",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.vertical-split-with-continuous-eyeline-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-contained-in-a-localized-poo"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.early-spring-green-with-hearth-amber-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.embroidered-layered-fabric-relief-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring embroidered layered fabric relief textile illustration, vertical split with continuous eyeline composition, early-spring green with hearth amber seasonal palette, controlled high contrast from softbox array, contained in a localized pool 94c6ed64d5fd"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring needle-felted figurative panels textile illustration, window-grid with central hinge composition, early-spring green with sunlight yellow seasonal palette, controlled high contrast from softbox array, broken by foreground shapes 9ae2c092b9f5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.9ae2c092b9f5",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.window-grid-with-central-hinge-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.early-spring-green-with-sunlight-yellow-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.needle-felted-figurative-panels-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring needle-felted figurative panels textile illustration, window-grid with central hinge composition, early-spring green with sunlight yellow seasonal palette, controlled high contrast from softbox array, broken by foreground shapes 9ae2c092b9f5"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring lace-cut fine contour motifs textile illustration, diptych with continuous eyeline composition, dry-season ochre with pearl highlight seasonal palette, controlled high contrast from softbox array, falling off into shadow a78a5c47bec1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.a78a5c47bec1",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.diptych-with-continuous-eyeline-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dry-season-ochre-with-pearl-highlight-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.lace-cut-fine-contour-motifs-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring lace-cut fine contour motifs textile illustration, diptych with continuous eyeline composition, dry-season ochre with pearl highlight seasonal palette, controlled high contrast from softbox array, falling off into shadow a78a5c47bec1"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring tufted yarn layered fabric relief textile illustration, diptych with continuous eyeline composition, midsummer blue with sunlight yellow seasonal palette, gentle atmospheric bloom from softbox array, reflected from nearby surfaces aecce769972b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.aecce769972b",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.diptych-with-continuous-eyeline-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-reflected-from-nearby-surfac"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.midsummer-blue-with-sunlight-yellow-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.tufted-yarn-layered-fabric-relief-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring tufted yarn layered fabric relief textile illustration, diptych with continuous eyeline composition, midsummer blue with sunlight yellow seasonal palette, gentle atmospheric bloom from softbox array, reflected from nearby surfaces aecce769972b"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring ikat-dyed geometric borders textile illustration, triptych with cross-panel motion composition, frost-season lavender with rain silver seasonal palette, gentle atmospheric bloom from softbox array, falling off into shadow c1d7a4e9cbb2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.c1d7a4e9cbb2",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.triptych-with-cross-panel-motion-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.frost-season-lavender-with-rain-silver-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.ikat-dyed-geometric-borders-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring ikat-dyed geometric borders textile illustration, triptych with cross-panel motion composition, frost-season lavender with rain silver seasonal palette, gentle atmospheric bloom from softbox array, falling off into shadow c1d7a4e9cbb2"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring needle-felted bold color blocks textile illustration, nested panel with repeated silhouette composition, early-spring green with sunlight yellow seasonal palette, soft diffusion from softbox array, contained in a localized pool d0cedb199ed9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.d0cedb199ed9",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.nested-panel-with-repeated-silhouette-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.early-spring-green-with-sunlight-yellow-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.needle-felted-bold-color-blocks-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring needle-felted bold color blocks textile illustration, nested panel with repeated silhouette composition, early-spring green with sunlight yellow seasonal palette, soft diffusion from softbox array, contained in a localized pool d0cedb199ed9"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring tapestry-woven narrative bands textile illustration, comic-strip with shared color bridge composition, early-autumn russet with leaf green seasonal palette, controlled high contrast from softbox array, creating a luminous frame d1be502b4348"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.d1be502b4348",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.comic-strip-with-shared-color-bridge-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.early-autumn-russet-with-leaf-green-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.tapestry-woven-narrative-bands-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring tapestry-woven narrative bands textile illustration, comic-strip with shared color bridge composition, early-autumn russet with leaf green seasonal palette, controlled high contrast from softbox array, creating a luminous frame d1be502b4348"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "woven chronicle featuring needle-felted botanical repeats textile illustration, nested panel with repeated silhouette composition, early-autumn russet with berry red seasonal palette, controlled high contrast from softbox array, falling off into shadow eeb40a731bd6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.woven-chronicle",
+      "familyTriggers": [
+        "woven chronicle direction",
+        "textile narrative bands",
+        "tapestry panel storytelling"
+      ],
+      "id": "phase8.art.media.woven-chronicle.eeb40a731bd6",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.nested-panel-with-repeated-silhouette-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.early-autumn-russet-with-berry-red-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.needle-felted-botanical-repeats-textile-illustration"
+        ]
+      },
+      "name": "Woven Chronicle 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.woven-chronicle",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "stitched-panel cadence",
+        "woven seasonal color",
+        "fabric-relief narrative"
+      ],
+      "triggers": [
+        "woven chronicle featuring needle-felted botanical repeats textile illustration, nested panel with repeated silhouette composition, early-autumn russet with berry red seasonal palette, controlled high contrast from softbox array, falling off into shadow eeb40a731bd6"
+      ],
+      "variantIndex": 10
+    }
+  ],
+  "schemaVersion": 2
+}

@@ -1,0 +1,212 @@
+{
+  "count": 6,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Edward Wong Hau Pepelu Tivrusky IV",
+        "Edward Wong Hau Pepelu Tivrusky IV (Cowboy Bebop)"
+      ],
+      "id": "character.cowboy-bebop.edward-wong-hau-pepelu-tivrusky-iv",
+      "kind": "named-character",
+      "name": "Edward Wong Hau Pepelu Tivrusky IV",
+      "namespace": "Cowboy Bebop",
+      "promptTags": [
+        "Edward Wong Hau Pepelu Tivrusky IV",
+        "Cowboy Bebop",
+        "female",
+        "hacker"
+      ],
+      "provenance": {
+        "groupId": "cowboy-bebop",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "hacker"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Faye Valentine",
+        "Faye Valentine (Cowboy Bebop)"
+      ],
+      "id": "character.cowboy-bebop.faye-valentine",
+      "kind": "named-character",
+      "name": "Faye Valentine",
+      "namespace": "Cowboy Bebop",
+      "promptTags": [
+        "Faye Valentine",
+        "Cowboy Bebop",
+        "female",
+        "bounty hunter"
+      ],
+      "provenance": {
+        "groupId": "cowboy-bebop",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "bounty-hunter"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Jet Black",
+        "Jet Black (Cowboy Bebop)"
+      ],
+      "id": "character.cowboy-bebop.jet-black",
+      "kind": "named-character",
+      "name": "Jet Black",
+      "namespace": "Cowboy Bebop",
+      "promptTags": [
+        "Jet Black",
+        "Cowboy Bebop",
+        "male",
+        "bounty hunter"
+      ],
+      "provenance": {
+        "groupId": "cowboy-bebop",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "bounty-hunter"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Julia (Cowboy Bebop)"
+      ],
+      "id": "character.cowboy-bebop.julia",
+      "kind": "named-character",
+      "name": "Julia (Cowboy Bebop)",
+      "namespace": "Cowboy Bebop",
+      "promptTags": [
+        "Julia",
+        "Cowboy Bebop",
+        "female",
+        "crime syndicate associate"
+      ],
+      "provenance": {
+        "groupId": "cowboy-bebop",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "crime-syndicate"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Spike Spiegel",
+        "Spike Spiegel (Cowboy Bebop)"
+      ],
+      "id": "character.cowboy-bebop.spike-spiegel",
+      "kind": "named-character",
+      "name": "Spike Spiegel",
+      "namespace": "Cowboy Bebop",
+      "promptTags": [
+        "Spike Spiegel",
+        "Cowboy Bebop",
+        "male",
+        "bounty hunter"
+      ],
+      "provenance": {
+        "groupId": "cowboy-bebop",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "bounty-hunter"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Vicious (Cowboy Bebop)"
+      ],
+      "id": "character.cowboy-bebop.vicious",
+      "kind": "named-character",
+      "name": "Vicious (Cowboy Bebop)",
+      "namespace": "Cowboy Bebop",
+      "promptTags": [
+        "Vicious",
+        "Cowboy Bebop",
+        "male",
+        "crime syndicate leader"
+      ],
+      "provenance": {
+        "groupId": "cowboy-bebop",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "antagonist",
+        "crime-syndicate"
+      ]
+    }
+  ],
+  "fingerprint": "20a62062aef6c4e22a14756b73b21d9058e6376ffd1cc0bf4253636b610f1418",
+  "namespace": "Cowboy Bebop",
+  "schemaVersion": 2
+}

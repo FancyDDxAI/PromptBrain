@@ -1,0 +1,1784 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+  "fingerprint": "9010c3b4b05f46f8fb87380735fc858410d0d9ff1ac326bc1a12c9b5d1468fe3",
+  "recipes": [
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with bold shape language style, foreground entry into a zigzag path composition, lilac mist with raspberry accent soft-color palette, golden-hour backlight 07aca6fc9917"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.07aca6fc9917",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-with-steady-acceleration-with-floating-gimbal-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-entry-into-a-zigzag-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-a-long-urban-sightline-lived-in-urban-atmosph"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lilac-mist-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-bold-shape-language-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with bold shape language style, foreground entry into a zigzag path composition, lilac mist with raspberry accent soft-color palette, golden-hour backlight 07aca6fc9917"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with handmade texture overlays style, off-frame entry into a rising diagonal path composition, blush pink with marigold accent soft-color palette, golden-hour backlight 17fd6ec66f71"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.17fd6ec66f71",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-with-a-lingering-finish-on-stabilized-support"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-foreground-street-furniture-cinematic-metropo"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.blush-pink-with-marigold-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-handmade-texture-overlays-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with handmade texture overlays style, off-frame entry into a rising diagonal path composition, blush pink with marigold accent soft-color palette, golden-hour backlight 17fd6ec66f71"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with rough expressive lines style, lower-right entry into a staggered step path composition, blush pink with moss accent soft-color palette, golden-hour backlight 215fe8cd82ea"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.215fe8cd82ea",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-with-a-sudden-start-with-floating-gimbal-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-right-entry-into-a-staggered-step-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-pedestrian-scale-detail-cinematic-metropolita"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.blush-pink-with-moss-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-rough-expressive-lines-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with rough expressive lines style, lower-right entry into a staggered step path composition, blush pink with moss accent soft-color palette, golden-hour backlight 215fe8cd82ea"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with bold shape language style, near-center entry into a zigzag path composition, soft pistachio with coral accent soft-color palette, golden-hour backlight 21d526d327ae"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.21d526d327ae",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-with-a-lingering-finish-with-precise-mechanical-moveme"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.near-center-entry-into-a-zigzag-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-crossing-traffic-lines-lived-in-urban-atmosph"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.soft-pistachio-with-coral-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-bold-shape-language-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with bold shape language style, near-center entry into a zigzag path composition, soft pistachio with coral accent soft-color palette, golden-hour backlight 21d526d327ae"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with cinematic layout design style, bottom-center entry into a spiral inward path composition, powder blue with cobalt accent soft-color palette, golden-hour backlight 363f25b3f587"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.363f25b3f587",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-at-a-brisk-pace-on-stabilized-support"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bottom-center-entry-into-a-spiral-inward-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-pedestrian-scale-detail-cinematic-metropolita"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.powder-blue-with-cobalt-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-cinematic-layout-design-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with cinematic layout design style, bottom-center entry into a spiral inward path composition, powder blue with cobalt accent soft-color palette, golden-hour backlight 363f25b3f587"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with bold shape language style, upper-right entry into a sweeping curve path composition, dove gray with marigold accent soft-color palette, golden-hour backlight 3d2055d627e6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.3d2055d627e6",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-at-a-brisk-pace-on-stabilized-support"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-right-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-foreground-street-furniture-orderly-architect"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dove-gray-with-marigold-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-bold-shape-language-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with bold shape language style, upper-right entry into a sweeping curve path composition, dove gray with marigold accent soft-color palette, golden-hour backlight 3d2055d627e6"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with handmade texture overlays style, top-center entry into a rising diagonal path composition, dove gray with raspberry accent soft-color palette, golden-hour backlight 3fffcdcddc63"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.3fffcdcddc63",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-at-a-brisk-pace-on-stabilized-support"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.top-center-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-overhead-infrastructure-cinematic-metropolita"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dove-gray-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-handmade-texture-overlays-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with handmade texture overlays style, top-center entry into a rising diagonal path composition, dove gray with raspberry accent soft-color palette, golden-hour backlight 3fffcdcddc63"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with flat painted shadows style, upper-right entry into a falling diagonal path composition, cloud lavender with coral accent soft-color palette, golden-hour backlight 4af4d32be77c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.4af4d32be77c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-at-a-brisk-pace-with-floating-gimbal-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-right-entry-into-a-falling-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-a-distant-skyline-backdrop-lived-in-urban-atm"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cloud-lavender-with-coral-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-flat-painted-shadows-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with flat painted shadows style, upper-right entry into a falling diagonal path composition, cloud lavender with coral accent soft-color palette, golden-hour backlight 4af4d32be77c"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with bold shape language style, lower-right entry into a staggered step path composition, cloud lavender with raspberry accent soft-color palette, golden-hour backlight 507b900c22a1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.507b900c22a1",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-with-a-sudden-start-on-stabilized-support"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-right-entry-into-a-staggered-step-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-pedestrian-scale-detail-lived-in-urban-atmosp"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cloud-lavender-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-bold-shape-language-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with bold shape language style, lower-right entry into a staggered step path composition, cloud lavender with raspberry accent soft-color palette, golden-hour backlight 507b900c22a1"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with bold shape language style, near-center entry into a rising diagonal path composition, pale aqua with moss accent soft-color palette, golden-hour backlight 5e69744f80b0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.5e69744f80b0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-with-a-lingering-finish-with-restrained-handheld-movem"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.near-center-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-a-long-urban-sightline-lived-in-urban-atmosph"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.pale-aqua-with-moss-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-bold-shape-language-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with bold shape language style, near-center entry into a rising diagonal path composition, pale aqua with moss accent soft-color palette, golden-hour backlight 5e69744f80b0"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with delicate color accents style, lower-left entry into a sweeping curve path composition, lilac mist with coral accent soft-color palette, golden-hour backlight 6f9c1f8ba889"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.6f9c1f8ba889",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-at-a-brisk-pace-with-restrained-handheld-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-left-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-repeating-facade-rhythm-cinematic-metropolita"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lilac-mist-with-coral-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-delicate-color-accents-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with delicate color accents style, lower-left entry into a sweeping curve path composition, lilac mist with coral accent soft-color palette, golden-hour backlight 6f9c1f8ba889"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with handmade texture overlays style, lower-left entry into a radial path composition, mint cream with apricot accent soft-color palette, golden-hour backlight 811c389487ea"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.811c389487ea",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-with-steady-acceleration-with-floating-gimbal-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-left-entry-into-a-radial-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-layered-street-frontage-cinematic-metropolita"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mint-cream-with-apricot-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-handmade-texture-overlays-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with handmade texture overlays style, lower-left entry into a radial path composition, mint cream with apricot accent soft-color palette, golden-hour backlight 811c389487ea"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with delicate color accents style, background entry into a staggered step path composition, soft pistachio with moss accent soft-color palette, golden-hour backlight 9f5287de870f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.9f5287de870f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-at-a-brisk-pace-with-precise-mechanical-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.background-entry-into-a-staggered-step-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-reflective-street-surfaces-cinematic-metropol"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.soft-pistachio-with-moss-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-delicate-color-accents-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with delicate color accents style, background entry into a staggered step path composition, soft pistachio with moss accent soft-color palette, golden-hour backlight 9f5287de870f"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with soft atmospheric backgrounds style, lower-left entry into a zigzag path composition, cloud lavender with marigold accent soft-color palette, golden-hour backlight aa83873a0323"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.aa83873a0323",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-at-a-brisk-pace-on-stabilized-support"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-left-entry-into-a-zigzag-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-overhead-infrastructure-lived-in-urban-atmosp"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cloud-lavender-with-marigold-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with soft atmospheric backgrounds style, lower-left entry into a zigzag path composition, cloud lavender with marigold accent soft-color palette, golden-hour backlight aa83873a0323"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with rough expressive lines style, background entry into a spiral inward path composition, powder blue with moss accent soft-color palette, golden-hour backlight b0962f927475"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.b0962f927475",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-at-a-slow-controlled-pace-with-restrained-handheld-mov"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.background-entry-into-a-spiral-inward-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-a-framed-intersection-lived-in-urban-atmosphe"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.powder-blue-with-moss-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-rough-expressive-lines-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with rough expressive lines style, background entry into a spiral inward path composition, powder blue with moss accent soft-color palette, golden-hour backlight b0962f927475"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with flat painted shadows style, left-edge entry into a staggered step path composition, blush pink with teal accent soft-color palette, golden-hour backlight ba2e567697b0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.ba2e567697b0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-at-a-slow-controlled-pace-with-precise-mechanical-move"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.left-edge-entry-into-a-staggered-step-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-reflective-street-surfaces-cinematic-metropol"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.blush-pink-with-teal-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-flat-painted-shadows-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with flat painted shadows style, left-edge entry into a staggered step path composition, blush pink with teal accent soft-color palette, golden-hour backlight ba2e567697b0"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with delicate color accents style, off-frame entry into a S-curve path composition, pale aqua with raspberry accent soft-color palette, golden-hour backlight cdc569e3dd14"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.cdc569e3dd14",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-with-a-lingering-finish-with-restrained-handheld-movem"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-s-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-a-framed-intersection-lived-in-urban-atmosphe"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.pale-aqua-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-delicate-color-accents-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with delicate color accents style, off-frame entry into a S-curve path composition, pale aqua with raspberry accent soft-color palette, golden-hour backlight cdc569e3dd14"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with bold shape language style, right-edge entry into a S-curve path composition, mint cream with moss accent soft-color palette, golden-hour backlight d313be2b6285"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.d313be2b6285",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-with-steady-acceleration-with-precise-mechanical-movem"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.right-edge-entry-into-a-s-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-a-framed-intersection-lived-in-urban-atmosphe"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mint-cream-with-moss-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-bold-shape-language-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with bold shape language style, right-edge entry into a S-curve path composition, mint cream with moss accent soft-color palette, golden-hour backlight d313be2b6285"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with soft atmospheric backgrounds style, near-center entry into a spiral inward path composition, peach cream with raspberry accent soft-color palette, golden-hour backlight d4c067bbe93f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.d4c067bbe93f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-at-a-measured-pace-with-restrained-handheld-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.near-center-entry-into-a-spiral-inward-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-pedestrian-scale-detail-cinematic-metropolita"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peach-cream-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with soft atmospheric backgrounds style, near-center entry into a spiral inward path composition, peach cream with raspberry accent soft-color palette, golden-hour backlight d4c067bbe93f"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with delicate color accents style, right-edge entry into a spiral inward path composition, powder blue with coral accent soft-color palette, golden-hour backlight d6eb5b0b2bdb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.d6eb5b0b2bdb",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-with-a-lingering-finish-with-floating-gimbal-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.right-edge-entry-into-a-spiral-inward-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-a-distant-skyline-backdrop-cinematic-metropol"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.powder-blue-with-coral-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-delicate-color-accents-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with delicate color accents style, right-edge entry into a spiral inward path composition, powder blue with coral accent soft-color palette, golden-hour backlight d6eb5b0b2bdb"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with rough expressive lines style, off-frame entry into a S-curve path composition, mint cream with cobalt accent soft-color palette, golden-hour backlight db6dd1634909"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.db6dd1634909",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-at-a-measured-pace-on-stabilized-support"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-s-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-repeating-facade-rhythm-lived-in-urban-atmosp"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mint-cream-with-cobalt-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-rough-expressive-lines-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with rough expressive lines style, off-frame entry into a S-curve path composition, mint cream with cobalt accent soft-color palette, golden-hour backlight db6dd1634909"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with soft atmospheric backgrounds style, background entry into a falling diagonal path composition, lilac mist with raspberry accent soft-color palette, golden-hour backlight f5d8eddee69a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.f5d8eddee69a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-with-steady-acceleration-with-restrained-handheld-move"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.background-entry-into-a-falling-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-overhead-infrastructure-orderly-architectural"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lilac-mist-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-soft-atmospheric-backgrounds-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with soft atmospheric backgrounds style, background entry into a falling diagonal path composition, lilac mist with raspberry accent soft-color palette, golden-hour backlight f5d8eddee69a"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with clean key poses style, left-edge entry into a sweeping curve path composition, soft pistachio with cobalt accent soft-color palette, golden-hour backlight f63d8afb1202"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.f63d8afb1202",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-at-a-slow-controlled-pace-with-floating-gimbal-movemen"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.left-edge-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-crossing-traffic-lines-lived-in-urban-atmosph"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.soft-pistachio-with-cobalt-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-clean-key-poses-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with clean key poses style, left-edge entry into a sweeping curve path composition, soft pistachio with cobalt accent soft-color palette, golden-hour backlight f63d8afb1202"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "midcentury cel adventure featuring mid-century animation with handmade texture overlays style, bottom-center entry into a S-curve path composition, blush pink with cobalt accent soft-color palette, golden-hour backlight ffc28ccd9e45"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.midcentury-cel-adventure",
+      "familyTriggers": [
+        "midcentury cel adventure direction",
+        "vintage animation travel story",
+        "graphic cel-era motion"
+      ],
+      "id": "phase8.art.graphic.midcentury-cel-adventure.ffc28ccd9e45",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.push-through-move-with-a-sudden-start-on-stabilized-support"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bottom-center-entry-into-a-s-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.old-port-neighborhood-with-a-framed-intersection-lived-in-urban-atmosphe"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.blush-pink-with-cobalt-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.mid-century-animation-with-handmade-texture-overlays-style"
+        ]
+      },
+      "name": "Midcentury Cel Adventure 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.midcentury-cel-adventure",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "midcentury shape language",
+        "cel-adventure flow",
+        "soft-accent animated travel"
+      ],
+      "triggers": [
+        "midcentury cel adventure featuring mid-century animation with handmade texture overlays style, bottom-center entry into a S-curve path composition, blush pink with cobalt accent soft-color palette, golden-hour backlight ffc28ccd9e45"
+      ],
+      "variantIndex": 8
+    }
+  ],
+  "schemaVersion": 2
+}

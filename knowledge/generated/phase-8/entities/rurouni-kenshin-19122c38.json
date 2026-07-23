@@ -1,0 +1,251 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Hajime Saito",
+        "Hajime Saito (Rurouni Kenshin)"
+      ],
+      "id": "character.rurouni-kenshin.hajime-saito",
+      "kind": "named-character",
+      "name": "Hajime Saito",
+      "namespace": "Rurouni Kenshin",
+      "promptTags": [
+        "Hajime Saito",
+        "Rurouni Kenshin",
+        "male",
+        "police swordsman"
+      ],
+      "provenance": {
+        "groupId": "rurouni-kenshin",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "police",
+        "swordsman"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kaoru Kamiya",
+        "Kaoru Kamiya (Rurouni Kenshin)"
+      ],
+      "id": "character.rurouni-kenshin.kaoru-kamiya",
+      "kind": "named-character",
+      "name": "Kaoru Kamiya",
+      "namespace": "Rurouni Kenshin",
+      "promptTags": [
+        "Kaoru Kamiya",
+        "Rurouni Kenshin",
+        "female",
+        "sword instructor"
+      ],
+      "provenance": {
+        "groupId": "rurouni-kenshin",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "swordswoman",
+        "instructor"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kenshin Himura",
+        "Kenshin Himura (Rurouni Kenshin)"
+      ],
+      "id": "character.rurouni-kenshin.kenshin-himura",
+      "kind": "named-character",
+      "name": "Kenshin Himura",
+      "namespace": "Rurouni Kenshin",
+      "promptTags": [
+        "Kenshin Himura",
+        "Rurouni Kenshin",
+        "male",
+        "wandering swordsman"
+      ],
+      "provenance": {
+        "groupId": "rurouni-kenshin",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "swordsman"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Makoto Shishio",
+        "Makoto Shishio (Rurouni Kenshin)"
+      ],
+      "id": "character.rurouni-kenshin.makoto-shishio",
+      "kind": "named-character",
+      "name": "Makoto Shishio",
+      "namespace": "Rurouni Kenshin",
+      "promptTags": [
+        "Makoto Shishio",
+        "Rurouni Kenshin",
+        "male",
+        "swordsman antagonist"
+      ],
+      "provenance": {
+        "groupId": "rurouni-kenshin",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "swordsman",
+        "antagonist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Megumi Takani",
+        "Megumi Takani (Rurouni Kenshin)"
+      ],
+      "id": "character.rurouni-kenshin.megumi-takani",
+      "kind": "named-character",
+      "name": "Megumi Takani",
+      "namespace": "Rurouni Kenshin",
+      "promptTags": [
+        "Megumi Takani",
+        "Rurouni Kenshin",
+        "female",
+        "doctor"
+      ],
+      "provenance": {
+        "groupId": "rurouni-kenshin",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "doctor"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Sanosuke Sagara",
+        "Sanosuke Sagara (Rurouni Kenshin)"
+      ],
+      "id": "character.rurouni-kenshin.sanosuke-sagara",
+      "kind": "named-character",
+      "name": "Sanosuke Sagara",
+      "namespace": "Rurouni Kenshin",
+      "promptTags": [
+        "Sanosuke Sagara",
+        "Rurouni Kenshin",
+        "male",
+        "street fighter"
+      ],
+      "provenance": {
+        "groupId": "rurouni-kenshin",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "fighter"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Yahiko Myojin",
+        "Yahiko Myojin (Rurouni Kenshin)"
+      ],
+      "id": "character.rurouni-kenshin.yahiko-myojin",
+      "kind": "named-character",
+      "name": "Yahiko Myojin",
+      "namespace": "Rurouni Kenshin",
+      "promptTags": [
+        "Yahiko Myojin",
+        "Rurouni Kenshin",
+        "male",
+        "sword student"
+      ],
+      "provenance": {
+        "groupId": "rurouni-kenshin",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "student",
+        "swordsman"
+      ]
+    }
+  ],
+  "fingerprint": "818a3da598a390e6dfd296d7c5488f1e725fcb8d2486bfcd2cb5e46f060f1352",
+  "namespace": "Rurouni Kenshin",
+  "schemaVersion": 2
+}

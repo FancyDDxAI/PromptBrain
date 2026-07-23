@@ -1,0 +1,214 @@
+{
+  "count": 6,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Gaoshun",
+        "Gaoshun (The Apothecary Diaries)"
+      ],
+      "id": "character.the-apothecary-diaries.gaoshun",
+      "kind": "named-character",
+      "name": "Gaoshun",
+      "namespace": "The Apothecary Diaries",
+      "promptTags": [
+        "Gaoshun",
+        "The Apothecary Diaries",
+        "male",
+        "palace attendant"
+      ],
+      "provenance": {
+        "groupId": "the-apothecary-diaries",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "attendant"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Gyokuyou",
+        "Gyokuyou (The Apothecary Diaries)"
+      ],
+      "id": "character.the-apothecary-diaries.gyokuyou",
+      "kind": "named-character",
+      "name": "Gyokuyou",
+      "namespace": "The Apothecary Diaries",
+      "promptTags": [
+        "Gyokuyou",
+        "The Apothecary Diaries",
+        "female",
+        "imperial consort"
+      ],
+      "provenance": {
+        "groupId": "the-apothecary-diaries",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "imperial-consort"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Jinshi",
+        "Jinshi (The Apothecary Diaries)"
+      ],
+      "id": "character.the-apothecary-diaries.jinshi",
+      "kind": "named-character",
+      "name": "Jinshi",
+      "namespace": "The Apothecary Diaries",
+      "promptTags": [
+        "Jinshi",
+        "The Apothecary Diaries",
+        "male",
+        "palace official"
+      ],
+      "provenance": {
+        "groupId": "the-apothecary-diaries",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "palace-official"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Lakan",
+        "Lakan (The Apothecary Diaries)"
+      ],
+      "id": "character.the-apothecary-diaries.lakan",
+      "kind": "named-character",
+      "name": "Lakan",
+      "namespace": "The Apothecary Diaries",
+      "promptTags": [
+        "Lakan",
+        "The Apothecary Diaries",
+        "male",
+        "military strategist"
+      ],
+      "provenance": {
+        "groupId": "the-apothecary-diaries",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "military-officer",
+        "strategist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Lihua",
+        "Lihua (The Apothecary Diaries)"
+      ],
+      "id": "character.the-apothecary-diaries.lihua",
+      "kind": "named-character",
+      "name": "Lihua",
+      "namespace": "The Apothecary Diaries",
+      "promptTags": [
+        "Lihua",
+        "The Apothecary Diaries",
+        "female",
+        "imperial consort"
+      ],
+      "provenance": {
+        "groupId": "the-apothecary-diaries",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "imperial-consort"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Maomao",
+        "Maomao (The Apothecary Diaries)"
+      ],
+      "id": "character.the-apothecary-diaries.maomao",
+      "kind": "named-character",
+      "name": "Maomao",
+      "namespace": "The Apothecary Diaries",
+      "promptTags": [
+        "Maomao",
+        "The Apothecary Diaries",
+        "female",
+        "apothecary"
+      ],
+      "provenance": {
+        "groupId": "the-apothecary-diaries",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "protagonist",
+        "apothecary"
+      ]
+    }
+  ],
+  "fingerprint": "d2cda4258941358cb30c1473670a383cc31b9d2e77dda9111969b7d746717d69",
+  "namespace": "The Apothecary Diaries",
+  "schemaVersion": 2
+}

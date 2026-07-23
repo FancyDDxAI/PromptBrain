@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "checkpoints": [],
+  "entities": [],
+  "concepts": [
+    {
+      "schemaVersion": 2,
+      "id": "phase7.diff.keep",
+      "kind": "style",
+      "label": "Kept concept",
+      "aliases": ["kept concept"],
+      "promptForms": {
+        "default": "kept concept"
+      },
+      "compatibility": {
+        "bases": ["SDXL"],
+        "checkpointIds": []
+      },
+      "requires": [],
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "phase-7-diff",
+      "priority": 1
+    },
+    {
+      "schemaVersion": 2,
+      "id": "phase7.diff.change",
+      "kind": "style",
+      "label": "Old changed concept",
+      "aliases": ["changed concept"],
+      "promptForms": {
+        "default": "changed concept"
+      },
+      "compatibility": {
+        "bases": ["SDXL"],
+        "checkpointIds": []
+      },
+      "requires": [],
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "phase-7-diff",
+      "priority": 1
+    },
+    {
+      "schemaVersion": 2,
+      "id": "phase7.diff.remove",
+      "kind": "style",
+      "label": "Removed concept",
+      "aliases": ["removed concept"],
+      "promptForms": {
+        "default": "removed concept"
+      },
+      "compatibility": {
+        "bases": ["SDXL"],
+        "checkpointIds": []
+      },
+      "requires": [],
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "phase-7-diff",
+      "priority": 1
+    }
+  ],
+  "recipes": []
+}

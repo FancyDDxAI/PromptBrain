@@ -1,0 +1,668 @@
+{
+  "schemaVersion": 1,
+  "packId": "phase8.anime-entities",
+  "packType": "entities",
+  "source": "phase-8-anime-entities",
+  "groups": [
+    {
+      "id": "one-piece",
+      "namespace": "One Piece",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.one-piece.monkey-d-luffy","name":"Monkey D. Luffy","aliases":["Monkey D. Luffy (One Piece)"],"promptTags":["Monkey D. Luffy","One Piece","male","pirate captain"],"traits":["male","protagonist","pirate"],"adultAllowed":false},
+        {"id":"character.one-piece.roronoa-zoro","name":"Roronoa Zoro","aliases":["Roronoa Zoro","Roronoa Zoro (One Piece)"],"promptTags":["Roronoa Zoro","One Piece","male","swordsman"],"traits":["male","pirate","swordsman"],"adultAllowed":false},
+        {"id":"character.one-piece.nami","name":"Nami","aliases":["Nami (One Piece)"],"promptTags":["Nami","One Piece","female","navigator"],"traits":["female","pirate","navigator"],"adultAllowed":false},
+        {"id":"character.one-piece.usopp","name":"Usopp","aliases":["Usopp (One Piece)"],"promptTags":["Usopp","One Piece","male","sniper"],"traits":["male","pirate","sniper"],"adultAllowed":false},
+        {"id":"character.one-piece.sanji-vinsmoke","name":"Sanji Vinsmoke","aliases":["Vinsmoke Sanji","Sanji Vinsmoke (One Piece)"],"promptTags":["Sanji Vinsmoke","One Piece","male","cook"],"traits":["male","pirate","cook"],"adultAllowed":false},
+        {"id":"character.one-piece.tony-tony-chopper","name":"Tony Tony Chopper","aliases":["Tony Tony Chopper","Tony Tony Chopper (One Piece)"],"promptTags":["Tony Tony Chopper","One Piece","male","doctor"],"traits":["male","pirate","doctor"],"adultAllowed":false},
+        {"id":"character.one-piece.nico-robin","name":"Nico Robin","aliases":["Nico Robin","Nico Robin (One Piece)"],"promptTags":["Nico Robin","One Piece","female","archaeologist"],"traits":["female","pirate","archaeologist"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "naruto",
+      "namespace": "Naruto",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.naruto.naruto-uzumaki","name":"Naruto Uzumaki","aliases":["Naruto Uzumaki","Naruto Uzumaki (Naruto)"],"promptTags":["Naruto Uzumaki","Naruto","male","ninja"],"traits":["male","protagonist","ninja"],"adultAllowed":false},
+        {"id":"character.naruto.sasuke-uchiha","name":"Sasuke Uchiha","aliases":["Sasuke Uchiha","Sasuke Uchiha (Naruto)"],"promptTags":["Sasuke Uchiha","Naruto","male","ninja"],"traits":["male","ninja","rival"],"adultAllowed":false},
+        {"id":"character.naruto.sakura-haruno","name":"Sakura Haruno","aliases":["Sakura Haruno","Sakura Haruno (Naruto)"],"promptTags":["Sakura Haruno","Naruto","female","medical ninja"],"traits":["female","ninja","medic"],"adultAllowed":false},
+        {"id":"character.naruto.kakashi-hatake","name":"Kakashi Hatake","aliases":["Kakashi Hatake","Kakashi Hatake (Naruto)"],"promptTags":["Kakashi Hatake","Naruto","male","ninja mentor"],"traits":["male","ninja","mentor"],"adultAllowed":false},
+        {"id":"character.naruto.hinata-hyuga","name":"Hinata Hyuga","aliases":["Hinata Hyuga","Hinata Hyuga (Naruto)"],"promptTags":["Hinata Hyuga","Naruto","female","ninja"],"traits":["female","ninja"],"adultAllowed":false},
+        {"id":"character.naruto.itachi-uchiha","name":"Itachi Uchiha","aliases":["Itachi Uchiha","Itachi Uchiha (Naruto)"],"promptTags":["Itachi Uchiha","Naruto","male","shinobi"],"traits":["male","shinobi"],"adultAllowed":false},
+        {"id":"character.naruto.gaara","name":"Gaara","aliases":["Gaara (Naruto)"],"promptTags":["Gaara","Naruto","male","shinobi leader"],"traits":["male","shinobi","leader"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "dragon-ball",
+      "namespace": "Dragon Ball",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.dragon-ball.son-goku","name":"Son Goku","aliases":["Son Goku","Son Goku (Dragon Ball)"],"promptTags":["Son Goku","Dragon Ball","male","martial artist"],"traits":["male","protagonist","martial-artist"],"adultAllowed":false},
+        {"id":"character.dragon-ball.vegeta","name":"Vegeta","aliases":["Vegeta (Dragon Ball)"],"promptTags":["Vegeta","Dragon Ball","male","Saiyan warrior"],"traits":["male","warrior","rival"],"adultAllowed":false},
+        {"id":"character.dragon-ball.bulma","name":"Bulma","aliases":["Bulma (Dragon Ball)"],"promptTags":["Bulma","Dragon Ball","female","inventor"],"traits":["female","inventor"],"adultAllowed":false},
+        {"id":"character.dragon-ball.piccolo","name":"Piccolo (Dragon Ball)","aliases":["Piccolo (Dragon Ball)"],"promptTags":["Piccolo","Dragon Ball","male","warrior mentor"],"traits":["male","warrior","mentor"],"adultAllowed":false},
+        {"id":"character.dragon-ball.son-gohan","name":"Son Gohan","aliases":["Son Gohan","Son Gohan (Dragon Ball)"],"promptTags":["Son Gohan","Dragon Ball","male","martial artist"],"traits":["male","martial-artist"],"adultAllowed":false},
+        {"id":"character.dragon-ball.krillin","name":"Krillin","aliases":["Krillin (Dragon Ball)"],"promptTags":["Krillin","Dragon Ball","male","martial artist"],"traits":["male","martial-artist"],"adultAllowed":false},
+        {"id":"character.dragon-ball.frieza","name":"Frieza","aliases":["Frieza (Dragon Ball)"],"promptTags":["Frieza","Dragon Ball","male","galactic emperor"],"traits":["male","antagonist","ruler"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "bleach",
+      "namespace": "Bleach",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.bleach.ichigo-kurosaki","name":"Ichigo Kurosaki","aliases":["Ichigo Kurosaki","Ichigo Kurosaki (Bleach)"],"promptTags":["Ichigo Kurosaki","Bleach","male","Soul Reaper"],"traits":["male","protagonist","soul-reaper"],"adultAllowed":false},
+        {"id":"character.bleach.rukia-kuchiki","name":"Rukia Kuchiki","aliases":["Rukia Kuchiki","Rukia Kuchiki (Bleach)"],"promptTags":["Rukia Kuchiki","Bleach","female","Soul Reaper"],"traits":["female","soul-reaper"],"adultAllowed":false},
+        {"id":"character.bleach.orihime-inoue","name":"Orihime Inoue","aliases":["Orihime Inoue","Orihime Inoue (Bleach)"],"promptTags":["Orihime Inoue","Bleach","female","student healer"],"traits":["female","student","healer"],"adultAllowed":false},
+        {"id":"character.bleach.uryu-ishida","name":"Uryu Ishida","aliases":["Uryu Ishida","Uryu Ishida (Bleach)"],"promptTags":["Uryu Ishida","Bleach","male","Quincy archer"],"traits":["male","quincy","archer"],"adultAllowed":false},
+        {"id":"character.bleach.sosuke-aizen","name":"Sosuke Aizen","aliases":["Sosuke Aizen","Sosuke Aizen (Bleach)"],"promptTags":["Sosuke Aizen","Bleach","male","Soul Reaper captain"],"traits":["male","antagonist","soul-reaper"],"adultAllowed":false},
+        {"id":"character.bleach.byakuya-kuchiki","name":"Byakuya Kuchiki","aliases":["Byakuya Kuchiki","Byakuya Kuchiki (Bleach)"],"promptTags":["Byakuya Kuchiki","Bleach","male","Soul Reaper captain"],"traits":["male","soul-reaper","captain"],"adultAllowed":false},
+        {"id":"character.bleach.toshiro-hitsugaya","name":"Toshiro Hitsugaya","aliases":["Toshiro Hitsugaya","Toshiro Hitsugaya (Bleach)"],"promptTags":["Toshiro Hitsugaya","Bleach","male","Soul Reaper captain"],"traits":["male","soul-reaper","captain"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "demon-slayer",
+      "namespace": "Demon Slayer",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.demon-slayer.tanjiro-kamado","name":"Tanjiro Kamado","aliases":["Tanjiro Kamado","Tanjiro Kamado (Demon Slayer)"],"promptTags":["Tanjiro Kamado","Demon Slayer","male"],"traits":["male","protagonist","demon-slayer"],"adultAllowed":false},
+        {"id":"character.demon-slayer.nezuko-kamado","name":"Nezuko Kamado","aliases":["Nezuko Kamado","Nezuko Kamado (Demon Slayer)"],"promptTags":["Nezuko Kamado","Demon Slayer","female","demon"],"traits":["female","demon"],"adultAllowed":false},
+        {"id":"character.demon-slayer.zenitsu-agatsuma","name":"Zenitsu Agatsuma","aliases":["Zenitsu Agatsuma","Zenitsu Agatsuma (Demon Slayer)"],"promptTags":["Zenitsu Agatsuma","Demon Slayer","male"],"traits":["male","demon-slayer"],"adultAllowed":false},
+        {"id":"character.demon-slayer.inosuke-hashibira","name":"Inosuke Hashibira","aliases":["Inosuke Hashibira","Inosuke Hashibira (Demon Slayer)"],"promptTags":["Inosuke Hashibira","Demon Slayer","male"],"traits":["male","demon-slayer"],"adultAllowed":false},
+        {"id":"character.demon-slayer.kyojuro-rengoku","name":"Kyojuro Rengoku","aliases":["Kyojuro Rengoku","Kyojuro Rengoku (Demon Slayer)"],"promptTags":["Kyojuro Rengoku","Demon Slayer","male","Hashira swordsman"],"traits":["male","hashira","swordsman"],"adultAllowed":false},
+        {"id":"character.demon-slayer.giyu-tomioka","name":"Giyu Tomioka","aliases":["Giyu Tomioka","Giyu Tomioka (Demon Slayer)"],"promptTags":["Giyu Tomioka","Demon Slayer","male","Hashira swordsman"],"traits":["male","hashira","swordsman"],"adultAllowed":false},
+        {"id":"character.demon-slayer.shinobu-kocho","name":"Shinobu Kocho","aliases":["Shinobu Kocho","Shinobu Kocho (Demon Slayer)"],"promptTags":["Shinobu Kocho","Demon Slayer","female","Hashira swordswoman"],"traits":["female","hashira","swordswoman"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "jujutsu-kaisen",
+      "namespace": "Jujutsu Kaisen",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.jujutsu-kaisen.yuji-itadori","name":"Yuji Itadori","aliases":["Yuji Itadori","Yuji Itadori (Jujutsu Kaisen)"],"promptTags":["Yuji Itadori","Jujutsu Kaisen","male","jujutsu sorcerer"],"traits":["male","protagonist","sorcerer"],"adultAllowed":false},
+        {"id":"character.jujutsu-kaisen.megumi-fushiguro","name":"Megumi Fushiguro","aliases":["Megumi Fushiguro","Megumi Fushiguro (Jujutsu Kaisen)"],"promptTags":["Megumi Fushiguro","Jujutsu Kaisen","male","jujutsu sorcerer"],"traits":["male","sorcerer"],"adultAllowed":false},
+        {"id":"character.jujutsu-kaisen.nobara-kugisaki","name":"Nobara Kugisaki","aliases":["Nobara Kugisaki","Nobara Kugisaki (Jujutsu Kaisen)"],"promptTags":["Nobara Kugisaki","Jujutsu Kaisen","female","jujutsu sorcerer"],"traits":["female","sorcerer"],"adultAllowed":false},
+        {"id":"character.jujutsu-kaisen.satoru-gojo","name":"Satoru Gojo","aliases":["Satoru Gojo","Satoru Gojo (Jujutsu Kaisen)"],"promptTags":["Satoru Gojo","Jujutsu Kaisen","male","jujutsu teacher"],"traits":["male","sorcerer","teacher"],"adultAllowed":false},
+        {"id":"character.jujutsu-kaisen.yuta-okkotsu","name":"Yuta Okkotsu","aliases":["Yuta Okkotsu","Yuta Okkotsu (Jujutsu Kaisen)"],"promptTags":["Yuta Okkotsu","Jujutsu Kaisen","male","jujutsu sorcerer"],"traits":["male","sorcerer"],"adultAllowed":false},
+        {"id":"character.jujutsu-kaisen.maki-zenin","name":"Maki Zenin","aliases":["Maki Zenin","Maki Zenin (Jujutsu Kaisen)"],"promptTags":["Maki Zenin","Jujutsu Kaisen","female","jujutsu sorcerer"],"traits":["female","sorcerer"],"adultAllowed":false},
+        {"id":"character.jujutsu-kaisen.ryomen-sukuna","name":"Ryomen Sukuna","aliases":["Ryomen Sukuna","Ryomen Sukuna (Jujutsu Kaisen)"],"promptTags":["Ryomen Sukuna","Jujutsu Kaisen","male","curse king"],"traits":["male","antagonist","curse"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "my-hero-academia",
+      "namespace": "My Hero Academia",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.my-hero-academia.izuku-midoriya","name":"Izuku Midoriya","aliases":["Izuku Midoriya","Izuku Midoriya (My Hero Academia)"],"promptTags":["Izuku Midoriya","My Hero Academia","male","hero student"],"traits":["male","protagonist","hero-student"],"adultAllowed":false},
+        {"id":"character.my-hero-academia.katsuki-bakugo","name":"Katsuki Bakugo","aliases":["Katsuki Bakugo","Katsuki Bakugo (My Hero Academia)"],"promptTags":["Katsuki Bakugo","My Hero Academia","male","hero student"],"traits":["male","hero-student","rival"],"adultAllowed":false},
+        {"id":"character.my-hero-academia.shoto-todoroki","name":"Shoto Todoroki","aliases":["Shoto Todoroki","Shoto Todoroki (My Hero Academia)"],"promptTags":["Shoto Todoroki","My Hero Academia","male","hero student"],"traits":["male","hero-student"],"adultAllowed":false},
+        {"id":"character.my-hero-academia.ochaco-uraraka","name":"Ochaco Uraraka","aliases":["Ochaco Uraraka","Ochaco Uraraka (My Hero Academia)"],"promptTags":["Ochaco Uraraka","My Hero Academia","female","hero student"],"traits":["female","hero-student"],"adultAllowed":false},
+        {"id":"character.my-hero-academia.toshinori-yagi","name":"Toshinori Yagi","aliases":["Toshinori Yagi","Toshinori Yagi (My Hero Academia)","All Might (My Hero Academia)"],"promptTags":["Toshinori Yagi","My Hero Academia","male","pro hero"],"traits":["male","pro-hero","mentor"],"adultAllowed":false},
+        {"id":"character.my-hero-academia.shota-aizawa","name":"Shota Aizawa","aliases":["Shota Aizawa","Shota Aizawa (My Hero Academia)"],"promptTags":["Shota Aizawa","My Hero Academia","male","pro hero teacher"],"traits":["male","pro-hero","teacher"],"adultAllowed":false},
+        {"id":"character.my-hero-academia.enji-todoroki","name":"Enji Todoroki","aliases":["Enji Todoroki","Enji Todoroki (My Hero Academia)","Endeavor (My Hero Academia)"],"promptTags":["Enji Todoroki","My Hero Academia","male","pro hero"],"traits":["male","pro-hero"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "attack-on-titan",
+      "namespace": "Attack on Titan",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.attack-on-titan.mikasa-ackerman","name":"Mikasa Ackerman","aliases":["Mikasa Ackerman","Mikasa Ackerman (Attack on Titan)"],"promptTags":["Mikasa Ackerman","Attack on Titan","female","soldier"],"traits":["female","soldier"],"adultAllowed":false},
+        {"id":"character.attack-on-titan.armin-arlert","name":"Armin Arlert","aliases":["Armin Arlert","Armin Arlert (Attack on Titan)"],"promptTags":["Armin Arlert","Attack on Titan","male","soldier strategist"],"traits":["male","soldier","strategist"],"adultAllowed":false},
+        {"id":"character.attack-on-titan.levi-ackerman","name":"Levi Ackerman","aliases":["Levi Ackerman","Levi Ackerman (Attack on Titan)"],"promptTags":["Levi Ackerman","Attack on Titan","male","soldier captain"],"traits":["male","soldier","captain"],"adultAllowed":false},
+        {"id":"character.attack-on-titan.erwin-smith","name":"Erwin Smith","aliases":["Erwin Smith","Erwin Smith (Attack on Titan)"],"promptTags":["Erwin Smith","Attack on Titan","male","military commander"],"traits":["male","soldier","commander"],"adultAllowed":false},
+        {"id":"character.attack-on-titan.reiner-braun","name":"Reiner Braun","aliases":["Reiner Braun","Reiner Braun (Attack on Titan)"],"promptTags":["Reiner Braun","Attack on Titan","male","warrior"],"traits":["male","warrior","soldier"],"adultAllowed":false},
+        {"id":"character.attack-on-titan.annie-leonhart","name":"Annie Leonhart","aliases":["Annie Leonhart","Annie Leonhart (Attack on Titan)"],"promptTags":["Annie Leonhart","Attack on Titan","female","warrior"],"traits":["female","warrior","soldier"],"adultAllowed":false},
+        {"id":"character.attack-on-titan.hange-zoe","name":"Hange Zoe","aliases":["Hange Zoe","Hange Zoe (Attack on Titan)"],"promptTags":["Hange Zoe","Attack on Titan","military scientist","commander"],"traits":["soldier","scientist","commander"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "fullmetal-alchemist",
+      "namespace": "Fullmetal Alchemist",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.fullmetal-alchemist.edward-elric","name":"Edward Elric","aliases":["Edward Elric","Edward Elric (Fullmetal Alchemist)"],"promptTags":["Edward Elric","Fullmetal Alchemist","male","state alchemist"],"traits":["male","protagonist","alchemist"],"adultAllowed":false},
+        {"id":"character.fullmetal-alchemist.alphonse-elric","name":"Alphonse Elric","aliases":["Alphonse Elric","Alphonse Elric (Fullmetal Alchemist)"],"promptTags":["Alphonse Elric","Fullmetal Alchemist","male","alchemist"],"traits":["male","alchemist"],"adultAllowed":false},
+        {"id":"character.fullmetal-alchemist.roy-mustang","name":"Roy Mustang","aliases":["Roy Mustang","Roy Mustang (Fullmetal Alchemist)"],"promptTags":["Roy Mustang","Fullmetal Alchemist","male","state alchemist officer"],"traits":["male","alchemist","military-officer"],"adultAllowed":false},
+        {"id":"character.fullmetal-alchemist.riza-hawkeye","name":"Riza Hawkeye","aliases":["Riza Hawkeye","Riza Hawkeye (Fullmetal Alchemist)"],"promptTags":["Riza Hawkeye","Fullmetal Alchemist","female","military officer"],"traits":["female","military-officer","marksman"],"adultAllowed":false},
+        {"id":"character.fullmetal-alchemist.winry-rockbell","name":"Winry Rockbell","aliases":["Winry Rockbell","Winry Rockbell (Fullmetal Alchemist)"],"promptTags":["Winry Rockbell","Fullmetal Alchemist","female","automail mechanic"],"traits":["female","mechanic"],"adultAllowed":false},
+        {"id":"character.fullmetal-alchemist.alex-louis-armstrong","name":"Alex Louis Armstrong","aliases":["Alex Louis Armstrong","Alex Louis Armstrong (Fullmetal Alchemist)"],"promptTags":["Alex Louis Armstrong","Fullmetal Alchemist","male","state alchemist officer"],"traits":["male","alchemist","military-officer"],"adultAllowed":false},
+        {"id":"character.fullmetal-alchemist.olivier-mira-armstrong","name":"Olivier Mira Armstrong","aliases":["Olivier Mira Armstrong","Olivier Mira Armstrong (Fullmetal Alchemist)"],"promptTags":["Olivier Mira Armstrong","Fullmetal Alchemist","female","military general"],"traits":["female","military-officer","general"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "death-note",
+      "namespace": "Death Note",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.death-note.light-yagami","name":"Light Yagami","aliases":["Light Yagami","Light Yagami (Death Note)"],"promptTags":["Light Yagami","Death Note","male","student mastermind"],"traits":["male","protagonist","mastermind"],"adultAllowed":false},
+        {"id":"character.death-note.l-lawliet","name":"L Lawliet","aliases":["L Lawliet","L Lawliet (Death Note)"],"promptTags":["L Lawliet","Death Note","male","detective"],"traits":["male","detective"],"adultAllowed":false},
+        {"id":"character.death-note.misa-amane","name":"Misa Amane","aliases":["Misa Amane","Misa Amane (Death Note)"],"promptTags":["Misa Amane","Death Note","female","idol"],"traits":["female","idol"],"adultAllowed":false},
+        {"id":"character.death-note.ryuk","name":"Ryuk","aliases":["Ryuk (Death Note)"],"promptTags":["Ryuk","Death Note","male","shinigami"],"traits":["male","shinigami"],"adultAllowed":false},
+        {"id":"character.death-note.nate-river","name":"Nate River","aliases":["Nate River","Nate River (Death Note)"],"promptTags":["Nate River","Death Note","male","detective"],"traits":["male","detective"],"adultAllowed":false},
+        {"id":"character.death-note.mihael-keehl","name":"Mihael Keehl","aliases":["Mihael Keehl","Mihael Keehl (Death Note)"],"promptTags":["Mihael Keehl","Death Note","male","investigator"],"traits":["male","investigator"],"adultAllowed":false},
+        {"id":"character.death-note.soichiro-yagami","name":"Soichiro Yagami","aliases":["Soichiro Yagami","Soichiro Yagami (Death Note)"],"promptTags":["Soichiro Yagami","Death Note","male","police chief"],"traits":["male","police","leader"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "hunter-x-hunter",
+      "namespace": "Hunter x Hunter",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.hunter-x-hunter.gon-freecss","name":"Gon Freecss","aliases":["Gon Freecss","Gon Freecss (Hunter x Hunter)"],"promptTags":["Gon Freecss","Hunter x Hunter","male","Hunter"],"traits":["male","protagonist","hunter"],"adultAllowed":false},
+        {"id":"character.hunter-x-hunter.killua-zoldyck","name":"Killua Zoldyck","aliases":["Killua Zoldyck","Killua Zoldyck (Hunter x Hunter)"],"promptTags":["Killua Zoldyck","Hunter x Hunter","male","Hunter assassin"],"traits":["male","hunter","assassin"],"adultAllowed":false},
+        {"id":"character.hunter-x-hunter.kurapika","name":"Kurapika","aliases":["Kurapika (Hunter x Hunter)"],"promptTags":["Kurapika","Hunter x Hunter","male","Hunter"],"traits":["male","hunter"],"adultAllowed":false},
+        {"id":"character.hunter-x-hunter.leorio-paradinight","name":"Leorio Paradinight","aliases":["Leorio Paradinight","Leorio Paradinight (Hunter x Hunter)"],"promptTags":["Leorio Paradinight","Hunter x Hunter","male","Hunter medical student"],"traits":["male","hunter","medical-student"],"adultAllowed":false},
+        {"id":"character.hunter-x-hunter.hisoka-morow","name":"Hisoka Morow","aliases":["Hisoka Morow","Hisoka Morow (Hunter x Hunter)"],"promptTags":["Hisoka Morow","Hunter x Hunter","male","magician fighter"],"traits":["male","fighter","antagonist"],"adultAllowed":false},
+        {"id":"character.hunter-x-hunter.chrollo-lucilfer","name":"Chrollo Lucilfer","aliases":["Chrollo Lucilfer","Chrollo Lucilfer (Hunter x Hunter)"],"promptTags":["Chrollo Lucilfer","Hunter x Hunter","male","Phantom Troupe leader"],"traits":["male","antagonist","leader"],"adultAllowed":false},
+        {"id":"character.hunter-x-hunter.isaac-netero","name":"Isaac Netero","aliases":["Isaac Netero","Isaac Netero (Hunter x Hunter)"],"promptTags":["Isaac Netero","Hunter x Hunter","male","Hunter chairman"],"traits":["male","hunter","leader"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "jojos-bizarre-adventure",
+      "namespace": "JoJo's Bizarre Adventure",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.jojos-bizarre-adventure.jonathan-joestar","name":"Jonathan Joestar","aliases":["Jonathan Joestar","Jonathan Joestar (JoJo's Bizarre Adventure)"],"promptTags":["Jonathan Joestar","JoJo's Bizarre Adventure","male","Hamon fighter"],"traits":["male","protagonist","fighter"],"adultAllowed":false},
+        {"id":"character.jojos-bizarre-adventure.joseph-joestar","name":"Joseph Joestar","aliases":["Joseph Joestar","Joseph Joestar (JoJo's Bizarre Adventure)"],"promptTags":["Joseph Joestar","JoJo's Bizarre Adventure","male","Hamon fighter"],"traits":["male","protagonist","fighter"],"adultAllowed":false},
+        {"id":"character.jojos-bizarre-adventure.jotaro-kujo","name":"Jotaro Kujo","aliases":["Jotaro Kujo","Jotaro Kujo (JoJo's Bizarre Adventure)"],"promptTags":["Jotaro Kujo","JoJo's Bizarre Adventure","male","Stand user"],"traits":["male","protagonist","stand-user"],"adultAllowed":false},
+        {"id":"character.jojos-bizarre-adventure.josuke-higashikata","name":"Josuke Higashikata","aliases":["Josuke Higashikata","Josuke Higashikata (JoJo's Bizarre Adventure)"],"promptTags":["Josuke Higashikata","JoJo's Bizarre Adventure","male","Stand user"],"traits":["male","protagonist","stand-user"],"adultAllowed":false},
+        {"id":"character.jojos-bizarre-adventure.giorno-giovanna","name":"Giorno Giovanna","aliases":["Giorno Giovanna","Giorno Giovanna (JoJo's Bizarre Adventure)"],"promptTags":["Giorno Giovanna","JoJo's Bizarre Adventure","male","Stand user"],"traits":["male","protagonist","stand-user"],"adultAllowed":false},
+        {"id":"character.jojos-bizarre-adventure.jolyne-cujoh","name":"Jolyne Cujoh","aliases":["Jolyne Cujoh","Jolyne Cujoh (JoJo's Bizarre Adventure)"],"promptTags":["Jolyne Cujoh","JoJo's Bizarre Adventure","female","Stand user"],"traits":["female","protagonist","stand-user"],"adultAllowed":false},
+        {"id":"character.jojos-bizarre-adventure.dio-brando","name":"Dio Brando","aliases":["Dio Brando","Dio Brando (JoJo's Bizarre Adventure)"],"promptTags":["Dio Brando","JoJo's Bizarre Adventure","male","vampire antagonist"],"traits":["male","antagonist","vampire"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "chainsaw-man",
+      "namespace": "Chainsaw Man",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.chainsaw-man.denji","name":"Denji","aliases":["Denji (Chainsaw Man)"],"promptTags":["Denji","Chainsaw Man","male","devil hunter"],"traits":["male","protagonist","devil-hunter"],"adultAllowed":false},
+        {"id":"character.chainsaw-man.aki-hayakawa","name":"Aki Hayakawa","aliases":["Aki Hayakawa","Aki Hayakawa (Chainsaw Man)"],"promptTags":["Aki Hayakawa","Chainsaw Man","male","devil hunter"],"traits":["male","devil-hunter"],"adultAllowed":false},
+        {"id":"character.chainsaw-man.makima","name":"Makima","aliases":["Makima (Chainsaw Man)"],"promptTags":["Makima","Chainsaw Man","female","Public Safety officer"],"traits":["female","antagonist","public-safety"],"adultAllowed":false},
+        {"id":"character.chainsaw-man.kobeni-higashiyama","name":"Kobeni Higashiyama","aliases":["Kobeni Higashiyama","Kobeni Higashiyama (Chainsaw Man)"],"promptTags":["Kobeni Higashiyama","Chainsaw Man","female","devil hunter"],"traits":["female","devil-hunter"],"adultAllowed":false},
+        {"id":"character.chainsaw-man.asa-mitaka","name":"Asa Mitaka","aliases":["Asa Mitaka","Asa Mitaka (Chainsaw Man)"],"promptTags":["Asa Mitaka","Chainsaw Man","female","student"],"traits":["female","student","protagonist"],"adultAllowed":false},
+        {"id":"character.chainsaw-man.reze","name":"Reze","aliases":["Reze (Chainsaw Man)"],"promptTags":["Reze","Chainsaw Man","female","devil hybrid"],"traits":["female","devil-hybrid"],"adultAllowed":false},
+        {"id":"character.chainsaw-man.kishibe","name":"Kishibe","aliases":["Kishibe (Chainsaw Man)"],"promptTags":["Kishibe","Chainsaw Man","male","devil hunter mentor"],"traits":["male","devil-hunter","mentor"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "spy-x-family",
+      "namespace": "Spy x Family",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.spy-x-family.loid-forger","name":"Loid Forger","aliases":["Loid Forger","Loid Forger (Spy x Family)"],"promptTags":["Loid Forger","Spy x Family","male","spy"],"traits":["male","protagonist","spy"],"adultAllowed":false},
+        {"id":"character.spy-x-family.anya-forger","name":"Anya Forger","aliases":["Anya Forger","Anya Forger (Spy x Family)"],"promptTags":["Anya Forger","Spy x Family","female","student telepath"],"traits":["female","child","student","telepath"],"adultAllowed":false},
+        {"id":"character.spy-x-family.damian-desmond","name":"Damian Desmond","aliases":["Damian Desmond","Damian Desmond (Spy x Family)"],"promptTags":["Damian Desmond","Spy x Family","male","student"],"traits":["male","child","student"],"adultAllowed":false},
+        {"id":"character.spy-x-family.becky-blackbell","name":"Becky Blackbell","aliases":["Becky Blackbell","Becky Blackbell (Spy x Family)"],"promptTags":["Becky Blackbell","Spy x Family","female","student"],"traits":["female","child","student"],"adultAllowed":false},
+        {"id":"character.spy-x-family.sylvia-sherwood","name":"Sylvia Sherwood","aliases":["Sylvia Sherwood","Sylvia Sherwood (Spy x Family)"],"promptTags":["Sylvia Sherwood","Spy x Family","female","intelligence handler"],"traits":["female","spy","handler"],"adultAllowed":false},
+        {"id":"character.spy-x-family.fiona-frost","name":"Fiona Frost","aliases":["Fiona Frost","Fiona Frost (Spy x Family)"],"promptTags":["Fiona Frost","Spy x Family","female","spy"],"traits":["female","spy"],"adultAllowed":false},
+        {"id":"character.spy-x-family.franky-franklin","name":"Franky Franklin","aliases":["Franky Franklin","Franky Franklin (Spy x Family)"],"promptTags":["Franky Franklin","Spy x Family","male","informant"],"traits":["male","informant"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "one-punch-man",
+      "namespace": "One-Punch Man",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.one-punch-man.saitama","name":"Saitama","aliases":["Saitama (One-Punch Man)"],"promptTags":["Saitama","One-Punch Man","male","pro hero"],"traits":["male","protagonist","hero"],"adultAllowed":false},
+        {"id":"character.one-punch-man.genos","name":"Genos","aliases":["Genos (One-Punch Man)"],"promptTags":["Genos","One-Punch Man","male","cyborg hero"],"traits":["male","cyborg","hero"],"adultAllowed":false},
+        {"id":"character.one-punch-man.tatsumaki","name":"Tatsumaki","aliases":["Tatsumaki (One-Punch Man)"],"promptTags":["Tatsumaki","One-Punch Man","female","esper hero"],"traits":["female","esper","hero"],"adultAllowed":false},
+        {"id":"character.one-punch-man.fubuki","name":"Fubuki","aliases":["Fubuki (One-Punch Man)"],"promptTags":["Fubuki","One-Punch Man","female","esper hero"],"traits":["female","esper","hero"],"adultAllowed":false},
+        {"id":"character.one-punch-man.garou","name":"Garou","aliases":["Garou (One-Punch Man)"],"promptTags":["Garou","One-Punch Man","male","martial artist"],"traits":["male","martial-artist","antagonist"],"adultAllowed":false},
+        {"id":"character.one-punch-man.speed-o-sound-sonic","name":"Speed-o'-Sound Sonic","aliases":["Speed-o'-Sound Sonic","Speed-o'-Sound Sonic (One-Punch Man)"],"promptTags":["Speed-o'-Sound Sonic","One-Punch Man","male","ninja"],"traits":["male","ninja","rival"],"adultAllowed":false},
+        {"id":"character.one-punch-man.mumen-rider","name":"Mumen Rider","aliases":["Mumen Rider","Mumen Rider (One-Punch Man)"],"promptTags":["Mumen Rider","One-Punch Man","male","pro hero"],"traits":["male","hero"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "mob-psycho-100",
+      "namespace": "Mob Psycho 100",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.mob-psycho-100.shigeo-kageyama","name":"Shigeo Kageyama","aliases":["Shigeo Kageyama","Shigeo Kageyama (Mob Psycho 100)"],"promptTags":["Shigeo Kageyama","Mob Psycho 100","male","student esper"],"traits":["male","protagonist","esper","student"],"adultAllowed":false},
+        {"id":"character.mob-psycho-100.arataka-reigen","name":"Arataka Reigen","aliases":["Arataka Reigen","Arataka Reigen (Mob Psycho 100)"],"promptTags":["Arataka Reigen","Mob Psycho 100","male","spirit consultant"],"traits":["male","mentor","consultant"],"adultAllowed":false},
+        {"id":"character.mob-psycho-100.ritsu-kageyama","name":"Ritsu Kageyama","aliases":["Ritsu Kageyama","Ritsu Kageyama (Mob Psycho 100)"],"promptTags":["Ritsu Kageyama","Mob Psycho 100","male","student esper"],"traits":["male","esper","student"],"adultAllowed":false},
+        {"id":"character.mob-psycho-100.teruki-hanazawa","name":"Teruki Hanazawa","aliases":["Teruki Hanazawa","Teruki Hanazawa (Mob Psycho 100)"],"promptTags":["Teruki Hanazawa","Mob Psycho 100","male","student esper"],"traits":["male","esper","student"],"adultAllowed":false},
+        {"id":"character.mob-psycho-100.tome-kurata","name":"Tome Kurata","aliases":["Tome Kurata","Tome Kurata (Mob Psycho 100)"],"promptTags":["Tome Kurata","Mob Psycho 100","female","student club president"],"traits":["female","student","club-president"],"adultAllowed":false},
+        {"id":"character.mob-psycho-100.toichiro-suzuki","name":"Toichiro Suzuki","aliases":["Toichiro Suzuki","Toichiro Suzuki (Mob Psycho 100)"],"promptTags":["Toichiro Suzuki","Mob Psycho 100","male","esper leader"],"traits":["male","esper","antagonist","leader"],"adultAllowed":false},
+        {"id":"character.mob-psycho-100.sho-suzuki","name":"Sho Suzuki","aliases":["Sho Suzuki","Sho Suzuki (Mob Psycho 100)"],"promptTags":["Sho Suzuki","Mob Psycho 100","male","esper"],"traits":["male","esper"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "sailor-moon",
+      "namespace": "Sailor Moon",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.sailor-moon.usagi-tsukino","name":"Usagi Tsukino","aliases":["Usagi Tsukino","Usagi Tsukino (Sailor Moon)"],"promptTags":["Usagi Tsukino","Sailor Moon","female","Sailor Guardian"],"traits":["female","protagonist","sailor-guardian"],"adultAllowed":false},
+        {"id":"character.sailor-moon.ami-mizuno","name":"Ami Mizuno","aliases":["Ami Mizuno","Ami Mizuno (Sailor Moon)"],"promptTags":["Ami Mizuno","Sailor Moon","female","Sailor Guardian"],"traits":["female","sailor-guardian"],"adultAllowed":false},
+        {"id":"character.sailor-moon.rei-hino","name":"Rei Hino","aliases":["Rei Hino","Rei Hino (Sailor Moon)"],"promptTags":["Rei Hino","Sailor Moon","female","Sailor Guardian"],"traits":["female","sailor-guardian"],"adultAllowed":false},
+        {"id":"character.sailor-moon.makoto-kino","name":"Makoto Kino","aliases":["Makoto Kino","Makoto Kino (Sailor Moon)"],"promptTags":["Makoto Kino","Sailor Moon","female","Sailor Guardian"],"traits":["female","sailor-guardian"],"adultAllowed":false},
+        {"id":"character.sailor-moon.minako-aino","name":"Minako Aino","aliases":["Minako Aino","Minako Aino (Sailor Moon)"],"promptTags":["Minako Aino","Sailor Moon","female","Sailor Guardian"],"traits":["female","sailor-guardian"],"adultAllowed":false},
+        {"id":"character.sailor-moon.mamoru-chiba","name":"Mamoru Chiba","aliases":["Mamoru Chiba","Mamoru Chiba (Sailor Moon)"],"promptTags":["Mamoru Chiba","Sailor Moon","male","masked guardian"],"traits":["male","guardian"],"adultAllowed":false},
+        {"id":"character.sailor-moon.setsuna-meioh","name":"Setsuna Meioh","aliases":["Setsuna Meioh","Setsuna Meioh (Sailor Moon)"],"promptTags":["Setsuna Meioh","Sailor Moon","female","Sailor Guardian"],"traits":["female","sailor-guardian"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "neon-genesis-evangelion",
+      "namespace": "Neon Genesis Evangelion",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.neon-genesis-evangelion.shinji-ikari","name":"Shinji Ikari","aliases":["Shinji Ikari","Shinji Ikari (Neon Genesis Evangelion)"],"promptTags":["Shinji Ikari","Neon Genesis Evangelion","male","Eva pilot"],"traits":["male","protagonist","pilot"],"adultAllowed":false},
+        {"id":"character.neon-genesis-evangelion.rei-ayanami","name":"Rei Ayanami","aliases":["Rei Ayanami","Rei Ayanami (Neon Genesis Evangelion)"],"promptTags":["Rei Ayanami","Neon Genesis Evangelion","female","Eva pilot"],"traits":["female","pilot"],"adultAllowed":false},
+        {"id":"character.neon-genesis-evangelion.asuka-langley-soryu","name":"Asuka Langley Soryu","aliases":["Asuka Langley Soryu","Asuka Langley Soryu (Neon Genesis Evangelion)"],"promptTags":["Asuka Langley Soryu","Neon Genesis Evangelion","female","Eva pilot"],"traits":["female","pilot"],"adultAllowed":false},
+        {"id":"character.neon-genesis-evangelion.misato-katsuragi","name":"Misato Katsuragi","aliases":["Misato Katsuragi","Misato Katsuragi (Neon Genesis Evangelion)"],"promptTags":["Misato Katsuragi","Neon Genesis Evangelion","female","operations director"],"traits":["female","operations-director"],"adultAllowed":false},
+        {"id":"character.neon-genesis-evangelion.gendo-ikari","name":"Gendo Ikari","aliases":["Gendo Ikari","Gendo Ikari (Neon Genesis Evangelion)"],"promptTags":["Gendo Ikari","Neon Genesis Evangelion","male","commander"],"traits":["male","commander"],"adultAllowed":false},
+        {"id":"character.neon-genesis-evangelion.ritsuko-akagi","name":"Ritsuko Akagi","aliases":["Ritsuko Akagi","Ritsuko Akagi (Neon Genesis Evangelion)"],"promptTags":["Ritsuko Akagi","Neon Genesis Evangelion","female","scientist"],"traits":["female","scientist"],"adultAllowed":false},
+        {"id":"character.neon-genesis-evangelion.kaworu-nagisa","name":"Kaworu Nagisa","aliases":["Kaworu Nagisa","Kaworu Nagisa (Neon Genesis Evangelion)"],"promptTags":["Kaworu Nagisa","Neon Genesis Evangelion","male","Eva pilot"],"traits":["male","pilot"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "code-geass",
+      "namespace": "Code Geass",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.code-geass.lelouch-lamperouge","name":"Lelouch Lamperouge","aliases":["Lelouch Lamperouge","Lelouch Lamperouge (Code Geass)"],"promptTags":["Lelouch Lamperouge","Code Geass","male","rebel leader"],"traits":["male","protagonist","leader"],"adultAllowed":false},
+        {"id":"character.code-geass.c-c","name":"C.C.","aliases":["C.C. (Code Geass)"],"promptTags":["C.C.","Code Geass","female","immortal ally"],"traits":["female","immortal","ally"],"adultAllowed":false},
+        {"id":"character.code-geass.suzaku-kururugi","name":"Suzaku Kururugi","aliases":["Suzaku Kururugi","Suzaku Kururugi (Code Geass)"],"promptTags":["Suzaku Kururugi","Code Geass","male","knight pilot"],"traits":["male","knight","pilot"],"adultAllowed":false},
+        {"id":"character.code-geass.kallen-kozuki","name":"Kallen Kozuki","aliases":["Kallen Kozuki","Kallen Kozuki (Code Geass)"],"promptTags":["Kallen Kozuki","Code Geass","female","resistance pilot"],"traits":["female","resistance","pilot"],"adultAllowed":false},
+        {"id":"character.code-geass.nunnally-lamperouge","name":"Nunnally Lamperouge","aliases":["Nunnally Lamperouge","Nunnally Lamperouge (Code Geass)"],"promptTags":["Nunnally Lamperouge","Code Geass","female","princess"],"traits":["female","princess"],"adultAllowed":false},
+        {"id":"character.code-geass.euphemia-li-britannia","name":"Euphemia li Britannia","aliases":["Euphemia li Britannia","Euphemia li Britannia (Code Geass)"],"promptTags":["Euphemia li Britannia","Code Geass","female","princess"],"traits":["female","princess"],"adultAllowed":false},
+        {"id":"character.code-geass.charles-zi-britannia","name":"Charles zi Britannia","aliases":["Charles zi Britannia","Charles zi Britannia (Code Geass)"],"promptTags":["Charles zi Britannia","Code Geass","male","emperor"],"traits":["male","antagonist","emperor"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "steins-gate",
+      "namespace": "Steins;Gate",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.steins-gate.rintaro-okabe","name":"Rintaro Okabe","aliases":["Rintaro Okabe","Rintaro Okabe (Steins;Gate)"],"promptTags":["Rintaro Okabe","Steins;Gate","male","laboratory founder"],"traits":["male","protagonist","scientist"],"adultAllowed":false},
+        {"id":"character.steins-gate.kurisu-makise","name":"Kurisu Makise","aliases":["Kurisu Makise","Kurisu Makise (Steins;Gate)"],"promptTags":["Kurisu Makise","Steins;Gate","female","neuroscientist"],"traits":["female","scientist"],"adultAllowed":false},
+        {"id":"character.steins-gate.mayuri-shiina","name":"Mayuri Shiina","aliases":["Mayuri Shiina","Mayuri Shiina (Steins;Gate)"],"promptTags":["Mayuri Shiina","Steins;Gate","female","laboratory member"],"traits":["female","laboratory-member"],"adultAllowed":false},
+        {"id":"character.steins-gate.itaru-hashida","name":"Itaru Hashida","aliases":["Itaru Hashida","Itaru Hashida (Steins;Gate)"],"promptTags":["Itaru Hashida","Steins;Gate","male","hacker"],"traits":["male","hacker"],"adultAllowed":false},
+        {"id":"character.steins-gate.moeka-kiryu","name":"Moeka Kiryu","aliases":["Moeka Kiryu","Moeka Kiryu (Steins;Gate)"],"promptTags":["Moeka Kiryu","Steins;Gate","female","journalist"],"traits":["female","journalist"],"adultAllowed":false},
+        {"id":"character.steins-gate.rumiho-akiha","name":"Rumiho Akiha","aliases":["Rumiho Akiha","Rumiho Akiha (Steins;Gate)","Faris NyanNyan (Steins;Gate)"],"promptTags":["Rumiho Akiha","Steins;Gate","female","cafe owner"],"traits":["female","cafe-owner","laboratory-member"],"adultAllowed":false},
+        {"id":"character.steins-gate.suzuha-amane","name":"Suzuha Amane","aliases":["Suzuha Amane","Suzuha Amane (Steins;Gate)"],"promptTags":["Suzuha Amane","Steins;Gate","female","time traveler"],"traits":["female","time-traveler"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "fate-series",
+      "namespace": "Fate Series",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.fate-series.shirou-emiya","name":"Shirou Emiya","aliases":["Shirou Emiya","Shirou Emiya (Fate Series)"],"promptTags":["Shirou Emiya","Fate Series","male","mage"],"traits":["male","protagonist","mage"],"adultAllowed":false},
+        {"id":"character.fate-series.rin-tohsaka","name":"Rin Tohsaka","aliases":["Rin Tohsaka","Rin Tohsaka (Fate Series)"],"promptTags":["Rin Tohsaka","Fate Series","female","mage"],"traits":["female","mage"],"adultAllowed":false},
+        {"id":"character.fate-series.artoria-pendragon","name":"Artoria Pendragon","aliases":["Artoria Pendragon","Artoria Pendragon (Fate Series)"],"promptTags":["Artoria Pendragon","Fate Series","female","knight Servant"],"traits":["female","knight","servant"],"adultAllowed":false},
+        {"id":"character.fate-series.sakura-matou","name":"Sakura Matou","aliases":["Sakura Matou","Sakura Matou (Fate Series)"],"promptTags":["Sakura Matou","Fate Series","female","mage"],"traits":["female","mage"],"adultAllowed":false},
+        {"id":"character.fate-series.illyasviel-von-einzbern","name":"Illyasviel von Einzbern","aliases":["Illyasviel von Einzbern","Illyasviel von Einzbern (Fate Series)"],"promptTags":["Illyasviel von Einzbern","Fate Series","female","mage Master"],"traits":["female","mage","master"],"adultAllowed":false},
+        {"id":"character.fate-series.kirei-kotomine","name":"Kirei Kotomine","aliases":["Kirei Kotomine","Kirei Kotomine (Fate Series)"],"promptTags":["Kirei Kotomine","Fate Series","male","priest"],"traits":["male","priest","antagonist"],"adultAllowed":false},
+        {"id":"character.fate-series.kiritsugu-emiya","name":"Kiritsugu Emiya","aliases":["Kiritsugu Emiya","Kiritsugu Emiya (Fate Series)"],"promptTags":["Kiritsugu Emiya","Fate Series","male","mage"],"traits":["male","mage","master"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "sword-art-online",
+      "namespace": "Sword Art Online",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.sword-art-online.kazuto-kirigaya","name":"Kazuto Kirigaya","aliases":["Kazuto Kirigaya","Kazuto Kirigaya (Sword Art Online)","Kirito (Sword Art Online)"],"promptTags":["Kazuto Kirigaya","Sword Art Online","male","virtual swordsman"],"traits":["male","protagonist","swordsman"],"adultAllowed":false},
+        {"id":"character.sword-art-online.asuna-yuuki","name":"Asuna Yuuki","aliases":["Asuna Yuuki","Asuna Yuuki (Sword Art Online)"],"promptTags":["Asuna Yuuki","Sword Art Online","female","virtual swordswoman"],"traits":["female","swordswoman"],"adultAllowed":false},
+        {"id":"character.sword-art-online.shino-asada","name":"Shino Asada","aliases":["Shino Asada","Shino Asada (Sword Art Online)","Sinon (Sword Art Online)"],"promptTags":["Shino Asada","Sword Art Online","female","virtual sniper"],"traits":["female","sniper"],"adultAllowed":false},
+        {"id":"character.sword-art-online.alice-zuberg","name":"Alice Zuberg","aliases":["Alice Zuberg","Alice Zuberg (Sword Art Online)"],"promptTags":["Alice Zuberg","Sword Art Online","female","Integrity Knight"],"traits":["female","knight"],"adultAllowed":false},
+        {"id":"character.sword-art-online.eugeo","name":"Eugeo","aliases":["Eugeo (Sword Art Online)"],"promptTags":["Eugeo","Sword Art Online","male","swordsman"],"traits":["male","swordsman"],"adultAllowed":false},
+        {"id":"character.sword-art-online.suguha-kirigaya","name":"Suguha Kirigaya","aliases":["Suguha Kirigaya","Suguha Kirigaya (Sword Art Online)"],"promptTags":["Suguha Kirigaya","Sword Art Online","female","virtual warrior"],"traits":["female","warrior"],"adultAllowed":false},
+        {"id":"character.sword-art-online.yuuki-konno","name":"Yuuki Konno","aliases":["Yuuki Konno","Yuuki Konno (Sword Art Online)"],"promptTags":["Yuuki Konno","Sword Art Online","female","virtual swordswoman"],"traits":["female","swordswoman"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "re-zero",
+      "namespace": "Re:Zero",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.re-zero.subaru-natsuki","name":"Subaru Natsuki","aliases":["Subaru Natsuki","Subaru Natsuki (Re:Zero)"],"promptTags":["Subaru Natsuki","Re:Zero","male","otherworld traveler"],"traits":["male","protagonist","traveler"],"adultAllowed":false},
+        {"id":"character.re-zero.roswaal-l-mathers","name":"Roswaal L. Mathers","aliases":["Roswaal L. Mathers (Re:Zero)"],"promptTags":["Roswaal L. Mathers","Re:Zero","male","noble mage"],"traits":["male","noble","mage"],"adultAllowed":false},
+        {"id":"character.re-zero.otto-suwen","name":"Otto Suwen","aliases":["Otto Suwen","Otto Suwen (Re:Zero)"],"promptTags":["Otto Suwen","Re:Zero","male","merchant"],"traits":["male","merchant"],"adultAllowed":false},
+        {"id":"character.re-zero.garfiel-tinsel","name":"Garfiel Tinsel","aliases":["Garfiel Tinsel","Garfiel Tinsel (Re:Zero)"],"promptTags":["Garfiel Tinsel","Re:Zero","male","fighter"],"traits":["male","fighter"],"adultAllowed":false},
+        {"id":"character.re-zero.reinhard-van-astrea","name":"Reinhard van Astrea","aliases":["Reinhard van Astrea","Reinhard van Astrea (Re:Zero)"],"promptTags":["Reinhard van Astrea","Re:Zero","male","knight"],"traits":["male","knight"],"adultAllowed":false},
+        {"id":"character.re-zero.crusch-karsten","name":"Crusch Karsten","aliases":["Crusch Karsten","Crusch Karsten (Re:Zero)"],"promptTags":["Crusch Karsten","Re:Zero","female","noble leader"],"traits":["female","noble","leader"],"adultAllowed":false},
+        {"id":"character.re-zero.felix-argyle","name":"Felix Argyle","aliases":["Felix Argyle","Felix Argyle (Re:Zero)"],"promptTags":["Felix Argyle","Re:Zero","male","healer knight"],"traits":["male","healer","knight"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "konosuba",
+      "namespace": "KonoSuba",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.konosuba.kazuma-satou","name":"Kazuma Satou","aliases":["Kazuma Satou","Kazuma Satou (KonoSuba)"],"promptTags":["Kazuma Satou","KonoSuba","male","adventurer"],"traits":["male","protagonist","adventurer"],"adultAllowed":false},
+        {"id":"character.konosuba.megumin","name":"Megumin","aliases":["Megumin (KonoSuba)"],"promptTags":["Megumin","KonoSuba","female","archwizard"],"traits":["female","archwizard","adventurer"],"adultAllowed":false},
+        {"id":"character.konosuba.lalatina-ford-dustiness","name":"Lalatina Ford Dustiness","aliases":["Lalatina Ford Dustiness","Lalatina Ford Dustiness (KonoSuba)"],"promptTags":["Lalatina Ford Dustiness","KonoSuba","female","crusader"],"traits":["female","crusader","adventurer"],"adultAllowed":false},
+        {"id":"character.konosuba.yunyun","name":"Yunyun","aliases":["Yunyun (KonoSuba)"],"promptTags":["Yunyun","KonoSuba","female","archwizard"],"traits":["female","archwizard"],"adultAllowed":false},
+        {"id":"character.konosuba.kyoya-mitsurugi","name":"Kyoya Mitsurugi","aliases":["Kyoya Mitsurugi","Kyoya Mitsurugi (KonoSuba)"],"promptTags":["Kyoya Mitsurugi","KonoSuba","male","adventurer"],"traits":["male","adventurer"],"adultAllowed":false},
+        {"id":"character.konosuba.vanir","name":"Vanir","aliases":["Vanir (KonoSuba)"],"promptTags":["Vanir","KonoSuba","male","demon merchant"],"traits":["male","demon","merchant"],"adultAllowed":false},
+        {"id":"character.konosuba.wolbach","name":"Wolbach","aliases":["Wolbach (KonoSuba)"],"promptTags":["Wolbach","KonoSuba","female","goddess"],"traits":["female","goddess"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "tokyo-ghoul",
+      "namespace": "Tokyo Ghoul",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.tokyo-ghoul.ken-kaneki","name":"Ken Kaneki","aliases":["Ken Kaneki","Ken Kaneki (Tokyo Ghoul)"],"promptTags":["Ken Kaneki","Tokyo Ghoul","male","ghoul"],"traits":["male","protagonist","ghoul"],"adultAllowed":false},
+        {"id":"character.tokyo-ghoul.touka-kirishima","name":"Touka Kirishima","aliases":["Touka Kirishima","Touka Kirishima (Tokyo Ghoul)"],"promptTags":["Touka Kirishima","Tokyo Ghoul","female","ghoul"],"traits":["female","ghoul"],"adultAllowed":false},
+        {"id":"character.tokyo-ghoul.rize-kamishiro","name":"Rize Kamishiro","aliases":["Rize Kamishiro","Rize Kamishiro (Tokyo Ghoul)"],"promptTags":["Rize Kamishiro","Tokyo Ghoul","female","ghoul"],"traits":["female","ghoul"],"adultAllowed":false},
+        {"id":"character.tokyo-ghoul.hideyoshi-nagachika","name":"Hideyoshi Nagachika","aliases":["Hideyoshi Nagachika","Hideyoshi Nagachika (Tokyo Ghoul)"],"promptTags":["Hideyoshi Nagachika","Tokyo Ghoul","male","student"],"traits":["male","student","ally"],"adultAllowed":false},
+        {"id":"character.tokyo-ghoul.koutarou-amon","name":"Koutarou Amon","aliases":["Koutarou Amon","Koutarou Amon (Tokyo Ghoul)"],"promptTags":["Koutarou Amon","Tokyo Ghoul","male","ghoul investigator"],"traits":["male","investigator"],"adultAllowed":false},
+        {"id":"character.tokyo-ghoul.juuzou-suzuya","name":"Juuzou Suzuya","aliases":["Juuzou Suzuya","Juuzou Suzuya (Tokyo Ghoul)"],"promptTags":["Juuzou Suzuya","Tokyo Ghoul","male","ghoul investigator"],"traits":["male","investigator"],"adultAllowed":false},
+        {"id":"character.tokyo-ghoul.eto-yoshimura","name":"Eto Yoshimura","aliases":["Eto Yoshimura","Eto Yoshimura (Tokyo Ghoul)"],"promptTags":["Eto Yoshimura","Tokyo Ghoul","female","ghoul leader"],"traits":["female","ghoul","leader"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "black-clover",
+      "namespace": "Black Clover",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.black-clover.asta","name":"Asta","aliases":["Asta (Black Clover)"],"promptTags":["Asta","Black Clover","male","Magic Knight"],"traits":["male","protagonist","magic-knight"],"adultAllowed":false},
+        {"id":"character.black-clover.yuno","name":"Yuno","aliases":["Yuno (Black Clover)"],"promptTags":["Yuno","Black Clover","male","Magic Knight"],"traits":["male","magic-knight","rival"],"adultAllowed":false},
+        {"id":"character.black-clover.noelle-silva","name":"Noelle Silva","aliases":["Noelle Silva","Noelle Silva (Black Clover)"],"promptTags":["Noelle Silva","Black Clover","female","Magic Knight"],"traits":["female","magic-knight"],"adultAllowed":false},
+        {"id":"character.black-clover.yami-sukehiro","name":"Yami Sukehiro","aliases":["Yami Sukehiro","Yami Sukehiro (Black Clover)"],"promptTags":["Yami Sukehiro","Black Clover","male","Magic Knight captain"],"traits":["male","magic-knight","captain"],"adultAllowed":false},
+        {"id":"character.black-clover.julius-novachrono","name":"Julius Novachrono","aliases":["Julius Novachrono","Julius Novachrono (Black Clover)"],"promptTags":["Julius Novachrono","Black Clover","male","Wizard King"],"traits":["male","wizard","leader"],"adultAllowed":false},
+        {"id":"character.black-clover.mereoleona-vermillion","name":"Mereoleona Vermillion","aliases":["Mereoleona Vermillion","Mereoleona Vermillion (Black Clover)"],"promptTags":["Mereoleona Vermillion","Black Clover","female","Magic Knight captain"],"traits":["female","magic-knight","captain"],"adultAllowed":false},
+        {"id":"character.black-clover.luck-voltia","name":"Luck Voltia","aliases":["Luck Voltia","Luck Voltia (Black Clover)"],"promptTags":["Luck Voltia","Black Clover","male","Magic Knight"],"traits":["male","magic-knight"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "fairy-tail",
+      "namespace": "Fairy Tail",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.fairy-tail.natsu-dragneel","name":"Natsu Dragneel","aliases":["Natsu Dragneel","Natsu Dragneel (Fairy Tail)"],"promptTags":["Natsu Dragneel","Fairy Tail","male","Dragon Slayer mage"],"traits":["male","protagonist","mage"],"adultAllowed":false},
+        {"id":"character.fairy-tail.lucy-heartfilia","name":"Lucy Heartfilia","aliases":["Lucy Heartfilia","Lucy Heartfilia (Fairy Tail)"],"promptTags":["Lucy Heartfilia","Fairy Tail","female","Celestial Spirit mage"],"traits":["female","mage"],"adultAllowed":false},
+        {"id":"character.fairy-tail.erza-scarlet","name":"Erza Scarlet","aliases":["Erza Scarlet","Erza Scarlet (Fairy Tail)"],"promptTags":["Erza Scarlet","Fairy Tail","female","S-Class mage"],"traits":["female","mage","swordswoman"],"adultAllowed":false},
+        {"id":"character.fairy-tail.gray-fullbuster","name":"Gray Fullbuster","aliases":["Gray Fullbuster","Gray Fullbuster (Fairy Tail)"],"promptTags":["Gray Fullbuster","Fairy Tail","male","ice mage"],"traits":["male","mage"],"adultAllowed":false},
+        {"id":"character.fairy-tail.wendy-marvell","name":"Wendy Marvell","aliases":["Wendy Marvell","Wendy Marvell (Fairy Tail)"],"promptTags":["Wendy Marvell","Fairy Tail","female","Dragon Slayer mage"],"traits":["female","mage"],"adultAllowed":false},
+        {"id":"character.fairy-tail.jellal-fernandes","name":"Jellal Fernandes","aliases":["Jellal Fernandes","Jellal Fernandes (Fairy Tail)"],"promptTags":["Jellal Fernandes","Fairy Tail","male","mage"],"traits":["male","mage"],"adultAllowed":false},
+        {"id":"character.fairy-tail.gajeel-redfox","name":"Gajeel Redfox","aliases":["Gajeel Redfox","Gajeel Redfox (Fairy Tail)"],"promptTags":["Gajeel Redfox","Fairy Tail","male","Dragon Slayer mage"],"traits":["male","mage"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "haikyuu",
+      "namespace": "Haikyuu!!",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.haikyuu.shoyo-hinata","name":"Shoyo Hinata","aliases":["Shoyo Hinata","Shoyo Hinata (Haikyuu!!)"],"promptTags":["Shoyo Hinata","Haikyuu!!","male","volleyball middle blocker"],"traits":["male","protagonist","volleyball-player"],"adultAllowed":false},
+        {"id":"character.haikyuu.tobio-kageyama","name":"Tobio Kageyama","aliases":["Tobio Kageyama","Tobio Kageyama (Haikyuu!!)"],"promptTags":["Tobio Kageyama","Haikyuu!!","male","volleyball setter"],"traits":["male","volleyball-player","setter"],"adultAllowed":false},
+        {"id":"character.haikyuu.kei-tsukishima","name":"Kei Tsukishima","aliases":["Kei Tsukishima","Kei Tsukishima (Haikyuu!!)"],"promptTags":["Kei Tsukishima","Haikyuu!!","male","volleyball middle blocker"],"traits":["male","volleyball-player"],"adultAllowed":false},
+        {"id":"character.haikyuu.toru-oikawa","name":"Toru Oikawa","aliases":["Toru Oikawa","Toru Oikawa (Haikyuu!!)"],"promptTags":["Toru Oikawa","Haikyuu!!","male","volleyball setter"],"traits":["male","volleyball-player","setter"],"adultAllowed":false},
+        {"id":"character.haikyuu.kenma-kozume","name":"Kenma Kozume","aliases":["Kenma Kozume","Kenma Kozume (Haikyuu!!)"],"promptTags":["Kenma Kozume","Haikyuu!!","male","volleyball setter"],"traits":["male","volleyball-player","setter"],"adultAllowed":false},
+        {"id":"character.haikyuu.tetsuro-kuroo","name":"Tetsuro Kuroo","aliases":["Tetsuro Kuroo","Tetsuro Kuroo (Haikyuu!!)"],"promptTags":["Tetsuro Kuroo","Haikyuu!!","male","volleyball captain"],"traits":["male","volleyball-player","captain"],"adultAllowed":false},
+        {"id":"character.haikyuu.kotaro-bokuto","name":"Kotaro Bokuto","aliases":["Kotaro Bokuto","Kotaro Bokuto (Haikyuu!!)"],"promptTags":["Kotaro Bokuto","Haikyuu!!","male","volleyball ace"],"traits":["male","volleyball-player","ace"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "kurokos-basketball",
+      "namespace": "Kuroko's Basketball",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.kurokos-basketball.tetsuya-kuroko","name":"Tetsuya Kuroko","aliases":["Tetsuya Kuroko","Tetsuya Kuroko (Kuroko's Basketball)"],"promptTags":["Tetsuya Kuroko","Kuroko's Basketball","male","basketball player"],"traits":["male","protagonist","basketball-player"],"adultAllowed":false},
+        {"id":"character.kurokos-basketball.taiga-kagami","name":"Taiga Kagami","aliases":["Taiga Kagami","Taiga Kagami (Kuroko's Basketball)"],"promptTags":["Taiga Kagami","Kuroko's Basketball","male","basketball player"],"traits":["male","basketball-player"],"adultAllowed":false},
+        {"id":"character.kurokos-basketball.ryota-kise","name":"Ryota Kise","aliases":["Ryota Kise","Ryota Kise (Kuroko's Basketball)"],"promptTags":["Ryota Kise","Kuroko's Basketball","male","basketball player"],"traits":["male","basketball-player"],"adultAllowed":false},
+        {"id":"character.kurokos-basketball.shintaro-midorima","name":"Shintaro Midorima","aliases":["Shintaro Midorima","Shintaro Midorima (Kuroko's Basketball)"],"promptTags":["Shintaro Midorima","Kuroko's Basketball","male","basketball player"],"traits":["male","basketball-player"],"adultAllowed":false},
+        {"id":"character.kurokos-basketball.daiki-aomine","name":"Daiki Aomine","aliases":["Daiki Aomine","Daiki Aomine (Kuroko's Basketball)"],"promptTags":["Daiki Aomine","Kuroko's Basketball","male","basketball player"],"traits":["male","basketball-player"],"adultAllowed":false},
+        {"id":"character.kurokos-basketball.atsushi-murasakibara","name":"Atsushi Murasakibara","aliases":["Atsushi Murasakibara","Atsushi Murasakibara (Kuroko's Basketball)"],"promptTags":["Atsushi Murasakibara","Kuroko's Basketball","male","basketball player"],"traits":["male","basketball-player"],"adultAllowed":false},
+        {"id":"character.kurokos-basketball.seijuro-akashi","name":"Seijuro Akashi","aliases":["Seijuro Akashi","Seijuro Akashi (Kuroko's Basketball)"],"promptTags":["Seijuro Akashi","Kuroko's Basketball","male","basketball captain"],"traits":["male","basketball-player","captain"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "blue-lock",
+      "namespace": "Blue Lock",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.blue-lock.yoichi-isagi","name":"Yoichi Isagi","aliases":["Yoichi Isagi","Yoichi Isagi (Blue Lock)"],"promptTags":["Yoichi Isagi","Blue Lock","male","soccer striker"],"traits":["male","protagonist","soccer-player"],"adultAllowed":false},
+        {"id":"character.blue-lock.meguru-bachira","name":"Meguru Bachira","aliases":["Meguru Bachira","Meguru Bachira (Blue Lock)"],"promptTags":["Meguru Bachira","Blue Lock","male","soccer forward"],"traits":["male","soccer-player"],"adultAllowed":false},
+        {"id":"character.blue-lock.seishiro-nagi","name":"Seishiro Nagi","aliases":["Seishiro Nagi","Seishiro Nagi (Blue Lock)"],"promptTags":["Seishiro Nagi","Blue Lock","male","soccer forward"],"traits":["male","soccer-player"],"adultAllowed":false},
+        {"id":"character.blue-lock.rin-itoshi","name":"Rin Itoshi","aliases":["Rin Itoshi","Rin Itoshi (Blue Lock)"],"promptTags":["Rin Itoshi","Blue Lock","male","soccer forward"],"traits":["male","soccer-player","rival"],"adultAllowed":false},
+        {"id":"character.blue-lock.shoei-baro","name":"Shoei Baro","aliases":["Shoei Baro","Shoei Baro (Blue Lock)"],"promptTags":["Shoei Baro","Blue Lock","male","soccer forward"],"traits":["male","soccer-player"],"adultAllowed":false},
+        {"id":"character.blue-lock.hyoma-chigiri","name":"Hyoma Chigiri","aliases":["Hyoma Chigiri","Hyoma Chigiri (Blue Lock)"],"promptTags":["Hyoma Chigiri","Blue Lock","male","soccer winger"],"traits":["male","soccer-player"],"adultAllowed":false},
+        {"id":"character.blue-lock.reo-mikage","name":"Reo Mikage","aliases":["Reo Mikage","Reo Mikage (Blue Lock)"],"promptTags":["Reo Mikage","Blue Lock","male","soccer midfielder"],"traits":["male","soccer-player"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "slam-dunk",
+      "namespace": "Slam Dunk",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.slam-dunk.hanamichi-sakuragi","name":"Hanamichi Sakuragi","aliases":["Hanamichi Sakuragi","Hanamichi Sakuragi (Slam Dunk)"],"promptTags":["Hanamichi Sakuragi","Slam Dunk","male","basketball player"],"traits":["male","protagonist","basketball-player"],"adultAllowed":false},
+        {"id":"character.slam-dunk.kaede-rukawa","name":"Kaede Rukawa","aliases":["Kaede Rukawa","Kaede Rukawa (Slam Dunk)"],"promptTags":["Kaede Rukawa","Slam Dunk","male","basketball player"],"traits":["male","basketball-player","rival"],"adultAllowed":false},
+        {"id":"character.slam-dunk.takenori-akagi","name":"Takenori Akagi","aliases":["Takenori Akagi","Takenori Akagi (Slam Dunk)"],"promptTags":["Takenori Akagi","Slam Dunk","male","basketball captain"],"traits":["male","basketball-player","captain"],"adultAllowed":false},
+        {"id":"character.slam-dunk.hisashi-mitsui","name":"Hisashi Mitsui","aliases":["Hisashi Mitsui","Hisashi Mitsui (Slam Dunk)"],"promptTags":["Hisashi Mitsui","Slam Dunk","male","basketball player"],"traits":["male","basketball-player"],"adultAllowed":false},
+        {"id":"character.slam-dunk.ryota-miyagi","name":"Ryota Miyagi","aliases":["Ryota Miyagi","Ryota Miyagi (Slam Dunk)"],"promptTags":["Ryota Miyagi","Slam Dunk","male","basketball player"],"traits":["male","basketball-player"],"adultAllowed":false},
+        {"id":"character.slam-dunk.akira-sendoh","name":"Akira Sendoh","aliases":["Akira Sendoh","Akira Sendoh (Slam Dunk)"],"promptTags":["Akira Sendoh","Slam Dunk","male","basketball player"],"traits":["male","basketball-player"],"adultAllowed":false},
+        {"id":"character.slam-dunk.haruko-akagi","name":"Haruko Akagi","aliases":["Haruko Akagi","Haruko Akagi (Slam Dunk)"],"promptTags":["Haruko Akagi","Slam Dunk","female","basketball supporter"],"traits":["female","student","supporter"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "gintama",
+      "namespace": "Gintama",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.gintama.gintoki-sakata","name":"Gintoki Sakata","aliases":["Gintoki Sakata","Gintoki Sakata (Gintama)"],"promptTags":["Gintoki Sakata","Gintama","male","samurai handyman"],"traits":["male","protagonist","samurai"],"adultAllowed":false},
+        {"id":"character.gintama.shinpachi-shimura","name":"Shinpachi Shimura","aliases":["Shinpachi Shimura","Shinpachi Shimura (Gintama)"],"promptTags":["Shinpachi Shimura","Gintama","male","samurai handyman"],"traits":["male","samurai","handyman"],"adultAllowed":false},
+        {"id":"character.gintama.kagura","name":"Kagura","aliases":["Kagura (Gintama)"],"promptTags":["Kagura","Gintama","female","Yorozuya fighter"],"traits":["female","fighter","handyman"],"adultAllowed":false},
+        {"id":"character.gintama.toshiro-hijikata","name":"Toshiro Hijikata","aliases":["Toshiro Hijikata","Toshiro Hijikata (Gintama)"],"promptTags":["Toshiro Hijikata","Gintama","male","Shinsengumi officer"],"traits":["male","samurai","officer"],"adultAllowed":false},
+        {"id":"character.gintama.sogo-okita","name":"Sogo Okita","aliases":["Sogo Okita","Sogo Okita (Gintama)"],"promptTags":["Sogo Okita","Gintama","male","Shinsengumi officer"],"traits":["male","samurai","officer"],"adultAllowed":false},
+        {"id":"character.gintama.kotaro-katsura","name":"Kotaro Katsura","aliases":["Kotaro Katsura","Kotaro Katsura (Gintama)"],"promptTags":["Kotaro Katsura","Gintama","male","rebel samurai"],"traits":["male","samurai","rebel"],"adultAllowed":false},
+        {"id":"character.gintama.shinsuke-takasugi","name":"Shinsuke Takasugi","aliases":["Shinsuke Takasugi","Shinsuke Takasugi (Gintama)"],"promptTags":["Shinsuke Takasugi","Gintama","male","rebel samurai"],"traits":["male","samurai","antagonist"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "assassination-classroom",
+      "namespace": "Assassination Classroom",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.assassination-classroom.koro-sensei","name":"Koro-sensei","aliases":["Koro-sensei (Assassination Classroom)"],"promptTags":["Koro-sensei","Assassination Classroom","male","teacher"],"traits":["male","teacher","target"],"adultAllowed":false},
+        {"id":"character.assassination-classroom.nagisa-shiota","name":"Nagisa Shiota","aliases":["Nagisa Shiota","Nagisa Shiota (Assassination Classroom)"],"promptTags":["Nagisa Shiota","Assassination Classroom","male","student assassin"],"traits":["male","protagonist","student","assassin"],"adultAllowed":false},
+        {"id":"character.assassination-classroom.karma-akabane","name":"Karma Akabane","aliases":["Karma Akabane","Karma Akabane (Assassination Classroom)"],"promptTags":["Karma Akabane","Assassination Classroom","male","student assassin"],"traits":["male","student","assassin"],"adultAllowed":false},
+        {"id":"character.assassination-classroom.kaede-kayano","name":"Kaede Kayano","aliases":["Kaede Kayano","Kaede Kayano (Assassination Classroom)"],"promptTags":["Kaede Kayano","Assassination Classroom","female","student assassin"],"traits":["female","student","assassin"],"adultAllowed":false},
+        {"id":"character.assassination-classroom.tadaomi-karasuma","name":"Tadaomi Karasuma","aliases":["Tadaomi Karasuma","Tadaomi Karasuma (Assassination Classroom)"],"promptTags":["Tadaomi Karasuma","Assassination Classroom","male","government agent teacher"],"traits":["male","agent","teacher"],"adultAllowed":false},
+        {"id":"character.assassination-classroom.irina-jelavic","name":"Irina Jelavic","aliases":["Irina Jelavic","Irina Jelavic (Assassination Classroom)"],"promptTags":["Irina Jelavic","Assassination Classroom","female","assassin teacher"],"traits":["female","assassin","teacher"],"adultAllowed":false},
+        {"id":"character.assassination-classroom.gakushu-asano","name":"Gakushu Asano","aliases":["Gakushu Asano","Gakushu Asano (Assassination Classroom)"],"promptTags":["Gakushu Asano","Assassination Classroom","male","student council president"],"traits":["male","student","leader"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "rurouni-kenshin",
+      "namespace": "Rurouni Kenshin",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.rurouni-kenshin.kenshin-himura","name":"Kenshin Himura","aliases":["Kenshin Himura","Kenshin Himura (Rurouni Kenshin)"],"promptTags":["Kenshin Himura","Rurouni Kenshin","male","wandering swordsman"],"traits":["male","protagonist","swordsman"],"adultAllowed":false},
+        {"id":"character.rurouni-kenshin.kaoru-kamiya","name":"Kaoru Kamiya","aliases":["Kaoru Kamiya","Kaoru Kamiya (Rurouni Kenshin)"],"promptTags":["Kaoru Kamiya","Rurouni Kenshin","female","sword instructor"],"traits":["female","swordswoman","instructor"],"adultAllowed":false},
+        {"id":"character.rurouni-kenshin.sanosuke-sagara","name":"Sanosuke Sagara","aliases":["Sanosuke Sagara","Sanosuke Sagara (Rurouni Kenshin)"],"promptTags":["Sanosuke Sagara","Rurouni Kenshin","male","street fighter"],"traits":["male","fighter"],"adultAllowed":false},
+        {"id":"character.rurouni-kenshin.megumi-takani","name":"Megumi Takani","aliases":["Megumi Takani","Megumi Takani (Rurouni Kenshin)"],"promptTags":["Megumi Takani","Rurouni Kenshin","female","doctor"],"traits":["female","doctor"],"adultAllowed":false},
+        {"id":"character.rurouni-kenshin.yahiko-myojin","name":"Yahiko Myojin","aliases":["Yahiko Myojin","Yahiko Myojin (Rurouni Kenshin)"],"promptTags":["Yahiko Myojin","Rurouni Kenshin","male","sword student"],"traits":["male","student","swordsman"],"adultAllowed":false},
+        {"id":"character.rurouni-kenshin.hajime-saito","name":"Hajime Saito","aliases":["Hajime Saito","Hajime Saito (Rurouni Kenshin)"],"promptTags":["Hajime Saito","Rurouni Kenshin","male","police swordsman"],"traits":["male","police","swordsman"],"adultAllowed":false},
+        {"id":"character.rurouni-kenshin.makoto-shishio","name":"Makoto Shishio","aliases":["Makoto Shishio","Makoto Shishio (Rurouni Kenshin)"],"promptTags":["Makoto Shishio","Rurouni Kenshin","male","swordsman antagonist"],"traits":["male","swordsman","antagonist"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "berserk",
+      "namespace": "Berserk",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.berserk.guts","name":"Guts (Berserk)","aliases":["Guts (Berserk)"],"promptTags":["Guts","Berserk","male","mercenary swordsman"],"traits":["male","protagonist","mercenary","swordsman"],"adultAllowed":false},
+        {"id":"character.berserk.griffith","name":"Griffith","aliases":["Griffith (Berserk)"],"promptTags":["Griffith","Berserk","male","mercenary leader"],"traits":["male","leader","antagonist"],"adultAllowed":false},
+        {"id":"character.berserk.casca","name":"Casca","aliases":["Casca (Berserk)"],"promptTags":["Casca","Berserk","female","mercenary commander"],"traits":["female","mercenary","commander"],"adultAllowed":false},
+        {"id":"character.berserk.judeau","name":"Judeau","aliases":["Judeau (Berserk)"],"promptTags":["Judeau","Berserk","male","mercenary"],"traits":["male","mercenary"],"adultAllowed":false},
+        {"id":"character.berserk.farnese-de-vandimion","name":"Farnese de Vandimion","aliases":["Farnese de Vandimion","Farnese de Vandimion (Berserk)"],"promptTags":["Farnese de Vandimion","Berserk","female","noble commander"],"traits":["female","noble","commander"],"adultAllowed":false},
+        {"id":"character.berserk.serpico","name":"Serpico","aliases":["Serpico (Berserk)"],"promptTags":["Serpico","Berserk","male","swordsman attendant"],"traits":["male","swordsman","attendant"],"adultAllowed":false},
+        {"id":"character.berserk.schierke","name":"Schierke","aliases":["Schierke (Berserk)"],"promptTags":["Schierke","Berserk","female","witch"],"traits":["female","mage"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "tokyo-revengers",
+      "namespace": "Tokyo Revengers",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.tokyo-revengers.takemichi-hanagaki","name":"Takemichi Hanagaki","aliases":["Takemichi Hanagaki","Takemichi Hanagaki (Tokyo Revengers)"],"promptTags":["Takemichi Hanagaki","Tokyo Revengers","male","time traveler"],"traits":["male","protagonist","time-traveler"],"adultAllowed":false},
+        {"id":"character.tokyo-revengers.manjiro-sano","name":"Manjiro Sano","aliases":["Manjiro Sano","Manjiro Sano (Tokyo Revengers)"],"promptTags":["Manjiro Sano","Tokyo Revengers","male","gang leader"],"traits":["male","gang-member","leader"],"adultAllowed":false},
+        {"id":"character.tokyo-revengers.ken-ryuguji","name":"Ken Ryuguji","aliases":["Ken Ryuguji","Ken Ryuguji (Tokyo Revengers)"],"promptTags":["Ken Ryuguji","Tokyo Revengers","male","gang vice-captain"],"traits":["male","gang-member","vice-captain"],"adultAllowed":false},
+        {"id":"character.tokyo-revengers.chifuyu-matsuno","name":"Chifuyu Matsuno","aliases":["Chifuyu Matsuno","Chifuyu Matsuno (Tokyo Revengers)"],"promptTags":["Chifuyu Matsuno","Tokyo Revengers","male","gang vice-captain"],"traits":["male","gang-member","vice-captain"],"adultAllowed":false},
+        {"id":"character.tokyo-revengers.keisuke-baji","name":"Keisuke Baji","aliases":["Keisuke Baji","Keisuke Baji (Tokyo Revengers)"],"promptTags":["Keisuke Baji","Tokyo Revengers","male","gang captain"],"traits":["male","gang-member","captain"],"adultAllowed":false},
+        {"id":"character.tokyo-revengers.tetta-kisaki","name":"Tetta Kisaki","aliases":["Tetta Kisaki","Tetta Kisaki (Tokyo Revengers)"],"promptTags":["Tetta Kisaki","Tokyo Revengers","male","gang strategist"],"traits":["male","gang-member","antagonist","strategist"],"adultAllowed":false},
+        {"id":"character.tokyo-revengers.hinata-tachibana","name":"Hinata Tachibana","aliases":["Hinata Tachibana","Hinata Tachibana (Tokyo Revengers)"],"promptTags":["Hinata Tachibana","Tokyo Revengers","female","student"],"traits":["female","student"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "vinland-saga",
+      "namespace": "Vinland Saga",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.vinland-saga.thorfinn-karlsefni","name":"Thorfinn Karlsefni","aliases":["Thorfinn Karlsefni","Thorfinn Karlsefni (Vinland Saga)"],"promptTags":["Thorfinn Karlsefni","Vinland Saga","male","warrior explorer"],"traits":["male","protagonist","warrior","explorer"],"adultAllowed":false},
+        {"id":"character.vinland-saga.askeladd","name":"Askeladd","aliases":["Askeladd (Vinland Saga)"],"promptTags":["Askeladd","Vinland Saga","male","mercenary leader"],"traits":["male","mercenary","leader"],"adultAllowed":false},
+        {"id":"character.vinland-saga.canute","name":"Canute","aliases":["Canute (Vinland Saga)"],"promptTags":["Canute","Vinland Saga","male","king"],"traits":["male","king","leader"],"adultAllowed":false},
+        {"id":"character.vinland-saga.thors-snorresson","name":"Thors Snorresson","aliases":["Thors Snorresson","Thors Snorresson (Vinland Saga)"],"promptTags":["Thors Snorresson","Vinland Saga","male","warrior"],"traits":["male","warrior"],"adultAllowed":false},
+        {"id":"character.vinland-saga.einar","name":"Einar","aliases":["Einar (Vinland Saga)"],"promptTags":["Einar","Vinland Saga","male","farmer"],"traits":["male","farmer"],"adultAllowed":false},
+        {"id":"character.vinland-saga.gudrid","name":"Gudrid","aliases":["Gudrid (Vinland Saga)"],"promptTags":["Gudrid","Vinland Saga","female","explorer"],"traits":["female","explorer"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "dandadan",
+      "namespace": "Dandadan",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.dandadan.ken-takakura","name":"Ken Takakura","aliases":["Ken Takakura","Ken Takakura (Dandadan)","Okarun (Dandadan)"],"promptTags":["Ken Takakura","Dandadan","male","student"],"traits":["male","protagonist","student"],"adultAllowed":false},
+        {"id":"character.dandadan.aira-shiratori","name":"Aira Shiratori","aliases":["Aira Shiratori","Aira Shiratori (Dandadan)"],"promptTags":["Aira Shiratori","Dandadan","female","student"],"traits":["female","student"],"adultAllowed":false},
+        {"id":"character.dandadan.seiko-ayase","name":"Seiko Ayase","aliases":["Seiko Ayase","Seiko Ayase (Dandadan)"],"promptTags":["Seiko Ayase","Dandadan","female","spirit medium"],"traits":["female","spirit-medium"],"adultAllowed":false},
+        {"id":"character.dandadan.jin-enjoji","name":"Jin Enjoji","aliases":["Jin Enjoji","Jin Enjoji (Dandadan)"],"promptTags":["Jin Enjoji","Dandadan","male","student"],"traits":["male","student"],"adultAllowed":false},
+        {"id":"character.dandadan.kinta-sakata","name":"Kinta Sakata","aliases":["Kinta Sakata","Kinta Sakata (Dandadan)"],"promptTags":["Kinta Sakata","Dandadan","male","student"],"traits":["male","student"],"adultAllowed":false},
+        {"id":"character.dandadan.rin-sawaki","name":"Rin Sawaki","aliases":["Rin Sawaki","Rin Sawaki (Dandadan)"],"promptTags":["Rin Sawaki","Dandadan","female","student"],"traits":["female","student"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "bocchi-the-rock",
+      "namespace": "Bocchi the Rock!",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.bocchi-the-rock.hitori-gotoh","name":"Hitori Gotoh","aliases":["Hitori Gotoh","Hitori Gotoh (Bocchi the Rock!)"],"promptTags":["Hitori Gotoh","Bocchi the Rock!","female","guitarist"],"traits":["female","protagonist","musician","guitarist"],"adultAllowed":false},
+        {"id":"character.bocchi-the-rock.nijika-ijichi","name":"Nijika Ijichi","aliases":["Nijika Ijichi","Nijika Ijichi (Bocchi the Rock!)"],"promptTags":["Nijika Ijichi","Bocchi the Rock!","female","drummer"],"traits":["female","musician","drummer"],"adultAllowed":false},
+        {"id":"character.bocchi-the-rock.ryo-yamada","name":"Ryo Yamada","aliases":["Ryo Yamada","Ryo Yamada (Bocchi the Rock!)"],"promptTags":["Ryo Yamada","Bocchi the Rock!","female","bassist"],"traits":["female","musician","bassist"],"adultAllowed":false},
+        {"id":"character.bocchi-the-rock.ikuyo-kita","name":"Ikuyo Kita","aliases":["Ikuyo Kita","Ikuyo Kita (Bocchi the Rock!)"],"promptTags":["Ikuyo Kita","Bocchi the Rock!","female","vocalist guitarist"],"traits":["female","musician","vocalist","guitarist"],"adultAllowed":false},
+        {"id":"character.bocchi-the-rock.seika-ijichi","name":"Seika Ijichi","aliases":["Seika Ijichi","Seika Ijichi (Bocchi the Rock!)"],"promptTags":["Seika Ijichi","Bocchi the Rock!","female","music venue manager"],"traits":["female","manager"],"adultAllowed":false},
+        {"id":"character.bocchi-the-rock.kikuri-hiroi","name":"Kikuri Hiroi","aliases":["Kikuri Hiroi","Kikuri Hiroi (Bocchi the Rock!)"],"promptTags":["Kikuri Hiroi","Bocchi the Rock!","female","bassist vocalist"],"traits":["female","musician","bassist","vocalist"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "frieren",
+      "namespace": "Frieren: Beyond Journey's End",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.frieren.frieren","name":"Frieren","aliases":["Frieren (Beyond Journey's End)"],"promptTags":["Frieren","Frieren: Beyond Journey's End","female","elf mage"],"traits":["female","protagonist","elf","mage"],"adultAllowed":false},
+        {"id":"character.frieren.fern","name":"Fern (Frieren: Beyond Journey's End)","aliases":["Fern (Frieren: Beyond Journey's End)"],"promptTags":["Fern","Frieren: Beyond Journey's End","female","mage"],"traits":["female","mage"],"adultAllowed":false},
+        {"id":"character.frieren.stark","name":"Stark (Frieren: Beyond Journey's End)","aliases":["Stark (Frieren: Beyond Journey's End)"],"promptTags":["Stark","Frieren: Beyond Journey's End","male","warrior"],"traits":["male","warrior"],"adultAllowed":false},
+        {"id":"character.frieren.himmel","name":"Himmel","aliases":["Himmel (Frieren: Beyond Journey's End)"],"promptTags":["Himmel","Frieren: Beyond Journey's End","male","hero"],"traits":["male","hero"],"adultAllowed":false},
+        {"id":"character.frieren.heiter","name":"Heiter","aliases":["Heiter (Frieren: Beyond Journey's End)"],"promptTags":["Heiter","Frieren: Beyond Journey's End","male","priest"],"traits":["male","priest"],"adultAllowed":false},
+        {"id":"character.frieren.eisen","name":"Eisen","aliases":["Eisen (Frieren: Beyond Journey's End)"],"promptTags":["Eisen","Frieren: Beyond Journey's End","male","dwarf warrior"],"traits":["male","dwarf","warrior"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "oshi-no-ko",
+      "namespace": "Oshi no Ko",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.oshi-no-ko.ai-hoshino","name":"Ai Hoshino","aliases":["Ai Hoshino","Ai Hoshino (Oshi no Ko)"],"promptTags":["Ai Hoshino","Oshi no Ko","female","idol"],"traits":["female","idol"],"adultAllowed":false},
+        {"id":"character.oshi-no-ko.aquamarine-hoshino","name":"Aquamarine Hoshino","aliases":["Aquamarine Hoshino","Aquamarine Hoshino (Oshi no Ko)","Aqua Hoshino (Oshi no Ko)"],"promptTags":["Aquamarine Hoshino","Oshi no Ko","male","actor"],"traits":["male","protagonist","actor"],"adultAllowed":false},
+        {"id":"character.oshi-no-ko.ruby-hoshino","name":"Ruby Hoshino","aliases":["Ruby Hoshino","Ruby Hoshino (Oshi no Ko)"],"promptTags":["Ruby Hoshino","Oshi no Ko","female","idol"],"traits":["female","protagonist","idol"],"adultAllowed":false},
+        {"id":"character.oshi-no-ko.kana-arima","name":"Kana Arima","aliases":["Kana Arima","Kana Arima (Oshi no Ko)"],"promptTags":["Kana Arima","Oshi no Ko","female","actor idol"],"traits":["female","actor","idol"],"adultAllowed":false},
+        {"id":"character.oshi-no-ko.akane-kurokawa","name":"Akane Kurokawa","aliases":["Akane Kurokawa","Akane Kurokawa (Oshi no Ko)"],"promptTags":["Akane Kurokawa","Oshi no Ko","female","actor"],"traits":["female","actor"],"adultAllowed":false},
+        {"id":"character.oshi-no-ko.mem-cho","name":"MEM-cho","aliases":["MEM-cho (Oshi no Ko)"],"promptTags":["MEM-cho","Oshi no Ko","female","influencer idol"],"traits":["female","influencer","idol"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "kaguya-sama-love-is-war",
+      "namespace": "Kaguya-sama: Love Is War",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.kaguya-sama-love-is-war.kaguya-shinomiya","name":"Kaguya Shinomiya","aliases":["Kaguya Shinomiya","Kaguya Shinomiya (Kaguya-sama: Love Is War)"],"promptTags":["Kaguya Shinomiya","Kaguya-sama: Love Is War","female","student council vice president"],"traits":["female","protagonist","student","vice-president"],"adultAllowed":false},
+        {"id":"character.kaguya-sama-love-is-war.miyuki-shirogane","name":"Miyuki Shirogane","aliases":["Miyuki Shirogane","Miyuki Shirogane (Kaguya-sama: Love Is War)"],"promptTags":["Miyuki Shirogane","Kaguya-sama: Love Is War","male","student council president"],"traits":["male","protagonist","student","president"],"adultAllowed":false},
+        {"id":"character.kaguya-sama-love-is-war.chika-fujiwara","name":"Chika Fujiwara","aliases":["Chika Fujiwara","Chika Fujiwara (Kaguya-sama: Love Is War)"],"promptTags":["Chika Fujiwara","Kaguya-sama: Love Is War","female","student council secretary"],"traits":["female","student","secretary"],"adultAllowed":false},
+        {"id":"character.kaguya-sama-love-is-war.yu-ishigami","name":"Yu Ishigami","aliases":["Yu Ishigami","Yu Ishigami (Kaguya-sama: Love Is War)"],"promptTags":["Yu Ishigami","Kaguya-sama: Love Is War","male","student council treasurer"],"traits":["male","student","treasurer"],"adultAllowed":false},
+        {"id":"character.kaguya-sama-love-is-war.ai-hayasaka","name":"Ai Hayasaka","aliases":["Ai Hayasaka","Ai Hayasaka (Kaguya-sama: Love Is War)"],"promptTags":["Ai Hayasaka","Kaguya-sama: Love Is War","female","student attendant"],"traits":["female","student","attendant"],"adultAllowed":false},
+        {"id":"character.kaguya-sama-love-is-war.miko-iino","name":"Miko Iino","aliases":["Miko Iino","Miko Iino (Kaguya-sama: Love Is War)"],"promptTags":["Miko Iino","Kaguya-sama: Love Is War","female","student council member"],"traits":["female","student","council-member"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "horimiya",
+      "namespace": "Horimiya",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.horimiya.kyoko-hori","name":"Kyoko Hori","aliases":["Kyoko Hori","Kyoko Hori (Horimiya)"],"promptTags":["Kyoko Hori","Horimiya","female","student"],"traits":["female","protagonist","student"],"adultAllowed":false},
+        {"id":"character.horimiya.izumi-miyamura","name":"Izumi Miyamura","aliases":["Izumi Miyamura","Izumi Miyamura (Horimiya)"],"promptTags":["Izumi Miyamura","Horimiya","male","student"],"traits":["male","protagonist","student"],"adultAllowed":false},
+        {"id":"character.horimiya.yuki-yoshikawa","name":"Yuki Yoshikawa","aliases":["Yuki Yoshikawa","Yuki Yoshikawa (Horimiya)"],"promptTags":["Yuki Yoshikawa","Horimiya","female","student"],"traits":["female","student"],"adultAllowed":false},
+        {"id":"character.horimiya.toru-ishikawa","name":"Toru Ishikawa","aliases":["Toru Ishikawa","Toru Ishikawa (Horimiya)"],"promptTags":["Toru Ishikawa","Horimiya","male","student"],"traits":["male","student"],"adultAllowed":false},
+        {"id":"character.horimiya.kakeru-sengoku","name":"Kakeru Sengoku","aliases":["Kakeru Sengoku","Kakeru Sengoku (Horimiya)"],"promptTags":["Kakeru Sengoku","Horimiya","male","student council president"],"traits":["male","student","president"],"adultAllowed":false},
+        {"id":"character.horimiya.remi-ayasaki","name":"Remi Ayasaki","aliases":["Remi Ayasaki","Remi Ayasaki (Horimiya)"],"promptTags":["Remi Ayasaki","Horimiya","female","student council member"],"traits":["female","student","council-member"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "fruits-basket",
+      "namespace": "Fruits Basket",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.fruits-basket.tohru-honda","name":"Tohru Honda","aliases":["Tohru Honda","Tohru Honda (Fruits Basket)"],"promptTags":["Tohru Honda","Fruits Basket","female","student"],"traits":["female","protagonist","student"],"adultAllowed":false},
+        {"id":"character.fruits-basket.kyo-sohma","name":"Kyo Sohma","aliases":["Kyo Sohma","Kyo Sohma (Fruits Basket)"],"promptTags":["Kyo Sohma","Fruits Basket","male","student"],"traits":["male","student"],"adultAllowed":false},
+        {"id":"character.fruits-basket.yuki-sohma","name":"Yuki Sohma","aliases":["Yuki Sohma","Yuki Sohma (Fruits Basket)"],"promptTags":["Yuki Sohma","Fruits Basket","male","student council president"],"traits":["male","student","president"],"adultAllowed":false},
+        {"id":"character.fruits-basket.shigure-sohma","name":"Shigure Sohma","aliases":["Shigure Sohma","Shigure Sohma (Fruits Basket)"],"promptTags":["Shigure Sohma","Fruits Basket","male","novelist"],"traits":["male","novelist"],"adultAllowed":false},
+        {"id":"character.fruits-basket.arisa-uotani","name":"Arisa Uotani","aliases":["Arisa Uotani","Arisa Uotani (Fruits Basket)"],"promptTags":["Arisa Uotani","Fruits Basket","female","student"],"traits":["female","student"],"adultAllowed":false},
+        {"id":"character.fruits-basket.saki-hanajima","name":"Saki Hanajima","aliases":["Saki Hanajima","Saki Hanajima (Fruits Basket)"],"promptTags":["Saki Hanajima","Fruits Basket","female","student"],"traits":["female","student"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "rascal-does-not-dream",
+      "namespace": "Rascal Does Not Dream",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.rascal-does-not-dream.sakuta-azusagawa","name":"Sakuta Azusagawa","aliases":["Sakuta Azusagawa","Sakuta Azusagawa (Rascal Does Not Dream)"],"promptTags":["Sakuta Azusagawa","Rascal Does Not Dream","male","student"],"traits":["male","protagonist","student"],"adultAllowed":false},
+        {"id":"character.rascal-does-not-dream.mai-sakurajima","name":"Mai Sakurajima","aliases":["Mai Sakurajima","Mai Sakurajima (Rascal Does Not Dream)"],"promptTags":["Mai Sakurajima","Rascal Does Not Dream","female","student actor"],"traits":["female","student","actor"],"adultAllowed":false},
+        {"id":"character.rascal-does-not-dream.tomoe-koga","name":"Tomoe Koga","aliases":["Tomoe Koga","Tomoe Koga (Rascal Does Not Dream)"],"promptTags":["Tomoe Koga","Rascal Does Not Dream","female","student"],"traits":["female","student"],"adultAllowed":false},
+        {"id":"character.rascal-does-not-dream.rio-futaba","name":"Rio Futaba","aliases":["Rio Futaba","Rio Futaba (Rascal Does Not Dream)"],"promptTags":["Rio Futaba","Rascal Does Not Dream","female","science club student"],"traits":["female","student","science-club"],"adultAllowed":false},
+        {"id":"character.rascal-does-not-dream.nodoka-toyohama","name":"Nodoka Toyohama","aliases":["Nodoka Toyohama","Nodoka Toyohama (Rascal Does Not Dream)"],"promptTags":["Nodoka Toyohama","Rascal Does Not Dream","female","student idol"],"traits":["female","student","idol"],"adultAllowed":false},
+        {"id":"character.rascal-does-not-dream.kaede-azusagawa","name":"Kaede Azusagawa","aliases":["Kaede Azusagawa","Kaede Azusagawa (Rascal Does Not Dream)"],"promptTags":["Kaede Azusagawa","Rascal Does Not Dream","female","student"],"traits":["female","student"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "puella-magi-madoka-magica",
+      "namespace": "Puella Magi Madoka Magica",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.puella-magi-madoka-magica.madoka-kaname","name":"Madoka Kaname","aliases":["Madoka Kaname","Madoka Kaname (Puella Magi Madoka Magica)"],"promptTags":["Madoka Kaname","Puella Magi Madoka Magica","female","magical girl"],"traits":["female","protagonist","magical-girl"],"adultAllowed":false},
+        {"id":"character.puella-magi-madoka-magica.homura-akemi","name":"Homura Akemi","aliases":["Homura Akemi","Homura Akemi (Puella Magi Madoka Magica)"],"promptTags":["Homura Akemi","Puella Magi Madoka Magica","female","magical girl"],"traits":["female","magical-girl"],"adultAllowed":false},
+        {"id":"character.puella-magi-madoka-magica.sayaka-miki","name":"Sayaka Miki","aliases":["Sayaka Miki","Sayaka Miki (Puella Magi Madoka Magica)"],"promptTags":["Sayaka Miki","Puella Magi Madoka Magica","female","magical girl"],"traits":["female","magical-girl"],"adultAllowed":false},
+        {"id":"character.puella-magi-madoka-magica.mami-tomoe","name":"Mami Tomoe","aliases":["Mami Tomoe","Mami Tomoe (Puella Magi Madoka Magica)"],"promptTags":["Mami Tomoe","Puella Magi Madoka Magica","female","magical girl"],"traits":["female","magical-girl"],"adultAllowed":false},
+        {"id":"character.puella-magi-madoka-magica.kyoko-sakura","name":"Kyoko Sakura","aliases":["Kyoko Sakura","Kyoko Sakura (Puella Magi Madoka Magica)"],"promptTags":["Kyoko Sakura","Puella Magi Madoka Magica","female","magical girl"],"traits":["female","magical-girl"],"adultAllowed":false},
+        {"id":"character.puella-magi-madoka-magica.nagisa-momoe","name":"Nagisa Momoe","aliases":["Nagisa Momoe","Nagisa Momoe (Puella Magi Madoka Magica)"],"promptTags":["Nagisa Momoe","Puella Magi Madoka Magica","female","magical girl"],"traits":["female","magical-girl"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "cowboy-bebop",
+      "namespace": "Cowboy Bebop",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.cowboy-bebop.spike-spiegel","name":"Spike Spiegel","aliases":["Spike Spiegel","Spike Spiegel (Cowboy Bebop)"],"promptTags":["Spike Spiegel","Cowboy Bebop","male","bounty hunter"],"traits":["male","protagonist","bounty-hunter"],"adultAllowed":false},
+        {"id":"character.cowboy-bebop.jet-black","name":"Jet Black","aliases":["Jet Black","Jet Black (Cowboy Bebop)"],"promptTags":["Jet Black","Cowboy Bebop","male","bounty hunter"],"traits":["male","bounty-hunter"],"adultAllowed":false},
+        {"id":"character.cowboy-bebop.faye-valentine","name":"Faye Valentine","aliases":["Faye Valentine","Faye Valentine (Cowboy Bebop)"],"promptTags":["Faye Valentine","Cowboy Bebop","female","bounty hunter"],"traits":["female","bounty-hunter"],"adultAllowed":false},
+        {"id":"character.cowboy-bebop.edward-wong-hau-pepelu-tivrusky-iv","name":"Edward Wong Hau Pepelu Tivrusky IV","aliases":["Edward Wong Hau Pepelu Tivrusky IV","Edward Wong Hau Pepelu Tivrusky IV (Cowboy Bebop)"],"promptTags":["Edward Wong Hau Pepelu Tivrusky IV","Cowboy Bebop","female","hacker"],"traits":["female","hacker"],"adultAllowed":false},
+        {"id":"character.cowboy-bebop.vicious","name":"Vicious (Cowboy Bebop)","aliases":["Vicious (Cowboy Bebop)"],"promptTags":["Vicious","Cowboy Bebop","male","crime syndicate leader"],"traits":["male","antagonist","crime-syndicate"],"adultAllowed":false},
+        {"id":"character.cowboy-bebop.julia","name":"Julia (Cowboy Bebop)","aliases":["Julia (Cowboy Bebop)"],"promptTags":["Julia","Cowboy Bebop","female","crime syndicate associate"],"traits":["female","crime-syndicate"],"adultAllowed":false}
+      ]
+    },
+    {
+      "id": "the-apothecary-diaries",
+      "namespace": "The Apothecary Diaries",
+      "traits": ["fictional", "anime", "manga"],
+      "entries": [
+        {"id":"character.the-apothecary-diaries.maomao","name":"Maomao","aliases":["Maomao (The Apothecary Diaries)"],"promptTags":["Maomao","The Apothecary Diaries","female","apothecary"],"traits":["female","protagonist","apothecary"],"adultAllowed":false},
+        {"id":"character.the-apothecary-diaries.jinshi","name":"Jinshi","aliases":["Jinshi (The Apothecary Diaries)"],"promptTags":["Jinshi","The Apothecary Diaries","male","palace official"],"traits":["male","palace-official"],"adultAllowed":false},
+        {"id":"character.the-apothecary-diaries.gyokuyou","name":"Gyokuyou","aliases":["Gyokuyou (The Apothecary Diaries)"],"promptTags":["Gyokuyou","The Apothecary Diaries","female","imperial consort"],"traits":["female","imperial-consort"],"adultAllowed":false},
+        {"id":"character.the-apothecary-diaries.gaoshun","name":"Gaoshun","aliases":["Gaoshun (The Apothecary Diaries)"],"promptTags":["Gaoshun","The Apothecary Diaries","male","palace attendant"],"traits":["male","attendant"],"adultAllowed":false},
+        {"id":"character.the-apothecary-diaries.lihua","name":"Lihua","aliases":["Lihua (The Apothecary Diaries)"],"promptTags":["Lihua","The Apothecary Diaries","female","imperial consort"],"traits":["female","imperial-consort"],"adultAllowed":false},
+        {"id":"character.the-apothecary-diaries.lakan","name":"Lakan","aliases":["Lakan (The Apothecary Diaries)"],"promptTags":["Lakan","The Apothecary Diaries","male","military strategist"],"traits":["male","military-officer","strategist"],"adultAllowed":false}
+      ]
+    }
+  ]
+}

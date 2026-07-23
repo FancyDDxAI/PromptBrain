@@ -1,0 +1,1904 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.narrative.haunted-solitude",
+  "fingerprint": "c4abcb52ed8c47594665be576ff2927ebeb60150cecc97e98f72d18db6164a39",
+  "recipes": [
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with muted tonal range photographic style, calm water as left-side negative space composition, lagoon turquoise with golden haze coastal palette, controlled high contrast from streetlamp pool, contained in a localized pool 02acb65475cc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.02acb65475cc",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-overlapping-silhouettes-with-texture-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-left-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-subtle-environmental-decay-slow-building-"
+        ],
+        "expression": [
+          "curated.expression.quietly-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-streetlamp-pool-contained-in-a-localized-p"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lagoon-turquoise-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with muted tonal range photographic style, calm water as left-side negative space composition, lagoon turquoise with golden haze coastal palette, controlled high contrast from streetlamp pool, contained in a localized pool 02acb65475cc"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with fine surface grain photographic style, blank wall as split-field negative space composition, moonlit indigo with coral sunset coastal palette, controlled high contrast from streetlamp pool, reflected from nearby surfaces 09462105e33f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.09462105e33f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-overlapping-silhouettes-with-atmospheric-sepa"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.blank-wall-as-split-field-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-doors-left-slightly-ajar-restrained-super"
+        ],
+        "expression": [
+          "curated.expression.intensely-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-streetlamp-pool-reflected-from-nearby-surf"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.moonlit-indigo-with-coral-sunset-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with fine surface grain photographic style, blank wall as split-field negative space composition, moonlit indigo with coral sunset coastal palette, controlled high contrast from streetlamp pool, reflected from nearby surfaces 09462105e33f"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with toned highlight bloom photographic style, snow field as central negative space composition, sea-glass green with fog white coastal palette, soft diffusion from streetlamp pool, falling off into shadow 099a72357f93"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.099a72357f93",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-compressed-spatial-planes-with-color-separati"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.snow-field-as-central-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-worn-personal-belongings-quiet-psychologi"
+        ],
+        "expression": [
+          "curated.expression.painfully-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sea-glass-green-with-fog-white-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-toned-highlight-bloom-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with toned highlight bloom photographic style, snow field as central negative space composition, sea-glass green with fog white coastal palette, soft diffusion from streetlamp pool, falling off into shadow 099a72357f93"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with toned highlight bloom photographic style, blank wall as central negative space composition, kelp green with golden haze coastal palette, crisp shadow edges from streetlamp pool, layered across depth planes 0a13dc4e6fec"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.0a13dc4e6fec",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-compressed-spatial-planes-with-scale-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.blank-wall-as-central-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-worn-personal-belongings-restrained-super"
+        ],
+        "expression": [
+          "curated.expression.proudly-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.kelp-green-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-toned-highlight-bloom-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with toned highlight bloom photographic style, blank wall as central negative space composition, kelp green with golden haze coastal palette, crisp shadow edges from streetlamp pool, layered across depth planes 0a13dc4e6fec"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with muted tonal range photographic style, deep shadow as central negative space composition, harbor navy with overcast silver coastal palette, gentle atmospheric bloom from streetlamp pool, focused on the subject plane 0c75c1b60c17"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.0c75c1b60c17",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-layered-midground-planes-with-atmospheric-sep"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-central-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-doors-left-slightly-ajar-restrained-super"
+        ],
+        "expression": [
+          "curated.expression.painfully-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-streetlamp-pool-focused-on-the-subject-pla"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.harbor-navy-with-overcast-silver-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with muted tonal range photographic style, deep shadow as central negative space composition, harbor navy with overcast silver coastal palette, gentle atmospheric bloom from streetlamp pool, focused on the subject plane 0c75c1b60c17"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with centered period framing photographic style, snow field as corner negative space composition, moonlit indigo with coral sunset coastal palette, crisp shadow edges from streetlamp pool, contained in a localized pool 19a7d1ea8322"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.19a7d1ea8322",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-a-clear-foreground-plane-with-rim-light-separ"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.snow-field-as-corner-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-doors-left-slightly-ajar-slow-building-su"
+        ],
+        "expression": [
+          "curated.expression.intensely-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.moonlit-indigo-with-coral-sunset-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with centered period framing photographic style, snow field as corner negative space composition, moonlit indigo with coral sunset coastal palette, crisp shadow edges from streetlamp pool, contained in a localized pool 19a7d1ea8322"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with careful studio staging photographic style, deep shadow as encircling negative space composition, foam white with storm violet coastal palette, crisp shadow edges from streetlamp pool, grazing textured surfaces 357636448fbb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.357636448fbb",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-layered-midground-planes-with-tonal-separatio"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-subtle-environmental-decay-restrained-sup"
+        ],
+        "expression": [
+          "curated.expression.dreamily-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.foam-white-with-storm-violet-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with careful studio staging photographic style, deep shadow as encircling negative space composition, foam white with storm violet coastal palette, crisp shadow edges from streetlamp pool, grazing textured surfaces 357636448fbb"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with careful studio staging photographic style, mist field as central negative space composition, stormwater gray with coral sunset coastal palette, crisp shadow edges from streetlamp pool, contained in a localized pool 3e03fbbcac34"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.3e03fbbcac34",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-receding-architecture-with-tonal-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.mist-field-as-central-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-misaligned-furnishings-quiet-psychologica"
+        ],
+        "expression": [
+          "curated.expression.intensely-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.stormwater-gray-with-coral-sunset-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with careful studio staging photographic style, mist field as central negative space composition, stormwater gray with coral sunset coastal palette, crisp shadow edges from streetlamp pool, contained in a localized pool 3e03fbbcac34"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with soft edge falloff photographic style, unlit doorway as encircling negative space composition, foam white with storm violet coastal palette, soft diffusion from streetlamp pool, contained in a localized pool 4430efa457d0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.4430efa457d0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-expansive-spatial-planes-with-tonal-separatio"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-subtle-environmental-decay-slow-building-"
+        ],
+        "expression": [
+          "curated.expression.warmly-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.foam-white-with-storm-violet-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with soft edge falloff photographic style, unlit doorway as encircling negative space composition, foam white with storm violet coastal palette, soft diffusion from streetlamp pool, contained in a localized pool 4430efa457d0"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with soft edge falloff photographic style, paper margin as encircling negative space composition, deep ocean blue with coral sunset coastal palette, crisp shadow edges from streetlamp pool, focused on the subject plane 5323b4fefac6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.5323b4fefac6",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-expansive-spatial-planes-with-color-separatio"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-flickering-practical-lights-slow-building"
+        ],
+        "expression": [
+          "curated.expression.barely-restrained-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-ocean-blue-with-coral-sunset-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with soft edge falloff photographic style, paper margin as encircling negative space composition, deep ocean blue with coral sunset coastal palette, crisp shadow edges from streetlamp pool, focused on the subject plane 5323b4fefac6"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with centered period framing photographic style, plain fabric as left-side negative space composition, tidal teal with fog white coastal palette, soft diffusion from streetlamp pool, falling off into shadow 53f46555d233"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.53f46555d233",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-receding-architecture-with-scale-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.plain-fabric-as-left-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-long-empty-sightlines-restrained-supernat"
+        ],
+        "expression": [
+          "curated.expression.dreamily-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tidal-teal-with-fog-white-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with centered period framing photographic style, plain fabric as left-side negative space composition, tidal teal with fog white coastal palette, soft diffusion from streetlamp pool, falling off into shadow 53f46555d233"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with muted tonal range photographic style, unlit doorway as left-side negative space composition, slate blue with golden haze coastal palette, controlled high contrast from streetlamp pool, creating a luminous frame 761945a12110"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.761945a12110",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-receding-architecture-with-tonal-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-left-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-dark-window-reflections-restrained-supern"
+        ],
+        "expression": [
+          "curated.expression.painfully-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-streetlamp-pool-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with muted tonal range photographic style, unlit doorway as left-side negative space composition, slate blue with golden haze coastal palette, controlled high contrast from streetlamp pool, creating a luminous frame 761945a12110"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with centered period framing photographic style, mist field as right-side negative space composition, lagoon turquoise with peach dawn coastal palette, gentle atmospheric bloom from streetlamp pool, falling off into shadow 789e32b989be"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.789e32b989be",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-overlapping-silhouettes-with-tonal-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.mist-field-as-right-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-doors-left-slightly-ajar-slow-building-su"
+        ],
+        "expression": [
+          "curated.expression.coldly-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-streetlamp-pool-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lagoon-turquoise-with-peach-dawn-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with centered period framing photographic style, mist field as right-side negative space composition, lagoon turquoise with peach dawn coastal palette, gentle atmospheric bloom from streetlamp pool, falling off into shadow 789e32b989be"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with toned highlight bloom photographic style, mist field as left-side negative space composition, harbor navy with peach dawn coastal palette, gentle atmospheric bloom from streetlamp pool, broken by foreground shapes 7b6b7fc8a941"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.7b6b7fc8a941",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-foreground-framing-with-color-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.mist-field-as-left-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-repeating-shadow-patterns-quiet-psycholog"
+        ],
+        "expression": [
+          "curated.expression.warmly-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-streetlamp-pool-broken-by-foreground-shape"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.harbor-navy-with-peach-dawn-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-toned-highlight-bloom-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with toned highlight bloom photographic style, mist field as left-side negative space composition, harbor navy with peach dawn coastal palette, gentle atmospheric bloom from streetlamp pool, broken by foreground shapes 7b6b7fc8a941"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with deep shadow detail photographic style, soft bokeh as right-side negative space composition, tidal teal with fog white coastal palette, soft diffusion from streetlamp pool, layered across depth planes 7c6bc14f5581"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.7c6bc14f5581",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-deep-vanishing-point-layers-with-scale-fallof"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.soft-bokeh-as-right-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-dark-window-reflections-slow-building-sus"
+        ],
+        "expression": [
+          "curated.expression.proudly-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tidal-teal-with-fog-white-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with deep shadow detail photographic style, soft bokeh as right-side negative space composition, tidal teal with fog white coastal palette, soft diffusion from streetlamp pool, layered across depth planes 7c6bc14f5581"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with deep shadow detail photographic style, snow field as above-subject negative space composition, reef cyan with peach dawn coastal palette, soft diffusion from streetlamp pool, falling off into shadow 80d6a2797c82"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.80d6a2797c82",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-receding-architecture-with-scale-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.snow-field-as-above-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-repeating-shadow-patterns-restrained-supe"
+        ],
+        "expression": [
+          "curated.expression.dreamily-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.reef-cyan-with-peach-dawn-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with deep shadow detail photographic style, snow field as above-subject negative space composition, reef cyan with peach dawn coastal palette, soft diffusion from streetlamp pool, falling off into shadow 80d6a2797c82"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with careful studio staging photographic style, snow field as below-subject negative space composition, slate blue with golden haze coastal palette, controlled high contrast from streetlamp pool, creating a luminous frame 80f60b18b51a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.80f60b18b51a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-compressed-spatial-planes-with-atmospheric-se"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.snow-field-as-below-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-signs-of-sudden-departure-quiet-psycholog"
+        ],
+        "expression": [
+          "curated.expression.dreamily-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-streetlamp-pool-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with careful studio staging photographic style, snow field as below-subject negative space composition, slate blue with golden haze coastal palette, controlled high contrast from streetlamp pool, creating a luminous frame 80f60b18b51a"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with fine surface grain photographic style, deep shadow as right-side negative space composition, kelp green with clear cerulean coastal palette, crisp shadow edges from streetlamp pool, spilling into the background 98b8d818f141"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.98b8d818f141",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-overlapping-silhouettes-with-color-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-right-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-dark-window-reflections-restrained-supern"
+        ],
+        "expression": [
+          "curated.expression.subtly-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.kelp-green-with-clear-cerulean-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with fine surface grain photographic style, deep shadow as right-side negative space composition, kelp green with clear cerulean coastal palette, crisp shadow edges from streetlamp pool, spilling into the background 98b8d818f141"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with centered period framing photographic style, distant horizon as right-side negative space composition, slate blue with peach dawn coastal palette, soft diffusion from streetlamp pool, contained in a localized pool b4fd62fa4c7b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.b4fd62fa4c7b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-deep-vanishing-point-layers-with-color-separa"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.distant-horizon-as-right-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-doors-left-slightly-ajar-quiet-psychologi"
+        ],
+        "expression": [
+          "curated.expression.painfully-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-with-peach-dawn-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with centered period framing photographic style, distant horizon as right-side negative space composition, slate blue with peach dawn coastal palette, soft diffusion from streetlamp pool, contained in a localized pool b4fd62fa4c7b"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with careful studio staging photographic style, snow field as encircling negative space composition, stormwater gray with storm violet coastal palette, crisp shadow edges from streetlamp pool, reflected from nearby surfaces b95a851b37b2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.b95a851b37b2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-expansive-spatial-planes-with-color-separatio"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.snow-field-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-repeating-shadow-patterns-slow-building-s"
+        ],
+        "expression": [
+          "curated.expression.painfully-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.stormwater-gray-with-storm-violet-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with careful studio staging photographic style, snow field as encircling negative space composition, stormwater gray with storm violet coastal palette, crisp shadow edges from streetlamp pool, reflected from nearby surfaces b95a851b37b2"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with soft edge falloff photographic style, calm water as left-side negative space composition, foam white with storm violet coastal palette, crisp shadow edges from streetlamp pool, spilling into the background c76cb3f3b527"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.c76cb3f3b527",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-a-clear-foreground-plane-with-tonal-separatio"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-left-side-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-flickering-practical-lights-quiet-psychol"
+        ],
+        "expression": [
+          "curated.expression.subtly-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.foam-white-with-storm-violet-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with soft edge falloff photographic style, calm water as left-side negative space composition, foam white with storm violet coastal palette, crisp shadow edges from streetlamp pool, spilling into the background c76cb3f3b527"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with deep shadow detail photographic style, empty floor as encircling negative space composition, lagoon turquoise with peach dawn coastal palette, controlled high contrast from streetlamp pool, creating a luminous frame d33d4d202d6c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.d33d4d202d6c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-compressed-spatial-planes-with-texture-fallof"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-worn-personal-belongings-slow-building-su"
+        ],
+        "expression": [
+          "curated.expression.gently-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-streetlamp-pool-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lagoon-turquoise-with-peach-dawn-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with deep shadow detail photographic style, empty floor as encircling negative space composition, lagoon turquoise with peach dawn coastal palette, controlled high contrast from streetlamp pool, creating a luminous frame d33d4d202d6c"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with luminous highlights photographic style, distant horizon as encircling negative space composition, arctic blue with golden haze coastal palette, crisp shadow edges from streetlamp pool, creating a luminous frame d7198c17bdfd"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.d7198c17bdfd",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-foreground-framing-with-texture-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.distant-horizon-as-encircling-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-repeating-shadow-patterns-quiet-psycholog"
+        ],
+        "expression": [
+          "curated.expression.nervously-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.arctic-blue-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with luminous highlights photographic style, distant horizon as encircling negative space composition, arctic blue with golden haze coastal palette, crisp shadow edges from streetlamp pool, creating a luminous frame d7198c17bdfd"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "haunted solitude featuring wet-plate collodion with deep shadow detail photographic style, snow field as above-subject negative space composition, lagoon turquoise with peach dawn coastal palette, crisp shadow edges from streetlamp pool, reflected from nearby surfaces fe8624442e71"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.haunted-solitude",
+      "familyTriggers": [
+        "haunted solitude narrative direction",
+        "lighthouse isolation drama",
+        "coastal spectral loneliness"
+      ],
+      "id": "phase8.art.narrative.haunted-solitude.fe8624442e71",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.soft-background-separation-receding-architecture-with-rim-light-separati"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.snow-field-as-above-subject-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.storm-battered-lighthouse-with-long-empty-sightlines-slow-building-suspe"
+        ],
+        "expression": [
+          "curated.expression.painfully-haunted-gaze"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lagoon-turquoise-with-peach-dawn-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Haunted Solitude 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.haunted-solitude",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "haunted distant gaze",
+        "non-graphic lighthouse dread",
+        "coastal negative-space isolation"
+      ],
+      "triggers": [
+        "haunted solitude featuring wet-plate collodion with deep shadow detail photographic style, snow field as above-subject negative space composition, lagoon turquoise with peach dawn coastal palette, crisp shadow edges from streetlamp pool, reflected from nearby surfaces fe8624442e71"
+      ],
+      "variantIndex": 0
+    }
+  ],
+  "schemaVersion": 2
+}

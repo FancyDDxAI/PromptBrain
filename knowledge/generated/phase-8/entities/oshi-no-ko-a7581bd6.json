@@ -1,0 +1,217 @@
+{
+  "count": 6,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Ai Hoshino",
+        "Ai Hoshino (Oshi no Ko)"
+      ],
+      "id": "character.oshi-no-ko.ai-hoshino",
+      "kind": "named-character",
+      "name": "Ai Hoshino",
+      "namespace": "Oshi no Ko",
+      "promptTags": [
+        "Ai Hoshino",
+        "Oshi no Ko",
+        "female",
+        "idol"
+      ],
+      "provenance": {
+        "groupId": "oshi-no-ko",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "idol"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Akane Kurokawa",
+        "Akane Kurokawa (Oshi no Ko)"
+      ],
+      "id": "character.oshi-no-ko.akane-kurokawa",
+      "kind": "named-character",
+      "name": "Akane Kurokawa",
+      "namespace": "Oshi no Ko",
+      "promptTags": [
+        "Akane Kurokawa",
+        "Oshi no Ko",
+        "female",
+        "actor"
+      ],
+      "provenance": {
+        "groupId": "oshi-no-ko",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "actor"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Aquamarine Hoshino",
+        "Aquamarine Hoshino (Oshi no Ko)",
+        "Aqua Hoshino (Oshi no Ko)"
+      ],
+      "id": "character.oshi-no-ko.aquamarine-hoshino",
+      "kind": "named-character",
+      "name": "Aquamarine Hoshino",
+      "namespace": "Oshi no Ko",
+      "promptTags": [
+        "Aquamarine Hoshino",
+        "Oshi no Ko",
+        "male",
+        "actor"
+      ],
+      "provenance": {
+        "groupId": "oshi-no-ko",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "actor"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kana Arima",
+        "Kana Arima (Oshi no Ko)"
+      ],
+      "id": "character.oshi-no-ko.kana-arima",
+      "kind": "named-character",
+      "name": "Kana Arima",
+      "namespace": "Oshi no Ko",
+      "promptTags": [
+        "Kana Arima",
+        "Oshi no Ko",
+        "female",
+        "actor idol"
+      ],
+      "provenance": {
+        "groupId": "oshi-no-ko",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "actor",
+        "idol"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "MEM-cho",
+        "MEM-cho (Oshi no Ko)"
+      ],
+      "id": "character.oshi-no-ko.mem-cho",
+      "kind": "named-character",
+      "name": "MEM-cho",
+      "namespace": "Oshi no Ko",
+      "promptTags": [
+        "MEM-cho",
+        "Oshi no Ko",
+        "female",
+        "influencer idol"
+      ],
+      "provenance": {
+        "groupId": "oshi-no-ko",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "influencer",
+        "idol"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Ruby Hoshino",
+        "Ruby Hoshino (Oshi no Ko)"
+      ],
+      "id": "character.oshi-no-ko.ruby-hoshino",
+      "kind": "named-character",
+      "name": "Ruby Hoshino",
+      "namespace": "Oshi no Ko",
+      "promptTags": [
+        "Ruby Hoshino",
+        "Oshi no Ko",
+        "female",
+        "idol"
+      ],
+      "provenance": {
+        "groupId": "oshi-no-ko",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "protagonist",
+        "idol"
+      ]
+    }
+  ],
+  "fingerprint": "a460e40392de6a6b66337e3fd96727f361219241c6a77c1d5f6a3dc92d240c8e",
+  "namespace": "Oshi no Ko",
+  "schemaVersion": 2
+}

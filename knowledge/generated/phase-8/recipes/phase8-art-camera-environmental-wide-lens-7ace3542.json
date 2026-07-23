@@ -1,0 +1,1664 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.camera.environmental-wide-lens",
+  "fingerprint": "a68ce429baa229accf13c89c514a805dd252e6180521e195b13ee7aa4bee2c89",
+  "recipes": [
+    {
+      "aliases": [
+        "environmental wide lens featuring cross-processed film with soft edge falloff photographic style, wild grass foreground with centered horizon landscape composition, tidal teal with storm violet coastal palette, diffused overcast light 01d099defed2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.01d099defed2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-wide-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wild-grass-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tidal-teal-with-storm-violet-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring cross-processed film with soft edge falloff photographic style, wild grass foreground with centered horizon landscape composition, tidal teal with storm violet coastal palette, diffused overcast light 01d099defed2"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring wet-plate collodion with centered period framing photographic style, path bend foreground with high horizon landscape composition, stormwater gray with golden haze coastal palette, diffused overcast light 0ebc5de59fc8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.0ebc5de59fc8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-stopped-down-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.path-bend-foreground-with-high-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.stormwater-gray-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring wet-plate collodion with centered period framing photographic style, path bend foreground with high horizon landscape composition, stormwater gray with golden haze coastal palette, diffused overcast light 0ebc5de59fc8"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring infrared film with luminous highlights photographic style, tree branch foreground with tilted horizon landscape composition, deep ocean blue with peach dawn coastal palette, diffused overcast light 0f46ef3b21cb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.0f46ef3b21cb",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-moderate-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.tree-branch-foreground-with-tilted-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-ocean-blue-with-peach-dawn-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.infrared-film-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring infrared film with luminous highlights photographic style, tree branch foreground with tilted horizon landscape composition, deep ocean blue with peach dawn coastal palette, diffused overcast light 0f46ef3b21cb"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring cross-processed film with toned highlight bloom photographic style, reflective pool foreground with tilted horizon landscape composition, foam white with golden haze coastal palette, diffused overcast light 2d6ec74f7834"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.2d6ec74f7834",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-wide-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflective-pool-foreground-with-tilted-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.foam-white-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-toned-highlight-bloom-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring cross-processed film with toned highlight bloom photographic style, reflective pool foreground with tilted horizon landscape composition, foam white with golden haze coastal palette, diffused overcast light 2d6ec74f7834"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring bleach bypass film with luminous highlights photographic style, snow bank foreground with centered horizon landscape composition, slate blue with storm violet coastal palette, diffused overcast light 30629d628d95"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.30629d628d95",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-mid-range-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.snow-bank-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-with-storm-violet-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.bleach-bypass-film-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring bleach bypass film with luminous highlights photographic style, snow bank foreground with centered horizon landscape composition, slate blue with storm violet coastal palette, diffused overcast light 30629d628d95"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring hand-tinted photograph with careful studio staging photographic style, fence line foreground with centered horizon landscape composition, deep ocean blue with moonlit pearl coastal palette, diffused overcast light 43f38e0fba8e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.43f38e0fba8e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-mid-range-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.fence-line-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-ocean-blue-with-moonlit-pearl-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.hand-tinted-photograph-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring hand-tinted photograph with careful studio staging photographic style, fence line foreground with centered horizon landscape composition, deep ocean blue with moonlit pearl coastal palette, diffused overcast light 43f38e0fba8e"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring expired color film with careful studio staging photographic style, shoreline stones foreground with tilted horizon landscape composition, lagoon turquoise with coral sunset coastal palette, diffused overcast light 4abac9c0473f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.4abac9c0473f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-stopped-down-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.shoreline-stones-foreground-with-tilted-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lagoon-turquoise-with-coral-sunset-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring expired color film with careful studio staging photographic style, shoreline stones foreground with tilted horizon landscape composition, lagoon turquoise with coral sunset coastal palette, diffused overcast light 4abac9c0473f"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring bleach bypass film with careful studio staging photographic style, path bend foreground with low horizon landscape composition, stormwater gray with golden haze coastal palette, diffused overcast light 603fae78e745"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.603fae78e745",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-stopped-down-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.path-bend-foreground-with-low-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.stormwater-gray-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.bleach-bypass-film-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring bleach bypass film with careful studio staging photographic style, path bend foreground with low horizon landscape composition, stormwater gray with golden haze coastal palette, diffused overcast light 603fae78e745"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring hand-tinted photograph with toned highlight bloom photographic style, archway foreground with high horizon landscape composition, reef cyan with fog white coastal palette, diffused overcast light 71ecd8a70c01"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.71ecd8a70c01",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-mid-range-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.archway-foreground-with-high-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.reef-cyan-with-fog-white-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.hand-tinted-photograph-with-toned-highlight-bloom-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring hand-tinted photograph with toned highlight bloom photographic style, archway foreground with high horizon landscape composition, reef cyan with fog white coastal palette, diffused overcast light 71ecd8a70c01"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring expired color film with luminous highlights photographic style, rock ledge foreground with mist-softened horizon landscape composition, arctic blue with moonlit pearl coastal palette, diffused overcast light 80abcef46bcb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.80abcef46bcb",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-mid-range-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.rock-ledge-foreground-with-mist-softened-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.arctic-blue-with-moonlit-pearl-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.expired-color-film-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring expired color film with luminous highlights photographic style, rock ledge foreground with mist-softened horizon landscape composition, arctic blue with moonlit pearl coastal palette, diffused overcast light 80abcef46bcb"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring salt print with muted tonal range photographic style, tree branch foreground with layered horizon landscape composition, reef cyan with peach dawn coastal palette, diffused overcast light 9166430daba4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.9166430daba4",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-moderate-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.tree-branch-foreground-with-layered-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.reef-cyan-with-peach-dawn-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.salt-print-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring salt print with muted tonal range photographic style, tree branch foreground with layered horizon landscape composition, reef cyan with peach dawn coastal palette, diffused overcast light 9166430daba4"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring daguerreotype with centered period framing photographic style, archway foreground with hidden horizon landscape composition, foam white with storm violet coastal palette, diffused overcast light 972a55490512"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.972a55490512",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-stopped-down-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.archway-foreground-with-hidden-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.foam-white-with-storm-violet-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.daguerreotype-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring daguerreotype with centered period framing photographic style, archway foreground with hidden horizon landscape composition, foam white with storm violet coastal palette, diffused overcast light 972a55490512"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring infrared film with careful studio staging photographic style, ruin fragment foreground with high horizon landscape composition, deep ocean blue with storm violet coastal palette, diffused overcast light a428c5b95eb0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.a428c5b95eb0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-stopped-down-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.ruin-fragment-foreground-with-high-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-ocean-blue-with-storm-violet-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.infrared-film-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring infrared film with careful studio staging photographic style, ruin fragment foreground with high horizon landscape composition, deep ocean blue with storm violet coastal palette, diffused overcast light a428c5b95eb0"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring infrared film with soft edge falloff photographic style, flower cluster foreground with layered horizon landscape composition, deep ocean blue with fog white coastal palette, diffused overcast light a6b047efaf74"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.a6b047efaf74",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-moderate-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.flower-cluster-foreground-with-layered-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-ocean-blue-with-fog-white-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.infrared-film-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring infrared film with soft edge falloff photographic style, flower cluster foreground with layered horizon landscape composition, deep ocean blue with fog white coastal palette, diffused overcast light a6b047efaf74"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring daguerreotype with deep shadow detail photographic style, archway foreground with tilted horizon landscape composition, tidal teal with storm violet coastal palette, diffused overcast light bc150ccd33dc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.bc150ccd33dc",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.archway-foreground-with-tilted-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tidal-teal-with-storm-violet-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.daguerreotype-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring daguerreotype with deep shadow detail photographic style, archway foreground with tilted horizon landscape composition, tidal teal with storm violet coastal palette, diffused overcast light bc150ccd33dc"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring salt print with luminous highlights photographic style, ruin fragment foreground with high horizon landscape composition, sea-glass green with golden haze coastal palette, diffused overcast light bffe8a9076f3"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.bffe8a9076f3",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.ruin-fragment-foreground-with-high-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sea-glass-green-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.salt-print-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring salt print with luminous highlights photographic style, ruin fragment foreground with high horizon landscape composition, sea-glass green with golden haze coastal palette, diffused overcast light bffe8a9076f3"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring daguerreotype with luminous highlights photographic style, reflective pool foreground with tilted horizon landscape composition, harbor navy with storm violet coastal palette, diffused overcast light c3d2b386a3eb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.c3d2b386a3eb",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-wide-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflective-pool-foreground-with-tilted-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.harbor-navy-with-storm-violet-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.daguerreotype-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring daguerreotype with luminous highlights photographic style, reflective pool foreground with tilted horizon landscape composition, harbor navy with storm violet coastal palette, diffused overcast light c3d2b386a3eb"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring cyanotype with soft edge falloff photographic style, archway foreground with layered horizon landscape composition, sea-glass green with golden haze coastal palette, diffused overcast light c865fd86aa1d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.c865fd86aa1d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-moderate-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.archway-foreground-with-layered-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sea-glass-green-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cyanotype-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring cyanotype with soft edge falloff photographic style, archway foreground with layered horizon landscape composition, sea-glass green with golden haze coastal palette, diffused overcast light c865fd86aa1d"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring albumen print with soft edge falloff photographic style, flower cluster foreground with hidden horizon landscape composition, deep ocean blue with coral sunset coastal palette, diffused overcast light cff17771123f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.cff17771123f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-mid-range-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.flower-cluster-foreground-with-hidden-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-ocean-blue-with-coral-sunset-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.albumen-print-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring albumen print with soft edge falloff photographic style, flower cluster foreground with hidden horizon landscape composition, deep ocean blue with coral sunset coastal palette, diffused overcast light cff17771123f"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring daguerreotype with centered period framing photographic style, tree branch foreground with centered horizon landscape composition, deep ocean blue with fog white coastal palette, diffused overcast light ddaf3f870906"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.ddaf3f870906",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-stopped-down-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.tree-branch-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-ocean-blue-with-fog-white-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.daguerreotype-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring daguerreotype with centered period framing photographic style, tree branch foreground with centered horizon landscape composition, deep ocean blue with fog white coastal palette, diffused overcast light ddaf3f870906"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring platinum print with careful studio staging photographic style, archway foreground with layered horizon landscape composition, harbor navy with clear cerulean coastal palette, diffused overcast light e490151efe99"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.e490151efe99",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-wide-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.archway-foreground-with-layered-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.harbor-navy-with-clear-cerulean-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring platinum print with careful studio staging photographic style, archway foreground with layered horizon landscape composition, harbor navy with clear cerulean coastal palette, diffused overcast light e490151efe99"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring cyanotype with muted tonal range photographic style, rooftop edge foreground with low horizon landscape composition, arctic blue with peach dawn coastal palette, diffused overcast light fa4db1fcbbaf"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.fa4db1fcbbaf",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-mid-range-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.rooftop-edge-foreground-with-low-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.arctic-blue-with-peach-dawn-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cyanotype-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring cyanotype with muted tonal range photographic style, rooftop edge foreground with low horizon landscape composition, arctic blue with peach dawn coastal palette, diffused overcast light fa4db1fcbbaf"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring wet-plate collodion with centered period framing photographic style, archway foreground with tilted horizon landscape composition, tidal teal with fog white coastal palette, diffused overcast light fbcdfc8cb12a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.fbcdfc8cb12a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-wide-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.archway-foreground-with-tilted-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tidal-teal-with-fog-white-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.wet-plate-collodion-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring wet-plate collodion with centered period framing photographic style, archway foreground with tilted horizon landscape composition, tidal teal with fog white coastal palette, diffused overcast light fbcdfc8cb12a"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "environmental wide lens featuring cyanotype with fine surface grain photographic style, tree branch foreground with low horizon landscape composition, sea-glass green with coral sunset coastal palette, diffused overcast light fd1c61331b32"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.environmental-wide-lens",
+      "familyTriggers": [
+        "environmental wide lens grammar",
+        "wide contextual camera direction",
+        "24mm scene-inclusive framing"
+      ],
+      "id": "phase8.art.camera.environmental-wide-lens.fd1c61331b32",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.24mm-wide-angle-lens-at-a-stopped-down-aperture-neutral-optical-renderin"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.tree-branch-foreground-with-low-horizon-landscape-composition"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sea-glass-green-with-coral-sunset-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cyanotype-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Environmental Wide Lens 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.environmental-wide-lens",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "wide-lens context",
+        "foreground-to-horizon reach",
+        "environmental optical breadth"
+      ],
+      "triggers": [
+        "environmental wide lens featuring cyanotype with fine surface grain photographic style, tree branch foreground with low horizon landscape composition, sea-glass green with coral sunset coastal palette, diffused overcast light fd1c61331b32"
+      ],
+      "variantIndex": 16
+    }
+  ],
+  "schemaVersion": 2
+}

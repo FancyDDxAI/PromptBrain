@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "coverageSeverity": "error",
+  "minimums": {
+    "checkpoints": 12,
+    "entities": 300,
+    "concepts": 25000,
+    "recipes": 1200,
+    "adultConcepts": 2000
+  },
+  "minimumConceptsByKind": {
+    "quality": 900,
+    "style": 1000,
+    "subject": 600,
+    "anatomy": 1000,
+    "action": 1200,
+    "interaction": 600,
+    "pose": 1000,
+    "expression": 800,
+    "wardrobe": 4000,
+    "environment": 2400,
+    "lighting": 600,
+    "camera": 2200,
+    "composition": 900,
+    "palette": 900,
+    "motif": 900,
+    "effect": 900
+  },
+  "requiredCheckpointBases": [
+    "SD1.5",
+    "SDXL",
+    "Pony",
+    "FLUX"
+  ],
+  "phase8Targets": {
+    "concepts": 25000,
+    "recipes": 1200,
+    "namedEntities": 300,
+    "adultConcepts": 2000,
+    "conceptsByKind": {
+      "quality": 900,
+      "style": 1000,
+      "subject": 600,
+      "anatomy": 1000,
+      "action": 1200,
+      "interaction": 600,
+      "pose": 1000,
+      "expression": 800,
+      "wardrobe": 4000,
+      "environment": 2400,
+      "lighting": 600,
+      "camera": 2200,
+      "composition": 900,
+      "palette": 900,
+      "motif": 900,
+      "effect": 900
+    },
+    "effectiveConceptsByBase": {
+      "SD1.5": 23000,
+      "SDXL": 24000,
+      "Pony": 23000,
+      "FLUX": 22000
+    },
+    "maximumStructuralErrors": 0,
+    "maximumNewCanonicalDuplicates": 0,
+    "minimumQualityScore": 99.4
+  }
+}

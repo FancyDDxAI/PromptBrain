@@ -1,0 +1,1664 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.camera.deep-focus-architecture",
+  "fingerprint": "8eb396c0e29c5e1d71fefb3983ccc86696d6f0318b6e22d64eec41b0d24c79a0",
+  "recipes": [
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with soft graphite shading visual style, portal-centered structure with alternating detail rhythm composition, volcanic black with malachite green mineral-earth palette, crisp shadow edges from ceiling skylight, focused on the subject plane 03bf33131aa3"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.03bf33131aa3",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-foreground-framing-with-scale-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.portal-centered-structure-with-alternating-detail-rhythm-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.volcanic-black-with-malachite-green-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-soft-graphite-shading-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with soft graphite shading visual style, portal-centered structure with alternating detail rhythm composition, volcanic black with malachite green mineral-earth palette, crisp shadow edges from ceiling skylight, focused on the subject plane 03bf33131aa3"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with soft graphite shading visual style, bilateral structure with broken lower balance composition, ochre clay with pyrite gold mineral-earth palette, crisp shadow edges from ceiling skylight, contained in a localized pool 0b776397b890"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.0b776397b890",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-deep-vanishing-point-layers-with-rim-light-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-broken-lower-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ochre-clay-with-pyrite-gold-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-soft-graphite-shading-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with soft graphite shading visual style, bilateral structure with broken lower balance composition, ochre clay with pyrite gold mineral-earth palette, crisp shadow edges from ceiling skylight, contained in a localized pool 0b776397b890"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with clean measured lines visual style, emblematic structure with centered void composition, red sandstone with malachite green mineral-earth palette, crisp shadow edges from ceiling skylight, falling off into shadow 0b9013b222cd"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.0b9013b222cd",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-receding-architecture-with-tonal-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.emblematic-structure-with-centered-void-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.red-sandstone-with-malachite-green-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-clean-measured-lines-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with clean measured lines visual style, emblematic structure with centered void composition, red sandstone with malachite green mineral-earth palette, crisp shadow edges from ceiling skylight, falling off into shadow 0b9013b222cd"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with selective color coding visual style, reflectional structure with broken lower balance composition, burnt sienna with malachite green mineral-earth palette, soft diffusion from ceiling skylight, focused on the subject plane 0c2e165777fb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.0c2e165777fb",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-foreground-framing-with-tonal-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflectional-structure-with-broken-lower-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-ceiling-skylight-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burnt-sienna-with-malachite-green-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-selective-color-coding-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with selective color coding visual style, reflectional structure with broken lower balance composition, burnt sienna with malachite green mineral-earth palette, soft diffusion from ceiling skylight, focused on the subject plane 0c2e165777fb"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with clean measured lines visual style, altar-like structure with centered void composition, raw umber with mica silver mineral-earth palette, controlled high contrast from ceiling skylight, broken by foreground shapes 22c8f541dc05"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.22c8f541dc05",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-deep-vanishing-point-layers-with-scale-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.altar-like-structure-with-centered-void-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-ceiling-skylight-broken-by-foreground-shap"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.raw-umber-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-clean-measured-lines-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with clean measured lines visual style, altar-like structure with centered void composition, raw umber with mica silver mineral-earth palette, controlled high contrast from ceiling skylight, broken by foreground shapes 22c8f541dc05"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with precise labeled details visual style, altar-like structure with single offset accent composition, peat brown with malachite green mineral-earth palette, gentle atmospheric bloom from ceiling skylight, reflected from nearby surfaces 549044b3f1dd"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.549044b3f1dd",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-layered-midground-planes-with-color-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.altar-like-structure-with-single-offset-accent-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-reflected-from-nearby-sur"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peat-brown-with-malachite-green-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with precise labeled details visual style, altar-like structure with single offset accent composition, peat brown with malachite green mineral-earth palette, gentle atmospheric bloom from ceiling skylight, reflected from nearby surfaces 549044b3f1dd"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with precise labeled details visual style, axial structure with single offset accent composition, ochre clay with cinnabar red mineral-earth palette, controlled high contrast from ceiling skylight, layered across depth planes 5d2ee8232806"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.5d2ee8232806",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-overlapping-silhouettes-with-rim-light-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.axial-structure-with-single-offset-accent-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-ceiling-skylight-layered-across-depth-plan"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ochre-clay-with-cinnabar-red-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with precise labeled details visual style, axial structure with single offset accent composition, ochre clay with cinnabar red mineral-earth palette, controlled high contrast from ceiling skylight, layered across depth planes 5d2ee8232806"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with clean measured lines visual style, architectural structure with centered void composition, peat brown with cinnabar red mineral-earth palette, controlled high contrast from ceiling skylight, layered across depth planes 64b3cdd0b74f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.64b3cdd0b74f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-layered-midground-planes-with-rim-light-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.architectural-structure-with-centered-void-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-ceiling-skylight-layered-across-depth-plan"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peat-brown-with-cinnabar-red-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-clean-measured-lines-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with clean measured lines visual style, architectural structure with centered void composition, peat brown with cinnabar red mineral-earth palette, controlled high contrast from ceiling skylight, layered across depth planes 64b3cdd0b74f"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with precise labeled details visual style, altar-like structure with single offset accent composition, terracotta with turquoise blue mineral-earth palette, controlled high contrast from ceiling skylight, broken by foreground shapes 6ab591c7543f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.6ab591c7543f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-compressed-spatial-planes-with-rim-light-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.altar-like-structure-with-single-offset-accent-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-ceiling-skylight-broken-by-foreground-shap"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.terracotta-with-turquoise-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with precise labeled details visual style, altar-like structure with single offset accent composition, terracotta with turquoise blue mineral-earth palette, controlled high contrast from ceiling skylight, broken by foreground shapes 6ab591c7543f"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with precise labeled details visual style, reflectional structure with paired counterweights composition, red sandstone with azurite blue mineral-earth palette, crisp shadow edges from ceiling skylight, broken by foreground shapes 6ba1c3646bf6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.6ba1c3646bf6",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-receding-architecture-with-rim-light-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflectional-structure-with-paired-counterweights-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.red-sandstone-with-azurite-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with precise labeled details visual style, reflectional structure with paired counterweights composition, red sandstone with azurite blue mineral-earth palette, crisp shadow edges from ceiling skylight, broken by foreground shapes 6ba1c3646bf6"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with precise labeled details visual style, bilateral structure with centered void composition, red sandstone with turquoise blue mineral-earth palette, soft diffusion from ceiling skylight, layered across depth planes 6bef30bda0a9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.6bef30bda0a9",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-layered-midground-planes-with-texture-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-centered-void-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-ceiling-skylight-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.red-sandstone-with-turquoise-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with precise labeled details visual style, bilateral structure with centered void composition, red sandstone with turquoise blue mineral-earth palette, soft diffusion from ceiling skylight, layered across depth planes 6bef30bda0a9"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with precise labeled details visual style, radial structure with soft asymmetry composition, ochre clay with azurite blue mineral-earth palette, soft diffusion from ceiling skylight, focused on the subject plane 6dff2192b940"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.6dff2192b940",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-expansive-spatial-planes-with-atmospheric-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.radial-structure-with-soft-asymmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-ceiling-skylight-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ochre-clay-with-azurite-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with precise labeled details visual style, radial structure with soft asymmetry composition, ochre clay with azurite blue mineral-earth palette, soft diffusion from ceiling skylight, focused on the subject plane 6dff2192b940"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with selective color coding visual style, altar-like structure with single offset accent composition, basalt gray with quartz white mineral-earth palette, soft diffusion from ceiling skylight, broken by foreground shapes 884962812ec0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.884962812ec0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-receding-architecture-with-scale-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.altar-like-structure-with-single-offset-accent-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-ceiling-skylight-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.basalt-gray-with-quartz-white-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-selective-color-coding-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with selective color coding visual style, altar-like structure with single offset accent composition, basalt gray with quartz white mineral-earth palette, soft diffusion from ceiling skylight, broken by foreground shapes 884962812ec0"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with aged paper texture visual style, bilateral structure with centered void composition, desert rose with azurite blue mineral-earth palette, crisp shadow edges from ceiling skylight, grazing textured surfaces 8da535b48d7c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.8da535b48d7c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-layered-midground-planes-with-texture-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-centered-void-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.desert-rose-with-azurite-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-aged-paper-texture-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with aged paper texture visual style, bilateral structure with centered void composition, desert rose with azurite blue mineral-earth palette, crisp shadow edges from ceiling skylight, grazing textured surfaces 8da535b48d7c"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with selective color coding visual style, reflectional structure with soft asymmetry composition, adobe orange with pyrite gold mineral-earth palette, crisp shadow edges from ceiling skylight, creating a luminous frame 90d8feb53530"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.90d8feb53530",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-layered-midground-planes-with-atmospheric-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflectional-structure-with-soft-asymmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.adobe-orange-with-pyrite-gold-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-selective-color-coding-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with selective color coding visual style, reflectional structure with soft asymmetry composition, adobe orange with pyrite gold mineral-earth palette, crisp shadow edges from ceiling skylight, creating a luminous frame 90d8feb53530"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with muted wash accents visual style, reflectional structure with soft asymmetry composition, ochre clay with mica silver mineral-earth palette, gentle atmospheric bloom from ceiling skylight, reflected from nearby surfaces a1c9aaf0e27e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.a1c9aaf0e27e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-a-clear-foreground-plane-with-rim-light-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflectional-structure-with-soft-asymmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-reflected-from-nearby-sur"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ochre-clay-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-muted-wash-accents-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with muted wash accents visual style, reflectional structure with soft asymmetry composition, ochre clay with mica silver mineral-earth palette, gentle atmospheric bloom from ceiling skylight, reflected from nearby surfaces a1c9aaf0e27e"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with fine ink notation visual style, architectural structure with soft asymmetry composition, peat brown with quartz white mineral-earth palette, soft diffusion from ceiling skylight, focused on the subject plane a5501a0b356e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.a5501a0b356e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-overlapping-silhouettes-with-tonal-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.architectural-structure-with-soft-asymmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-ceiling-skylight-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peat-brown-with-quartz-white-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-fine-ink-notation-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with fine ink notation visual style, architectural structure with soft asymmetry composition, peat brown with quartz white mineral-earth palette, soft diffusion from ceiling skylight, focused on the subject plane a5501a0b356e"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with precise labeled details visual style, reflectional structure with strict symmetry composition, adobe orange with mica silver mineral-earth palette, controlled high contrast from ceiling skylight, falling off into shadow bba8d7757673"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.bba8d7757673",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-foreground-framing-with-rim-light-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflectional-structure-with-strict-symmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-ceiling-skylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.adobe-orange-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with precise labeled details visual style, reflectional structure with strict symmetry composition, adobe orange with mica silver mineral-earth palette, controlled high contrast from ceiling skylight, falling off into shadow bba8d7757673"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with clean measured lines visual style, architectural structure with broken upper balance composition, raw umber with azurite blue mineral-earth palette, soft diffusion from ceiling skylight, reflected from nearby surfaces c3c3dc3502ee"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.c3c3dc3502ee",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-expansive-spatial-planes-with-atmospheric-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.architectural-structure-with-broken-upper-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-ceiling-skylight-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.raw-umber-with-azurite-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-clean-measured-lines-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with clean measured lines visual style, architectural structure with broken upper balance composition, raw umber with azurite blue mineral-earth palette, soft diffusion from ceiling skylight, reflected from nearby surfaces c3c3dc3502ee"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with muted wash accents visual style, frieze-like structure with alternating detail rhythm composition, volcanic black with mica silver mineral-earth palette, gentle atmospheric bloom from ceiling skylight, falling off into shadow c84608739dbc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.c84608739dbc",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-compressed-spatial-planes-with-texture-falloff"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.frieze-like-structure-with-alternating-detail-rhythm-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.volcanic-black-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-muted-wash-accents-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with muted wash accents visual style, frieze-like structure with alternating detail rhythm composition, volcanic black with mica silver mineral-earth palette, gentle atmospheric bloom from ceiling skylight, falling off into shadow c84608739dbc"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with soft graphite shading visual style, frieze-like structure with broken upper balance composition, loam olive with azurite blue mineral-earth palette, gentle atmospheric bloom from ceiling skylight, creating a luminous frame ddbf6610af11"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.ddbf6610af11",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-layered-midground-planes-with-rim-light-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.frieze-like-structure-with-broken-upper-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.loam-olive-with-azurite-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-soft-graphite-shading-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with soft graphite shading visual style, frieze-like structure with broken upper balance composition, loam olive with azurite blue mineral-earth palette, gentle atmospheric bloom from ceiling skylight, creating a luminous frame ddbf6610af11"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with precise labeled details visual style, kaleidoscopic structure with broken lower balance composition, basalt gray with malachite green mineral-earth palette, crisp shadow edges from ceiling skylight, grazing textured surfaces ed8bacf51e5c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.ed8bacf51e5c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-foreground-framing-with-atmospheric-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.kaleidoscopic-structure-with-broken-lower-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.basalt-gray-with-malachite-green-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with precise labeled details visual style, kaleidoscopic structure with broken lower balance composition, basalt gray with malachite green mineral-earth palette, crisp shadow edges from ceiling skylight, grazing textured surfaces ed8bacf51e5c"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with soft graphite shading visual style, portal-centered structure with broken lower balance composition, terracotta with mica silver mineral-earth palette, gentle atmospheric bloom from ceiling skylight, creating a luminous frame ef8a27cfaf8e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.ef8a27cfaf8e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-overlapping-silhouettes-with-color-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.portal-centered-structure-with-broken-lower-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.terracotta-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-soft-graphite-shading-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with soft graphite shading visual style, portal-centered structure with broken lower balance composition, terracotta with mica silver mineral-earth palette, gentle atmospheric bloom from ceiling skylight, creating a luminous frame ef8a27cfaf8e"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "deep focus architecture featuring architectural blueprint with clean measured lines visual style, bilateral structure with paired counterweights composition, peat brown with pyrite gold mineral-earth palette, crisp shadow edges from ceiling skylight, reflected from nearby surfaces f42c362256f3"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.deep-focus-architecture",
+      "familyTriggers": [
+        "deep focus architecture grammar",
+        "architectural depth-plane staging",
+        "deep-focus structural view"
+      ],
+      "id": "phase8.art.camera.deep-focus-architecture.f42c362256f3",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.deep-focus-staging-layered-midground-planes-with-rim-light-separation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-paired-counterweights-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peat-brown-with-pyrite-gold-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.architectural-blueprint-with-clean-measured-lines-visual-style"
+        ]
+      },
+      "name": "Deep Focus Architecture 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.deep-focus-architecture",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "deep structural legibility",
+        "architectural plane separation",
+        "measured vanishing depth"
+      ],
+      "triggers": [
+        "deep focus architecture featuring architectural blueprint with clean measured lines visual style, bilateral structure with paired counterweights composition, peat brown with pyrite gold mineral-earth palette, crisp shadow edges from ceiling skylight, reflected from nearby surfaces f42c362256f3"
+      ],
+      "variantIndex": 9
+    }
+  ],
+  "schemaVersion": 2
+}

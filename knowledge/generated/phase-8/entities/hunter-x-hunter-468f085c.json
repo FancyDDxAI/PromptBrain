@@ -1,0 +1,252 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Chrollo Lucilfer",
+        "Chrollo Lucilfer (Hunter x Hunter)"
+      ],
+      "id": "character.hunter-x-hunter.chrollo-lucilfer",
+      "kind": "named-character",
+      "name": "Chrollo Lucilfer",
+      "namespace": "Hunter x Hunter",
+      "promptTags": [
+        "Chrollo Lucilfer",
+        "Hunter x Hunter",
+        "male",
+        "Phantom Troupe leader"
+      ],
+      "provenance": {
+        "groupId": "hunter-x-hunter",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "antagonist",
+        "leader"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Gon Freecss",
+        "Gon Freecss (Hunter x Hunter)"
+      ],
+      "id": "character.hunter-x-hunter.gon-freecss",
+      "kind": "named-character",
+      "name": "Gon Freecss",
+      "namespace": "Hunter x Hunter",
+      "promptTags": [
+        "Gon Freecss",
+        "Hunter x Hunter",
+        "male",
+        "Hunter"
+      ],
+      "provenance": {
+        "groupId": "hunter-x-hunter",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "hunter"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Hisoka Morow",
+        "Hisoka Morow (Hunter x Hunter)"
+      ],
+      "id": "character.hunter-x-hunter.hisoka-morow",
+      "kind": "named-character",
+      "name": "Hisoka Morow",
+      "namespace": "Hunter x Hunter",
+      "promptTags": [
+        "Hisoka Morow",
+        "Hunter x Hunter",
+        "male",
+        "magician fighter"
+      ],
+      "provenance": {
+        "groupId": "hunter-x-hunter",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "fighter",
+        "antagonist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Isaac Netero",
+        "Isaac Netero (Hunter x Hunter)"
+      ],
+      "id": "character.hunter-x-hunter.isaac-netero",
+      "kind": "named-character",
+      "name": "Isaac Netero",
+      "namespace": "Hunter x Hunter",
+      "promptTags": [
+        "Isaac Netero",
+        "Hunter x Hunter",
+        "male",
+        "Hunter chairman"
+      ],
+      "provenance": {
+        "groupId": "hunter-x-hunter",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "hunter",
+        "leader"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Killua Zoldyck",
+        "Killua Zoldyck (Hunter x Hunter)"
+      ],
+      "id": "character.hunter-x-hunter.killua-zoldyck",
+      "kind": "named-character",
+      "name": "Killua Zoldyck",
+      "namespace": "Hunter x Hunter",
+      "promptTags": [
+        "Killua Zoldyck",
+        "Hunter x Hunter",
+        "male",
+        "Hunter assassin"
+      ],
+      "provenance": {
+        "groupId": "hunter-x-hunter",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "hunter",
+        "assassin"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kurapika",
+        "Kurapika (Hunter x Hunter)"
+      ],
+      "id": "character.hunter-x-hunter.kurapika",
+      "kind": "named-character",
+      "name": "Kurapika",
+      "namespace": "Hunter x Hunter",
+      "promptTags": [
+        "Kurapika",
+        "Hunter x Hunter",
+        "male",
+        "Hunter"
+      ],
+      "provenance": {
+        "groupId": "hunter-x-hunter",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "hunter"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Leorio Paradinight",
+        "Leorio Paradinight (Hunter x Hunter)"
+      ],
+      "id": "character.hunter-x-hunter.leorio-paradinight",
+      "kind": "named-character",
+      "name": "Leorio Paradinight",
+      "namespace": "Hunter x Hunter",
+      "promptTags": [
+        "Leorio Paradinight",
+        "Hunter x Hunter",
+        "male",
+        "Hunter medical student"
+      ],
+      "provenance": {
+        "groupId": "hunter-x-hunter",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "hunter",
+        "medical-student"
+      ]
+    }
+  ],
+  "fingerprint": "212891253b698f7a2667e3c290866327097736b5c46f2fb2124f0e80456f01d7",
+  "namespace": "Hunter x Hunter",
+  "schemaVersion": 2
+}

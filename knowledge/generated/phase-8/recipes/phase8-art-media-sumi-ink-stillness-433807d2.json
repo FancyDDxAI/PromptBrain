@@ -1,0 +1,1544 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.media.sumi-ink-stillness",
+  "fingerprint": "7b34365bf86082656aa1de8d1d2d9b0a6df10333a07231552d205a5911ca2f0b",
+  "recipes": [
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with minimal accents illustration, soft bokeh as right-side negative space composition, slate ink on pale sky paper print palette, controlled high contrast from window daylight, layered across depth planes 03015992df80"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.03015992df80",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.soft-bokeh-as-right-side-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-window-daylight-layered-across-depth-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-ink-on-pale-sky-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-minimal-accents-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with minimal accents illustration, soft bokeh as right-side negative space composition, slate ink on pale sky paper print palette, controlled high contrast from window daylight, layered across depth planes 03015992df80"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with expressive splatter illustration, paper margin as corner negative space composition, teal ink on warm ivory print palette, crisp shadow edges from window daylight, grazing textured surfaces 0951c243483d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.0951c243483d",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-corner-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-ink-on-warm-ivory-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-expressive-splatter-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with expressive splatter illustration, paper margin as corner negative space composition, teal ink on warm ivory print palette, crisp shadow edges from window daylight, grazing textured surfaces 0951c243483d"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with expressive splatter illustration, deep shadow as left-side negative space composition, plum ink on light kraft paper print palette, gentle atmospheric bloom from window daylight, grazing textured surfaces 0e87ae51c8dc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.0e87ae51c8dc",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.deep-shadow-as-left-side-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-ink-on-light-kraft-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-expressive-splatter-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with expressive splatter illustration, deep shadow as left-side negative space composition, plum ink on light kraft paper print palette, gentle atmospheric bloom from window daylight, grazing textured surfaces 0e87ae51c8dc"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with expressive splatter illustration, soft bokeh as split-field negative space composition, rust ink on cool white print palette, controlled high contrast from window daylight, grazing textured surfaces 12930c6a7c44"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.12930c6a7c44",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.soft-bokeh-as-split-field-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-window-daylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.rust-ink-on-cool-white-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-expressive-splatter-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with expressive splatter illustration, soft bokeh as split-field negative space composition, rust ink on cool white print palette, controlled high contrast from window daylight, grazing textured surfaces 12930c6a7c44"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with soft wash fields illustration, mist field as right-side negative space composition, plum ink on warm ivory print palette, soft diffusion from window daylight, grazing textured surfaces 1b9f3e3f89c2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.1b9f3e3f89c2",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.mist-field-as-right-side-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-window-daylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-ink-on-warm-ivory-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-soft-wash-fields-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with soft wash fields illustration, mist field as right-side negative space composition, plum ink on warm ivory print palette, soft diffusion from window daylight, grazing textured surfaces 1b9f3e3f89c2"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with minimal accents illustration, distant horizon as below-subject negative space composition, vermilion ink on pale mint paper print palette, crisp shadow edges from window daylight, falling off into shadow 1c06b83e5ea7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.1c06b83e5ea7",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.distant-horizon-as-below-subject-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.vermilion-ink-on-pale-mint-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-minimal-accents-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with minimal accents illustration, distant horizon as below-subject negative space composition, vermilion ink on pale mint paper print palette, crisp shadow edges from window daylight, falling off into shadow 1c06b83e5ea7"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with airy linework illustration, unlit doorway as central negative space composition, teal ink on cream paper print palette, controlled high contrast from window daylight, spilling into the background 37fdb762a897"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.37fdb762a897",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.unlit-doorway-as-central-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-window-daylight-spilling-into-the-backgrou"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-ink-on-cream-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-airy-linework-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with airy linework illustration, unlit doorway as central negative space composition, teal ink on cream paper print palette, controlled high contrast from window daylight, spilling into the background 37fdb762a897"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with ornamental hatching illustration, calm water as above-subject negative space composition, burgundy ink on pale mint paper print palette, crisp shadow edges from window daylight, reflected from nearby surfaces 458fdbcb0cfa"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.458fdbcb0cfa",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-above-subject-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-ink-on-pale-mint-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-ornamental-hatching-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with ornamental hatching illustration, calm water as above-subject negative space composition, burgundy ink on pale mint paper print palette, crisp shadow edges from window daylight, reflected from nearby surfaces 458fdbcb0cfa"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with airy linework illustration, plain fabric as split-field negative space composition, charcoal ink on cool white print palette, crisp shadow edges from window daylight, layered across depth planes 4dddedd7e5a5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.4dddedd7e5a5",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.plain-fabric-as-split-field-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-ink-on-cool-white-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-airy-linework-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with airy linework illustration, plain fabric as split-field negative space composition, charcoal ink on cool white print palette, crisp shadow edges from window daylight, layered across depth planes 4dddedd7e5a5"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with soft wash fields illustration, snow field as left-side negative space composition, forest ink on blush paper print palette, gentle atmospheric bloom from window daylight, broken by foreground shapes 5b147e47caf9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.5b147e47caf9",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.snow-field-as-left-side-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-broken-by-foreground-shape"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-ink-on-blush-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-soft-wash-fields-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with soft wash fields illustration, snow field as left-side negative space composition, forest ink on blush paper print palette, gentle atmospheric bloom from window daylight, broken by foreground shapes 5b147e47caf9"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with expressive splatter illustration, plain fabric as below-subject negative space composition, indigo ink on pale sky paper print palette, gentle atmospheric bloom from window daylight, spilling into the background 69221c13afb8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.69221c13afb8",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.plain-fabric-as-below-subject-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-spilling-into-the-backgrou"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-ink-on-pale-sky-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-expressive-splatter-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with expressive splatter illustration, plain fabric as below-subject negative space composition, indigo ink on pale sky paper print palette, gentle atmospheric bloom from window daylight, spilling into the background 69221c13afb8"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with ornamental hatching illustration, empty floor as below-subject negative space composition, ultramarine ink on pale gray print palette, gentle atmospheric bloom from window daylight, contained in a localized pool 6df3f8948d00"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.6df3f8948d00",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-below-subject-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-contained-in-a-localized-p"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ultramarine-ink-on-pale-gray-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-ornamental-hatching-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with ornamental hatching illustration, empty floor as below-subject negative space composition, ultramarine ink on pale gray print palette, gentle atmospheric bloom from window daylight, contained in a localized pool 6df3f8948d00"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with precise contours illustration, distant horizon as encircling negative space composition, forest ink on pale mint paper print palette, crisp shadow edges from window daylight, grazing textured surfaces 6f562c220578"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.6f562c220578",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.distant-horizon-as-encircling-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-ink-on-pale-mint-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-precise-contours-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with precise contours illustration, distant horizon as encircling negative space composition, forest ink on pale mint paper print palette, crisp shadow edges from window daylight, grazing textured surfaces 6f562c220578"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with precise contours illustration, empty floor as corner negative space composition, slate ink on light kraft paper print palette, gentle atmospheric bloom from window daylight, falling off into shadow 8173e675b29a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.8173e675b29a",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.empty-floor-as-corner-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-ink-on-light-kraft-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-precise-contours-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with precise contours illustration, empty floor as corner negative space composition, slate ink on light kraft paper print palette, gentle atmospheric bloom from window daylight, falling off into shadow 8173e675b29a"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with precise contours illustration, open sky as corner negative space composition, charcoal ink on pale gray print palette, crisp shadow edges from window daylight, spilling into the background 877a38524d43"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.877a38524d43",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.open-sky-as-corner-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-ink-on-pale-gray-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-precise-contours-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with precise contours illustration, open sky as corner negative space composition, charcoal ink on pale gray print palette, crisp shadow edges from window daylight, spilling into the background 877a38524d43"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with airy linework illustration, snow field as encircling negative space composition, charcoal ink on pale mint paper print palette, soft diffusion from window daylight, creating a luminous frame 9305a5601bde"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.9305a5601bde",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.snow-field-as-encircling-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-window-daylight-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-ink-on-pale-mint-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-airy-linework-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with airy linework illustration, snow field as encircling negative space composition, charcoal ink on pale mint paper print palette, soft diffusion from window daylight, creating a luminous frame 9305a5601bde"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with minimal accents illustration, paper margin as above-subject negative space composition, sepia ink on pale sky paper print palette, soft diffusion from window daylight, focused on the subject plane 9e3bd01dc6d7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.9e3bd01dc6d7",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-above-subject-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-window-daylight-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-ink-on-pale-sky-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-minimal-accents-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with minimal accents illustration, paper margin as above-subject negative space composition, sepia ink on pale sky paper print palette, soft diffusion from window daylight, focused on the subject plane 9e3bd01dc6d7"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with precise contours illustration, plain fabric as corner negative space composition, ultramarine ink on pale gray print palette, crisp shadow edges from window daylight, spilling into the background ad2cadf0d8fa"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.ad2cadf0d8fa",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.plain-fabric-as-corner-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ultramarine-ink-on-pale-gray-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-precise-contours-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with precise contours illustration, plain fabric as corner negative space composition, ultramarine ink on pale gray print palette, crisp shadow edges from window daylight, spilling into the background ad2cadf0d8fa"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with ornamental hatching illustration, paper margin as central negative space composition, teal ink on cream paper print palette, soft diffusion from window daylight, contained in a localized pool b376e598e5a1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.b376e598e5a1",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.paper-margin-as-central-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-window-daylight-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-ink-on-cream-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-ornamental-hatching-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with ornamental hatching illustration, paper margin as central negative space composition, teal ink on cream paper print palette, soft diffusion from window daylight, contained in a localized pool b376e598e5a1"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with precise contours illustration, snow field as split-field negative space composition, plum ink on light kraft paper print palette, soft diffusion from window daylight, reflected from nearby surfaces c7a5093ab7a2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.c7a5093ab7a2",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.snow-field-as-split-field-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-window-daylight-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-ink-on-light-kraft-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-precise-contours-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with precise contours illustration, snow field as split-field negative space composition, plum ink on light kraft paper print palette, soft diffusion from window daylight, reflected from nearby surfaces c7a5093ab7a2"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with soft wash fields illustration, snow field as encircling negative space composition, burgundy ink on pale sky paper print palette, gentle atmospheric bloom from window daylight, focused on the subject plane d813ec0d5ca1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.d813ec0d5ca1",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.snow-field-as-encircling-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-focused-on-the-subject-pla"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-ink-on-pale-sky-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-soft-wash-fields-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with soft wash fields illustration, snow field as encircling negative space composition, burgundy ink on pale sky paper print palette, gentle atmospheric bloom from window daylight, focused on the subject plane d813ec0d5ca1"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with dense shadows illustration, calm water as right-side negative space composition, slate ink on pale mint paper print palette, gentle atmospheric bloom from window daylight, grazing textured surfaces daf01024fc2f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.daf01024fc2f",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.calm-water-as-right-side-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-ink-on-pale-mint-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-dense-shadows-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with dense shadows illustration, calm water as right-side negative space composition, slate ink on pale mint paper print palette, gentle atmospheric bloom from window daylight, grazing textured surfaces daf01024fc2f"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with precise contours illustration, distant horizon as corner negative space composition, burgundy ink on cool white print palette, soft diffusion from window daylight, falling off into shadow dcca06c98837"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.dcca06c98837",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.distant-horizon-as-corner-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-window-daylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-ink-on-cool-white-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-precise-contours-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with precise contours illustration, distant horizon as corner negative space composition, burgundy ink on cool white print palette, soft diffusion from window daylight, falling off into shadow dcca06c98837"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "sumi ink stillness featuring sumi-e ink with dense shadows illustration, plain fabric as left-side negative space composition, plum ink on warm ivory print palette, crisp shadow edges from window daylight, grazing textured surfaces e73ac91807c4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.sumi-ink-stillness",
+      "familyTriggers": [
+        "sumi ink stillness direction",
+        "restrained ink-and-void treatment",
+        "quiet brush ink staging"
+      ],
+      "id": "phase8.art.media.sumi-ink-stillness.e73ac91807c4",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.plain-fabric-as-left-side-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-ink-on-warm-ivory-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.sumi-e-ink-with-dense-shadows-illustration"
+        ]
+      },
+      "name": "Sumi Ink Stillness 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.sumi-ink-stillness",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "sumi breathing room",
+        "ink-wash restraint",
+        "paper-void balance"
+      ],
+      "triggers": [
+        "sumi ink stillness featuring sumi-e ink with dense shadows illustration, plain fabric as left-side negative space composition, plum ink on warm ivory print palette, crisp shadow edges from window daylight, grazing textured surfaces e73ac91807c4"
+      ],
+      "variantIndex": 2
+    }
+  ],
+  "schemaVersion": 2
+}

@@ -1,0 +1,1784 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+  "fingerprint": "c67eaef2d18861841305703bad8622b3179759dddc657a85b500ae0ee78e3590",
+  "recipes": [
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with muted paper grain print style, bottom-center entry into a rising diagonal path composition, indigo ink on pale mint paper print palette, soft diffusion from headlight beams, contained in a localized pool 02d5d48f6501"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.02d5d48f6501",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-at-an-imperceptible-pace-on-stabilized-support"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bottom-center-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-repeating-facade-rhythm-cinematic-metropol"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-ink-on-pale-mint-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-muted-paper-grain-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with muted paper grain print style, bottom-center entry into a rising diagonal path composition, indigo ink on pale mint paper print palette, soft diffusion from headlight beams, contained in a localized pool 02d5d48f6501"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with high-contrast inking print style, off-frame entry into a rising diagonal path composition, charcoal ink on warm ivory print palette, soft diffusion from headlight beams, broken by foreground shapes 054cd428072c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.054cd428072c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-at-a-slow-controlled-pace-with-restrained-handheld-movemen"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-repeating-facade-rhythm-lived-in-urban-atm"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-ink-on-warm-ivory-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-high-contrast-inking-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with high-contrast inking print style, off-frame entry into a rising diagonal path composition, charcoal ink on warm ivory print palette, soft diffusion from headlight beams, broken by foreground shapes 054cd428072c"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with fine crosshatching print style, right-edge entry into a staggered step path composition, slate ink on blush paper print palette, gentle atmospheric bloom from headlight beams, broken by foreground shapes 0c7a4e274513"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.0c7a4e274513",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-at-a-measured-pace-with-floating-gimbal-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.right-edge-entry-into-a-staggered-step-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-layered-street-frontage-orderly-architectu"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-headlight-beams-broken-by-foreground-shape"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-ink-on-blush-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-fine-crosshatching-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with fine crosshatching print style, right-edge entry into a staggered step path composition, slate ink on blush paper print palette, gentle atmospheric bloom from headlight beams, broken by foreground shapes 0c7a4e274513"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with rough deckled texture print style, upper-right entry into a S-curve path composition, burgundy ink on warm ivory print palette, controlled high contrast from headlight beams, contained in a localized pool 12d7367690b9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.12d7367690b9",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-at-an-imperceptible-pace-on-stabilized-support"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-right-entry-into-a-s-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-pedestrian-scale-detail-lived-in-urban-atm"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-contained-in-a-localized-p"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-ink-on-warm-ivory-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-rough-deckled-texture-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with rough deckled texture print style, upper-right entry into a S-curve path composition, burgundy ink on warm ivory print palette, controlled high contrast from headlight beams, contained in a localized pool 12d7367690b9"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with selective hand tint print style, upper-right entry into a spiral inward path composition, sepia ink on cool white print palette, crisp shadow edges from headlight beams, layered across depth planes 21944ff92340"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.21944ff92340",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-with-steady-acceleration-with-restrained-handheld-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-right-entry-into-a-spiral-inward-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-a-framed-intersection-lived-in-urban-atmos"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-ink-on-cool-white-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-selective-hand-tint-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with selective hand tint print style, upper-right entry into a spiral inward path composition, sepia ink on cool white print palette, crisp shadow edges from headlight beams, layered across depth planes 21944ff92340"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with muted paper grain print style, foreground entry into a S-curve path composition, ultramarine ink on pale sky paper print palette, crisp shadow edges from headlight beams, focused on the subject plane 26416d9bb745"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.26416d9bb745",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-with-steady-deceleration-with-floating-gimbal-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-entry-into-a-s-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-reflective-street-surfaces-cinematic-metro"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ultramarine-ink-on-pale-sky-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-muted-paper-grain-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with muted paper grain print style, foreground entry into a S-curve path composition, ultramarine ink on pale sky paper print palette, crisp shadow edges from headlight beams, focused on the subject plane 26416d9bb745"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with selective hand tint print style, background entry into a rising diagonal path composition, slate ink on warm ivory print palette, controlled high contrast from headlight beams, broken by foreground shapes 456d24dd15f7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.456d24dd15f7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-with-a-sudden-start-with-precise-mechanical-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.background-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-overhead-infrastructure-lived-in-urban-atm"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-broken-by-foreground-shape"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-ink-on-warm-ivory-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-selective-hand-tint-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with selective hand tint print style, background entry into a rising diagonal path composition, slate ink on warm ivory print palette, controlled high contrast from headlight beams, broken by foreground shapes 456d24dd15f7"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with rough deckled texture print style, upper-right entry into a zigzag path composition, teal ink on warm ivory print palette, soft diffusion from headlight beams, focused on the subject plane 49524a4961ca"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.49524a4961ca",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-at-a-brisk-pace-with-restrained-handheld-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-right-entry-into-a-zigzag-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-a-distant-skyline-backdrop-orderly-archite"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-ink-on-warm-ivory-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-rough-deckled-texture-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with rough deckled texture print style, upper-right entry into a zigzag path composition, teal ink on warm ivory print palette, soft diffusion from headlight beams, focused on the subject plane 49524a4961ca"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with bold spot color print style, off-frame entry into a radial path composition, sepia ink on blush paper print palette, crisp shadow edges from headlight beams, layered across depth planes 68b21bc2a5bf"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.68b21bc2a5bf",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-with-a-sudden-start-on-stabilized-support"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-radial-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-pedestrian-scale-detail-orderly-architectu"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-ink-on-blush-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-bold-spot-color-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with bold spot color print style, off-frame entry into a radial path composition, sepia ink on blush paper print palette, crisp shadow edges from headlight beams, layered across depth planes 68b21bc2a5bf"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with minimal contour work print style, top-center entry into a zigzag path composition, mustard ink on light kraft paper print palette, crisp shadow edges from headlight beams, reflected from nearby surfaces 80205379f358"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.80205379f358",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-at-a-measured-pace-with-restrained-handheld-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.top-center-entry-into-a-zigzag-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-a-long-urban-sightline-orderly-architectur"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mustard-ink-on-light-kraft-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-minimal-contour-work-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with minimal contour work print style, top-center entry into a zigzag path composition, mustard ink on light kraft paper print palette, crisp shadow edges from headlight beams, reflected from nearby surfaces 80205379f358"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with bold spot color print style, top-center entry into a S-curve path composition, burgundy ink on pale gray print palette, gentle atmospheric bloom from headlight beams, spilling into the background 89bf5b12fb00"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.89bf5b12fb00",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-with-a-lingering-finish-on-stabilized-support"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.top-center-entry-into-a-s-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-crossing-traffic-lines-orderly-architectur"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-headlight-beams-spilling-into-the-backgrou"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-ink-on-pale-gray-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-bold-spot-color-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with bold spot color print style, top-center entry into a S-curve path composition, burgundy ink on pale gray print palette, gentle atmospheric bloom from headlight beams, spilling into the background 89bf5b12fb00"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with bold spot color print style, near-center entry into a S-curve path composition, sepia ink on cool white print palette, soft diffusion from headlight beams, contained in a localized pool 9166c6841653"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.9166c6841653",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-with-a-lingering-finish-with-restrained-handheld-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.near-center-entry-into-a-s-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-a-distant-skyline-backdrop-lived-in-urban-"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-ink-on-cool-white-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-bold-spot-color-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with bold spot color print style, near-center entry into a S-curve path composition, sepia ink on cool white print palette, soft diffusion from headlight beams, contained in a localized pool 9166c6841653"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with layered registration print style, foreground entry into a S-curve path composition, mustard ink on pale gray print palette, controlled high contrast from headlight beams, grazing textured surfaces b087836cce3d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.b087836cce3d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-with-steady-acceleration-with-floating-gimbal-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-entry-into-a-s-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-reflective-street-surfaces-lived-in-urban-"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mustard-ink-on-pale-gray-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-layered-registration-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with layered registration print style, foreground entry into a S-curve path composition, mustard ink on pale gray print palette, controlled high contrast from headlight beams, grazing textured surfaces b087836cce3d"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with muted paper grain print style, bottom-center entry into a falling diagonal path composition, teal ink on pale sky paper print palette, soft diffusion from headlight beams, creating a luminous frame b38b7d9f3182"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.b38b7d9f3182",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-with-a-sudden-start-with-restrained-handheld-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bottom-center-entry-into-a-falling-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-a-long-urban-sightline-orderly-architectur"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-ink-on-pale-sky-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-muted-paper-grain-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with muted paper grain print style, bottom-center entry into a falling diagonal path composition, teal ink on pale sky paper print palette, soft diffusion from headlight beams, creating a luminous frame b38b7d9f3182"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with layered registration print style, foreground entry into a sweeping curve path composition, burgundy ink on cream paper print palette, crisp shadow edges from headlight beams, layered across depth planes b9372d81b805"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.b9372d81b805",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-at-a-brisk-pace-with-restrained-handheld-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-reflective-street-surfaces-lived-in-urban-"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-ink-on-cream-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-layered-registration-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with layered registration print style, foreground entry into a sweeping curve path composition, burgundy ink on cream paper print palette, crisp shadow edges from headlight beams, layered across depth planes b9372d81b805"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with muted paper grain print style, upper-right entry into a rising diagonal path composition, ultramarine ink on cream paper print palette, controlled high contrast from headlight beams, focused on the subject plane b97a0b00c558"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.b97a0b00c558",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-with-steady-acceleration-on-stabilized-support"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-right-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-crossing-traffic-lines-cinematic-metropoli"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-focused-on-the-subject-pla"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ultramarine-ink-on-cream-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-muted-paper-grain-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with muted paper grain print style, upper-right entry into a rising diagonal path composition, ultramarine ink on cream paper print palette, controlled high contrast from headlight beams, focused on the subject plane b97a0b00c558"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with high-contrast inking print style, left-edge entry into a S-curve path composition, charcoal ink on blush paper print palette, soft diffusion from headlight beams, layered across depth planes bac03fca1e08"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.bac03fca1e08",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-with-steady-acceleration-with-precise-mechanical-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.left-edge-entry-into-a-s-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-foreground-street-furniture-orderly-archit"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-ink-on-blush-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-high-contrast-inking-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with high-contrast inking print style, left-edge entry into a S-curve path composition, charcoal ink on blush paper print palette, soft diffusion from headlight beams, layered across depth planes bac03fca1e08"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with high-contrast inking print style, bottom-center entry into a staggered step path composition, burgundy ink on pale gray print palette, controlled high contrast from headlight beams, falling off into shadow c78db1d2ad89"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.c78db1d2ad89",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-with-steady-acceleration-with-precise-mechanical-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bottom-center-entry-into-a-staggered-step-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-repeating-facade-rhythm-cinematic-metropol"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-ink-on-pale-gray-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-high-contrast-inking-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with high-contrast inking print style, bottom-center entry into a staggered step path composition, burgundy ink on pale gray print palette, controlled high contrast from headlight beams, falling off into shadow c78db1d2ad89"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with minimal contour work print style, foreground entry into a S-curve path composition, plum ink on pale gray print palette, soft diffusion from headlight beams, focused on the subject plane ca21f69d8f65"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.ca21f69d8f65",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-at-a-brisk-pace-with-restrained-handheld-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-entry-into-a-s-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-pedestrian-scale-detail-orderly-architectu"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-ink-on-pale-gray-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-minimal-contour-work-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with minimal contour work print style, foreground entry into a S-curve path composition, plum ink on pale gray print palette, soft diffusion from headlight beams, focused on the subject plane ca21f69d8f65"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with minimal contour work print style, lower-right entry into a falling diagonal path composition, ultramarine ink on warm ivory print palette, soft diffusion from headlight beams, broken by foreground shapes cc4bdddeeb05"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.cc4bdddeeb05",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-with-a-sudden-start-on-stabilized-support"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-right-entry-into-a-falling-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-a-framed-intersection-orderly-architectura"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ultramarine-ink-on-warm-ivory-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-minimal-contour-work-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with minimal contour work print style, lower-right entry into a falling diagonal path composition, ultramarine ink on warm ivory print palette, soft diffusion from headlight beams, broken by foreground shapes cc4bdddeeb05"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with layered registration print style, lower-left entry into a radial path composition, plum ink on pale mint paper print palette, soft diffusion from headlight beams, reflected from nearby surfaces ec93ae3965b2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.ec93ae3965b2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-with-steady-acceleration-with-restrained-handheld-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-left-entry-into-a-radial-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-foreground-street-furniture-cinematic-metr"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-ink-on-pale-mint-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-layered-registration-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with layered registration print style, lower-left entry into a radial path composition, plum ink on pale mint paper print palette, soft diffusion from headlight beams, reflected from nearby surfaces ec93ae3965b2"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with muted paper grain print style, left-edge entry into a rising diagonal path composition, plum ink on blush paper print palette, controlled high contrast from headlight beams, falling off into shadow f2ed0bc75fdf"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.f2ed0bc75fdf",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-with-steady-deceleration-with-floating-gimbal-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.left-edge-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-repeating-facade-rhythm-lived-in-urban-atm"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-ink-on-blush-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-muted-paper-grain-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with muted paper grain print style, left-edge entry into a rising diagonal path composition, plum ink on blush paper print palette, controlled high contrast from headlight beams, falling off into shadow f2ed0bc75fdf"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with muted paper grain print style, left-edge entry into a zigzag path composition, charcoal ink on light kraft paper print palette, crisp shadow edges from headlight beams, falling off into shadow f59cc3ef91d8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.f59cc3ef91d8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-at-a-slow-controlled-pace-with-precise-mechanical-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.left-edge-entry-into-a-zigzag-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-layered-street-frontage-orderly-architectu"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-ink-on-light-kraft-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-muted-paper-grain-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with muted paper grain print style, left-edge entry into a zigzag path composition, charcoal ink on light kraft paper print palette, crisp shadow edges from headlight beams, falling off into shadow f59cc3ef91d8"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "screenprint pulp pursuit featuring screenprint with minimal contour work print style, upper-right entry into a staggered step path composition, indigo ink on cool white print palette, controlled high contrast from headlight beams, creating a luminous frame f5a32be44e9c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.screenprint-pulp-pursuit",
+      "familyTriggers": [
+        "screenprint pulp pursuit direction",
+        "bold-ink urban chase",
+        "printed action serial treatment"
+      ],
+      "id": "phase8.art.graphic.screenprint-pulp-pursuit.f5a32be44e9c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.forward-dolly-with-a-lingering-finish-with-floating-gimbal-movement"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-right-entry-into-a-staggered-step-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.industrial-rail-district-with-pedestrian-scale-detail-lived-in-urban-atm"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-ink-on-cool-white-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.screenprint-with-minimal-contour-work-print-style"
+        ]
+      },
+      "name": "Screenprint Pulp Pursuit 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.screenprint-pulp-pursuit",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "screenprint chase velocity",
+        "pulp directional ink",
+        "headlight industrial pursuit"
+      ],
+      "triggers": [
+        "screenprint pulp pursuit featuring screenprint with minimal contour work print style, upper-right entry into a staggered step path composition, indigo ink on cool white print palette, controlled high contrast from headlight beams, creating a luminous frame f5a32be44e9c"
+      ],
+      "variantIndex": 7
+    }
+  ],
+  "schemaVersion": 2
+}

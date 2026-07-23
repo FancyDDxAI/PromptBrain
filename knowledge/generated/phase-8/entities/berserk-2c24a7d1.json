@@ -1,0 +1,251 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Casca",
+        "Casca (Berserk)"
+      ],
+      "id": "character.berserk.casca",
+      "kind": "named-character",
+      "name": "Casca",
+      "namespace": "Berserk",
+      "promptTags": [
+        "Casca",
+        "Berserk",
+        "female",
+        "mercenary commander"
+      ],
+      "provenance": {
+        "groupId": "berserk",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "mercenary",
+        "commander"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Farnese de Vandimion",
+        "Farnese de Vandimion (Berserk)"
+      ],
+      "id": "character.berserk.farnese-de-vandimion",
+      "kind": "named-character",
+      "name": "Farnese de Vandimion",
+      "namespace": "Berserk",
+      "promptTags": [
+        "Farnese de Vandimion",
+        "Berserk",
+        "female",
+        "noble commander"
+      ],
+      "provenance": {
+        "groupId": "berserk",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "noble",
+        "commander"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Griffith",
+        "Griffith (Berserk)"
+      ],
+      "id": "character.berserk.griffith",
+      "kind": "named-character",
+      "name": "Griffith",
+      "namespace": "Berserk",
+      "promptTags": [
+        "Griffith",
+        "Berserk",
+        "male",
+        "mercenary leader"
+      ],
+      "provenance": {
+        "groupId": "berserk",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "leader",
+        "antagonist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Guts (Berserk)"
+      ],
+      "id": "character.berserk.guts",
+      "kind": "named-character",
+      "name": "Guts (Berserk)",
+      "namespace": "Berserk",
+      "promptTags": [
+        "Guts",
+        "Berserk",
+        "male",
+        "mercenary swordsman"
+      ],
+      "provenance": {
+        "groupId": "berserk",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "mercenary",
+        "swordsman"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Judeau",
+        "Judeau (Berserk)"
+      ],
+      "id": "character.berserk.judeau",
+      "kind": "named-character",
+      "name": "Judeau",
+      "namespace": "Berserk",
+      "promptTags": [
+        "Judeau",
+        "Berserk",
+        "male",
+        "mercenary"
+      ],
+      "provenance": {
+        "groupId": "berserk",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "mercenary"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Schierke",
+        "Schierke (Berserk)"
+      ],
+      "id": "character.berserk.schierke",
+      "kind": "named-character",
+      "name": "Schierke",
+      "namespace": "Berserk",
+      "promptTags": [
+        "Schierke",
+        "Berserk",
+        "female",
+        "witch"
+      ],
+      "provenance": {
+        "groupId": "berserk",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "mage"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Serpico",
+        "Serpico (Berserk)"
+      ],
+      "id": "character.berserk.serpico",
+      "kind": "named-character",
+      "name": "Serpico",
+      "namespace": "Berserk",
+      "promptTags": [
+        "Serpico",
+        "Berserk",
+        "male",
+        "swordsman attendant"
+      ],
+      "provenance": {
+        "groupId": "berserk",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "swordsman",
+        "attendant"
+      ]
+    }
+  ],
+  "fingerprint": "55053948f72c6668b4e2bb325d426c5f5bc9d88a09efac9307a19529cd11eabe",
+  "namespace": "Berserk",
+  "schemaVersion": 2
+}

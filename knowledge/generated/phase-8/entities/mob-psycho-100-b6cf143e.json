@@ -1,0 +1,254 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Arataka Reigen",
+        "Arataka Reigen (Mob Psycho 100)"
+      ],
+      "id": "character.mob-psycho-100.arataka-reigen",
+      "kind": "named-character",
+      "name": "Arataka Reigen",
+      "namespace": "Mob Psycho 100",
+      "promptTags": [
+        "Arataka Reigen",
+        "Mob Psycho 100",
+        "male",
+        "spirit consultant"
+      ],
+      "provenance": {
+        "groupId": "mob-psycho-100",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "mentor",
+        "consultant"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Ritsu Kageyama",
+        "Ritsu Kageyama (Mob Psycho 100)"
+      ],
+      "id": "character.mob-psycho-100.ritsu-kageyama",
+      "kind": "named-character",
+      "name": "Ritsu Kageyama",
+      "namespace": "Mob Psycho 100",
+      "promptTags": [
+        "Ritsu Kageyama",
+        "Mob Psycho 100",
+        "male",
+        "student esper"
+      ],
+      "provenance": {
+        "groupId": "mob-psycho-100",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "esper",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Shigeo Kageyama",
+        "Shigeo Kageyama (Mob Psycho 100)"
+      ],
+      "id": "character.mob-psycho-100.shigeo-kageyama",
+      "kind": "named-character",
+      "name": "Shigeo Kageyama",
+      "namespace": "Mob Psycho 100",
+      "promptTags": [
+        "Shigeo Kageyama",
+        "Mob Psycho 100",
+        "male",
+        "student esper"
+      ],
+      "provenance": {
+        "groupId": "mob-psycho-100",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "esper",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Sho Suzuki",
+        "Sho Suzuki (Mob Psycho 100)"
+      ],
+      "id": "character.mob-psycho-100.sho-suzuki",
+      "kind": "named-character",
+      "name": "Sho Suzuki",
+      "namespace": "Mob Psycho 100",
+      "promptTags": [
+        "Sho Suzuki",
+        "Mob Psycho 100",
+        "male",
+        "esper"
+      ],
+      "provenance": {
+        "groupId": "mob-psycho-100",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "esper"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Teruki Hanazawa",
+        "Teruki Hanazawa (Mob Psycho 100)"
+      ],
+      "id": "character.mob-psycho-100.teruki-hanazawa",
+      "kind": "named-character",
+      "name": "Teruki Hanazawa",
+      "namespace": "Mob Psycho 100",
+      "promptTags": [
+        "Teruki Hanazawa",
+        "Mob Psycho 100",
+        "male",
+        "student esper"
+      ],
+      "provenance": {
+        "groupId": "mob-psycho-100",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "esper",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Toichiro Suzuki",
+        "Toichiro Suzuki (Mob Psycho 100)"
+      ],
+      "id": "character.mob-psycho-100.toichiro-suzuki",
+      "kind": "named-character",
+      "name": "Toichiro Suzuki",
+      "namespace": "Mob Psycho 100",
+      "promptTags": [
+        "Toichiro Suzuki",
+        "Mob Psycho 100",
+        "male",
+        "esper leader"
+      ],
+      "provenance": {
+        "groupId": "mob-psycho-100",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "esper",
+        "antagonist",
+        "leader"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Tome Kurata",
+        "Tome Kurata (Mob Psycho 100)"
+      ],
+      "id": "character.mob-psycho-100.tome-kurata",
+      "kind": "named-character",
+      "name": "Tome Kurata",
+      "namespace": "Mob Psycho 100",
+      "promptTags": [
+        "Tome Kurata",
+        "Mob Psycho 100",
+        "female",
+        "student club president"
+      ],
+      "provenance": {
+        "groupId": "mob-psycho-100",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student",
+        "club-president"
+      ]
+    }
+  ],
+  "fingerprint": "45a891d624ba31e26aae7e910621098e96c98af6f58f5563888600221ad15ec4",
+  "namespace": "Mob Psycho 100",
+  "schemaVersion": 2
+}

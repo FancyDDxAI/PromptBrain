@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>PromptBrain</AssemblyName>
+    <RootNamespace>PromptBrain</RootNamespace>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <ApplicationIcon>Assets\app-icon.ico</ApplicationIcon>
+    <Authors>phoenix_eagle21</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.3537.50" />
+  </ItemGroup>
+
+  <!-- WebView2 references both UI stacks by default. PromptBrain is WinForms-only;
+       removing the unused WPF assembly avoids a WindowsBase version conflict. -->
+  <Target Name="RemoveUnusedWebView2WpfReference" BeforeTargets="ResolveAssemblyReferences">
+    <ItemGroup>
+      <Reference Remove="@(Reference)" Condition="'%(Reference.Filename)' == 'Microsoft.Web.WebView2.Wpf'" />
+    </ItemGroup>
+  </Target>
+
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\promptbrain.html" LogicalName="promptbrain.html" />
+    <EmbeddedResource Include="..\..\promptbrain.css" LogicalName="promptbrain.css" />
+    <EmbeddedResource Include="..\..\promptbrain.js" LogicalName="promptbrain.js" />
+    <EmbeddedResource Include="Assets\app-icon.png" LogicalName="app-icon.png" />
+    <EmbeddedResource Include="Assets\app-icon.ico" LogicalName="app-icon.ico" />
+  </ItemGroup>
+
+  <!--
+    Offline engine. Order matters at load time (see promptbrain.html): contracts and
+    knowledge modules must attach their globals before art-director and prompt-engine
+    read them.
+  -->
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\engine\state-store.js" LogicalName="engine.state-store.js" />
+    <EmbeddedResource Include="..\..\engine\contracts.js" LogicalName="engine.contracts.js" />
+    <EmbeddedResource Include="..\..\engine\seed-knowledge.js" LogicalName="engine.seed-knowledge.js" />
+    <EmbeddedResource Include="..\..\engine\curated-knowledge.js" LogicalName="engine.curated-knowledge.js" />
+    <EmbeddedResource Include="..\..\engine\art-director.js" LogicalName="engine.art-director.js" />
+    <EmbeddedResource Include="..\..\engine\prompt-engine.js" LogicalName="engine.prompt-engine.js" />
+    <EmbeddedResource Include="..\..\engine\catalog-store.js" LogicalName="engine.catalog-store.js" />
+    <EmbeddedResource Include="..\..\engine\learning-bridge.js" LogicalName="engine.learning-bridge.js" />
+  </ItemGroup>
+
+  <!--
+    Accepted Phase 8 catalog, embedded so the installed app has no external data
+    dependency. Only the manifest and its shards ship: catalog-delta.json duplicates
+    the shard payload and the audit/coverage/quality reports are build artifacts.
+  -->
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\knowledge\generated\phase-8\manifest.json">
+      <LogicalName>catalog/manifest.json</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\knowledge\generated\phase-8\concepts\*.json">
+      <LogicalName>catalog/concepts/%(Filename)%(Extension)</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\knowledge\generated\phase-8\entities\*.json">
+      <LogicalName>catalog/entities/%(Filename)%(Extension)</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\knowledge\generated\phase-8\recipes\*.json">
+      <LogicalName>catalog/recipes/%(Filename)%(Extension)</LogicalName>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1544 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.media.museum-reconstruction-plate",
+  "fingerprint": "0a0ae9e717707fccc34b031cfcd6a0eaac061392031f6259906e8d0ad6f9ae0a",
+  "recipes": [
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with precise labeled details visual style, portal-centered structure with paired counterweights composition, volcanic black with azurite blue mineral-earth palette, crisp shadow edges from softbox array, contained in a localized pool 00b3f81de7ab"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.00b3f81de7ab",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.portal-centered-structure-with-paired-counterweights-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.volcanic-black-with-azurite-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with precise labeled details visual style, portal-centered structure with paired counterweights composition, volcanic black with azurite blue mineral-earth palette, crisp shadow edges from softbox array, contained in a localized pool 00b3f81de7ab"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with precise labeled details visual style, rotational structure with centered void composition, chalk white with fluorite violet mineral-earth palette, controlled high contrast from softbox array, contained in a localized pool 077216715157"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.077216715157",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.rotational-structure-with-centered-void-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-contained-in-a-localized-poo"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.chalk-white-with-fluorite-violet-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with precise labeled details visual style, rotational structure with centered void composition, chalk white with fluorite violet mineral-earth palette, controlled high contrast from softbox array, contained in a localized pool 077216715157"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with precise labeled details visual style, axial structure with strict symmetry composition, desert rose with turquoise blue mineral-earth palette, gentle atmospheric bloom from softbox array, layered across depth planes 0856c49c11bb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.0856c49c11bb",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.axial-structure-with-strict-symmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.desert-rose-with-turquoise-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with precise labeled details visual style, axial structure with strict symmetry composition, desert rose with turquoise blue mineral-earth palette, gentle atmospheric bloom from softbox array, layered across depth planes 0856c49c11bb"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with clean measured lines visual style, reflectional structure with broken upper balance composition, red sandstone with fluorite violet mineral-earth palette, crisp shadow edges from softbox array, broken by foreground shapes 3147796fd0c2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.3147796fd0c2",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.reflectional-structure-with-broken-upper-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.red-sandstone-with-fluorite-violet-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-clean-measured-lines-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with clean measured lines visual style, reflectional structure with broken upper balance composition, red sandstone with fluorite violet mineral-earth palette, crisp shadow edges from softbox array, broken by foreground shapes 3147796fd0c2"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with clean measured lines visual style, grid-based structure with centered void composition, basalt gray with mica silver mineral-earth palette, crisp shadow edges from softbox array, falling off into shadow 6480eea393f3"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.6480eea393f3",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.grid-based-structure-with-centered-void-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.basalt-gray-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-clean-measured-lines-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with clean measured lines visual style, grid-based structure with centered void composition, basalt gray with mica silver mineral-earth palette, crisp shadow edges from softbox array, falling off into shadow 6480eea393f3"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with precise labeled details visual style, architectural structure with strict symmetry composition, red sandstone with azurite blue mineral-earth palette, controlled high contrast from softbox array, focused on the subject plane 67e1eba7f37c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.67e1eba7f37c",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.architectural-structure-with-strict-symmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.red-sandstone-with-azurite-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with precise labeled details visual style, architectural structure with strict symmetry composition, red sandstone with azurite blue mineral-earth palette, controlled high contrast from softbox array, focused on the subject plane 67e1eba7f37c"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with selective color coding visual style, kaleidoscopic structure with broken lower balance composition, red sandstone with malachite green mineral-earth palette, soft diffusion from softbox array, grazing textured surfaces 6c22654ca148"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.6c22654ca148",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.kaleidoscopic-structure-with-broken-lower-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.red-sandstone-with-malachite-green-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-selective-color-coding-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with selective color coding visual style, kaleidoscopic structure with broken lower balance composition, red sandstone with malachite green mineral-earth palette, soft diffusion from softbox array, grazing textured surfaces 6c22654ca148"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with aged paper texture visual style, altar-like structure with soft asymmetry composition, ochre clay with cinnabar red mineral-earth palette, crisp shadow edges from softbox array, creating a luminous frame 6c381a3941bc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.6c381a3941bc",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.altar-like-structure-with-soft-asymmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ochre-clay-with-cinnabar-red-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-aged-paper-texture-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with aged paper texture visual style, altar-like structure with soft asymmetry composition, ochre clay with cinnabar red mineral-earth palette, crisp shadow edges from softbox array, creating a luminous frame 6c381a3941bc"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with selective color coding visual style, axial structure with paired counterweights composition, basalt gray with turquoise blue mineral-earth palette, gentle atmospheric bloom from softbox array, falling off into shadow 6cf6e058c3b3"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.6cf6e058c3b3",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.axial-structure-with-paired-counterweights-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.basalt-gray-with-turquoise-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-selective-color-coding-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with selective color coding visual style, axial structure with paired counterweights composition, basalt gray with turquoise blue mineral-earth palette, gentle atmospheric bloom from softbox array, falling off into shadow 6cf6e058c3b3"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with bold silhouette overlays visual style, radial structure with centered void composition, loam olive with turquoise blue mineral-earth palette, crisp shadow edges from softbox array, grazing textured surfaces 6faacec889d6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.6faacec889d6",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.radial-structure-with-centered-void-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.loam-olive-with-turquoise-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-bold-silhouette-overlays-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with bold silhouette overlays visual style, radial structure with centered void composition, loam olive with turquoise blue mineral-earth palette, crisp shadow edges from softbox array, grazing textured surfaces 6faacec889d6"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with bold silhouette overlays visual style, reflectional structure with strict symmetry composition, red sandstone with cinnabar red mineral-earth palette, controlled high contrast from softbox array, layered across depth planes 75e0c9a0cdd0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.75e0c9a0cdd0",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.reflectional-structure-with-strict-symmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.red-sandstone-with-cinnabar-red-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-bold-silhouette-overlays-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with bold silhouette overlays visual style, reflectional structure with strict symmetry composition, red sandstone with cinnabar red mineral-earth palette, controlled high contrast from softbox array, layered across depth planes 75e0c9a0cdd0"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with clean measured lines visual style, rotational structure with centered void composition, loam olive with pyrite gold mineral-earth palette, crisp shadow edges from softbox array, reflected from nearby surfaces 9b065376fd42"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.9b065376fd42",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.rotational-structure-with-centered-void-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.loam-olive-with-pyrite-gold-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-clean-measured-lines-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with clean measured lines visual style, rotational structure with centered void composition, loam olive with pyrite gold mineral-earth palette, crisp shadow edges from softbox array, reflected from nearby surfaces 9b065376fd42"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with soft graphite shading visual style, radial structure with broken lower balance composition, burnt sienna with azurite blue mineral-earth palette, crisp shadow edges from softbox array, broken by foreground shapes a3690e3b2ae0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.a3690e3b2ae0",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.radial-structure-with-broken-lower-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burnt-sienna-with-azurite-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-soft-graphite-shading-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with soft graphite shading visual style, radial structure with broken lower balance composition, burnt sienna with azurite blue mineral-earth palette, crisp shadow edges from softbox array, broken by foreground shapes a3690e3b2ae0"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with precise labeled details visual style, kaleidoscopic structure with single offset accent composition, loam olive with mica silver mineral-earth palette, gentle atmospheric bloom from softbox array, falling off into shadow b121e3fa5bd1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.b121e3fa5bd1",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.kaleidoscopic-structure-with-single-offset-accent-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.loam-olive-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with precise labeled details visual style, kaleidoscopic structure with single offset accent composition, loam olive with mica silver mineral-earth palette, gentle atmospheric bloom from softbox array, falling off into shadow b121e3fa5bd1"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with aged paper texture visual style, radial structure with soft asymmetry composition, chalk white with turquoise blue mineral-earth palette, crisp shadow edges from softbox array, creating a luminous frame b7acc2595d4d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.b7acc2595d4d",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.radial-structure-with-soft-asymmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.chalk-white-with-turquoise-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-aged-paper-texture-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with aged paper texture visual style, radial structure with soft asymmetry composition, chalk white with turquoise blue mineral-earth palette, crisp shadow edges from softbox array, creating a luminous frame b7acc2595d4d"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with fine ink notation visual style, altar-like structure with strict symmetry composition, raw umber with quartz white mineral-earth palette, soft diffusion from softbox array, contained in a localized pool c33ac34cce1c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.c33ac34cce1c",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.altar-like-structure-with-strict-symmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.raw-umber-with-quartz-white-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-fine-ink-notation-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with fine ink notation visual style, altar-like structure with strict symmetry composition, raw umber with quartz white mineral-earth palette, soft diffusion from softbox array, contained in a localized pool c33ac34cce1c"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with soft graphite shading visual style, architectural structure with soft asymmetry composition, loam olive with cinnabar red mineral-earth palette, gentle atmospheric bloom from softbox array, broken by foreground shapes c3928fa32a75"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.c3928fa32a75",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.architectural-structure-with-soft-asymmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.loam-olive-with-cinnabar-red-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-soft-graphite-shading-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with soft graphite shading visual style, architectural structure with soft asymmetry composition, loam olive with cinnabar red mineral-earth palette, gentle atmospheric bloom from softbox array, broken by foreground shapes c3928fa32a75"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with precise labeled details visual style, bilateral structure with soft asymmetry composition, desert rose with mica silver mineral-earth palette, controlled high contrast from softbox array, grazing textured surfaces cafa54ed28c8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.cafa54ed28c8",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-soft-asymmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.desert-rose-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with precise labeled details visual style, bilateral structure with soft asymmetry composition, desert rose with mica silver mineral-earth palette, controlled high contrast from softbox array, grazing textured surfaces cafa54ed28c8"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with precise labeled details visual style, frieze-like structure with single offset accent composition, raw umber with cinnabar red mineral-earth palette, controlled high contrast from softbox array, contained in a localized pool ce097a7e8016"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.ce097a7e8016",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.frieze-like-structure-with-single-offset-accent-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-contained-in-a-localized-poo"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.raw-umber-with-cinnabar-red-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with precise labeled details visual style, frieze-like structure with single offset accent composition, raw umber with cinnabar red mineral-earth palette, controlled high contrast from softbox array, contained in a localized pool ce097a7e8016"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with muted wash accents visual style, grid-based structure with broken upper balance composition, volcanic black with mica silver mineral-earth palette, gentle atmospheric bloom from softbox array, focused on the subject plane d43842410774"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.d43842410774",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.grid-based-structure-with-broken-upper-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.volcanic-black-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-muted-wash-accents-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with muted wash accents visual style, grid-based structure with broken upper balance composition, volcanic black with mica silver mineral-earth palette, gentle atmospheric bloom from softbox array, focused on the subject plane d43842410774"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with muted wash accents visual style, portal-centered structure with soft asymmetry composition, adobe orange with pyrite gold mineral-earth palette, soft diffusion from softbox array, creating a luminous frame e8fb82b9f404"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.e8fb82b9f404",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.portal-centered-structure-with-soft-asymmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.adobe-orange-with-pyrite-gold-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-muted-wash-accents-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with muted wash accents visual style, portal-centered structure with soft asymmetry composition, adobe orange with pyrite gold mineral-earth palette, soft diffusion from softbox array, creating a luminous frame e8fb82b9f404"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with soft graphite shading visual style, emblematic structure with broken upper balance composition, burnt sienna with cinnabar red mineral-earth palette, gentle atmospheric bloom from softbox array, grazing textured surfaces e921c7588ba1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.e921c7588ba1",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.emblematic-structure-with-broken-upper-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burnt-sienna-with-cinnabar-red-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-soft-graphite-shading-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with soft graphite shading visual style, emblematic structure with broken upper balance composition, burnt sienna with cinnabar red mineral-earth palette, gentle atmospheric bloom from softbox array, grazing textured surfaces e921c7588ba1"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with selective color coding visual style, altar-like structure with alternating detail rhythm composition, raw umber with mica silver mineral-earth palette, controlled high contrast from softbox array, focused on the subject plane ea5ebb9cba76"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.ea5ebb9cba76",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.altar-like-structure-with-alternating-detail-rhythm-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.raw-umber-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-selective-color-coding-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with selective color coding visual style, altar-like structure with alternating detail rhythm composition, raw umber with mica silver mineral-earth palette, controlled high contrast from softbox array, focused on the subject plane ea5ebb9cba76"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "museum reconstruction plate featuring museum reconstruction with muted wash accents visual style, kaleidoscopic structure with broken lower balance composition, basalt gray with cinnabar red mineral-earth palette, crisp shadow edges from softbox array, contained in a localized pool eb55a39a62f2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.museum-reconstruction-plate",
+      "familyTriggers": [
+        "museum reconstruction plate direction",
+        "archival drafted tableau",
+        "measured historical plate treatment"
+      ],
+      "id": "phase8.art.media.museum-reconstruction-plate.eb55a39a62f2",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.kaleidoscopic-structure-with-broken-lower-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.basalt-gray-with-cinnabar-red-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.museum-reconstruction-with-muted-wash-accents-visual-style"
+        ]
+      },
+      "name": "Museum Reconstruction Plate 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.museum-reconstruction-plate",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "reconstruction line discipline",
+        "archival earth notation",
+        "museum-plate hierarchy"
+      ],
+      "triggers": [
+        "museum reconstruction plate featuring museum reconstruction with muted wash accents visual style, kaleidoscopic structure with broken lower balance composition, basalt gray with cinnabar red mineral-earth palette, crisp shadow edges from softbox array, contained in a localized pool eb55a39a62f2"
+      ],
+      "variantIndex": 11
+    }
+  ],
+  "schemaVersion": 2
+}

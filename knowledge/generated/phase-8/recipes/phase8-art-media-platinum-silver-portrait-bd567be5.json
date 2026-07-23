@@ -1,0 +1,1664 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.media.platinum-silver-portrait",
+  "fingerprint": "370b63e3e65673306c1301dc8e780da599f276597e1fd4804751a50d55bd26ed",
+  "recipes": [
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with centered period framing photographic style, head-and-shoulders with left-weighted balance composition, magenta three-value study palette, controlled high contrast from softbox array, layered across depth planes 0ea31aaca454"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.0ea31aaca454",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-symmetrical-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-left-weighted-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.magenta-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with centered period framing photographic style, head-and-shoulders with left-weighted balance composition, magenta three-value study palette, controlled high contrast from softbox array, layered across depth planes 0ea31aaca454"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with luminous highlights photographic style, head-and-shoulders with left-weighted balance composition, indigo ink-dense tonal scale palette, soft diffusion from softbox array, grazing textured surfaces 118325c1c44c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.118325c1c44c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-symmetrical-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-left-weighted-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with luminous highlights photographic style, head-and-shoulders with left-weighted balance composition, indigo ink-dense tonal scale palette, soft diffusion from softbox array, grazing textured surfaces 118325c1c44c"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with toned highlight bloom photographic style, head-and-shoulders with lower visual anchor composition, teal high-key monochrome palette, gentle atmospheric bloom from softbox array, grazing textured surfaces 1304c5e177b8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.1304c5e177b8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-negative-space-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-lower-visual-anchor-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-toned-highlight-bloom-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with toned highlight bloom photographic style, head-and-shoulders with lower visual anchor composition, teal high-key monochrome palette, gentle atmospheric bloom from softbox array, grazing textured surfaces 1304c5e177b8"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with careful studio staging photographic style, head-and-shoulders with right-weighted balance composition, olive ink-dense tonal scale palette, gentle atmospheric bloom from softbox array, creating a luminous frame 193628d8cb32"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.193628d8cb32",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-centered-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-right-weighted-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with careful studio staging photographic style, head-and-shoulders with right-weighted balance composition, olive ink-dense tonal scale palette, gentle atmospheric bloom from softbox array, creating a luminous frame 193628d8cb32"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with luminous highlights photographic style, head-and-shoulders with left-weighted balance composition, olive low-key monochrome palette, controlled high contrast from softbox array, broken by foreground shapes 27bae1a5a426"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.27bae1a5a426",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-layered-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-left-weighted-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-low-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with luminous highlights photographic style, head-and-shoulders with left-weighted balance composition, olive low-key monochrome palette, controlled high contrast from softbox array, broken by foreground shapes 27bae1a5a426"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with luminous highlights photographic style, head-and-shoulders with diagonal counterweight composition, emerald metallic-accent monochrome palette, soft diffusion from softbox array, falling off into shadow 289cd4ffd16d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.289cd4ffd16d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-left-weighted-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-diagonal-counterweight-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with luminous highlights photographic style, head-and-shoulders with diagonal counterweight composition, emerald metallic-accent monochrome palette, soft diffusion from softbox array, falling off into shadow 289cd4ffd16d"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with careful studio staging photographic style, head-and-shoulders with right-weighted balance composition, teal three-value study palette, controlled high contrast from softbox array, contained in a localized pool 2ee8c782b607"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.2ee8c782b607",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-frame-within-frame-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-right-weighted-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-contained-in-a-localized-poo"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-three-value-study-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with careful studio staging photographic style, head-and-shoulders with right-weighted balance composition, teal three-value study palette, controlled high contrast from softbox array, contained in a localized pool 2ee8c782b607"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with luminous highlights photographic style, head-and-shoulders with upper negative space composition, indigo high-key monochrome palette, crisp shadow edges from softbox array, layered across depth planes 30a1edbce96c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.30a1edbce96c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-right-weighted-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-upper-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with luminous highlights photographic style, head-and-shoulders with upper negative space composition, indigo high-key monochrome palette, crisp shadow edges from softbox array, layered across depth planes 30a1edbce96c"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with deep shadow detail photographic style, head-and-shoulders with mirrored side balance composition, coral misty tonal scale palette, gentle atmospheric bloom from softbox array, contained in a localized pool 3d64f7a61d41"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.3d64f7a61d41",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-centered-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-mirrored-side-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-contained-in-a-localized-poo"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.coral-misty-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with deep shadow detail photographic style, head-and-shoulders with mirrored side balance composition, coral misty tonal scale palette, gentle atmospheric bloom from softbox array, contained in a localized pool 3d64f7a61d41"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with deep shadow detail photographic style, head-and-shoulders with off-axis tension composition, cobalt high-key monochrome palette, controlled high contrast from softbox array, broken by foreground shapes 66529cc0d7e7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.66529cc0d7e7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-layered-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-off-axis-tension-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with deep shadow detail photographic style, head-and-shoulders with off-axis tension composition, cobalt high-key monochrome palette, controlled high contrast from softbox array, broken by foreground shapes 66529cc0d7e7"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with centered period framing photographic style, head-and-shoulders with centered balance composition, coral ink-dense tonal scale palette, crisp shadow edges from softbox array, creating a luminous frame 6b37762a626b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.6b37762a626b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-negative-space-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-centered-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.coral-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with centered period framing photographic style, head-and-shoulders with centered balance composition, coral ink-dense tonal scale palette, crisp shadow edges from softbox array, creating a luminous frame 6b37762a626b"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with careful studio staging photographic style, head-and-shoulders with centered balance composition, coral misty tonal scale palette, crisp shadow edges from softbox array, broken by foreground shapes 6e2af1b4c63e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.6e2af1b4c63e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-symmetrical-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-centered-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.coral-misty-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with careful studio staging photographic style, head-and-shoulders with centered balance composition, coral misty tonal scale palette, crisp shadow edges from softbox array, broken by foreground shapes 6e2af1b4c63e"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with deep shadow detail photographic style, head-and-shoulders with left-weighted balance composition, coral low-key monochrome palette, gentle atmospheric bloom from softbox array, spilling into the background 7da1b49ea6f0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.7da1b49ea6f0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-left-weighted-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-left-weighted-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.coral-low-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with deep shadow detail photographic style, head-and-shoulders with left-weighted balance composition, coral low-key monochrome palette, gentle atmospheric bloom from softbox array, spilling into the background 7da1b49ea6f0"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with careful studio staging photographic style, head-and-shoulders with lower visual anchor composition, cobalt duotone wash palette, crisp shadow edges from softbox array, broken by foreground shapes 7e11982726b6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.7e11982726b6",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-frame-within-frame-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-lower-visual-anchor-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-duotone-wash-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with careful studio staging photographic style, head-and-shoulders with lower visual anchor composition, cobalt duotone wash palette, crisp shadow edges from softbox array, broken by foreground shapes 7e11982726b6"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with toned highlight bloom photographic style, head-and-shoulders with diagonal counterweight composition, sepia duotone wash palette, controlled high contrast from softbox array, contained in a localized pool 81b69763c9d1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.81b69763c9d1",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-frame-within-frame-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-diagonal-counterweight-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-contained-in-a-localized-poo"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-duotone-wash-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-toned-highlight-bloom-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with toned highlight bloom photographic style, head-and-shoulders with diagonal counterweight composition, sepia duotone wash palette, controlled high contrast from softbox array, contained in a localized pool 81b69763c9d1"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with deep shadow detail photographic style, head-and-shoulders with upper negative space composition, indigo high-key monochrome palette, gentle atmospheric bloom from softbox array, spilling into the background 865fcf6ab6ed"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.865fcf6ab6ed",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-foreground-framed-composition-with-observational-distanc"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-upper-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with deep shadow detail photographic style, head-and-shoulders with upper negative space composition, indigo high-key monochrome palette, gentle atmospheric bloom from softbox array, spilling into the background 865fcf6ab6ed"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with muted tonal range photographic style, head-and-shoulders with right-weighted balance composition, graphite ink-dense tonal scale palette, gentle atmospheric bloom from softbox array, spilling into the background 90e14b3107ac"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.90e14b3107ac",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-layered-composition-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-right-weighted-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.graphite-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with muted tonal range photographic style, head-and-shoulders with right-weighted balance composition, graphite ink-dense tonal scale palette, gentle atmospheric bloom from softbox array, spilling into the background 90e14b3107ac"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with soft edge falloff photographic style, head-and-shoulders with centered balance composition, coral ink-dense tonal scale palette, soft diffusion from softbox array, broken by foreground shapes afdf2fb15d71"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.afdf2fb15d71",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-foreground-framed-composition-with-observational-distanc"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-centered-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.coral-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with soft edge falloff photographic style, head-and-shoulders with centered balance composition, coral ink-dense tonal scale palette, soft diffusion from softbox array, broken by foreground shapes afdf2fb15d71"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with luminous highlights photographic style, head-and-shoulders with right-weighted balance composition, indigo high-key monochrome palette, crisp shadow edges from softbox array, falling off into shadow be9e2899499d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.be9e2899499d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-symmetrical-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-right-weighted-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-high-key-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with luminous highlights photographic style, head-and-shoulders with right-weighted balance composition, indigo high-key monochrome palette, crisp shadow edges from softbox array, falling off into shadow be9e2899499d"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with luminous highlights photographic style, head-and-shoulders with lower visual anchor composition, indigo ink-dense tonal scale palette, soft diffusion from softbox array, creating a luminous frame d11dbe74ea14"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.d11dbe74ea14",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-right-weighted-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-lower-visual-anchor-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with luminous highlights photographic style, head-and-shoulders with lower visual anchor composition, indigo ink-dense tonal scale palette, soft diffusion from softbox array, creating a luminous frame d11dbe74ea14"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with centered period framing photographic style, head-and-shoulders with lower visual anchor composition, sepia pastel tonal scale palette, gentle atmospheric bloom from softbox array, broken by foreground shapes d280385ac51e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.d280385ac51e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-left-weighted-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-lower-visual-anchor-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-pastel-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with centered period framing photographic style, head-and-shoulders with lower visual anchor composition, sepia pastel tonal scale palette, gentle atmospheric bloom from softbox array, broken by foreground shapes d280385ac51e"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with fine surface grain photographic style, head-and-shoulders with mirrored side balance composition, magenta metallic-accent monochrome palette, soft diffusion from softbox array, spilling into the background d8facde0b8d2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.d8facde0b8d2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-left-weighted-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-mirrored-side-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.magenta-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with fine surface grain photographic style, head-and-shoulders with mirrored side balance composition, magenta metallic-accent monochrome palette, soft diffusion from softbox array, spilling into the background d8facde0b8d2"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with fine surface grain photographic style, head-and-shoulders with diagonal counterweight composition, olive ink-dense tonal scale palette, crisp shadow edges from softbox array, falling off into shadow f8ecb3aef820"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.f8ecb3aef820",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-frame-within-frame-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-diagonal-counterweight-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-ink-dense-tonal-scale-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with fine surface grain photographic style, head-and-shoulders with diagonal counterweight composition, olive ink-dense tonal scale palette, crisp shadow edges from softbox array, falling off into shadow f8ecb3aef820"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "platinum silver portrait featuring platinum print with careful studio staging photographic style, head-and-shoulders with left-weighted balance composition, olive metallic-accent monochrome palette, crisp shadow edges from softbox array, reflected from nearby surfaces fb4ce0bd9211"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.platinum-silver-portrait",
+      "familyTriggers": [
+        "platinum silver portrait direction",
+        "platinum print character study",
+        "analog silver studio portrait"
+      ],
+      "id": "phase8.art.media.platinum-silver-portrait.fb4ce0bd9211",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-negative-space-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-left-weighted-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-metallic-accent-monochrome-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.platinum-print-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Platinum Silver Portrait 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.platinum-silver-portrait",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "platinum tonal restraint",
+        "silver-process portrait balance",
+        "studio analog finish"
+      ],
+      "triggers": [
+        "platinum silver portrait featuring platinum print with careful studio staging photographic style, head-and-shoulders with left-weighted balance composition, olive metallic-accent monochrome palette, crisp shadow edges from softbox array, reflected from nearby surfaces fb4ce0bd9211"
+      ],
+      "variantIndex": 16
+    }
+  ],
+  "schemaVersion": 2
+}

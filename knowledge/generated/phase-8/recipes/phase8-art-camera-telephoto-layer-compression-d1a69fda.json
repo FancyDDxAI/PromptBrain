@@ -1,0 +1,1664 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.camera.telephoto-layer-compression",
+  "fingerprint": "115f3dfe69b1a4dcc6f3f67b09d148c17c9adc7ed656f8d6dbf33e21b5d2a4f5",
+  "recipes": [
+    {
+      "aliases": [
+        "telephoto layer compression featuring digital impasto with scumbled highlights painting style, semicircular ensemble with background-led staging composition, umber shadows with amber highlights cinematic palette, soft diffusion from softbox array, spilling into the background 01952d10c354"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.01952d10c354",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-moderate-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.semicircular-ensemble-with-background-led-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.umber-shadows-with-amber-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring digital impasto with scumbled highlights painting style, semicircular ensemble with background-led staging composition, umber shadows with amber highlights cinematic palette, soft diffusion from softbox array, spilling into the background 01952d10c354"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring acrylic wash with precise small brushes painting style, processional ensemble with single-plane staging composition, burgundy shadows with rose highlights cinematic palette, gentle atmospheric bloom from softbox array, creating a luminous frame 05a15bb0be00"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.05a15bb0be00",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-stopped-down-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.processional-ensemble-with-single-plane-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.acrylic-wash-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring acrylic wash with precise small brushes painting style, processional ensemble with single-plane staging composition, burgundy shadows with rose highlights cinematic palette, gentle atmospheric bloom from softbox array, creating a luminous frame 05a15bb0be00"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring transparent watercolor with layered translucent marks painting style, staggered-row ensemble with deep overlap staging composition, violet shadows with mint highlights cinematic palette, gentle atmospheric bloom from softbox array, grazing textured surfaces 0e9f538a95c1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.0e9f538a95c1",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-wide-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.staggered-row-ensemble-with-deep-overlap-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring transparent watercolor with layered translucent marks painting style, staggered-row ensemble with deep overlap staging composition, violet shadows with mint highlights cinematic palette, gentle atmospheric bloom from softbox array, grazing textured surfaces 0e9f538a95c1"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring digital impasto with precise small brushes painting style, staggered-row ensemble with deep overlap staging composition, teal shadows with mint highlights cinematic palette, controlled high contrast from softbox array, spilling into the background 258f8fc29b31"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.258f8fc29b31",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-moderate-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.staggered-row-ensemble-with-deep-overlap-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring digital impasto with precise small brushes painting style, staggered-row ensemble with deep overlap staging composition, teal shadows with mint highlights cinematic palette, controlled high contrast from softbox array, spilling into the background 258f8fc29b31"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring acrylic wash with scumbled highlights painting style, paired ensemble with single-plane staging composition, burgundy shadows with rose highlights cinematic palette, soft diffusion from softbox array, spilling into the background 273b2218eb54"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.273b2218eb54",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-moderate-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.paired-ensemble-with-single-plane-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.acrylic-wash-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring acrylic wash with scumbled highlights painting style, paired ensemble with single-plane staging composition, burgundy shadows with rose highlights cinematic palette, soft diffusion from softbox array, spilling into the background 273b2218eb54"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring transparent watercolor with broad flat strokes painting style, ring-shaped ensemble with midground-led staging composition, umber shadows with amber highlights cinematic palette, gentle atmospheric bloom from softbox array, creating a luminous frame 33077c26f6f8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.33077c26f6f8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-mid-range-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.ring-shaped-ensemble-with-midground-led-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.umber-shadows-with-amber-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring transparent watercolor with broad flat strokes painting style, ring-shaped ensemble with midground-led staging composition, umber shadows with amber highlights cinematic palette, gentle atmospheric bloom from softbox array, creating a luminous frame 33077c26f6f8"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring casein paint with broad flat strokes painting style, tableau ensemble with midground-led staging composition, plum shadows with amber highlights cinematic palette, crisp shadow edges from softbox array, creating a luminous frame 3a8f43a30a9b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.3a8f43a30a9b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-stopped-down-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.tableau-ensemble-with-midground-led-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-shadows-with-amber-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.casein-paint-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring casein paint with broad flat strokes painting style, tableau ensemble with midground-led staging composition, plum shadows with amber highlights cinematic palette, crisp shadow edges from softbox array, creating a luminous frame 3a8f43a30a9b"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring casein paint with scumbled highlights painting style, single-file ensemble with midground-led staging composition, plum shadows with copper highlights cinematic palette, soft diffusion from softbox array, contained in a localized pool 3e0e5d6eb290"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.3e0e5d6eb290",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-wide-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.single-file-ensemble-with-midground-led-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.casein-paint-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring casein paint with scumbled highlights painting style, single-file ensemble with midground-led staging composition, plum shadows with copper highlights cinematic palette, soft diffusion from softbox array, contained in a localized pool 3e0e5d6eb290"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring casein paint with scumbled highlights painting style, diverging ensemble with single-plane staging composition, olive shadows with copper highlights cinematic palette, gentle atmospheric bloom from softbox array, broken by foreground shapes 4362e99e4c28"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.4362e99e4c28",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-moderate-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.diverging-ensemble-with-single-plane-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.casein-paint-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring casein paint with scumbled highlights painting style, diverging ensemble with single-plane staging composition, olive shadows with copper highlights cinematic palette, gentle atmospheric bloom from softbox array, broken by foreground shapes 4362e99e4c28"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring acrylic wash with precise small brushes painting style, processional ensemble with deep overlap staging composition, slate-blue shadows with pearl highlights cinematic palette, controlled high contrast from softbox array, layered across depth planes 45f65fa3ee38"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.45f65fa3ee38",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-wide-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.processional-ensemble-with-deep-overlap-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-shadows-with-pearl-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.acrylic-wash-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring acrylic wash with precise small brushes painting style, processional ensemble with deep overlap staging composition, slate-blue shadows with pearl highlights cinematic palette, controlled high contrast from softbox array, layered across depth planes 45f65fa3ee38"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring oil glaze with broad flat strokes painting style, semicircular ensemble with shallow overlap staging composition, plum shadows with rose highlights cinematic palette, soft diffusion from softbox array, contained in a localized pool 4cac3ad52ef5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.4cac3ad52ef5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-stopped-down-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.semicircular-ensemble-with-shallow-overlap-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.oil-glaze-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring oil glaze with broad flat strokes painting style, semicircular ensemble with shallow overlap staging composition, plum shadows with rose highlights cinematic palette, soft diffusion from softbox array, contained in a localized pool 4cac3ad52ef5"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring encaustic wax with precise small brushes painting style, semicircular ensemble with foreground-led staging composition, teal shadows with coral highlights cinematic palette, soft diffusion from softbox array, broken by foreground shapes 4d3d6ae98dbd"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.4d3d6ae98dbd",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-mid-range-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.semicircular-ensemble-with-foreground-led-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.encaustic-wax-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring encaustic wax with precise small brushes painting style, semicircular ensemble with foreground-led staging composition, teal shadows with coral highlights cinematic palette, soft diffusion from softbox array, broken by foreground shapes 4d3d6ae98dbd"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring acrylic wash with dry textured strokes painting style, leader-centered ensemble with three-plane staging composition, violet shadows with cyan highlights cinematic palette, crisp shadow edges from softbox array, grazing textured surfaces 73fa62d8ce8f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.73fa62d8ce8f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-wide-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.leader-centered-ensemble-with-three-plane-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-shadows-with-cyan-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.acrylic-wash-with-dry-textured-strokes-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring acrylic wash with dry textured strokes painting style, leader-centered ensemble with three-plane staging composition, violet shadows with cyan highlights cinematic palette, crisp shadow edges from softbox array, grazing textured surfaces 73fa62d8ce8f"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring matte airbrush with visible underpainting painting style, diverging ensemble with shallow overlap staging composition, teal shadows with coral highlights cinematic palette, crisp shadow edges from softbox array, grazing textured surfaces 86e4aebaf26d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.86e4aebaf26d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-mid-range-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.diverging-ensemble-with-shallow-overlap-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.matte-airbrush-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring matte airbrush with visible underpainting painting style, diverging ensemble with shallow overlap staging composition, teal shadows with coral highlights cinematic palette, crisp shadow edges from softbox array, grazing textured surfaces 86e4aebaf26d"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring encaustic wax with broad flat strokes painting style, converging ensemble with single-plane staging composition, charcoal shadows with mint highlights cinematic palette, soft diffusion from softbox array, grazing textured surfaces 881aa51c157e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.881aa51c157e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-moderate-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.converging-ensemble-with-single-plane-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.encaustic-wax-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring encaustic wax with broad flat strokes painting style, converging ensemble with single-plane staging composition, charcoal shadows with mint highlights cinematic palette, soft diffusion from softbox array, grazing textured surfaces 881aa51c157e"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring poster paint with soft blended edges painting style, single-file ensemble with background-led staging composition, slate-blue shadows with lemon highlights cinematic palette, soft diffusion from softbox array, contained in a localized pool 90a677091a96"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.90a677091a96",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-stopped-down-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.single-file-ensemble-with-background-led-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-shadows-with-lemon-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.poster-paint-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring poster paint with soft blended edges painting style, single-file ensemble with background-led staging composition, slate-blue shadows with lemon highlights cinematic palette, soft diffusion from softbox array, contained in a localized pool 90a677091a96"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring fresco pigment with broad flat strokes painting style, tableau ensemble with foreground-led staging composition, cobalt shadows with cyan highlights cinematic palette, soft diffusion from softbox array, creating a luminous frame a3e07b1286c7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.a3e07b1286c7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-moderate-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.tableau-ensemble-with-foreground-led-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-shadows-with-cyan-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fresco-pigment-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring fresco pigment with broad flat strokes painting style, tableau ensemble with foreground-led staging composition, cobalt shadows with cyan highlights cinematic palette, soft diffusion from softbox array, creating a luminous frame a3e07b1286c7"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring pastel paint with broad flat strokes painting style, processional ensemble with background-led staging composition, teal shadows with rose highlights cinematic palette, controlled high contrast from softbox array, layered across depth planes a6ec1f421cf4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.a6ec1f421cf4",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-mid-range-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.processional-ensemble-with-background-led-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.pastel-paint-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring pastel paint with broad flat strokes painting style, processional ensemble with background-led staging composition, teal shadows with rose highlights cinematic palette, controlled high contrast from softbox array, layered across depth planes a6ec1f421cf4"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring digital impasto with broad flat strokes painting style, leader-centered ensemble with deep overlap staging composition, violet shadows with mint highlights cinematic palette, crisp shadow edges from softbox array, spilling into the background a8260af56070"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.a8260af56070",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-stopped-down-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.leader-centered-ensemble-with-deep-overlap-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring digital impasto with broad flat strokes painting style, leader-centered ensemble with deep overlap staging composition, violet shadows with mint highlights cinematic palette, crisp shadow edges from softbox array, spilling into the background a8260af56070"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring matte airbrush with scumbled highlights painting style, clustered ensemble with foreground-led staging composition, plum shadows with lemon highlights cinematic palette, soft diffusion from softbox array, creating a luminous frame b0848a790bd1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.b0848a790bd1",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-stopped-down-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.clustered-ensemble-with-foreground-led-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-shadows-with-lemon-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.matte-airbrush-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring matte airbrush with scumbled highlights painting style, clustered ensemble with foreground-led staging composition, plum shadows with lemon highlights cinematic palette, soft diffusion from softbox array, creating a luminous frame b0848a790bd1"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring casein paint with scumbled highlights painting style, clustered ensemble with midground-led staging composition, charcoal shadows with mint highlights cinematic palette, controlled high contrast from softbox array, focused on the subject plane cd9491894e4b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.cd9491894e4b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-stopped-down-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.clustered-ensemble-with-midground-led-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.casein-paint-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring casein paint with scumbled highlights painting style, clustered ensemble with midground-led staging composition, charcoal shadows with mint highlights cinematic palette, controlled high contrast from softbox array, focused on the subject plane cd9491894e4b"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring encaustic wax with scumbled highlights painting style, processional ensemble with deep overlap staging composition, violet shadows with copper highlights cinematic palette, soft diffusion from softbox array, spilling into the background dbdb63b2ce66"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.dbdb63b2ce66",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-stopped-down-aperture-controlled-highlight-blo"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.processional-ensemble-with-deep-overlap-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.encaustic-wax-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring encaustic wax with scumbled highlights painting style, processional ensemble with deep overlap staging composition, violet shadows with copper highlights cinematic palette, soft diffusion from softbox array, spilling into the background dbdb63b2ce66"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring encaustic wax with visible underpainting painting style, ring-shaped ensemble with midground-led staging composition, black-cherry shadows with amber highlights cinematic palette, crisp shadow edges from softbox array, broken by foreground shapes e6825826317f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.e6825826317f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-stopped-down-aperture-neutral-optical-renderin"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.ring-shaped-ensemble-with-midground-led-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.black-cherry-shadows-with-amber-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.encaustic-wax-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring encaustic wax with visible underpainting painting style, ring-shaped ensemble with midground-led staging composition, black-cherry shadows with amber highlights cinematic palette, crisp shadow edges from softbox array, broken by foreground shapes e6825826317f"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "telephoto layer compression featuring matte airbrush with soft blended edges painting style, processional ensemble with midground-led staging composition, teal shadows with lemon highlights cinematic palette, crisp shadow edges from softbox array, creating a luminous frame e7d4875b1b7b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.telephoto-layer-compression",
+      "familyTriggers": [
+        "telephoto layer compression grammar",
+        "compressed ensemble framing",
+        "135mm stacked-plane direction"
+      ],
+      "id": "phase8.art.camera.telephoto-layer-compression.e7d4875b1b7b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.135mm-telephoto-lens-at-a-stopped-down-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.processional-ensemble-with-midground-led-staging-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-lemon-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.matte-airbrush-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Telephoto Layer Compression 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.telephoto-layer-compression",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "telephoto plane stacking",
+        "compressed ensemble depth",
+        "long-lens spatial tension"
+      ],
+      "triggers": [
+        "telephoto layer compression featuring matte airbrush with soft blended edges painting style, processional ensemble with midground-led staging composition, teal shadows with lemon highlights cinematic palette, crisp shadow edges from softbox array, creating a luminous frame e7d4875b1b7b"
+      ],
+      "variantIndex": 18
+    }
+  ],
+  "schemaVersion": 2
+}

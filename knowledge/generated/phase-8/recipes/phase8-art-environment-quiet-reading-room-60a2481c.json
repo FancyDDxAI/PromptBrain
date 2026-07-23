@@ -1,0 +1,1784 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.environment.quiet-reading-room",
+  "fingerprint": "bb2af017a12592b57b88966b7bd0927ece86d96217b85737aeb8a496e5cad1cf",
+  "recipes": [
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with visible underpainting painting style, diagonally stepped still life in low-angle view composition, mint cream with coral accent soft-color palette, gentle atmospheric bloom from table lamp practical, reflected from nearby surfaces 1be6c03bfecc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.1be6c03bfecc",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.diagonally-stepped-still-life-in-low-angle-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-layered-furniture-arrangement-calm-inhabited-atmo"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-table-lamp-practical-reflected-from-nearby"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mint-cream-with-coral-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with visible underpainting painting style, diagonally stepped still life in low-angle view composition, mint cream with coral accent soft-color palette, gentle atmospheric bloom from table lamp practical, reflected from nearby surfaces 1be6c03bfecc"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with layered translucent marks painting style, center-isolated still life in low-angle view composition, powder blue with apricot accent soft-color palette, gentle atmospheric bloom from table lamp practical, layered across depth planes 1d2d8b3fc5bb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.1d2d8b3fc5bb",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.center-isolated-still-life-in-low-angle-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-deep-room-perspective-polished-editorial-atmosphe"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-table-lamp-practical-layered-across-depth-"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.powder-blue-with-apricot-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with layered translucent marks painting style, center-isolated still life in low-angle view composition, powder blue with apricot accent soft-color palette, gentle atmospheric bloom from table lamp practical, layered across depth planes 1d2d8b3fc5bb"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with graphic shape blocking painting style, corner-clustered still life in close-cropped view composition, cloud lavender with moss accent soft-color palette, controlled high contrast from table lamp practical, broken by foreground shapes 1e6fcc673109"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.1e6fcc673109",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.corner-clustered-still-life-in-close-cropped-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-a-clear-central-walkway-polished-editorial-atmosp"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-table-lamp-practical-broken-by-foreground-"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cloud-lavender-with-moss-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with graphic shape blocking painting style, corner-clustered still life in close-cropped view composition, cloud lavender with moss accent soft-color palette, controlled high contrast from table lamp practical, broken by foreground shapes 1e6fcc673109"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with visible underpainting painting style, symmetrically paired still life in through-frame view composition, blush pink with apricot accent soft-color palette, soft diffusion from table lamp practical, reflected from nearby surfaces 26e03e6ce332"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.26e03e6ce332",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.symmetrically-paired-still-life-in-through-frame-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-balanced-functional-clutter-calm-inhabited-atmosp"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-table-lamp-practical-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.blush-pink-with-apricot-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with visible underpainting painting style, symmetrically paired still life in through-frame view composition, blush pink with apricot accent soft-color palette, soft diffusion from table lamp practical, reflected from nearby surfaces 26e03e6ce332"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with broad flat strokes painting style, shelf-aligned still life in low-angle view composition, peach cream with raspberry accent soft-color palette, crisp shadow edges from table lamp practical, focused on the subject plane 44cd25229346"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.44cd25229346",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-wide-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.shelf-aligned-still-life-in-low-angle-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-layered-furniture-arrangement-calm-inhabited-atmo"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-table-lamp-practical-focused-on-the-subject-plan"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peach-cream-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with broad flat strokes painting style, shelf-aligned still life in low-angle view composition, peach cream with raspberry accent soft-color palette, crisp shadow edges from table lamp practical, focused on the subject plane 44cd25229346"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with precise small brushes painting style, suspended still life in close-cropped view composition, butter yellow with coral accent soft-color palette, crisp shadow edges from table lamp practical, falling off into shadow 6bd24cd96892"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.6bd24cd96892",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.suspended-still-life-in-close-cropped-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-repeating-structural-rhythm-calm-inhabited-atmosp"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-table-lamp-practical-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.butter-yellow-with-coral-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with precise small brushes painting style, suspended still life in close-cropped view composition, butter yellow with coral accent soft-color palette, crisp shadow edges from table lamp practical, falling off into shadow 6bd24cd96892"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with broad flat strokes painting style, circular still life in low-angle view composition, butter yellow with marigold accent soft-color palette, gentle atmospheric bloom from table lamp practical, grazing textured surfaces 71bcf3822c51"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.71bcf3822c51",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-wide-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.circular-still-life-in-low-angle-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-an-intimate-corner-composition-calm-inhabited-atm"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-table-lamp-practical-grazing-textured-surf"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.butter-yellow-with-marigold-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with broad flat strokes painting style, circular still life in low-angle view composition, butter yellow with marigold accent soft-color palette, gentle atmospheric bloom from table lamp practical, grazing textured surfaces 71bcf3822c51"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with broad flat strokes painting style, asymmetrically balanced still life in eye-level view composition, dusty rose with cobalt accent soft-color palette, crisp shadow edges from table lamp practical, reflected from nearby surfaces 722e86772aac"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.722e86772aac",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-wide-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.asymmetrically-balanced-still-life-in-eye-level-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-layered-furniture-arrangement-calm-inhabited-atmo"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-table-lamp-practical-reflected-from-nearby-surfa"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dusty-rose-with-cobalt-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with broad flat strokes painting style, asymmetrically balanced still life in eye-level view composition, dusty rose with cobalt accent soft-color palette, crisp shadow edges from table lamp practical, reflected from nearby surfaces 722e86772aac"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with dry textured strokes painting style, asymmetrically balanced still life in low-angle view composition, pale aqua with marigold accent soft-color palette, soft diffusion from table lamp practical, contained in a localized pool 7e39677eb039"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.7e39677eb039",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-mid-range-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.asymmetrically-balanced-still-life-in-low-angle-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-ceiling-to-floor-detail-calm-inhabited-atmosphere"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-table-lamp-practical-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.pale-aqua-with-marigold-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-dry-textured-strokes-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with dry textured strokes painting style, asymmetrically balanced still life in low-angle view composition, pale aqua with marigold accent soft-color palette, soft diffusion from table lamp practical, contained in a localized pool 7e39677eb039"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with dry textured strokes painting style, linear still life in side-on view composition, lilac mist with raspberry accent soft-color palette, gentle atmospheric bloom from table lamp practical, broken by foreground shapes 84388d32a0ff"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.84388d32a0ff",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-wide-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.linear-still-life-in-side-on-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-an-intimate-corner-composition-warm-observational"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-table-lamp-practical-broken-by-foreground-"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lilac-mist-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-dry-textured-strokes-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with dry textured strokes painting style, linear still life in side-on view composition, lilac mist with raspberry accent soft-color palette, gentle atmospheric bloom from table lamp practical, broken by foreground shapes 84388d32a0ff"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with layered translucent marks painting style, diagonally stepped still life in eye-level view composition, lilac mist with raspberry accent soft-color palette, crisp shadow edges from table lamp practical, creating a luminous frame 86cba37ba182"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.86cba37ba182",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-wide-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.diagonally-stepped-still-life-in-eye-level-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-a-window-framed-focal-area-polished-editorial-atm"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-table-lamp-practical-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lilac-mist-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with layered translucent marks painting style, diagonally stepped still life in eye-level view composition, lilac mist with raspberry accent soft-color palette, crisp shadow edges from table lamp practical, creating a luminous frame 86cba37ba182"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with precise small brushes painting style, suspended still life in top-down view composition, lilac mist with raspberry accent soft-color palette, soft diffusion from table lamp practical, grazing textured surfaces 8ee7aabac113"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.8ee7aabac113",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.suspended-still-life-in-top-down-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-a-window-framed-focal-area-polished-editorial-atm"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-table-lamp-practical-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lilac-mist-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with precise small brushes painting style, suspended still life in top-down view composition, lilac mist with raspberry accent soft-color palette, soft diffusion from table lamp practical, grazing textured surfaces 8ee7aabac113"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with graphic shape blocking painting style, diagonally stepped still life in through-frame view composition, mint cream with apricot accent soft-color palette, soft diffusion from table lamp practical, reflected from nearby surfaces 93a5caad36eb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.93a5caad36eb",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.diagonally-stepped-still-life-in-through-frame-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-balanced-functional-clutter-calm-inhabited-atmosp"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-table-lamp-practical-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mint-cream-with-apricot-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with graphic shape blocking painting style, diagonally stepped still life in through-frame view composition, mint cream with apricot accent soft-color palette, soft diffusion from table lamp practical, reflected from nearby surfaces 93a5caad36eb"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with broad flat strokes painting style, shelf-aligned still life in side-on view composition, dove gray with teal accent soft-color palette, controlled high contrast from table lamp practical, creating a luminous frame 96ec3e1f2ceb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.96ec3e1f2ceb",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.shelf-aligned-still-life-in-side-on-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-an-intimate-corner-composition-polished-editorial"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-table-lamp-practical-creating-a-luminous-f"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dove-gray-with-teal-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with broad flat strokes painting style, shelf-aligned still life in side-on view composition, dove gray with teal accent soft-color palette, controlled high contrast from table lamp practical, creating a luminous frame 96ec3e1f2ceb"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with layered translucent marks painting style, scattered still life in eye-level view composition, butter yellow with cobalt accent soft-color palette, soft diffusion from table lamp practical, broken by foreground shapes 9c5a524358aa"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.9c5a524358aa",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-mid-range-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.scattered-still-life-in-eye-level-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-deep-room-perspective-polished-editorial-atmosphe"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-table-lamp-practical-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.butter-yellow-with-cobalt-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with layered translucent marks painting style, scattered still life in eye-level view composition, butter yellow with cobalt accent soft-color palette, soft diffusion from table lamp practical, broken by foreground shapes 9c5a524358aa"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with broad flat strokes painting style, diagonally stepped still life in three-quarter view composition, peach cream with apricot accent soft-color palette, soft diffusion from table lamp practical, grazing textured surfaces a5cb8e1c3dcf"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.a5cb8e1c3dcf",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-wide-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.diagonally-stepped-still-life-in-three-quarter-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-ceiling-to-floor-detail-warm-observational-atmosp"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-table-lamp-practical-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peach-cream-with-apricot-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with broad flat strokes painting style, diagonally stepped still life in three-quarter view composition, peach cream with apricot accent soft-color palette, soft diffusion from table lamp practical, grazing textured surfaces a5cb8e1c3dcf"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with layered translucent marks painting style, center-isolated still life in three-quarter view composition, lilac mist with plum accent soft-color palette, soft diffusion from table lamp practical, layered across depth planes ab9a9142c5a9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.ab9a9142c5a9",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.center-isolated-still-life-in-three-quarter-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-an-intimate-corner-composition-polished-editorial"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-table-lamp-practical-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lilac-mist-with-plum-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with layered translucent marks painting style, center-isolated still life in three-quarter view composition, lilac mist with plum accent soft-color palette, soft diffusion from table lamp practical, layered across depth planes ab9a9142c5a9"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with dry textured strokes painting style, diagonally stepped still life in through-frame view composition, mint cream with coral accent soft-color palette, soft diffusion from table lamp practical, creating a luminous frame ae37d66ff96b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.ae37d66ff96b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.diagonally-stepped-still-life-in-through-frame-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-foreground-object-framing-warm-observational-atmo"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-table-lamp-practical-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mint-cream-with-coral-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-dry-textured-strokes-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with dry textured strokes painting style, diagonally stepped still life in through-frame view composition, mint cream with coral accent soft-color palette, soft diffusion from table lamp practical, creating a luminous frame ae37d66ff96b"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with dry textured strokes painting style, linear still life in close-cropped view composition, powder blue with teal accent soft-color palette, crisp shadow edges from table lamp practical, reflected from nearby surfaces bbb6cb09d658"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.bbb6cb09d658",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.linear-still-life-in-close-cropped-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-a-window-framed-focal-area-warm-observational-atm"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-table-lamp-practical-reflected-from-nearby-surfa"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.powder-blue-with-teal-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-dry-textured-strokes-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with dry textured strokes painting style, linear still life in close-cropped view composition, powder blue with teal accent soft-color palette, crisp shadow edges from table lamp practical, reflected from nearby surfaces bbb6cb09d658"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with graphic shape blocking painting style, suspended still life in side-on view composition, lilac mist with marigold accent soft-color palette, crisp shadow edges from table lamp practical, contained in a localized pool bcf1d24e31f2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.bcf1d24e31f2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-wide-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.suspended-still-life-in-side-on-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-foreground-object-framing-warm-observational-atmo"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-table-lamp-practical-contained-in-a-localized-po"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lilac-mist-with-marigold-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with graphic shape blocking painting style, suspended still life in side-on view composition, lilac mist with marigold accent soft-color palette, crisp shadow edges from table lamp practical, contained in a localized pool bcf1d24e31f2"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with broad flat strokes painting style, symmetrically paired still life in close-cropped view composition, lilac mist with coral accent soft-color palette, crisp shadow edges from table lamp practical, spilling into the background e41338a26f81"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.e41338a26f81",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.symmetrically-paired-still-life-in-close-cropped-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-deep-room-perspective-warm-observational-atmosphe"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-table-lamp-practical-spilling-into-the-backgroun"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lilac-mist-with-coral-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with broad flat strokes painting style, symmetrically paired still life in close-cropped view composition, lilac mist with coral accent soft-color palette, crisp shadow edges from table lamp practical, spilling into the background e41338a26f81"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with graphic shape blocking painting style, diagonally stepped still life in low-angle view composition, lilac mist with moss accent soft-color palette, crisp shadow edges from table lamp practical, contained in a localized pool eb252318b49d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.eb252318b49d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.diagonally-stepped-still-life-in-low-angle-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-deep-room-perspective-warm-observational-atmosphe"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-table-lamp-practical-contained-in-a-localized-po"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lilac-mist-with-moss-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with graphic shape blocking painting style, diagonally stepped still life in low-angle view composition, lilac mist with moss accent soft-color palette, crisp shadow edges from table lamp practical, contained in a localized pool eb252318b49d"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with precise small brushes painting style, symmetrically paired still life in through-frame view composition, pale aqua with coral accent soft-color palette, gentle atmospheric bloom from table lamp practical, broken by foreground shapes f75b728a6614"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.f75b728a6614",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.symmetrically-paired-still-life-in-through-frame-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-layered-furniture-arrangement-warm-observational-"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-table-lamp-practical-broken-by-foreground-"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.pale-aqua-with-coral-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with precise small brushes painting style, symmetrically paired still life in through-frame view composition, pale aqua with coral accent soft-color palette, gentle atmospheric bloom from table lamp practical, broken by foreground shapes f75b728a6614"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "quiet reading room featuring opaque gouache with graphic shape blocking painting style, pyramidal still life in side-on view composition, peach cream with plum accent soft-color palette, controlled high contrast from table lamp practical, spilling into the background f7d343430d55"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.quiet-reading-room",
+      "familyTriggers": [
+        "quiet reading room direction",
+        "lamplit library calm",
+        "intimate book-room atmosphere"
+      ],
+      "id": "phase8.art.environment.quiet-reading-room.f7d343430d55",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-wide-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.pyramidal-still-life-in-side-on-view-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.cozy-reading-room-with-a-clear-central-walkway-calm-inhabited-atmosphere"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-table-lamp-practical-spilling-into-the-bac"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peach-cream-with-plum-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Quiet Reading Room 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.quiet-reading-room",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "table-lamp quiet",
+        "reading-room intimacy",
+        "soft interior stillness"
+      ],
+      "triggers": [
+        "quiet reading room featuring opaque gouache with graphic shape blocking painting style, pyramidal still life in side-on view composition, peach cream with plum accent soft-color palette, controlled high contrast from table lamp practical, spilling into the background f7d343430d55"
+      ],
+      "variantIndex": 11
+    }
+  ],
+  "schemaVersion": 2
+}

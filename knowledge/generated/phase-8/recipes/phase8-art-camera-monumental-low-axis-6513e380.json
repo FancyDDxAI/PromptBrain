@@ -1,0 +1,1664 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.camera.monumental-low-axis",
+  "fingerprint": "a847a92023a2d27da86a925c6f0b310c6b73c300ffd0e742930bf62049b4c3a6",
+  "recipes": [
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with visible underpainting painting style, close fabric fold against a tiny distant figure scale composition, amethyst violet with bright silver gemstone palette, crisp shadow edges from headlight beams, reflected from nearby surfaces 0866fac06e07"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.0866fac06e07",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-transverse-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.close-fabric-fold-against-a-tiny-distant-figure-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.amethyst-violet-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with visible underpainting painting style, close fabric fold against a tiny distant figure scale composition, amethyst violet with bright silver gemstone palette, crisp shadow edges from headlight beams, reflected from nearby surfaces 0866fac06e07"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with graphic shape blocking painting style, large window frame against a far vehicle silhouette scale composition, ruby red with bright silver gemstone palette, crisp shadow edges from headlight beams, falling off into shadow 0fd7f6dcf61a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.0fd7f6dcf61a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-left-offset-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.large-window-frame-against-a-far-vehicle-silhouette-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with graphic shape blocking painting style, large window frame against a far vehicle silhouette scale composition, ruby red with bright silver gemstone palette, crisp shadow edges from headlight beams, falling off into shadow 0fd7f6dcf61a"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with soft blended edges painting style, large rock edge against a small distant building scale composition, ruby red with bright silver gemstone palette, controlled high contrast from headlight beams, layered across depth planes 11e9c89e3378"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.11e9c89e3378",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-cross-corner-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.large-rock-edge-against-a-small-distant-building-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-layered-across-depth-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with soft blended edges painting style, large rock edge against a small distant building scale composition, ruby red with bright silver gemstone palette, controlled high contrast from headlight beams, layered across depth planes 11e9c89e3378"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with scumbled highlights painting style, oversized shadow shape against a far vehicle silhouette scale composition, garnet burgundy with pewter gray gemstone palette, soft diffusion from headlight beams, spilling into the background 32e27c9dad1e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.32e27c9dad1e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-right-offset-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.oversized-shadow-shape-against-a-far-vehicle-silhouette-scale-compositio"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.garnet-burgundy-with-pewter-gray-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with scumbled highlights painting style, oversized shadow shape against a far vehicle silhouette scale composition, garnet burgundy with pewter gray gemstone palette, soft diffusion from headlight beams, spilling into the background 32e27c9dad1e"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with broad flat strokes painting style, near tree trunk against a far vehicle silhouette scale composition, aquamarine with bright silver gemstone palette, gentle atmospheric bloom from headlight beams, layered across depth planes 37609dea7422"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.37609dea7422",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-left-offset-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.near-tree-trunk-against-a-far-vehicle-silhouette-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-headlight-beams-layered-across-depth-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aquamarine-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with broad flat strokes painting style, near tree trunk against a far vehicle silhouette scale composition, aquamarine with bright silver gemstone palette, gentle atmospheric bloom from headlight beams, layered across depth planes 37609dea7422"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with soft blended edges painting style, foreground sign shape against a distant crowd line scale composition, lapis blue with bright silver gemstone palette, soft diffusion from headlight beams, focused on the subject plane 58889c731e14"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.58889c731e14",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-left-offset-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-sign-shape-against-a-distant-crowd-line-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lapis-blue-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with soft blended edges painting style, foreground sign shape against a distant crowd line scale composition, lapis blue with bright silver gemstone palette, soft diffusion from headlight beams, focused on the subject plane 58889c731e14"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with broad flat strokes painting style, large foreground wheel against a tiny airborne object scale composition, ruby red with oxidized copper gemstone palette, controlled high contrast from headlight beams, contained in a localized pool 5d84142ac148"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.5d84142ac148",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-right-offset-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.large-foreground-wheel-against-a-tiny-airborne-object-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-contained-in-a-localized-p"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-oxidized-copper-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with broad flat strokes painting style, large foreground wheel against a tiny airborne object scale composition, ruby red with oxidized copper gemstone palette, controlled high contrast from headlight beams, contained in a localized pool 5d84142ac148"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with visible underpainting painting style, foreground vessel against a tiny airborne object scale composition, lapis blue with oxidized copper gemstone palette, crisp shadow edges from headlight beams, contained in a localized pool 70663bcb21b3"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.70663bcb21b3",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-longitudinal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-vessel-against-a-tiny-airborne-object-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lapis-blue-with-oxidized-copper-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with visible underpainting painting style, foreground vessel against a tiny airborne object scale composition, lapis blue with oxidized copper gemstone palette, crisp shadow edges from headlight beams, contained in a localized pool 70663bcb21b3"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with graphic shape blocking painting style, giant foreground hand against a small mountain structure scale composition, ruby red with pale brass gemstone palette, crisp shadow edges from headlight beams, focused on the subject plane 706b6b9665c1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.706b6b9665c1",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-center-axis-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.giant-foreground-hand-against-a-small-mountain-structure-scale-compositi"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-pale-brass-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with graphic shape blocking painting style, giant foreground hand against a small mountain structure scale composition, ruby red with pale brass gemstone palette, crisp shadow edges from headlight beams, focused on the subject plane 706b6b9665c1"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with dry textured strokes painting style, foreground vessel against a distant crowd line scale composition, citrine yellow with champagne gold gemstone palette, crisp shadow edges from headlight beams, spilling into the background 75663ea23da2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.75663ea23da2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-longitudinal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-vessel-against-a-distant-crowd-line-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.citrine-yellow-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-dry-textured-strokes-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with dry textured strokes painting style, foreground vessel against a distant crowd line scale composition, citrine yellow with champagne gold gemstone palette, crisp shadow edges from headlight beams, spilling into the background 75663ea23da2"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with visible underpainting painting style, oversized shadow shape against a tiny distant figure scale composition, sapphire blue with champagne gold gemstone palette, controlled high contrast from headlight beams, contained in a localized pool 831a64a6c31c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.831a64a6c31c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-cross-corner-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.oversized-shadow-shape-against-a-tiny-distant-figure-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-contained-in-a-localized-p"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sapphire-blue-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with visible underpainting painting style, oversized shadow shape against a tiny distant figure scale composition, sapphire blue with champagne gold gemstone palette, controlled high contrast from headlight beams, contained in a localized pool 831a64a6c31c"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with soft blended edges painting style, oversized shadow shape against a distant crowd line scale composition, tourmaline pink with champagne gold gemstone palette, soft diffusion from headlight beams, falling off into shadow 8aff3cdeaaa7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.8aff3cdeaaa7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-transverse-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.oversized-shadow-shape-against-a-distant-crowd-line-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tourmaline-pink-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with soft blended edges painting style, oversized shadow shape against a distant crowd line scale composition, tourmaline pink with champagne gold gemstone palette, soft diffusion from headlight beams, falling off into shadow 8aff3cdeaaa7"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with graphic shape blocking painting style, close tool silhouette against a small mountain structure scale composition, garnet burgundy with champagne gold gemstone palette, crisp shadow edges from headlight beams, layered across depth planes 8ee2c80c99cb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.8ee2c80c99cb",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-center-axis-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.close-tool-silhouette-against-a-small-mountain-structure-scale-compositi"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.garnet-burgundy-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with graphic shape blocking painting style, close tool silhouette against a small mountain structure scale composition, garnet burgundy with champagne gold gemstone palette, crisp shadow edges from headlight beams, layered across depth planes 8ee2c80c99cb"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with soft blended edges painting style, close foreground flower against a small distant building scale composition, aquamarine with blackened steel gemstone palette, gentle atmospheric bloom from headlight beams, falling off into shadow 90fd76d95150"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.90fd76d95150",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-longitudinal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.close-foreground-flower-against-a-small-distant-building-scale-compositi"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-headlight-beams-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aquamarine-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with soft blended edges painting style, close foreground flower against a small distant building scale composition, aquamarine with blackened steel gemstone palette, gentle atmospheric bloom from headlight beams, falling off into shadow 90fd76d95150"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with broad flat strokes painting style, oversized shadow shape against a tiny distant figure scale composition, emerald green with bright silver gemstone palette, crisp shadow edges from headlight beams, layered across depth planes 925a3bb0cff5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.925a3bb0cff5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-front-diagonal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.oversized-shadow-shape-against-a-tiny-distant-figure-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-green-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with broad flat strokes painting style, oversized shadow shape against a tiny distant figure scale composition, emerald green with bright silver gemstone palette, crisp shadow edges from headlight beams, layered across depth planes 925a3bb0cff5"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with scumbled highlights painting style, close fabric fold against a far boat shape scale composition, emerald green with oxidized copper gemstone palette, controlled high contrast from headlight beams, reflected from nearby surfaces a5fda5e1ab1e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.a5fda5e1ab1e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-left-offset-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.close-fabric-fold-against-a-far-boat-shape-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-reflected-from-nearby-surf"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-green-with-oxidized-copper-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with scumbled highlights painting style, close fabric fold against a far boat shape scale composition, emerald green with oxidized copper gemstone palette, controlled high contrast from headlight beams, reflected from nearby surfaces a5fda5e1ab1e"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with broad flat strokes painting style, near tree trunk against a distant crowd line scale composition, lapis blue with champagne gold gemstone palette, controlled high contrast from headlight beams, spilling into the background bb25ac5662a8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.bb25ac5662a8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-right-offset-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.near-tree-trunk-against-a-distant-crowd-line-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-spilling-into-the-backgrou"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lapis-blue-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with broad flat strokes painting style, near tree trunk against a distant crowd line scale composition, lapis blue with champagne gold gemstone palette, controlled high contrast from headlight beams, spilling into the background bb25ac5662a8"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with layered translucent marks painting style, close tool silhouette against a distant crowd line scale composition, opal pastel with antique gold gemstone palette, soft diffusion from headlight beams, spilling into the background c2e5f9e9324c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.c2e5f9e9324c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-left-offset-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.close-tool-silhouette-against-a-distant-crowd-line-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.opal-pastel-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with layered translucent marks painting style, close tool silhouette against a distant crowd line scale composition, opal pastel with antique gold gemstone palette, soft diffusion from headlight beams, spilling into the background c2e5f9e9324c"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with graphic shape blocking painting style, large rock edge against a small mountain structure scale composition, aquamarine with rose gold gemstone palette, controlled high contrast from headlight beams, reflected from nearby surfaces d8f12c1a5c0a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.d8f12c1a5c0a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-right-offset-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.large-rock-edge-against-a-small-mountain-structure-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-reflected-from-nearby-surf"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aquamarine-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with graphic shape blocking painting style, large rock edge against a small mountain structure scale composition, aquamarine with rose gold gemstone palette, controlled high contrast from headlight beams, reflected from nearby surfaces d8f12c1a5c0a"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with visible underpainting painting style, oversized shadow shape against a small distant building scale composition, emerald green with blackened steel gemstone palette, soft diffusion from headlight beams, contained in a localized pool e09bb6b33b90"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.e09bb6b33b90",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-rear-diagonal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.oversized-shadow-shape-against-a-small-distant-building-scale-compositio"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-headlight-beams-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-green-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with visible underpainting painting style, oversized shadow shape against a small distant building scale composition, emerald green with blackened steel gemstone palette, soft diffusion from headlight beams, contained in a localized pool e09bb6b33b90"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with precise small brushes painting style, foreground vessel against a minute horizon light scale composition, aquamarine with champagne gold gemstone palette, crisp shadow edges from headlight beams, spilling into the background e53cc4941623"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.e53cc4941623",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-left-offset-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-vessel-against-a-minute-horizon-light-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aquamarine-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with precise small brushes painting style, foreground vessel against a minute horizon light scale composition, aquamarine with champagne gold gemstone palette, crisp shadow edges from headlight beams, spilling into the background e53cc4941623"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with layered translucent marks painting style, large window frame against a far vehicle silhouette scale composition, ruby red with blackened steel gemstone palette, controlled high contrast from headlight beams, spilling into the background f32e3ec10af0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.f32e3ec10af0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-left-offset-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.large-window-frame-against-a-far-vehicle-silhouette-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-spilling-into-the-backgrou"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with layered translucent marks painting style, large window frame against a far vehicle silhouette scale composition, ruby red with blackened steel gemstone palette, controlled high contrast from headlight beams, spilling into the background f32e3ec10af0"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with scumbled highlights painting style, giant foreground hand against a tiny distant figure scale composition, aquamarine with blackened steel gemstone palette, crisp shadow edges from headlight beams, spilling into the background f8dd1f869f00"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.f8dd1f869f00",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-right-offset-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.giant-foreground-hand-against-a-tiny-distant-figure-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-headlight-beams-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aquamarine-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with scumbled highlights painting style, giant foreground hand against a tiny distant figure scale composition, aquamarine with blackened steel gemstone palette, crisp shadow edges from headlight beams, spilling into the background f8dd1f869f00"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "monumental low axis featuring digital impasto with soft blended edges painting style, giant foreground hand against a far vehicle silhouette scale composition, ruby red with pale brass gemstone palette, controlled high contrast from headlight beams, contained in a localized pool ff2ecce8af86"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.monumental-low-axis",
+      "familyTriggers": [
+        "monumental low axis grammar",
+        "heroic ground-up framing",
+        "low-angle scale command"
+      ],
+      "id": "phase8.art.camera.monumental-low-axis.ff2ecce8af86",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-left-offset-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.giant-foreground-hand-against-a-far-vehicle-silhouette-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-headlight-beams-contained-in-a-localized-p"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-pale-brass-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Monumental Low Axis 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.monumental-low-axis",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "ground-axis dominance",
+        "forced monumental scale",
+        "upward visual pressure"
+      ],
+      "triggers": [
+        "monumental low axis featuring digital impasto with soft blended edges painting style, giant foreground hand against a far vehicle silhouette scale composition, ruby red with pale brass gemstone palette, controlled high contrast from headlight beams, contained in a localized pool ff2ecce8af86"
+      ],
+      "variantIndex": 23
+    }
+  ],
+  "schemaVersion": 2
+}

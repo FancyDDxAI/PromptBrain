@@ -1,0 +1,253 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Chifuyu Matsuno",
+        "Chifuyu Matsuno (Tokyo Revengers)"
+      ],
+      "id": "character.tokyo-revengers.chifuyu-matsuno",
+      "kind": "named-character",
+      "name": "Chifuyu Matsuno",
+      "namespace": "Tokyo Revengers",
+      "promptTags": [
+        "Chifuyu Matsuno",
+        "Tokyo Revengers",
+        "male",
+        "gang vice-captain"
+      ],
+      "provenance": {
+        "groupId": "tokyo-revengers",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "gang-member",
+        "vice-captain"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Hinata Tachibana",
+        "Hinata Tachibana (Tokyo Revengers)"
+      ],
+      "id": "character.tokyo-revengers.hinata-tachibana",
+      "kind": "named-character",
+      "name": "Hinata Tachibana",
+      "namespace": "Tokyo Revengers",
+      "promptTags": [
+        "Hinata Tachibana",
+        "Tokyo Revengers",
+        "female",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "tokyo-revengers",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Keisuke Baji",
+        "Keisuke Baji (Tokyo Revengers)"
+      ],
+      "id": "character.tokyo-revengers.keisuke-baji",
+      "kind": "named-character",
+      "name": "Keisuke Baji",
+      "namespace": "Tokyo Revengers",
+      "promptTags": [
+        "Keisuke Baji",
+        "Tokyo Revengers",
+        "male",
+        "gang captain"
+      ],
+      "provenance": {
+        "groupId": "tokyo-revengers",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "gang-member",
+        "captain"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Ken Ryuguji",
+        "Ken Ryuguji (Tokyo Revengers)"
+      ],
+      "id": "character.tokyo-revengers.ken-ryuguji",
+      "kind": "named-character",
+      "name": "Ken Ryuguji",
+      "namespace": "Tokyo Revengers",
+      "promptTags": [
+        "Ken Ryuguji",
+        "Tokyo Revengers",
+        "male",
+        "gang vice-captain"
+      ],
+      "provenance": {
+        "groupId": "tokyo-revengers",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "gang-member",
+        "vice-captain"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Manjiro Sano",
+        "Manjiro Sano (Tokyo Revengers)"
+      ],
+      "id": "character.tokyo-revengers.manjiro-sano",
+      "kind": "named-character",
+      "name": "Manjiro Sano",
+      "namespace": "Tokyo Revengers",
+      "promptTags": [
+        "Manjiro Sano",
+        "Tokyo Revengers",
+        "male",
+        "gang leader"
+      ],
+      "provenance": {
+        "groupId": "tokyo-revengers",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "gang-member",
+        "leader"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Takemichi Hanagaki",
+        "Takemichi Hanagaki (Tokyo Revengers)"
+      ],
+      "id": "character.tokyo-revengers.takemichi-hanagaki",
+      "kind": "named-character",
+      "name": "Takemichi Hanagaki",
+      "namespace": "Tokyo Revengers",
+      "promptTags": [
+        "Takemichi Hanagaki",
+        "Tokyo Revengers",
+        "male",
+        "time traveler"
+      ],
+      "provenance": {
+        "groupId": "tokyo-revengers",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "time-traveler"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Tetta Kisaki",
+        "Tetta Kisaki (Tokyo Revengers)"
+      ],
+      "id": "character.tokyo-revengers.tetta-kisaki",
+      "kind": "named-character",
+      "name": "Tetta Kisaki",
+      "namespace": "Tokyo Revengers",
+      "promptTags": [
+        "Tetta Kisaki",
+        "Tokyo Revengers",
+        "male",
+        "gang strategist"
+      ],
+      "provenance": {
+        "groupId": "tokyo-revengers",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "gang-member",
+        "antagonist",
+        "strategist"
+      ]
+    }
+  ],
+  "fingerprint": "0e9133cc7461fc074482addfeae193c61b7c29c6336d830ce711b6166e7cb117",
+  "namespace": "Tokyo Revengers",
+  "schemaVersion": 2
+}

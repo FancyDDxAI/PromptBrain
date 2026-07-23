@@ -1,0 +1,253 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Dio Brando",
+        "Dio Brando (JoJo's Bizarre Adventure)"
+      ],
+      "id": "character.jojos-bizarre-adventure.dio-brando",
+      "kind": "named-character",
+      "name": "Dio Brando",
+      "namespace": "JoJo's Bizarre Adventure",
+      "promptTags": [
+        "Dio Brando",
+        "JoJo's Bizarre Adventure",
+        "male",
+        "vampire antagonist"
+      ],
+      "provenance": {
+        "groupId": "jojos-bizarre-adventure",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "antagonist",
+        "vampire"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Giorno Giovanna",
+        "Giorno Giovanna (JoJo's Bizarre Adventure)"
+      ],
+      "id": "character.jojos-bizarre-adventure.giorno-giovanna",
+      "kind": "named-character",
+      "name": "Giorno Giovanna",
+      "namespace": "JoJo's Bizarre Adventure",
+      "promptTags": [
+        "Giorno Giovanna",
+        "JoJo's Bizarre Adventure",
+        "male",
+        "Stand user"
+      ],
+      "provenance": {
+        "groupId": "jojos-bizarre-adventure",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "stand-user"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Jolyne Cujoh",
+        "Jolyne Cujoh (JoJo's Bizarre Adventure)"
+      ],
+      "id": "character.jojos-bizarre-adventure.jolyne-cujoh",
+      "kind": "named-character",
+      "name": "Jolyne Cujoh",
+      "namespace": "JoJo's Bizarre Adventure",
+      "promptTags": [
+        "Jolyne Cujoh",
+        "JoJo's Bizarre Adventure",
+        "female",
+        "Stand user"
+      ],
+      "provenance": {
+        "groupId": "jojos-bizarre-adventure",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "protagonist",
+        "stand-user"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Jonathan Joestar",
+        "Jonathan Joestar (JoJo's Bizarre Adventure)"
+      ],
+      "id": "character.jojos-bizarre-adventure.jonathan-joestar",
+      "kind": "named-character",
+      "name": "Jonathan Joestar",
+      "namespace": "JoJo's Bizarre Adventure",
+      "promptTags": [
+        "Jonathan Joestar",
+        "JoJo's Bizarre Adventure",
+        "male",
+        "Hamon fighter"
+      ],
+      "provenance": {
+        "groupId": "jojos-bizarre-adventure",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "fighter"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Joseph Joestar",
+        "Joseph Joestar (JoJo's Bizarre Adventure)"
+      ],
+      "id": "character.jojos-bizarre-adventure.joseph-joestar",
+      "kind": "named-character",
+      "name": "Joseph Joestar",
+      "namespace": "JoJo's Bizarre Adventure",
+      "promptTags": [
+        "Joseph Joestar",
+        "JoJo's Bizarre Adventure",
+        "male",
+        "Hamon fighter"
+      ],
+      "provenance": {
+        "groupId": "jojos-bizarre-adventure",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "fighter"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Josuke Higashikata",
+        "Josuke Higashikata (JoJo's Bizarre Adventure)"
+      ],
+      "id": "character.jojos-bizarre-adventure.josuke-higashikata",
+      "kind": "named-character",
+      "name": "Josuke Higashikata",
+      "namespace": "JoJo's Bizarre Adventure",
+      "promptTags": [
+        "Josuke Higashikata",
+        "JoJo's Bizarre Adventure",
+        "male",
+        "Stand user"
+      ],
+      "provenance": {
+        "groupId": "jojos-bizarre-adventure",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "stand-user"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Jotaro Kujo",
+        "Jotaro Kujo (JoJo's Bizarre Adventure)"
+      ],
+      "id": "character.jojos-bizarre-adventure.jotaro-kujo",
+      "kind": "named-character",
+      "name": "Jotaro Kujo",
+      "namespace": "JoJo's Bizarre Adventure",
+      "promptTags": [
+        "Jotaro Kujo",
+        "JoJo's Bizarre Adventure",
+        "male",
+        "Stand user"
+      ],
+      "provenance": {
+        "groupId": "jojos-bizarre-adventure",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "stand-user"
+      ]
+    }
+  ],
+  "fingerprint": "41dba746a49f1d028e7813b9554caa54092820e8cf3a0516e89cbf7d49f1f271",
+  "namespace": "JoJo's Bizarre Adventure",
+  "schemaVersion": 2
+}

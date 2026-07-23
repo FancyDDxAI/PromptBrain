@@ -1,0 +1,2075 @@
+{
+  "concepts": [
+    {
+      "aliases": [
+        "<lora:add-detail-xl:0.55>",
+        "add-detail-xl"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": [
+          "dreamShaperXL"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.detail",
+      "id": "phase8.installed-loras.lora.add-detail-xl",
+      "kind": "lora",
+      "label": "Add Detail XL",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:add-detail-xl:0.55>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "inferred from ss_base_model_version and tensor keys",
+          "baseModelVersion": "sdxl_base_v0-9",
+          "bytes": 228452344,
+          "filename": "add-detail-xl.safetensors",
+          "maxWeight": 0.8,
+          "minWeight": 0.2,
+          "outputName": "add-detail-xl",
+          "recommendedWeight": 0.55,
+          "sha256": "0d9bd1b873a7863e128b4672e3e245838858f71469a3cec58123c16c06f83bd7",
+          "sourceModel": "dreamshaperXL10_alpha2Xl10.safetensors",
+          "topTrainingTags": {
+            "all": 387,
+            "anime": 20,
+            "misc": 8208,
+            "portrait": 40
+          },
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:detail",
+        "base:sdxl"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:AESTHETIC_QUALITYv3:0.6>",
+        "AESTHETIC_QUALITYv3",
+        "illustrious_masterpieces_v3"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": [
+          "waiIllustriousXL",
+          "illustriousXL",
+          "noobAIXL"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.quality",
+      "id": "phase8.installed-loras.lora.aesthetic-quality-v3",
+      "kind": "lora",
+      "label": "Aesthetic Quality v3",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:AESTHETIC_QUALITYv3:0.6>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 228509780,
+          "filename": "AESTHETIC_QUALITYv3.safetensors",
+          "maxWeight": 0.85,
+          "minWeight": 0.2,
+          "outputName": "illustrious_masterpieces_v3",
+          "recommendedWeight": 0.6,
+          "sha256": "8d9ee4bd2a16c2c72c1e176d247d379c59312585ea3d154e55492ca34d0313fe",
+          "sourceModel": "illustriousXL_v01.safetensors",
+          "topTrainingTags": {
+            "1girl": 279,
+            "absurdres": 126,
+            "bare shoulders": 113,
+            "long hair": 185,
+            "looking at viewer": 249,
+            "masterpiece": 332,
+            "solo": 270,
+            "very aesthetic": 320
+          },
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:quality",
+        "base:illustrious"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:anima-base-1-masterpiece-v51:0.7>",
+        "anima-base-1-masterpiece-v51"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.quality",
+      "id": "phase8.installed-loras.lora.anima-masterpiece-v51",
+      "kind": "lora",
+      "label": "Anima Base 1 Masterpiece v51",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:anima-base-1-masterpiece-v51:0.7>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "Anima/lora",
+          "architectureSource": "inferred from safetensors tensor keys",
+          "baseModelVersion": null,
+          "bytes": 138662176,
+          "compatibilityNote": "No matching Anima base or checkpoint ID exists in the current catalog",
+          "filename": "anima-base-1-masterpiece-v51.safetensors",
+          "maxWeight": 0.9,
+          "minWeight": 0.2,
+          "outputName": null,
+          "recommendedWeight": 0.7,
+          "sha256": "b330b46df1c71e4409d7b60ecf45df4ee26310fa914c398226c7800cc2912936",
+          "sourceModel": null,
+          "topTrainingTags": {},
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:quality",
+        "base:anima",
+        "catalog-base-unmapped",
+        "image-compatible"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:anima_turbo_lora_v0.2:1.0>",
+        "anima_turbo_lora_v0.2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.acceleration",
+      "id": "phase8.installed-loras.lora.anima-turbo-v0.2",
+      "kind": "lora",
+      "label": "Anima Turbo LoRA v0.2",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:anima_turbo_lora_v0.2:1.0>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "Anima/lora",
+          "architectureSource": "inferred from safetensors tensor keys",
+          "baseModelVersion": null,
+          "bytes": 148902616,
+          "compatibilityNote": "No matching Anima base or checkpoint ID exists in the current catalog",
+          "filename": "anima_turbo_lora_v0.2.safetensors",
+          "maxWeight": 1,
+          "minWeight": 0.5,
+          "outputName": null,
+          "recommendedWeight": 1,
+          "sha256": "1b55e40bdb1d0e5a78cb498f245fccfdaae97823265db957d2aabdcf4cd3caf1",
+          "sourceModel": null,
+          "topTrainingTags": {},
+          "trigger": null,
+          "turbo": true
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:acceleration",
+        "base:anima",
+        "catalog-base-unmapped",
+        "image-compatible",
+        "turbo"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:Aura_Phantasy_illu:0.7>",
+        "Aura_Phantasy_illu",
+        "Aura_illu",
+        "4ur4_illu"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": [
+          "waiIllustriousXL",
+          "illustriousXL",
+          "noobAIXL"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.style",
+      "id": "phase8.installed-loras.lora.aura-phantasy-illu",
+      "kind": "lora",
+      "label": "Aura Phantasy Illustrious",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:Aura_Phantasy_illu:0.7>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 228458412,
+          "filename": "Aura_Phantasy_illu.safetensors",
+          "maxWeight": 0.9,
+          "minWeight": 0.2,
+          "outputName": "Aura_illu",
+          "recommendedWeight": 0.7,
+          "sha256": "1e0caf6f612df71d547e6119d3cca8910354356cef450f45058a4383b8c80c78",
+          "sourceModel": "889818.safetensors",
+          "topTrainingTags": {
+            "1girl": 66,
+            "4ur4_illu": 67,
+            "bangs": 64,
+            "holding": 46,
+            "long hair": 51,
+            "looking at viewer": 59,
+            "solo": 65,
+            "weapon": 55
+          },
+          "trigger": "4ur4_illu"
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:style",
+        "base:illustrious"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:crystals_r1-000006:0.7>",
+        "crystals_r1-000006",
+        "crystals_r1",
+        "crystallora"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.effect",
+      "id": "phase8.installed-loras.lora.crystals-r1-000006",
+      "kind": "lora",
+      "label": "Crystals r1",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:crystals_r1-000006:0.7>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 228457436,
+          "filename": "crystals_r1-000006.safetensors",
+          "maxWeight": 0.9,
+          "minWeight": 0.2,
+          "outputName": "crystals_r1",
+          "recommendedWeight": 0.7,
+          "sha256": "b0429eb35708a25e03ad26ba6fe4385e421de4fc591ce90b40c3eda4a0d31156",
+          "sourceModel": "128078.safetensors",
+          "topTrainingTags": {
+            "black background": 11,
+            "crystal": 36,
+            "crystallora": 45,
+            "gem": 25,
+            "grey background": 11,
+            "no humans": 41,
+            "simple background": 19,
+            "still life": 24
+          },
+          "trigger": "crystallora"
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:effect",
+        "base:sdxl",
+        "crystal"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:!!test!!_Detailed_Backgrounds_v1:0.65>",
+        "!!test!!_Detailed_Backgrounds_v1",
+        "zy_Detailed_Backgrounds_v1"
+      ],
+      "compatibility": {
+        "bases": [
+          "Pony"
+        ],
+        "checkpointIds": [
+          "ponyDiffusionXL",
+          "autismMixPony"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.background",
+      "id": "phase8.installed-loras.lora.detailed-backgrounds-v1",
+      "kind": "lora",
+      "label": "Detailed Backgrounds v1",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:!!test!!_Detailed_Backgrounds_v1:0.65>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 170547684,
+          "filename": "!!test!!_Detailed_Backgrounds_v1.safetensors",
+          "maxWeight": 0.85,
+          "minWeight": 0.2,
+          "outputName": "zy_Detailed_Backgrounds_v1",
+          "recommendedWeight": 0.65,
+          "sha256": "c3dcc09ba825b66056d2f3a5b7b5593202252d8b5ac343975b43b3f1cdf96c63",
+          "sourceModel": "PonyDiffusion v6.safetensors",
+          "topTrainingTags": {
+            "chair": 99,
+            "indoors": 112,
+            "no humans": 173,
+            "plant": 125,
+            "scenery": 181,
+            "sunlight": 87,
+            "table": 104,
+            "window": 143
+          },
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:background",
+        "base:pony"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:DynamicPoseIL2att_alpha1.0_rank4_noxattn_900steps:0.65>",
+        "DynamicPoseIL2att_alpha1.0_rank4_noxattn_900steps",
+        "DynamicPoseIL2att"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": [
+          "waiIllustriousXL",
+          "illustriousXL",
+          "noobAIXL"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.pose",
+      "id": "phase8.installed-loras.lora.dynamic-pose-il2att-rank4",
+      "kind": "lora",
+      "label": "Dynamic Pose IL2Att Rank 4",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:DynamicPoseIL2att_alpha1.0_rank4_noxattn_900steps:0.65>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "inferred from safetensors tensor keys",
+          "baseModelVersion": null,
+          "bytes": 8789076,
+          "filename": "DynamicPoseIL2att_alpha1.0_rank4_noxattn_900steps.safetensors",
+          "maxWeight": 0.85,
+          "minWeight": 0.2,
+          "outputName": null,
+          "recommendedWeight": 0.65,
+          "sha256": "0d47fc066a9ac29e5e6bbb6262a1e77a3a4776ef7b5527665e0a194c5afefef0",
+          "sourceModel": null,
+          "topTrainingTags": {},
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:pose",
+        "base:illustrious"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:ebora_style-000053:0.65>",
+        "ebora_style-000053",
+        "ebora_style"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": [
+          "waiIllustriousXL",
+          "illustriousXL",
+          "noobAIXL"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "adult",
+      "group": "lora.style",
+      "id": "phase8.installed-loras.lora.ebora-style-000053",
+      "kind": "lora",
+      "label": "Ebora Style",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:ebora_style-000053:0.65>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 280940016,
+          "filename": "ebora_style-000053.safetensors",
+          "maxWeight": 0.85,
+          "minWeight": 0.2,
+          "outputName": "ebora_style",
+          "recommendedWeight": 0.65,
+          "sha256": "c460b1aa8bc74b09def439512b499adec70bb9fb344d41d53987be09c7f60311",
+          "sourceModel": "illustriousXL_v01.safetensors",
+          "topTrainingTags": {
+            "1boy": 247,
+            "1girl": 302,
+            "blonde hair": 213,
+            "blush": 324,
+            "breasts": 317,
+            "hetero": 241,
+            "long hair": 252,
+            "penis": 193
+          },
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:style",
+        "base:illustrious",
+        "adult-specific"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:edgOrgasmPonyv1:0.75>",
+        "edgOrgasmPonyv1"
+      ],
+      "compatibility": {
+        "bases": [
+          "Pony"
+        ],
+        "checkpointIds": [
+          "ponyDiffusionXL",
+          "autismMixPony"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "adult",
+      "group": "lora.effect",
+      "id": "phase8.installed-loras.lora.edg-orgasm-pony-v1",
+      "kind": "lora",
+      "label": "EDG Orgasm Pony v1",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:edgOrgasmPonyv1:0.75>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "inferred from safetensors tensor keys",
+          "baseModelVersion": null,
+          "bytes": 14657348,
+          "filename": "edgOrgasmPonyv1.safetensors",
+          "maxWeight": 0.95,
+          "minWeight": 0.2,
+          "outputName": null,
+          "recommendedWeight": 0.75,
+          "sha256": "e03703788980a24e73fe3142dfc6f56e41f5705eb6fb90292be9231d7528f513",
+          "sourceModel": null,
+          "topTrainingTags": {},
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:effect",
+        "base:pony",
+        "adult-specific"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:EpicF4nta5yXL:0.65>",
+        "EpicF4nta5yXL"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.style",
+      "id": "phase8.installed-loras.lora.epic-fantasy-xl",
+      "kind": "lora",
+      "label": "Epic Fantasy XL",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:EpicF4nta5yXL:0.65>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 228467988,
+          "filename": "EpicF4nta5yXL.safetensors",
+          "maxWeight": 0.85,
+          "minWeight": 0.2,
+          "outputName": "EpicF4nta5yXL",
+          "recommendedWeight": 0.65,
+          "sha256": "8b9d0b5df5cedcec3fea64214ac5a25487b42e391c5d2cf89336ac7a60b3bf26",
+          "sourceModel": "sdXL_v10VAEFix.safetensors",
+          "topTrainingTags": {
+            "1boy": 404,
+            "1girl": 386,
+            "fire": 292,
+            "jewelry": 282,
+            "long hair": 237,
+            "male focus": 394,
+            "solo": 715,
+            "weapon": 281
+          },
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:style",
+        "base:sdxl",
+        "fantasy"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:Eroerostyle_V2:0.7>",
+        "Eroerostyle_V2",
+        "eroerostyle"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": [
+          "waiIllustriousXL",
+          "illustriousXL",
+          "noobAIXL"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "adult",
+      "group": "lora.style",
+      "id": "phase8.installed-loras.lora.eroero-style-v2",
+      "kind": "lora",
+      "label": "Eroero Style v2",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:Eroerostyle_V2:0.7>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 228453252,
+          "filename": "Eroerostyle_V2.safetensors",
+          "maxWeight": 0.9,
+          "minWeight": 0.2,
+          "outputName": "Eroerostyle_V2",
+          "recommendedWeight": 0.7,
+          "sha256": "f5d623fb9871df910cd5b4a753db64fde007ff027f89338cb44f3a70ce081b83",
+          "sourceModel": "889818.safetensors",
+          "topTrainingTags": {
+            "eroerostyle": 128
+          },
+          "trigger": "eroerostyle"
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:style",
+        "base:illustrious",
+        "adult-specific"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:Eye_DetailerXL:0.55>",
+        "Eye_DetailerXL"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.detail",
+      "id": "phase8.installed-loras.lora.eye-detailer-xl",
+      "kind": "lora",
+      "label": "Eye Detailer XL",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:Eye_DetailerXL:0.55>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "inferred from ss_base_model_version and tensor keys",
+          "baseModelVersion": "sdxl_a1111_compat",
+          "bytes": 256056360,
+          "filename": "Eye_DetailerXL.safetensors",
+          "maxWeight": 0.8,
+          "minWeight": 0.2,
+          "outputName": null,
+          "recommendedWeight": 0.55,
+          "sha256": "ee39af8cca4cbd3983e97ad447a938efd375af06825b7f1e137cbcc846fa41ad",
+          "sourceModel": null,
+          "topTrainingTags": {},
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:detail",
+        "base:sdxl",
+        "eyes"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:glitterSDXL:0.7>",
+        "glitterSDXL",
+        "gl1tt3rSDXL",
+        "gl1tt3r"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.effect",
+      "id": "phase8.installed-loras.lora.glitter-sdxl",
+      "kind": "lora",
+      "label": "Glitter SDXL",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:glitterSDXL:0.7>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 228460220,
+          "filename": "glitterSDXL.safetensors",
+          "maxWeight": 0.9,
+          "minWeight": 0.2,
+          "outputName": "gl1tt3rSDXL",
+          "recommendedWeight": 0.7,
+          "sha256": "ec7d1ff09ab257f72ad7259d52299801090b7481bb241f1e4dc2b71d4c80344f",
+          "sourceModel": "128078.safetensors",
+          "topTrainingTags": {
+            "blurry": 52,
+            "gl1tt3r": 85,
+            "glitter": 85,
+            "iridescent": 85,
+            "no humans": 63,
+            "solo": 33,
+            "sparkle": 22,
+            "still life": 27
+          },
+          "trigger": "gl1tt3r"
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:effect",
+        "base:sdxl",
+        "glitter"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:gpt-image-2_anima-base1_v1:0.7>",
+        "gpt-image-2_anima-base1_v1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.adapter",
+      "id": "phase8.installed-loras.lora.gpt-image-2-anima-base1-v1",
+      "kind": "lora",
+      "label": "GPT Image 2 Anima Base 1 v1",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:gpt-image-2_anima-base1_v1:0.7>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "Anima/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": null,
+          "bytes": 27606504,
+          "compatibilityNote": "No matching Anima base or checkpoint ID exists in the current catalog",
+          "filename": "gpt-image-2_anima-base1_v1.safetensors",
+          "maxWeight": 0.9,
+          "minWeight": 0.2,
+          "modelspecTitle": "Anima LoRA",
+          "outputName": null,
+          "recommendedWeight": 0.7,
+          "sha256": "206a4d5ab78834de343f99523d34e18c4c0a2822621d053b29b9a2ef35ef6445",
+          "sourceModel": null,
+          "topTrainingTags": {},
+          "trainingBranch": "anima",
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:adapter",
+        "base:anima",
+        "catalog-base-unmapped",
+        "image-compatible"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:gpt-image-2_anima-base1_v1-1:0.7>",
+        "gpt-image-2_anima-base1_v1-1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.adapter",
+      "id": "phase8.installed-loras.lora.gpt-image-2-anima-base1-v1-1",
+      "kind": "lora",
+      "label": "GPT Image 2 Anima Base 1 v1-1",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:gpt-image-2_anima-base1_v1-1:0.7>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "Anima/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": null,
+          "bytes": 23037256,
+          "compatibilityNote": "No matching Anima base or checkpoint ID exists in the current catalog",
+          "filename": "gpt-image-2_anima-base1_v1-1.safetensors",
+          "maxWeight": 0.9,
+          "minWeight": 0.2,
+          "modelspecTitle": "Anima LoRA",
+          "outputName": null,
+          "recommendedWeight": 0.7,
+          "sha256": "6ecff93984c1b084950f4535ff71293299dc1ee2225d267b79e5186fc7d38a99",
+          "sourceModel": null,
+          "topTrainingTags": {},
+          "trainingBranch": "preview_anima_pixel",
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:adapter",
+        "base:anima",
+        "catalog-base-unmapped",
+        "image-compatible"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:XL_Ill_kancolle-ro500(pump)-t2-000030:0.75>",
+        "XL_Ill_kancolle-ro500(pump)-t2-000030",
+        "XL_Ill_kancolle-ro500(pump)-t2",
+        "ro-500\\(pump\\)"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": [
+          "waiIllustriousXL",
+          "illustriousXL",
+          "noobAIXL"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.character",
+      "id": "phase8.installed-loras.lora.kancolle-ro500-pump-000030",
+      "kind": "lora",
+      "label": "Kancolle Ro-500 Pump",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:XL_Ill_kancolle-ro500(pump)-t2-000030:0.75>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 64354928,
+          "filename": "XL_Ill_kancolle-ro500(pump)-t2-000030.safetensors",
+          "maxWeight": 0.95,
+          "minWeight": 0.2,
+          "outputName": "XL_Ill_kancolle-ro500(pump)-t2",
+          "recommendedWeight": 0.75,
+          "sha256": "aa3d9a53dba258b06457b89cec69d94c9e53dd3849c6c76aa36ea306971943b5",
+          "sourceModel": "XL_Ill_illustriousXL_v01.safetensors",
+          "topTrainingTags": {
+            "1girl": 40,
+            "3dcg": 39,
+            "ro-500\\(pump\\)": 40,
+            "school_swimsuit": 40,
+            "smile": 33,
+            "solo": 36,
+            "tan": 40,
+            "tanlines": 40
+          },
+          "trigger": "ro-500\\(pump\\)"
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:character",
+        "base:illustrious",
+        "kancolle"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:lightning_detail_enhancer:0.65>",
+        "lightning_detail_enhancer",
+        "l1ghtning detail enhancer"
+      ],
+      "compatibility": {
+        "bases": [
+          "Pony"
+        ],
+        "checkpointIds": [
+          "ponyDiffusionXL",
+          "autismMixPony"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.effect",
+      "id": "phase8.installed-loras.lora.lightning-detail-enhancer",
+      "kind": "lora",
+      "label": "Lightning Detail Enhancer",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:lightning_detail_enhancer:0.65>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 340773200,
+          "filename": "lightning_detail_enhancer.safetensors",
+          "maxWeight": 0.85,
+          "minWeight": 0.2,
+          "outputName": "lightning_detail_enhancer",
+          "recommendedWeight": 0.65,
+          "sha256": "d5d443e61e6f5068c345b75db2f3c29768833464d27c68dda2892725066dd85b",
+          "sourceModel": "cyberrealisticPony_v8.safetensors",
+          "topTrainingTags": {
+            "cloud": 26,
+            "cloudy sky": 26,
+            "electricity": 20,
+            "l1ghtning detail enhancer": 26,
+            "lightning": 26,
+            "no humans": 26,
+            "scenery": 26,
+            "sky": 26
+          },
+          "trigger": "l1ghtning detail enhancer"
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:effect",
+        "base:pony",
+        "lightning"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:mamamimi_style_illustrious_goofy:0.7>",
+        "mamamimi_style_illustrious_goofy",
+        "mamimi_mamamimi_style_illustrious_goofy"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": [
+          "waiIllustriousXL",
+          "illustriousXL",
+          "noobAIXL"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.style",
+      "id": "phase8.installed-loras.lora.mamamimi-style-illustrious-goofy",
+      "kind": "lora",
+      "label": "Mamamimi Style Illustrious Goofy",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:mamamimi_style_illustrious_goofy:0.7>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "inferred from ss_base_model_version and tensor keys",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 114428795,
+          "filename": "mamamimi_style_illustrious_goofy.safetensors",
+          "maxWeight": 0.9,
+          "minWeight": 0.2,
+          "outputName": "mamimi_mamamimi_style_illustrious_goofy",
+          "recommendedWeight": 0.7,
+          "sha256": "89779a3c1b21cd9811ee913258bec3e7fbecd3cff3003303ab5d2d0418a98768",
+          "sourceModel": "illustriousXL_v01.safetensors",
+          "topTrainingTags": {},
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:style",
+        "base:illustrious"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:medusa:0.7>",
+        "medusa"
+      ],
+      "compatibility": {
+        "bases": [
+          "SD1.5"
+        ],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.character",
+      "id": "phase8.installed-loras.lora.medusa",
+      "kind": "lora",
+      "label": "Medusa",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:medusa:0.7>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-v1/lora",
+          "architectureSource": "inferred from safetensors tensor keys",
+          "baseModelVersion": null,
+          "bytes": 151110125,
+          "filename": "medusa.safetensors",
+          "maxWeight": 0.9,
+          "minWeight": 0.2,
+          "outputName": "medusa",
+          "recommendedWeight": 0.7,
+          "sha256": "5bd26e66e3ef45d63785e9d9ce2358263a6e150670c7f280051d2cb1edf0a229",
+          "sourceModel": "a.ckpt",
+          "topTrainingTags": {},
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:character",
+        "base:sd1.5"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:MoriiMee_Gothic_Realistic:0.65>",
+        "MoriiMee_Gothic_Realistic"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": [
+          "waiIllustriousXL",
+          "illustriousXL",
+          "noobAIXL"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.style",
+      "id": "phase8.installed-loras.lora.moriimee-gothic-realistic",
+      "kind": "lora",
+      "label": "MoriiMee Gothic Realistic",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:MoriiMee_Gothic_Realistic:0.65>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 228460220,
+          "filename": "MoriiMee_Gothic_Realistic.safetensors",
+          "maxWeight": 0.85,
+          "minWeight": 0.2,
+          "outputName": "MoriiMee_Gothic_Realistic",
+          "recommendedWeight": 0.65,
+          "sha256": "cd08b65d418757166dda7d840efd55cfe124929ca7f63b9760e9c8c82eefbe3d",
+          "sourceModel": "889818.safetensors",
+          "topTrainingTags": {
+            "1girl": 29,
+            "bangs": 23,
+            "black hair": 26,
+            "breasts": 27,
+            "jewelry": 23,
+            "lips": 28,
+            "looking at viewer": 29,
+            "solo": 29
+          },
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:style",
+        "base:illustrious",
+        "gothic",
+        "realistic"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:Oily shiny glossy skin style v2.1:0.65>",
+        "Oily shiny glossy skin style v2.1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.skin",
+      "id": "phase8.installed-loras.lora.oily-shiny-glossy-skin-v2.1",
+      "kind": "lora",
+      "label": "Oily Shiny Glossy Skin Style v2.1",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:Oily shiny glossy skin style v2.1:0.65>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "Z-Image/lora",
+          "architectureSource": "inferred from safetensors tensor keys",
+          "baseModelVersion": null,
+          "bytes": 170127808,
+          "compatibilityNote": "No matching Z-Image base or checkpoint ID exists in the current catalog",
+          "filename": "Oily shiny glossy skin style v2.1.safetensors",
+          "maxWeight": 0.85,
+          "minWeight": 0.2,
+          "outputName": null,
+          "recommendedWeight": 0.65,
+          "sha256": "d1ae9cb733493df50c263a99dc30a62c34afceaddec5864a9da7a5dc4a5216ab",
+          "sourceModel": null,
+          "topTrainingTags": {},
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:skin",
+        "base:z-image",
+        "catalog-base-unmapped",
+        "image-compatible"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:People'sWorks_v9_Illusv1.0_128dim:0.55>",
+        "People'sWorks_v9_Illusv1.0_128dim",
+        "People'sWorks_v9_128dim_Illusv1.0_test4_r2"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": [
+          "waiIllustriousXL",
+          "illustriousXL",
+          "noobAIXL"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.style",
+      "id": "phase8.installed-loras.lora.peoplesworks-v9-illus-v1.0-128dim",
+      "kind": "lora",
+      "label": "People'sWorks v9 Illustrious v1.0 128dim",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:People'sWorks_v9_Illusv1.0_128dim:0.55>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 1020173016,
+          "filename": "People'sWorks_v9_Illusv1.0_128dim.safetensors",
+          "maxWeight": 0.8,
+          "minWeight": 0.1,
+          "outputName": "People'sWorks_v9_128dim_Illusv1.0_test4_r2",
+          "recommendedWeight": 0.55,
+          "sha256": "c9d261a4e5e24fb4cdd21b6d7a91229dd4d2b83a30b61bb9a076abd4ddc732ce",
+          "sourceModel": "illustriousXL_v1.0.safetensors",
+          "topTrainingTags": {
+            "1girl": 4812,
+            "breasts": 2933,
+            "long hair": 1789,
+            "looking at viewer": 1945,
+            "nipples": 1689,
+            "photorealistic": 2082,
+            "solo": 3965,
+            "very aesthetic": 1810
+          },
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:style",
+        "base:illustrious",
+        "mixed-content-training"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:Pony_DetailV2.0:0.55>",
+        "Pony_DetailV2.0"
+      ],
+      "compatibility": {
+        "bases": [
+          "Pony"
+        ],
+        "checkpointIds": [
+          "ponyDiffusionXL",
+          "autismMixPony"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.detail",
+      "id": "phase8.installed-loras.lora.pony-detail-v2.0",
+      "kind": "lora",
+      "label": "Pony Detail v2.0",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:Pony_DetailV2.0:0.55>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "inferred from safetensors tensor keys",
+          "baseModelVersion": null,
+          "bytes": 11862048,
+          "filename": "Pony_DetailV2.0.safetensors",
+          "maxWeight": 0.8,
+          "minWeight": 0.2,
+          "outputName": null,
+          "recommendedWeight": 0.55,
+          "sha256": "8a2e39a88f5d552fb9bd75f08f0f03e73949c34cab22f368ef5ee04b866334d5",
+          "sourceModel": null,
+          "topTrainingTags": {},
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:detail",
+        "base:pony"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:ponyv6_noobV1_2_adamW-000017:0.5>",
+        "ponyv6_noobV1_2_adamW-000017",
+        "ponyv6_noobV1_2_adamW"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": [
+          "noobAIXL"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.style",
+      "id": "phase8.installed-loras.lora.ponyv6-noob-v1.2-adamw-000017",
+      "kind": "lora",
+      "label": "Pony v6 Noob v1.2 AdamW",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:ponyv6_noobV1_2_adamW-000017:0.5>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 469900672,
+          "filename": "ponyv6_noobV1_2_adamW-000017.safetensors",
+          "maxWeight": 0.75,
+          "minWeight": 0.1,
+          "outputName": "ponyv6_noobV1_2_adamW",
+          "recommendedWeight": 0.5,
+          "sha256": "ba79d5302bec55bbd0fd68ce3f0b84731803460590969554b26551c170deff2c",
+          "sourceModel": "noobaiXLNAIXL_vPred10Version.safetensors",
+          "topTrainingTags": {
+            "1girl": 2810,
+            "best quality": 1180,
+            "breasts": 2298,
+            "long hair": 1789,
+            "looking at viewer": 2185,
+            "masterpiece": 1146,
+            "solo": 2353,
+            "very aesthetic": 1843
+          },
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:style",
+        "base:noobai",
+        "mixed-content-training"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:ppw_v8_Illuv2stable_128:0.55>",
+        "ppw_v8_Illuv2stable_128"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": [
+          "waiIllustriousXL",
+          "illustriousXL",
+          "noobAIXL"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.style",
+      "id": "phase8.installed-loras.lora.ppw-v8-illuv2stable-128",
+      "kind": "lora",
+      "label": "PPW v8 Illustrious v2 Stable 128",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:ppw_v8_Illuv2stable_128:0.55>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 1018664472,
+          "filename": "ppw_v8_Illuv2stable_128.safetensors",
+          "maxWeight": 0.8,
+          "minWeight": 0.1,
+          "outputName": null,
+          "recommendedWeight": 0.55,
+          "sha256": "e0e2a04b4a8b5408f9ab9ae6f0dfe285f582961974483a4eb5d4a304a56d5591",
+          "sourceModel": null,
+          "topTrainingTags": {},
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:style",
+        "base:illustrious"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:R754496Shiiro's Styles:0.7>",
+        "R754496Shiiro's Styles",
+        "r17329_illu"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": [
+          "waiIllustriousXL",
+          "illustriousXL",
+          "noobAIXL"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.style",
+      "id": "phase8.installed-loras.lora.r754496-shiiro-styles",
+      "kind": "lora",
+      "label": "R754496 Shiiro's Styles",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:R754496Shiiro's Styles:0.7>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 228460668,
+          "filename": "R754496Shiiro's Styles.safetensors",
+          "maxWeight": 0.9,
+          "minWeight": 0.2,
+          "outputName": "r17329_illu",
+          "recommendedWeight": 0.7,
+          "sha256": "e3726fded83c9e9799c8f7e7eb0c01e3689fdd3734ab0f20a8cde295afd7d9c0",
+          "sourceModel": "1283437.safetensors",
+          "topTrainingTags": {
+            "1girl": 42,
+            "earrings": 18,
+            "jewelry": 20,
+            "long hair": 19,
+            "looking at viewer": 18,
+            "r17329_illu": 46,
+            "red eyes": 13,
+            "solo": 42
+          },
+          "trigger": "r17329_illu"
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:style",
+        "base:illustrious"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:Renbocloud_IL:0.7>",
+        "Renbocloud_IL",
+        "renbocloud"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": [
+          "waiIllustriousXL",
+          "illustriousXL",
+          "noobAIXL"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "adult",
+      "group": "lora.style",
+      "id": "phase8.installed-loras.lora.renbocloud-il",
+      "kind": "lora",
+      "label": "Renbocloud Illustrious",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:Renbocloud_IL:0.7>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 228466548,
+          "filename": "Renbocloud_IL.safetensors",
+          "maxWeight": 0.9,
+          "minWeight": 0.2,
+          "outputName": "Renbocloud_IL",
+          "recommendedWeight": 0.7,
+          "sha256": "83b9f4d983a8c4d2e18de5c01f903db25a2a169460f597a9eabf5f8cec227f21",
+          "sourceModel": "889818.safetensors",
+          "topTrainingTags": {
+            "1boy": 64,
+            "1girl": 83,
+            "blush": 88,
+            "breasts": 80,
+            "hetero": 70,
+            "long hair": 91,
+            "penis": 60,
+            "renbocloud": 101
+          },
+          "trigger": "renbocloud"
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:style",
+        "base:illustrious",
+        "adult-specific"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:SDXLPaintSplash:0.65>",
+        "SDXLPaintSplash",
+        "colorsplash"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.effect",
+      "id": "phase8.installed-loras.lora.sdxl-paint-splash",
+      "kind": "lora",
+      "label": "SDXL Paint Splash",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:SDXLPaintSplash:0.65>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 228458588,
+          "filename": "SDXLPaintSplash.safetensors",
+          "maxWeight": 0.85,
+          "minWeight": 0.2,
+          "outputName": "SDXLPaintSplash",
+          "recommendedWeight": 0.65,
+          "sha256": "e0b521ba00bc30315b5006cbe9f3cc3c0461b5bb03ecc27a33ef82a7e5d91520",
+          "sourceModel": "128078.safetensors",
+          "topTrainingTags": {
+            "bare shoulders": 11,
+            "breasts": 11,
+            "cleavage": 8,
+            "colorsplash 1girl": 13,
+            "looking at viewer": 10,
+            "no humans": 13,
+            "paint splatter": 10,
+            "solo": 13
+          },
+          "trigger": "colorsplash",
+          "triggerSource": "inferred from repeated ss_tag_frequency prefix"
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:effect",
+        "base:sdxl",
+        "paint-splash"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:Semi-realism_illustrious:0.65>",
+        "Semi-realism_illustrious",
+        "semi-realism"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": [
+          "waiIllustriousXL",
+          "illustriousXL",
+          "noobAIXL"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.style",
+      "id": "phase8.installed-loras.lora.semi-realism-illustrious",
+      "kind": "lora",
+      "label": "Semi-realism Illustrious",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:Semi-realism_illustrious:0.65>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 456512884,
+          "filename": "Semi-realism_illustrious.safetensors",
+          "maxWeight": 0.85,
+          "minWeight": 0.2,
+          "outputName": "Semi-realism_illustrious",
+          "recommendedWeight": 0.65,
+          "sha256": "3605105d76552b3bd636c5a99c6fb84e8dc4184a7db037ddf42858a23ebdbce3",
+          "sourceModel": "889818.safetensors",
+          "topTrainingTags": {
+            "1girl": 172,
+            "earrings": 123,
+            "jewelry": 137,
+            "lips": 158,
+            "long hair": 135,
+            "looking at viewer": 221,
+            "semi-realism": 255,
+            "solo": 250
+          },
+          "trigger": "semi-realism"
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:style",
+        "base:illustrious",
+        "semi-realism"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:XL_Weapon_Sword_-_By_HailoKnight_2:0.7>",
+        "XL_Weapon_Sword_-_By_HailoKnight_2",
+        "wielding sword"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.subject",
+      "id": "phase8.installed-loras.lora.xl-weapon-sword-hailoknight-2",
+      "kind": "lora",
+      "label": "XL Weapon Sword by HailoKnight 2",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:XL_Weapon_Sword_-_By_HailoKnight_2:0.7>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 228453244,
+          "filename": "XL_Weapon_Sword_-_By_HailoKnight_2.safetensors",
+          "maxWeight": 0.9,
+          "minWeight": 0.2,
+          "outputName": "XL_Weapon_Sword_-_By_HailoKnight_2",
+          "recommendedWeight": 0.7,
+          "sha256": "5378362036cb2f65991465f49ad6cd10ac41a911dd032b7c968f77b9a205677a",
+          "sourceModel": "128078.safetensors",
+          "topTrainingTags": {
+            "wielding sword": 94
+          },
+          "trigger": "wielding sword"
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:subject",
+        "base:sdxl",
+        "sword"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:YOU_Style_OMOP:0.65>",
+        "YOU_Style_OMOP"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": [
+          "waiIllustriousXL",
+          "illustriousXL",
+          "noobAIXL"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.style",
+      "id": "phase8.installed-loras.lora.you-style-omop",
+      "kind": "lora",
+      "label": "YOU Style OMOP",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:YOU_Style_OMOP:0.65>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 228502772,
+          "filename": "YOU_Style_OMOP.safetensors",
+          "maxWeight": 0.85,
+          "minWeight": 0.2,
+          "outputName": "YOU_Style_OMOP",
+          "recommendedWeight": 0.65,
+          "sha256": "4b3c722efe04ee6bedc99c52b99e362f1e11eef0d2e8d7982e10f057963a4d2e",
+          "sourceModel": "889818.safetensors",
+          "topTrainingTags": {
+            "1girl": 139,
+            "absurdres": 131,
+            "blush": 129,
+            "breasts": 139,
+            "highres": 155,
+            "long hair": 140,
+            "looking at viewer": 111,
+            "normal quality": 121
+          },
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:style",
+        "base:illustrious"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:zit-splatter-ink-art-v0.1:0.7>",
+        "zit-splatter-ink-art-v0.1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.style",
+      "id": "phase8.installed-loras.lora.zit-splatter-ink-art-v0.1",
+      "kind": "lora",
+      "label": "Z-Image Splatter Ink Art v0.1",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:zit-splatter-ink-art-v0.1:0.7>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "Z-Image/lora",
+          "architectureSource": "inferred from ss_base_model_version and tensor keys",
+          "baseModelVersion": "zimage",
+          "bytes": 170128227,
+          "compatibilityNote": "No matching Z-Image base or checkpoint ID exists in the current catalog",
+          "filename": "zit-splatter-ink-art-v0.1.safetensors",
+          "maxWeight": 0.9,
+          "minWeight": 0.2,
+          "outputName": "zit-splatter-ink-art-V0.1",
+          "recommendedWeight": 0.7,
+          "sha256": "730ebbb087861c335cc84fb0fe0d0707087981899e0f814c956958786426a94f",
+          "sourceModel": null,
+          "topTrainingTags": {},
+          "trigger": null
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:style",
+        "base:z-image",
+        "catalog-base-unmapped",
+        "image-compatible",
+        "ink-art"
+      ]
+    },
+    {
+      "aliases": [
+        "<lora:zzz_style_noob_eps1.1:0.65>",
+        "zzz_style_noob_eps1.1",
+        "zzzstyle"
+      ],
+      "compatibility": {
+        "bases": [
+          "SDXL"
+        ],
+        "checkpointIds": [
+          "noobAIXL"
+        ]
+      },
+      "conflicts": [],
+      "contentMode": "sfw",
+      "group": "lora.style",
+      "id": "phase8.installed-loras.lora.zzz-style-noob-eps1.1",
+      "kind": "lora",
+      "label": "ZZZ Style Noob EPS 1.1",
+      "priority": 10,
+      "promptForms": {
+        "default": "<lora:zzz_style_noob_eps1.1:0.65>"
+      },
+      "provenance": {
+        "family": "installed-lora",
+        "packId": "phase8.installed-loras",
+        "ruleId": "direct",
+        "source": "installed-safetensors-headers",
+        "sourceValues": {
+          "architecture": "stable-diffusion-xl-v1-base/lora",
+          "architectureSource": "modelspec.architecture",
+          "baseModelVersion": "sdxl_base_v1-0",
+          "bytes": 202690820,
+          "filename": "zzz_style_noob_eps1.1.safetensors",
+          "maxWeight": 0.85,
+          "minWeight": 0.2,
+          "outputName": "zzz_style_noob_eps1.1",
+          "recommendedWeight": 0.65,
+          "sha256": "1c8057813791c6b13f7741ee0b09781ffdc453b82c2ae90d47f70b1da67be0e1",
+          "sourceModel": "noobaiXLNAIXL_epsilonPred11Version.safetensors",
+          "topTrainingTags": {
+            "1girl": 357,
+            "bangs": 251,
+            "closed mouth": 214,
+            "long hair": 157,
+            "looking at viewer": 252,
+            "short hair": 158,
+            "solo": 369,
+            "zzzstyle": 399
+          },
+          "trigger": "zzzstyle"
+        }
+      },
+      "requires": [],
+      "schemaVersion": 2,
+      "traits": [
+        "phase-8",
+        "safetensors",
+        "installed",
+        "category:style",
+        "base:noobai"
+      ]
+    }
+  ],
+  "count": 34,
+  "fingerprint": "c773c86ffd073bee3f4a21c4b2f0859106df134f720779b59874ee65bb5e7a03",
+  "kind": "lora",
+  "schemaVersion": 2
+}

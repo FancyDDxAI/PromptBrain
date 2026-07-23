@@ -1,0 +1,248 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Erza Scarlet",
+        "Erza Scarlet (Fairy Tail)"
+      ],
+      "id": "character.fairy-tail.erza-scarlet",
+      "kind": "named-character",
+      "name": "Erza Scarlet",
+      "namespace": "Fairy Tail",
+      "promptTags": [
+        "Erza Scarlet",
+        "Fairy Tail",
+        "female",
+        "S-Class mage"
+      ],
+      "provenance": {
+        "groupId": "fairy-tail",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "mage",
+        "swordswoman"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Gajeel Redfox",
+        "Gajeel Redfox (Fairy Tail)"
+      ],
+      "id": "character.fairy-tail.gajeel-redfox",
+      "kind": "named-character",
+      "name": "Gajeel Redfox",
+      "namespace": "Fairy Tail",
+      "promptTags": [
+        "Gajeel Redfox",
+        "Fairy Tail",
+        "male",
+        "Dragon Slayer mage"
+      ],
+      "provenance": {
+        "groupId": "fairy-tail",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "mage"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Gray Fullbuster",
+        "Gray Fullbuster (Fairy Tail)"
+      ],
+      "id": "character.fairy-tail.gray-fullbuster",
+      "kind": "named-character",
+      "name": "Gray Fullbuster",
+      "namespace": "Fairy Tail",
+      "promptTags": [
+        "Gray Fullbuster",
+        "Fairy Tail",
+        "male",
+        "ice mage"
+      ],
+      "provenance": {
+        "groupId": "fairy-tail",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "mage"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Jellal Fernandes",
+        "Jellal Fernandes (Fairy Tail)"
+      ],
+      "id": "character.fairy-tail.jellal-fernandes",
+      "kind": "named-character",
+      "name": "Jellal Fernandes",
+      "namespace": "Fairy Tail",
+      "promptTags": [
+        "Jellal Fernandes",
+        "Fairy Tail",
+        "male",
+        "mage"
+      ],
+      "provenance": {
+        "groupId": "fairy-tail",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "mage"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Lucy Heartfilia",
+        "Lucy Heartfilia (Fairy Tail)"
+      ],
+      "id": "character.fairy-tail.lucy-heartfilia",
+      "kind": "named-character",
+      "name": "Lucy Heartfilia",
+      "namespace": "Fairy Tail",
+      "promptTags": [
+        "Lucy Heartfilia",
+        "Fairy Tail",
+        "female",
+        "Celestial Spirit mage"
+      ],
+      "provenance": {
+        "groupId": "fairy-tail",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "mage"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Natsu Dragneel",
+        "Natsu Dragneel (Fairy Tail)"
+      ],
+      "id": "character.fairy-tail.natsu-dragneel",
+      "kind": "named-character",
+      "name": "Natsu Dragneel",
+      "namespace": "Fairy Tail",
+      "promptTags": [
+        "Natsu Dragneel",
+        "Fairy Tail",
+        "male",
+        "Dragon Slayer mage"
+      ],
+      "provenance": {
+        "groupId": "fairy-tail",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "mage"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Wendy Marvell",
+        "Wendy Marvell (Fairy Tail)"
+      ],
+      "id": "character.fairy-tail.wendy-marvell",
+      "kind": "named-character",
+      "name": "Wendy Marvell",
+      "namespace": "Fairy Tail",
+      "promptTags": [
+        "Wendy Marvell",
+        "Fairy Tail",
+        "female",
+        "Dragon Slayer mage"
+      ],
+      "provenance": {
+        "groupId": "fairy-tail",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "mage"
+      ]
+    }
+  ],
+  "fingerprint": "15a8b97350a9af22b495044074b0e8379751cbca21472ca11b848bf70ed10b65",
+  "namespace": "Fairy Tail",
+  "schemaVersion": 2
+}

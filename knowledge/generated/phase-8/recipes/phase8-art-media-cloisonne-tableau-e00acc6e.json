@@ -1,0 +1,1544 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.media.cloisonne-tableau",
+  "fingerprint": "0bebfd158bdf93494691af19c1c2deea73eaaf7f891bb8d81b2dfa4ac9dfc73d",
+  "recipes": [
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with geometric borderwork decorative style, rotational structure with alternating detail rhythm composition, sapphire blue with rose gold gemstone palette, gentle atmospheric bloom from ceiling skylight, falling off into shadow 170274e459ae"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.170274e459ae",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.rotational-structure-with-alternating-detail-rhythm-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sapphire-blue-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-geometric-borderwork-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with geometric borderwork decorative style, rotational structure with alternating detail rhythm composition, sapphire blue with rose gold gemstone palette, gentle atmospheric bloom from ceiling skylight, falling off into shadow 170274e459ae"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with crackled color planes decorative style, portal-centered structure with broken lower balance composition, ruby red with antique gold gemstone palette, crisp shadow edges from ceiling skylight, grazing textured surfaces 28add6a4a081"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.28add6a4a081",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.portal-centered-structure-with-broken-lower-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-crackled-color-planes-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with crackled color planes decorative style, portal-centered structure with broken lower balance composition, ruby red with antique gold gemstone palette, crisp shadow edges from ceiling skylight, grazing textured surfaces 28add6a4a081"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with luminous translucent shapes decorative style, grid-based structure with paired counterweights composition, tourmaline pink with rose gold gemstone palette, soft diffusion from ceiling skylight, falling off into shadow 2d34ea6abc94"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.2d34ea6abc94",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.grid-based-structure-with-paired-counterweights-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-ceiling-skylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tourmaline-pink-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-luminous-translucent-shapes-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with luminous translucent shapes decorative style, grid-based structure with paired counterweights composition, tourmaline pink with rose gold gemstone palette, soft diffusion from ceiling skylight, falling off into shadow 2d34ea6abc94"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with geometric borderwork decorative style, radial structure with soft asymmetry composition, garnet burgundy with pale brass gemstone palette, crisp shadow edges from ceiling skylight, grazing textured surfaces 3f318c9c6eab"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.3f318c9c6eab",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.radial-structure-with-soft-asymmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.garnet-burgundy-with-pale-brass-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-geometric-borderwork-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with geometric borderwork decorative style, radial structure with soft asymmetry composition, garnet burgundy with pale brass gemstone palette, crisp shadow edges from ceiling skylight, grazing textured surfaces 3f318c9c6eab"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with luminous translucent shapes decorative style, bilateral structure with soft asymmetry composition, garnet burgundy with antique gold gemstone palette, crisp shadow edges from ceiling skylight, creating a luminous frame 51162e186438"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.51162e186438",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-soft-asymmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.garnet-burgundy-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-luminous-translucent-shapes-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with luminous translucent shapes decorative style, bilateral structure with soft asymmetry composition, garnet burgundy with antique gold gemstone palette, crisp shadow edges from ceiling skylight, creating a luminous frame 51162e186438"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with layered scenic panels decorative style, radial structure with broken upper balance composition, ruby red with blackened steel gemstone palette, crisp shadow edges from ceiling skylight, broken by foreground shapes 61e813878428"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.61e813878428",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.radial-structure-with-broken-upper-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-layered-scenic-panels-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with layered scenic panels decorative style, radial structure with broken upper balance composition, ruby red with blackened steel gemstone palette, crisp shadow edges from ceiling skylight, broken by foreground shapes 61e813878428"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with geometric borderwork decorative style, reflectional structure with soft asymmetry composition, garnet burgundy with champagne gold gemstone palette, soft diffusion from ceiling skylight, focused on the subject plane 6ade3d1366e9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.6ade3d1366e9",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.reflectional-structure-with-soft-asymmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-ceiling-skylight-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.garnet-burgundy-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-geometric-borderwork-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with geometric borderwork decorative style, reflectional structure with soft asymmetry composition, garnet burgundy with champagne gold gemstone palette, soft diffusion from ceiling skylight, focused on the subject plane 6ade3d1366e9"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with high-contrast silhouettes decorative style, bilateral structure with paired counterweights composition, emerald green with champagne gold gemstone palette, gentle atmospheric bloom from ceiling skylight, falling off into shadow 778c9d1e873b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.778c9d1e873b",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-paired-counterweights-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-green-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-high-contrast-silhouettes-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with high-contrast silhouettes decorative style, bilateral structure with paired counterweights composition, emerald green with champagne gold gemstone palette, gentle atmospheric bloom from ceiling skylight, falling off into shadow 778c9d1e873b"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with crackled color planes decorative style, axial structure with centered void composition, garnet burgundy with antique gold gemstone palette, controlled high contrast from ceiling skylight, reflected from nearby surfaces 7e77d0dadec5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.7e77d0dadec5",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.axial-structure-with-centered-void-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-ceiling-skylight-reflected-from-nearby-sur"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.garnet-burgundy-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-crackled-color-planes-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with crackled color planes decorative style, axial structure with centered void composition, garnet burgundy with antique gold gemstone palette, controlled high contrast from ceiling skylight, reflected from nearby surfaces 7e77d0dadec5"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with high-contrast silhouettes decorative style, portal-centered structure with strict symmetry composition, amethyst violet with champagne gold gemstone palette, crisp shadow edges from ceiling skylight, spilling into the background 81814d1915e5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.81814d1915e5",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.portal-centered-structure-with-strict-symmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.amethyst-violet-with-champagne-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-high-contrast-silhouettes-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with high-contrast silhouettes decorative style, portal-centered structure with strict symmetry composition, amethyst violet with champagne gold gemstone palette, crisp shadow edges from ceiling skylight, spilling into the background 81814d1915e5"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with fine outlined figures decorative style, radial structure with broken upper balance composition, garnet burgundy with pale brass gemstone palette, crisp shadow edges from ceiling skylight, falling off into shadow 847c704f1b7c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.847c704f1b7c",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.radial-structure-with-broken-upper-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.garnet-burgundy-with-pale-brass-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-fine-outlined-figures-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with fine outlined figures decorative style, radial structure with broken upper balance composition, garnet burgundy with pale brass gemstone palette, crisp shadow edges from ceiling skylight, falling off into shadow 847c704f1b7c"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with crackled color planes decorative style, bilateral structure with broken lower balance composition, citrine yellow with pewter gray gemstone palette, gentle atmospheric bloom from ceiling skylight, creating a luminous frame 853a77ec483d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.853a77ec483d",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-broken-lower-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.citrine-yellow-with-pewter-gray-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-crackled-color-planes-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with crackled color planes decorative style, bilateral structure with broken lower balance composition, citrine yellow with pewter gray gemstone palette, gentle atmospheric bloom from ceiling skylight, creating a luminous frame 853a77ec483d"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with geometric borderwork decorative style, reflectional structure with soft asymmetry composition, citrine yellow with bright silver gemstone palette, controlled high contrast from ceiling skylight, broken by foreground shapes 912148e7a2b5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.912148e7a2b5",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.reflectional-structure-with-soft-asymmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-ceiling-skylight-broken-by-foreground-shap"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.citrine-yellow-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-geometric-borderwork-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with geometric borderwork decorative style, reflectional structure with soft asymmetry composition, citrine yellow with bright silver gemstone palette, controlled high contrast from ceiling skylight, broken by foreground shapes 912148e7a2b5"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with crackled color planes decorative style, radial structure with alternating detail rhythm composition, emerald green with bright silver gemstone palette, gentle atmospheric bloom from ceiling skylight, focused on the subject plane 9cb065da6f77"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.9cb065da6f77",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.radial-structure-with-alternating-detail-rhythm-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-focused-on-the-subject-pl"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-green-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-crackled-color-planes-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with crackled color planes decorative style, radial structure with alternating detail rhythm composition, emerald green with bright silver gemstone palette, gentle atmospheric bloom from ceiling skylight, focused on the subject plane 9cb065da6f77"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with luminous translucent shapes decorative style, grid-based structure with single offset accent composition, ruby red with blackened steel gemstone palette, gentle atmospheric bloom from ceiling skylight, focused on the subject plane a151c46d56e8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.a151c46d56e8",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.grid-based-structure-with-single-offset-accent-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-focused-on-the-subject-pl"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-blackened-steel-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-luminous-translucent-shapes-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with luminous translucent shapes decorative style, grid-based structure with single offset accent composition, ruby red with blackened steel gemstone palette, gentle atmospheric bloom from ceiling skylight, focused on the subject plane a151c46d56e8"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with fine outlined figures decorative style, altar-like structure with centered void composition, emerald green with rose gold gemstone palette, gentle atmospheric bloom from ceiling skylight, layered across depth planes b3f1d9bed82e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.b3f1d9bed82e",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.altar-like-structure-with-centered-void-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-layered-across-depth-plan"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.emerald-green-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-fine-outlined-figures-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with fine outlined figures decorative style, altar-like structure with centered void composition, emerald green with rose gold gemstone palette, gentle atmospheric bloom from ceiling skylight, layered across depth planes b3f1d9bed82e"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with restrained symbolic accents decorative style, reflectional structure with broken upper balance composition, opal pastel with pewter gray gemstone palette, crisp shadow edges from ceiling skylight, layered across depth planes d2b1c57507ac"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.d2b1c57507ac",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.reflectional-structure-with-broken-upper-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.opal-pastel-with-pewter-gray-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-restrained-symbolic-accents-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with restrained symbolic accents decorative style, reflectional structure with broken upper balance composition, opal pastel with pewter gray gemstone palette, crisp shadow edges from ceiling skylight, layered across depth planes d2b1c57507ac"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with geometric borderwork decorative style, bilateral structure with alternating detail rhythm composition, ruby red with antique gold gemstone palette, soft diffusion from ceiling skylight, creating a luminous frame d5436f45a9db"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.d5436f45a9db",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-alternating-detail-rhythm-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-ceiling-skylight-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-antique-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-geometric-borderwork-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with geometric borderwork decorative style, bilateral structure with alternating detail rhythm composition, ruby red with antique gold gemstone palette, soft diffusion from ceiling skylight, creating a luminous frame d5436f45a9db"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with crackled color planes decorative style, axial structure with broken upper balance composition, ruby red with rose gold gemstone palette, gentle atmospheric bloom from ceiling skylight, broken by foreground shapes d6b014c52a3c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.d6b014c52a3c",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.axial-structure-with-broken-upper-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-broken-by-foreground-shap"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-crackled-color-planes-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with crackled color planes decorative style, axial structure with broken upper balance composition, ruby red with rose gold gemstone palette, gentle atmospheric bloom from ceiling skylight, broken by foreground shapes d6b014c52a3c"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with restrained symbolic accents decorative style, axial structure with strict symmetry composition, peridot green with pewter gray gemstone palette, crisp shadow edges from ceiling skylight, contained in a localized pool ddc210b39e54"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.ddc210b39e54",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.axial-structure-with-strict-symmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-ceiling-skylight-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peridot-green-with-pewter-gray-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-restrained-symbolic-accents-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with restrained symbolic accents decorative style, axial structure with strict symmetry composition, peridot green with pewter gray gemstone palette, crisp shadow edges from ceiling skylight, contained in a localized pool ddc210b39e54"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with restrained symbolic accents decorative style, reflectional structure with strict symmetry composition, ruby red with bright silver gemstone palette, gentle atmospheric bloom from ceiling skylight, contained in a localized pool dfef68eb0e01"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.dfef68eb0e01",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.reflectional-structure-with-strict-symmetry-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-ceiling-skylight-contained-in-a-localized-"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-bright-silver-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-restrained-symbolic-accents-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with restrained symbolic accents decorative style, reflectional structure with strict symmetry composition, ruby red with bright silver gemstone palette, gentle atmospheric bloom from ceiling skylight, contained in a localized pool dfef68eb0e01"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with luminous translucent shapes decorative style, kaleidoscopic structure with single offset accent composition, aquamarine with rose gold gemstone palette, soft diffusion from ceiling skylight, spilling into the background e469248382d2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.e469248382d2",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.kaleidoscopic-structure-with-single-offset-accent-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-ceiling-skylight-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aquamarine-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-luminous-translucent-shapes-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with luminous translucent shapes decorative style, kaleidoscopic structure with single offset accent composition, aquamarine with rose gold gemstone palette, soft diffusion from ceiling skylight, spilling into the background e469248382d2"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with layered scenic panels decorative style, emblematic structure with paired counterweights composition, lapis blue with rose gold gemstone palette, soft diffusion from ceiling skylight, spilling into the background f1a271960504"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.f1a271960504",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.emblematic-structure-with-paired-counterweights-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-ceiling-skylight-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lapis-blue-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-layered-scenic-panels-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with layered scenic panels decorative style, emblematic structure with paired counterweights composition, lapis blue with rose gold gemstone palette, soft diffusion from ceiling skylight, spilling into the background f1a271960504"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "cloisonne tableau featuring cloisonne enamel with crackled color planes decorative style, bilateral structure with alternating detail rhythm composition, ruby red with rose gold gemstone palette, soft diffusion from ceiling skylight, layered across depth planes f5c1096763c2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.cloisonne-tableau",
+      "familyTriggers": [
+        "cloisonne tableau direction",
+        "enameled jewel-surface staging",
+        "metal-cell decorative tableau"
+      ],
+      "id": "phase8.art.media.cloisonne-tableau.f5c1096763c2",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.bilateral-structure-with-alternating-detail-rhythm-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-ceiling-skylight-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ruby-red-with-rose-gold-gemstone-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cloisonne-enamel-with-crackled-color-planes-decorative-style"
+        ]
+      },
+      "name": "Cloisonne Tableau 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.cloisonne-tableau",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "enamel-cell contours",
+        "gem-metal symmetry",
+        "luminous cloisonne surface"
+      ],
+      "triggers": [
+        "cloisonne tableau featuring cloisonne enamel with crackled color planes decorative style, bilateral structure with alternating detail rhythm composition, ruby red with rose gold gemstone palette, soft diffusion from ceiling skylight, layered across depth planes f5c1096763c2"
+      ],
+      "variantIndex": 5
+    }
+  ],
+  "schemaVersion": 2
+}

@@ -1,0 +1,216 @@
+{
+  "count": 6,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Askeladd",
+        "Askeladd (Vinland Saga)"
+      ],
+      "id": "character.vinland-saga.askeladd",
+      "kind": "named-character",
+      "name": "Askeladd",
+      "namespace": "Vinland Saga",
+      "promptTags": [
+        "Askeladd",
+        "Vinland Saga",
+        "male",
+        "mercenary leader"
+      ],
+      "provenance": {
+        "groupId": "vinland-saga",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "mercenary",
+        "leader"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Canute",
+        "Canute (Vinland Saga)"
+      ],
+      "id": "character.vinland-saga.canute",
+      "kind": "named-character",
+      "name": "Canute",
+      "namespace": "Vinland Saga",
+      "promptTags": [
+        "Canute",
+        "Vinland Saga",
+        "male",
+        "king"
+      ],
+      "provenance": {
+        "groupId": "vinland-saga",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "king",
+        "leader"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Einar",
+        "Einar (Vinland Saga)"
+      ],
+      "id": "character.vinland-saga.einar",
+      "kind": "named-character",
+      "name": "Einar",
+      "namespace": "Vinland Saga",
+      "promptTags": [
+        "Einar",
+        "Vinland Saga",
+        "male",
+        "farmer"
+      ],
+      "provenance": {
+        "groupId": "vinland-saga",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "farmer"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Gudrid",
+        "Gudrid (Vinland Saga)"
+      ],
+      "id": "character.vinland-saga.gudrid",
+      "kind": "named-character",
+      "name": "Gudrid",
+      "namespace": "Vinland Saga",
+      "promptTags": [
+        "Gudrid",
+        "Vinland Saga",
+        "female",
+        "explorer"
+      ],
+      "provenance": {
+        "groupId": "vinland-saga",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "explorer"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Thorfinn Karlsefni",
+        "Thorfinn Karlsefni (Vinland Saga)"
+      ],
+      "id": "character.vinland-saga.thorfinn-karlsefni",
+      "kind": "named-character",
+      "name": "Thorfinn Karlsefni",
+      "namespace": "Vinland Saga",
+      "promptTags": [
+        "Thorfinn Karlsefni",
+        "Vinland Saga",
+        "male",
+        "warrior explorer"
+      ],
+      "provenance": {
+        "groupId": "vinland-saga",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "warrior",
+        "explorer"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Thors Snorresson",
+        "Thors Snorresson (Vinland Saga)"
+      ],
+      "id": "character.vinland-saga.thors-snorresson",
+      "kind": "named-character",
+      "name": "Thors Snorresson",
+      "namespace": "Vinland Saga",
+      "promptTags": [
+        "Thors Snorresson",
+        "Vinland Saga",
+        "male",
+        "warrior"
+      ],
+      "provenance": {
+        "groupId": "vinland-saga",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "warrior"
+      ]
+    }
+  ],
+  "fingerprint": "b4c4c40416c128e3d0faf2e2ed0732bf1536ce12292a2dc385aaa237e3dfba87",
+  "namespace": "Vinland Saga",
+  "schemaVersion": 2
+}

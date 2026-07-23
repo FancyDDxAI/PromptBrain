@@ -1,0 +1,1784 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.environment.neon-metropolitan-night",
+  "fingerprint": "20dc1eb8670cda9082fe8337bb5aa19fb918c589a78497b995ce7e9820becedb",
+  "recipes": [
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with centered period framing photographic style, top-center entry into a spiral inward path composition, oxblood red with ultraviolet neon-night palette, gentle atmospheric bloom from neon storefront, focused on the subject plane 1446c8b42525"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.1446c8b42525",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-stopped-down-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.top-center-entry-into-a-spiral-inward-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-a-long-urban-sightline-orderly-architectur"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-neon-storefront-focused-on-the-subject-pla"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.oxblood-red-with-ultraviolet-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with centered period framing photographic style, top-center entry into a spiral inward path composition, oxblood red with ultraviolet neon-night palette, gentle atmospheric bloom from neon storefront, focused on the subject plane 1446c8b42525"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with fine surface grain photographic style, off-frame entry into a sweeping curve path composition, deep teal with plasma blue neon-night palette, controlled high contrast from neon storefront, creating a luminous frame 159568ffa404"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.159568ffa404",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-overhead-infrastructure-cinematic-metropol"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-neon-storefront-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-teal-with-plasma-blue-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with fine surface grain photographic style, off-frame entry into a sweeping curve path composition, deep teal with plasma blue neon-night palette, controlled high contrast from neon storefront, creating a luminous frame 159568ffa404"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with centered period framing photographic style, foreground entry into a spiral inward path composition, bottle green with signal orange neon-night palette, gentle atmospheric bloom from neon storefront, contained in a localized pool 24d0f0fd7baa"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.24d0f0fd7baa",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-stopped-down-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-entry-into-a-spiral-inward-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-a-long-urban-sightline-cinematic-metropoli"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-neon-storefront-contained-in-a-localized-p"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.bottle-green-with-signal-orange-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with centered period framing photographic style, foreground entry into a spiral inward path composition, bottle green with signal orange neon-night palette, gentle atmospheric bloom from neon storefront, contained in a localized pool 24d0f0fd7baa"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with deep shadow detail photographic style, upper-right entry into a rising diagonal path composition, aubergine with laser magenta neon-night palette, crisp shadow edges from neon storefront, creating a luminous frame 3207535cefa0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.3207535cefa0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-stopped-down-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-right-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-foreground-street-furniture-cinematic-metr"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-neon-storefront-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aubergine-with-laser-magenta-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with deep shadow detail photographic style, upper-right entry into a rising diagonal path composition, aubergine with laser magenta neon-night palette, crisp shadow edges from neon storefront, creating a luminous frame 3207535cefa0"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with fine surface grain photographic style, right-edge entry into a sweeping curve path composition, graphite with laser magenta neon-night palette, controlled high contrast from neon storefront, layered across depth planes 34ca610ecc77"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.34ca610ecc77",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.right-edge-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-reflective-street-surfaces-lived-in-urban-"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-neon-storefront-layered-across-depth-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.graphite-with-laser-magenta-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with fine surface grain photographic style, right-edge entry into a sweeping curve path composition, graphite with laser magenta neon-night palette, controlled high contrast from neon storefront, layered across depth planes 34ca610ecc77"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with muted tonal range photographic style, off-frame entry into a sweeping curve path composition, deep teal with electric cyan neon-night palette, controlled high contrast from neon storefront, focused on the subject plane 41a506ac79ed"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.41a506ac79ed",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-stopped-down-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-a-long-urban-sightline-lived-in-urban-atmo"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-neon-storefront-focused-on-the-subject-pla"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-teal-with-electric-cyan-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with muted tonal range photographic style, off-frame entry into a sweeping curve path composition, deep teal with electric cyan neon-night palette, controlled high contrast from neon storefront, focused on the subject plane 41a506ac79ed"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with toned highlight bloom photographic style, left-edge entry into a falling diagonal path composition, bottle green with signal orange neon-night palette, crisp shadow edges from neon storefront, layered across depth planes 44b2318dd1ab"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.44b2318dd1ab",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-mid-range-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.left-edge-entry-into-a-falling-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-a-distant-skyline-backdrop-orderly-archite"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-neon-storefront-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.bottle-green-with-signal-orange-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-toned-highlight-bloom-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with toned highlight bloom photographic style, left-edge entry into a falling diagonal path composition, bottle green with signal orange neon-night palette, crisp shadow edges from neon storefront, layered across depth planes 44b2318dd1ab"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with luminous highlights photographic style, foreground entry into a falling diagonal path composition, charcoal gray with laser magenta neon-night palette, crisp shadow edges from neon storefront, falling off into shadow 4f7e2f5b8b70"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.4f7e2f5b8b70",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-stopped-down-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-entry-into-a-falling-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-repeating-facade-rhythm-orderly-architectu"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-neon-storefront-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-gray-with-laser-magenta-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with luminous highlights photographic style, foreground entry into a falling diagonal path composition, charcoal gray with laser magenta neon-night palette, crisp shadow edges from neon storefront, falling off into shadow 4f7e2f5b8b70"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with toned highlight bloom photographic style, foreground entry into a radial path composition, black cherry with signal orange neon-night palette, controlled high contrast from neon storefront, focused on the subject plane 5601f1cc2f13"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.5601f1cc2f13",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-mid-range-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-entry-into-a-radial-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-repeating-facade-rhythm-cinematic-metropol"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-neon-storefront-focused-on-the-subject-pla"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.black-cherry-with-signal-orange-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-toned-highlight-bloom-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with toned highlight bloom photographic style, foreground entry into a radial path composition, black cherry with signal orange neon-night palette, controlled high contrast from neon storefront, focused on the subject plane 5601f1cc2f13"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with soft edge falloff photographic style, lower-left entry into a zigzag path composition, ink black with acid lime neon-night palette, gentle atmospheric bloom from neon storefront, falling off into shadow 5c4910573e14"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.5c4910573e14",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-left-entry-into-a-zigzag-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-a-distant-skyline-backdrop-cinematic-metro"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-neon-storefront-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ink-black-with-acid-lime-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with soft edge falloff photographic style, lower-left entry into a zigzag path composition, ink black with acid lime neon-night palette, gentle atmospheric bloom from neon storefront, falling off into shadow 5c4910573e14"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with luminous highlights photographic style, near-center entry into a spiral inward path composition, smoky violet with hot pink neon-night palette, gentle atmospheric bloom from neon storefront, spilling into the background 6735e519515b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.6735e519515b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-stopped-down-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.near-center-entry-into-a-spiral-inward-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-crossing-traffic-lines-lived-in-urban-atmo"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-neon-storefront-spilling-into-the-backgrou"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.smoky-violet-with-hot-pink-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with luminous highlights photographic style, near-center entry into a spiral inward path composition, smoky violet with hot pink neon-night palette, gentle atmospheric bloom from neon storefront, spilling into the background 6735e519515b"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with careful studio staging photographic style, upper-left entry into a radial path composition, bottle green with plasma blue neon-night palette, controlled high contrast from neon storefront, reflected from nearby surfaces 6b7059dd0f58"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.6b7059dd0f58",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-stopped-down-aperture-neutral-optical-renderi"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-left-entry-into-a-radial-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-crossing-traffic-lines-orderly-architectur"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-neon-storefront-reflected-from-nearby-surf"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.bottle-green-with-plasma-blue-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with careful studio staging photographic style, upper-left entry into a radial path composition, bottle green with plasma blue neon-night palette, controlled high contrast from neon storefront, reflected from nearby surfaces 6b7059dd0f58"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with muted tonal range photographic style, off-frame entry into a S-curve path composition, deep plum with acid lime neon-night palette, gentle atmospheric bloom from neon storefront, grazing textured surfaces 756ec4be0def"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.756ec4be0def",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-mid-range-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-s-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-repeating-facade-rhythm-cinematic-metropol"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-neon-storefront-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-plum-with-acid-lime-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with muted tonal range photographic style, off-frame entry into a S-curve path composition, deep plum with acid lime neon-night palette, gentle atmospheric bloom from neon storefront, grazing textured surfaces 756ec4be0def"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with careful studio staging photographic style, off-frame entry into a radial path composition, bottle green with ultraviolet neon-night palette, controlled high contrast from neon storefront, creating a luminous frame 7940475cef47"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.7940475cef47",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-stopped-down-aperture-neutral-optical-renderi"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-radial-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-a-framed-intersection-cinematic-metropolit"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-neon-storefront-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.bottle-green-with-ultraviolet-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with careful studio staging photographic style, off-frame entry into a radial path composition, bottle green with ultraviolet neon-night palette, controlled high contrast from neon storefront, creating a luminous frame 7940475cef47"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with centered period framing photographic style, background entry into a sweeping curve path composition, ink black with signal orange neon-night palette, gentle atmospheric bloom from neon storefront, falling off into shadow 7b968b1c1828"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.7b968b1c1828",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.background-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-repeating-facade-rhythm-orderly-architectu"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-neon-storefront-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ink-black-with-signal-orange-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with centered period framing photographic style, background entry into a sweeping curve path composition, ink black with signal orange neon-night palette, gentle atmospheric bloom from neon storefront, falling off into shadow 7b968b1c1828"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with centered period framing photographic style, lower-right entry into a falling diagonal path composition, bottle green with hot pink neon-night palette, gentle atmospheric bloom from neon storefront, focused on the subject plane 8bb39c6a5249"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.8bb39c6a5249",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-stopped-down-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-right-entry-into-a-falling-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-a-framed-intersection-lived-in-urban-atmos"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-neon-storefront-focused-on-the-subject-pla"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.bottle-green-with-hot-pink-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with centered period framing photographic style, lower-right entry into a falling diagonal path composition, bottle green with hot pink neon-night palette, gentle atmospheric bloom from neon storefront, focused on the subject plane 8bb39c6a5249"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with luminous highlights photographic style, lower-right entry into a staggered step path composition, petrol blue with hot pink neon-night palette, crisp shadow edges from neon storefront, layered across depth planes 93f27e961f3f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.93f27e961f3f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-stopped-down-aperture-controlled-highlight-bl"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-right-entry-into-a-staggered-step-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-overhead-infrastructure-orderly-architectu"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-neon-storefront-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.petrol-blue-with-hot-pink-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with luminous highlights photographic style, lower-right entry into a staggered step path composition, petrol blue with hot pink neon-night palette, crisp shadow edges from neon storefront, layered across depth planes 93f27e961f3f"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with soft edge falloff photographic style, left-edge entry into a spiral inward path composition, oxblood red with acid lime neon-night palette, crisp shadow edges from neon storefront, falling off into shadow a35dbe80e63b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.a35dbe80e63b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-mid-range-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.left-edge-entry-into-a-spiral-inward-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-crossing-traffic-lines-orderly-architectur"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-neon-storefront-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.oxblood-red-with-acid-lime-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with soft edge falloff photographic style, left-edge entry into a spiral inward path composition, oxblood red with acid lime neon-night palette, crisp shadow edges from neon storefront, falling off into shadow a35dbe80e63b"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with careful studio staging photographic style, off-frame entry into a sweeping curve path composition, petrol blue with hot pink neon-night palette, crisp shadow edges from neon storefront, grazing textured surfaces acfe74d784ee"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.acfe74d784ee",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-crossing-traffic-lines-lived-in-urban-atmo"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-neon-storefront-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.petrol-blue-with-hot-pink-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with careful studio staging photographic style, off-frame entry into a sweeping curve path composition, petrol blue with hot pink neon-night palette, crisp shadow edges from neon storefront, grazing textured surfaces acfe74d784ee"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with centered period framing photographic style, upper-left entry into a spiral inward path composition, smoky violet with laser magenta neon-night palette, gentle atmospheric bloom from neon storefront, grazing textured surfaces bf7a345f21e0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.bf7a345f21e0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-left-entry-into-a-spiral-inward-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-a-long-urban-sightline-orderly-architectur"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-neon-storefront-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.smoky-violet-with-laser-magenta-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with centered period framing photographic style, upper-left entry into a spiral inward path composition, smoky violet with laser magenta neon-night palette, gentle atmospheric bloom from neon storefront, grazing textured surfaces bf7a345f21e0"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with toned highlight bloom photographic style, upper-left entry into a falling diagonal path composition, deep teal with laser magenta neon-night palette, gentle atmospheric bloom from neon storefront, creating a luminous frame c3a04573241f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.c3a04573241f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-mid-range-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-left-entry-into-a-falling-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-reflective-street-surfaces-cinematic-metro"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-neon-storefront-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-teal-with-laser-magenta-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-toned-highlight-bloom-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with toned highlight bloom photographic style, upper-left entry into a falling diagonal path composition, deep teal with laser magenta neon-night palette, gentle atmospheric bloom from neon storefront, creating a luminous frame c3a04573241f"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with soft edge falloff photographic style, off-frame entry into a spiral inward path composition, oxblood red with hot pink neon-night palette, controlled high contrast from neon storefront, broken by foreground shapes cac3173b5077"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.cac3173b5077",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-spiral-inward-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-overhead-infrastructure-lived-in-urban-atm"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-neon-storefront-broken-by-foreground-shape"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.oxblood-red-with-hot-pink-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with soft edge falloff photographic style, off-frame entry into a spiral inward path composition, oxblood red with hot pink neon-night palette, controlled high contrast from neon storefront, broken by foreground shapes cac3173b5077"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with muted tonal range photographic style, lower-right entry into a falling diagonal path composition, aubergine with hot pink neon-night palette, soft diffusion from neon storefront, grazing textured surfaces d11b17344271"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.d11b17344271",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-stopped-down-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-right-entry-into-a-falling-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-reflective-street-surfaces-cinematic-metro"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-neon-storefront-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aubergine-with-hot-pink-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with muted tonal range photographic style, lower-right entry into a falling diagonal path composition, aubergine with hot pink neon-night palette, soft diffusion from neon storefront, grazing textured surfaces d11b17344271"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "neon metropolitan night featuring cross-processed film with fine surface grain photographic style, right-edge entry into a radial path composition, ink black with hot pink neon-night palette, controlled high contrast from neon storefront, focused on the subject plane ea010f40573a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.neon-metropolitan-night",
+      "familyTriggers": [
+        "neon metropolitan night direction",
+        "electric city after-dark treatment",
+        "nightlife street color grammar"
+      ],
+      "id": "phase8.art.environment.neon-metropolitan-night.ea010f40573a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-mid-range-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.right-edge-entry-into-a-radial-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.neon-entertainment-block-with-layered-street-frontage-lived-in-urban-atm"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-neon-storefront-focused-on-the-subject-pla"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ink-black-with-hot-pink-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Neon Metropolitan Night 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.neon-metropolitan-night",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "neon storefront spill",
+        "metropolitan dark-base color",
+        "electric street depth"
+      ],
+      "triggers": [
+        "neon metropolitan night featuring cross-processed film with fine surface grain photographic style, right-edge entry into a radial path composition, ink black with hot pink neon-night palette, controlled high contrast from neon storefront, focused on the subject plane ea010f40573a"
+      ],
+      "variantIndex": 1
+    }
+  ],
+  "schemaVersion": 2
+}

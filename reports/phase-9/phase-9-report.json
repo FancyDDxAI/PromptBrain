@@ -1,0 +1,474 @@
+{
+  "campaignVersion": "phase-9-v2",
+  "catalog": {
+    "buildId": "promptbrain-phase-8-with-authored-extensions",
+    "delta": {
+      "adultAllowedEntities": 0,
+      "adultConcepts": 2484,
+      "concepts": 23250,
+      "conceptsByKind": {
+        "action": 1178,
+        "anatomy": 1246,
+        "camera": 2324,
+        "composition": 1025,
+        "effect": 1014,
+        "environment": 2718,
+        "expression": 1066,
+        "interaction": 1160,
+        "lighting": 435,
+        "lora": 34,
+        "motif": 1019,
+        "palette": 966,
+        "pose": 1340,
+        "quality": 965,
+        "style": 968,
+        "subject": 645,
+        "wardrobe": 5147
+      },
+      "entities": 324,
+      "recipes": 1152
+    },
+    "deltaFingerprint": "c5cccf64337e496cab882a0660afc53b4fda4cab691d27d6b301cc5785fd1c7b",
+    "directory": "knowledge/generated/phase-8",
+    "effective": {
+      "adultConcepts": 2525,
+      "checkpoints": 17,
+      "concepts": 26200,
+      "conceptsWithConflicts": 17,
+      "conceptsWithRequirements": 4814,
+      "customPromptForms": 0,
+      "entities": 330,
+      "recipes": 1446
+    },
+    "effectiveFingerprint": "6888adf92531b2225930cc66f892b0ece6a186db2e9a36d18feb6af242d0347d",
+    "fingerprint": "33dfcd1e6fa295c1c251f46af198893b720cf70e55abe818cb6947af8a975915",
+    "loadedShards": 113,
+    "manifestFiles": 117,
+    "registered": {
+      "artDirector": {
+        "concepts": 23250,
+        "families": 48,
+        "recipes": 1152
+      },
+      "engine": {
+        "concepts": 23250,
+        "entities": 324,
+        "recipes": 1152
+      },
+      "fingerprint": "6888adf92531b2225930cc66f892b0ece6a186db2e9a36d18feb6af242d0347d"
+    }
+  },
+  "counters": {
+    "blockCoverageFailures": 0,
+    "conflictFailures": 0,
+    "determinismMismatches": 0,
+    "deterministicCases": 5100,
+    "deterministicInvocations": 10200,
+    "duplicateFailures": 0,
+    "emptyPrompts": 0,
+    "exceptions": 0,
+    "fluxSyntaxViolations": 0,
+    "gatesPassed": 23,
+    "gatesTotal": 23,
+    "generatedWarnings": 91966,
+    "internalAdultEligibilityFailures": 0,
+    "ponyHeadViolations": 0,
+    "semanticFailures": 0,
+    "sfwAdultLeakages": 0,
+    "tokenOverrunRate": 0,
+    "tokenOverruns": 0,
+    "tokenWarningFailures": 0,
+    "totalInvocations": 11005,
+    "waiHeadViolations": 0
+  },
+  "coverage": {
+    "artisticFamilies": {
+      "missing": [],
+      "selected": 48,
+      "total": 48
+    },
+    "checkpointProfiles": [
+      "waiIllustriousXL",
+      "illustriousXL",
+      "noobAIXL",
+      "animagineXL",
+      "ponyDiffusionXL",
+      "autismMixPony",
+      "dreamShaperXL",
+      "juggernautXL",
+      "anythingV5",
+      "meinaMix",
+      "counterfeitV3",
+      "realisticVisionV6",
+      "absoluteReality",
+      "cyberRealistic",
+      "chilloutMix",
+      "deliberate",
+      "fluxDev"
+    ],
+    "contentModes": [
+      "adult",
+      "sfw"
+    ],
+    "entities": {
+      "adultAllowed": 3,
+      "adultRejected": 327,
+      "adultResolved": 3,
+      "failures": 0,
+      "sfwResolved": 330,
+      "total": 330
+    },
+    "installedLoras": {
+      "exercised": 28,
+      "explicitlyIncompatible": [
+        "phase8.installed-loras.lora.anima-masterpiece-v51",
+        "phase8.installed-loras.lora.anima-turbo-v0.2",
+        "phase8.installed-loras.lora.gpt-image-2-anima-base1-v1",
+        "phase8.installed-loras.lora.gpt-image-2-anima-base1-v1-1",
+        "phase8.installed-loras.lora.oily-shiny-glossy-skin-v2.1",
+        "phase8.installed-loras.lora.zit-splatter-ink-art-v0.1"
+      ],
+      "failures": 0,
+      "mapped": 28,
+      "total": 34,
+      "unclassified": []
+    },
+    "scenarios": [
+      "adult-android18-allowed",
+      "adult-eren-blocked",
+      "adult-explicit-over-memory",
+      "adult-generic-dragon-woman",
+      "adult-generic-man",
+      "adult-generic-woman",
+      "adult-ice-elf",
+      "adult-tohru-explicit",
+      "adult-two-adults",
+      "adult-yor-allowed",
+      "sfw-cyberpunk-city",
+      "sfw-dragon-ball",
+      "sfw-dragon-girl",
+      "sfw-explicit-camera-precedence",
+      "sfw-fantasy-swordswoman",
+      "sfw-generic-cat-reading",
+      "sfw-graphic-horror",
+      "sfw-ice-elf-action",
+      "sfw-ukiyoe-oni",
+      "sfw-yor-identity"
+    ],
+    "stagingFamilies": {
+      "selected": 6,
+      "total": 6
+    },
+    "styleTokens": {
+      "exercised": 17,
+      "failures": 0,
+      "profiles": 17,
+      "tokens": 3
+    }
+  },
+  "fixtureFingerprint": "3f6b73707ec26e0a31d84d302138b7f9da439514e00520f984b0425c290936cb",
+  "gates": [
+    {
+      "actual": {
+        "concepts": 26200,
+        "entities": 330,
+        "recipes": 1446
+      },
+      "examples": [],
+      "expected": {
+        "adultConcepts": 2525,
+        "checkpoints": 17,
+        "concepts": 26200,
+        "conceptsWithConflicts": 17,
+        "conceptsWithRequirements": 4814,
+        "customPromptForms": 0,
+        "entities": 330,
+        "recipes": 1446
+      },
+      "id": "catalog.full-registration",
+      "label": "Real generated catalog loads and registers exactly",
+      "passed": true
+    },
+    {
+      "actual": 10200,
+      "examples": [],
+      "expected": ">= 10000",
+      "id": "campaign.minimum-deterministic-invocations",
+      "label": "At least 10,000 seeded deterministic generation invocations",
+      "passed": true
+    },
+    {
+      "actual": {
+        "modes": [
+          "adult",
+          "sfw"
+        ],
+        "profiles": 17
+      },
+      "examples": [],
+      "expected": {
+        "modes": [
+          "adult",
+          "sfw"
+        ],
+        "profiles": 17
+      },
+      "id": "campaign.profile-mode-coverage",
+      "label": "All checkpoint profiles and both content modes are covered",
+      "passed": true
+    },
+    {
+      "actual": 0,
+      "examples": [],
+      "expected": 0,
+      "id": "runtime.no-exceptions",
+      "label": "No generation or probe throws",
+      "passed": true
+    },
+    {
+      "actual": 0,
+      "examples": [],
+      "expected": 0,
+      "id": "determinism.zero-mismatches",
+      "label": "Same request, options, and seed produce byte-identical structured output",
+      "passed": true
+    },
+    {
+      "actual": 0,
+      "examples": [],
+      "expected": 0,
+      "id": "syntax.wai-quality-head",
+      "label": "WAI starts with its complete quality/style head",
+      "passed": true
+    },
+    {
+      "actual": 0,
+      "examples": [],
+      "expected": 0,
+      "id": "syntax.pony-score-head",
+      "label": "Every Pony profile starts with required score tags",
+      "passed": true
+    },
+    {
+      "actual": 0,
+      "examples": [],
+      "expected": 0,
+      "id": "syntax.flux",
+      "label": "FLUX is natural language with no negative, LoRA syntax, or BREAK",
+      "passed": true
+    },
+    {
+      "actual": 0,
+      "examples": [],
+      "expected": 0,
+      "id": "safety.sfw-no-adult-leakage",
+      "label": "SFW plans contain no adult catalog prompt forms",
+      "passed": true
+    },
+    {
+      "actual": 0,
+      "examples": [],
+      "expected": 0,
+      "id": "quality.nonempty",
+      "label": "Every campaign prompt is nonempty",
+      "passed": true
+    },
+    {
+      "actual": 0,
+      "examples": [],
+      "expected": 0,
+      "id": "quality.block-coverage",
+      "label": "Scenario-required semantic blocks are populated",
+      "passed": true
+    },
+    {
+      "actual": {
+        "failures": 0,
+        "internalAdultEligibilityFailures": 0
+      },
+      "examples": [],
+      "expected": {
+        "failures": 0,
+        "internalAdultEligibilityFailures": 0
+      },
+      "id": "semantics.regressions",
+      "label": "Named, generic, namespace, internal adult eligibility, cleaned output, and explicit precedence hold",
+      "passed": true
+    },
+    {
+      "actual": 0,
+      "examples": [],
+      "expected": 0,
+      "id": "semantics.no-conflicts",
+      "label": "No declared or high-risk lexical conflicts survive",
+      "passed": true
+    },
+    {
+      "actual": 0,
+      "examples": [],
+      "expected": 0,
+      "id": "semantics.no-duplicates",
+      "label": "No normalized prompt block is emitted twice",
+      "passed": true
+    },
+    {
+      "actual": 0,
+      "examples": [],
+      "expected": 0,
+      "id": "tokens.warning-integrity",
+      "label": "Every token overrun has exactly the expected warning state",
+      "passed": true
+    },
+    {
+      "actual": "0%",
+      "examples": [],
+      "expected": "<= 5%",
+      "id": "tokens.overrun-rate",
+      "label": "No more than 5% of campaign prompts exceed checkpoint targets",
+      "passed": true
+    },
+    {
+      "actual": {
+        "missing": [],
+        "selected": 48,
+        "total": 48
+      },
+      "examples": [],
+      "expected": {
+        "missing": [],
+        "selected": 48
+      },
+      "id": "art-direction.family-coverage",
+      "label": "Every generated artistic/staging family is directly selectable",
+      "passed": true
+    },
+    {
+      "actual": {
+        "missing": [],
+        "selected": 6,
+        "total": 6
+      },
+      "examples": [],
+      "expected": {
+        "missing": [],
+        "selected": 6,
+        "total": 6
+      },
+      "id": "character-staging.family-coverage",
+      "label": "Every character staging family is selected during the campaign",
+      "passed": true
+    },
+    {
+      "actual": {
+        "adultAllowed": 3,
+        "adultRejected": 327,
+        "adultResolved": 3,
+        "failures": 0,
+        "sfwResolved": 330,
+        "total": 330
+      },
+      "examples": [],
+      "expected": {
+        "adultRejected": 327,
+        "adultResolved": 3,
+        "failures": 0,
+        "sfwResolved": 330
+      },
+      "id": "entities.mode-eligibility",
+      "label": "Named entities resolve in SFW and adult mode only when adultAllowed",
+      "passed": true
+    },
+    {
+      "actual": {
+        "exercised": 28,
+        "explicitlyIncompatible": [
+          "phase8.installed-loras.lora.anima-masterpiece-v51",
+          "phase8.installed-loras.lora.anima-turbo-v0.2",
+          "phase8.installed-loras.lora.gpt-image-2-anima-base1-v1",
+          "phase8.installed-loras.lora.gpt-image-2-anima-base1-v1-1",
+          "phase8.installed-loras.lora.oily-shiny-glossy-skin-v2.1",
+          "phase8.installed-loras.lora.zit-splatter-ink-art-v0.1"
+        ],
+        "failures": 0,
+        "mapped": 28,
+        "total": 34,
+        "unclassified": []
+      },
+      "examples": [],
+      "expected": {
+        "exercised": 28,
+        "explicitlyIncompatible": [
+          "phase8.installed-loras.lora.anima-masterpiece-v51",
+          "phase8.installed-loras.lora.anima-turbo-v0.2",
+          "phase8.installed-loras.lora.gpt-image-2-anima-base1-v1",
+          "phase8.installed-loras.lora.gpt-image-2-anima-base1-v1-1",
+          "phase8.installed-loras.lora.oily-shiny-glossy-skin-v2.1",
+          "phase8.installed-loras.lora.zit-splatter-ink-art-v0.1"
+        ],
+        "failures": 0,
+        "mapped": 28,
+        "total": 34,
+        "unclassified": []
+      },
+      "id": "loras.installed-coverage",
+      "label": "Every installed LoRA either emits on a compatible checkpoint or is explicitly rejected as incompatible",
+      "passed": true
+    },
+    {
+      "actual": {
+        "exercised": 17,
+        "failures": 0,
+        "profiles": 17,
+        "tokens": 3
+      },
+      "examples": [],
+      "expected": {
+        "exercised": 17,
+        "failures": 0,
+        "profiles": 17,
+        "tokens": 3
+      },
+      "id": "style-tokens.prompt-only",
+      "label": "Prompt-only style tokens stay plain and appear on every profile",
+      "passed": true
+    },
+    {
+      "actual": {
+        "baselineRecipe": "phase9.staging.grounded-portrait.7936ea0fcec3",
+        "explicitPrecedenceObserved": true,
+        "failures": 0,
+        "influenceObserved": true,
+        "learnedRecipe": "phase9.staging.grounded-portrait.1acb8d6cd913"
+      },
+      "examples": [],
+      "expected": {
+        "explicitPrecedenceObserved": true,
+        "failures": 0,
+        "influenceObserved": true
+      },
+      "id": "learning.memory-influence",
+      "label": "Memory scores affect optional selection while explicit intent wins",
+      "passed": true
+    },
+    {
+      "actual": 217175880,
+      "examples": [],
+      "expected": "< 1073741824",
+      "id": "runtime.heap-budget",
+      "label": "Campaign peak heap stays below 1 GiB",
+      "passed": true
+    }
+  ],
+  "knownFailures": [],
+  "reproducibleDigest": "fa59ff8301b071359b64f18619f5d437f50de31c170b01f8251675890028d523",
+  "runtime": {
+    "elapsedMs": 74228.8,
+    "heapEndBytes": 176485736,
+    "heapPeakBytes": 217175880,
+    "heapStartBytes": 5148040,
+    "meanGenerationMs": 6.4691,
+    "p50GenerationMs": 6.0626,
+    "p95GenerationMs": 10.0266
+  },
+  "schemaVersion": 1
+}

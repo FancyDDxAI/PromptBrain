@@ -1,0 +1,1276 @@
+{
+  "schemaVersion": 1,
+  "packId": "phase8.adult-fantasy",
+  "source": "phase-8-adult-fantasy",
+  "defaults": {
+    "contentMode": "adult",
+    "bases": ["SD1.5", "SDXL", "Pony", "FLUX"],
+    "priority": 8,
+    "group": "adult-fantasy",
+    "traits": [
+      "phase-8",
+      "adult-only",
+      "adult-fantasy",
+      "age:adult",
+      "participants:adults-only",
+      "consent:required"
+    ]
+  },
+  "entries": [
+    {
+      "id": "phase8.adult-fantasy.wardrobe.quick-release-wrist-cuffs",
+      "kind": "wardrobe",
+      "prompt": "soft quick-release wrist cuffs for negotiated adult intimacy",
+      "group": "adult-fantasy.wardrobe.safety-accessory",
+      "traits": ["participants:one", "consent:negotiated", "safety:quick-release", "wardrobe:restraint-accessory"],
+      "conflicts": ["phase8.adult-fantasy.wardrobe.unrestrained-bare-wrists"]
+    },
+    {
+      "id": "phase8.adult-fantasy.wardrobe.unrestrained-bare-wrists",
+      "kind": "wardrobe",
+      "prompt": "bare unrestrained adult wrists for consensual intimate touching",
+      "group": "adult-fantasy.wardrobe.safety-accessory",
+      "traits": ["participants:one", "consent:adult-choice", "wardrobe:unrestrained"],
+      "conflicts": ["phase8.adult-fantasy.wardrobe.quick-release-wrist-cuffs"]
+    },
+    {
+      "id": "phase8.adult-fantasy.wardrobe.soft-opaque-blindfold",
+      "kind": "wardrobe",
+      "prompt": "soft opaque blindfold for negotiated adult sensory play",
+      "group": "adult-fantasy.wardrobe.safety-accessory",
+      "traits": ["participants:one", "consent:negotiated", "safety:removable", "wardrobe:sensory-accessory"],
+      "conflicts": ["phase8.adult-fantasy.expression.sustained-mutual-eye-contact"]
+    },
+    {
+      "id": "phase8.adult-fantasy.wardrobe.body-safe-strap-on-harness",
+      "kind": "wardrobe",
+      "prompt": "adjustable body-safe strap-on harness for consensual adult sex",
+      "group": "adult-fantasy.wardrobe.sex-accessory",
+      "traits": ["participants:one", "consent:adult-choice", "wardrobe:strap-on", "safety:body-safe"]
+    },
+    {
+      "id": "phase8.adult-fantasy.wardrobe.barrier-condom",
+      "kind": "wardrobe",
+      "prompt": "adult barrier condom prepared for consensual penetrative sex",
+      "group": "adult-fantasy.wardrobe.sex-accessory",
+      "traits": ["participants:one", "consent:adult-choice", "wardrobe:barrier", "safety:barrier-protection"]
+    },
+    {
+      "id": "phase8.adult-fantasy.wardrobe.dental-dam",
+      "kind": "wardrobe",
+      "prompt": "adult dental dam prepared for consensual oral sex",
+      "group": "adult-fantasy.wardrobe.sex-accessory",
+      "traits": ["participants:one", "consent:adult-choice", "wardrobe:barrier", "safety:barrier-protection"]
+    },
+    {
+      "id": "phase8.adult-fantasy.wardrobe.body-safe-lubricant",
+      "kind": "wardrobe",
+      "prompt": "body-safe lubricant prepared for consensual adult penetration",
+      "group": "adult-fantasy.wardrobe.sex-accessory",
+      "traits": ["participants:one", "consent:adult-choice", "wardrobe:intimacy-accessory", "safety:body-safe"]
+    },
+    {
+      "id": "phase8.adult-fantasy.wardrobe.quick-release-ankle-cuffs",
+      "kind": "wardrobe",
+      "prompt": "soft quick-release ankle cuffs for negotiated adult intimacy",
+      "group": "adult-fantasy.wardrobe.safety-accessory",
+      "traits": ["participants:one", "consent:negotiated", "safety:quick-release", "wardrobe:restraint-accessory"]
+    },
+    {
+      "id": "phase8.adult-fantasy.interaction.negotiated-wrist-restraint",
+      "kind": "interaction",
+      "prompt": "two adults sharing negotiated wrist-restraint genital touching with active check-ins",
+      "group": "adult-fantasy.interaction.negotiated-restraint",
+      "traits": ["participants:two", "consent:explicit", "consent:mutual", "consent:negotiated", "interaction:restraint"],
+      "requires": ["phase8.adult-fantasy.wardrobe.quick-release-wrist-cuffs"]
+    },
+    {
+      "id": "phase8.adult-fantasy.interaction.negotiated-ankle-restraint",
+      "kind": "interaction",
+      "prompt": "two adults sharing negotiated ankle-restraint oral sex with active check-ins",
+      "group": "adult-fantasy.interaction.negotiated-restraint",
+      "traits": ["participants:two", "consent:explicit", "consent:mutual", "consent:negotiated", "interaction:restraint"],
+      "requires": ["phase8.adult-fantasy.wardrobe.quick-release-ankle-cuffs"]
+    },
+    {
+      "id": "phase8.adult-fantasy.interaction.blindfolded-manual-oral-play",
+      "kind": "interaction",
+      "prompt": "two adults sharing consensual blindfolded manual and oral genital play",
+      "group": "adult-fantasy.interaction.sensory-play",
+      "traits": ["participants:two", "consent:explicit", "consent:mutual", "consent:negotiated", "interaction:sensory-play"],
+      "requires": ["phase8.adult-fantasy.wardrobe.soft-opaque-blindfold"]
+    },
+    {
+      "id": "phase8.adult-fantasy.interaction.strap-on-vaginal-intercourse",
+      "kind": "interaction",
+      "prompt": "two adults sharing consensual strap-on vaginal intercourse with the receiver guiding depth",
+      "group": "adult-fantasy.interaction.toy-assisted",
+      "traits": ["participants:two", "consent:explicit", "consent:mutual", "interaction:strap-on", "anatomy:vulva"],
+      "requires": ["phase8.adult-fantasy.wardrobe.body-safe-strap-on-harness"]
+    },
+    {
+      "id": "phase8.adult-fantasy.interaction.strap-on-anal-intercourse",
+      "kind": "interaction",
+      "prompt": "two adults sharing consensual lubricated strap-on anal intercourse with the receiver guiding depth",
+      "group": "adult-fantasy.interaction.toy-assisted",
+      "traits": ["participants:two", "consent:explicit", "consent:mutual", "interaction:strap-on", "anatomy:anus"],
+      "requires": [
+        "phase8.adult-fantasy.wardrobe.body-safe-strap-on-harness",
+        "phase8.adult-fantasy.wardrobe.body-safe-lubricant"
+      ]
+    },
+    {
+      "id": "phase8.adult-fantasy.interaction.condom-vaginal-intercourse",
+      "kind": "interaction",
+      "prompt": "two adults sharing consensual condom-protected vaginal intercourse",
+      "group": "adult-fantasy.interaction.barrier-protected",
+      "traits": ["participants:two", "consent:explicit", "consent:mutual", "interaction:vaginal-intercourse", "safety:barrier-protection"],
+      "requires": ["phase8.adult-fantasy.wardrobe.barrier-condom"]
+    },
+    {
+      "id": "phase8.adult-fantasy.interaction.condom-anal-intercourse",
+      "kind": "interaction",
+      "prompt": "two adults sharing consensual lubricated condom-protected anal intercourse",
+      "group": "adult-fantasy.interaction.barrier-protected",
+      "traits": ["participants:two", "consent:explicit", "consent:mutual", "interaction:anal-intercourse", "safety:barrier-protection"],
+      "requires": [
+        "phase8.adult-fantasy.wardrobe.barrier-condom",
+        "phase8.adult-fantasy.wardrobe.body-safe-lubricant"
+      ]
+    },
+    {
+      "id": "phase8.adult-fantasy.interaction.dental-dam-oral-sex",
+      "kind": "interaction",
+      "prompt": "two adults sharing consensual vulva-focused oral sex using a dental dam",
+      "group": "adult-fantasy.interaction.barrier-protected",
+      "traits": ["participants:two", "consent:explicit", "consent:mutual", "interaction:oral-sex", "safety:barrier-protection"],
+      "requires": ["phase8.adult-fantasy.wardrobe.dental-dam"]
+    },
+    {
+      "id": "phase8.adult-fantasy.interaction.gradual-lubricated-anal-penetration",
+      "kind": "interaction",
+      "prompt": "two adults sharing gradual lubricated anal penetration with continuous consent checks",
+      "group": "adult-fantasy.interaction.anal",
+      "traits": ["participants:two", "consent:explicit", "consent:mutual", "interaction:anal-penetration", "safety:gradual-preparation"],
+      "requires": ["phase8.adult-fantasy.wardrobe.body-safe-lubricant"]
+    },
+    {
+      "id": "phase8.adult-fantasy.expression.sustained-mutual-eye-contact",
+      "kind": "expression",
+      "prompt": "two consenting adults sustaining eager mutual eye contact during explicit intimacy",
+      "group": "adult-fantasy.expression.consent",
+      "traits": ["participants:two", "consent:explicit", "consent:mutual", "expression:eye-contact"],
+      "conflicts": ["phase8.adult-fantasy.wardrobe.soft-opaque-blindfold"]
+    },
+    {
+      "id": "phase8.adult-fantasy.expression.enthusiastic-verbal-yes",
+      "kind": "expression",
+      "prompt": "adult partner giving an enthusiastic verbal yes before explicit intimacy",
+      "group": "adult-fantasy.expression.consent",
+      "traits": ["participants:one", "consent:explicit", "consent:affirmative", "expression:verbal-consent"]
+    },
+    {
+      "id": "phase8.adult-fantasy.interaction.pre-penetration-check-in",
+      "kind": "interaction",
+      "prompt": "two adults completing a clear consent check-in immediately before penetration",
+      "group": "adult-fantasy.interaction.consent",
+      "traits": ["participants:two", "consent:explicit", "consent:mutual", "interaction:check-in"],
+      "requires": ["phase8.adult-fantasy.expression.enthusiastic-verbal-yes"]
+    },
+    {
+      "id": "phase8.adult-fantasy.interaction.attentive-aftercare",
+      "kind": "interaction",
+      "prompt": "two adults sharing attentive aftercare after explicit consensual sex",
+      "group": "adult-fantasy.interaction.aftercare",
+      "traits": ["participants:two", "consent:mutual", "consent:aftercare", "interaction:aftercare"]
+    },
+    {
+      "id": "phase8.adult-fantasy.action.solo-clitoral-vibrator-masturbation",
+      "kind": "action",
+      "prompt": "adult using a body-safe clitoral vibrator during solo masturbation",
+      "group": "adult-fantasy.action.solo",
+      "traits": ["participants:one", "consent:self-directed", "action:solo-masturbation", "anatomy:vulva", "safety:body-safe"]
+    },
+    {
+      "id": "phase8.adult-fantasy.action.solo-penis-stroking-masturbation",
+      "kind": "action",
+      "prompt": "adult stroking their penis during solo masturbation",
+      "group": "adult-fantasy.action.solo",
+      "traits": ["participants:one", "consent:self-directed", "action:solo-masturbation", "anatomy:penis"]
+    },
+    {
+      "id": "phase8.adult-fantasy.interaction.consenting-triad-double-penetration",
+      "kind": "interaction",
+      "prompt": "three adults sharing consensual double penetration with every participant directing pace",
+      "group": "adult-fantasy.interaction.group",
+      "traits": ["participants:three", "consent:explicit", "consent:all-participants", "interaction:double-penetration"]
+    }
+  ],
+  "matrices": [
+    {
+      "id": "anatomy-explicit-adult-vulva",
+      "kind": "anatomy",
+      "family": "explicit-adult-vulva-anatomy",
+      "group": "adult-fantasy.anatomy.vulva",
+      "traits": ["participants:one", "consent:not-applicable", "anatomy:vulva", "anatomy:explicit"],
+      "template": "{form} with {grooming}, explicit adult vulva anatomy",
+      "axes": {
+        "form": [
+          "full outer labia",
+          "slim outer labia",
+          "prominent inner labia",
+          "tucked inner labia",
+          "naturally asymmetric inner labia",
+          "rounded clitoral hood",
+          "compact clitoral hood",
+          "prominent clitoral glans",
+          "wide vaginal opening",
+          "compact vaginal opening"
+        ],
+        "grooming": [
+          "natural pubic hair",
+          "trimmed pubic hair",
+          "shaved pubic area",
+          "neat triangle pubic hair",
+          "narrow landing-strip pubic hair",
+          "curled pubic hair",
+          "sparse pubic hair",
+          "dense pubic hair"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "anatomy-explicit-adult-penis",
+      "kind": "anatomy",
+      "family": "explicit-adult-penis-anatomy",
+      "group": "adult-fantasy.anatomy.penis",
+      "traits": ["participants:one", "consent:not-applicable", "anatomy:penis", "anatomy:explicit"],
+      "template": "{form} with {detail}, explicit adult penis anatomy",
+      "axes": {
+        "detail": [
+          "full firm erection",
+          "partial erection",
+          "soft flaccid state",
+          "retracted foreskin",
+          "intact relaxed foreskin",
+          "circumcised exposed glans",
+          "pronounced shaft veins",
+          "smooth minimally veined shaft"
+        ],
+        "form": [
+          "long slender penis",
+          "short thick penis",
+          "average-length penis",
+          "large-girth penis",
+          "slight upward-curving penis",
+          "slight downward-curving penis",
+          "left-curving penis",
+          "right-curving penis",
+          "prominent-corona penis",
+          "subtle-corona penis"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "anatomy-explicit-adult-breasts",
+      "kind": "anatomy",
+      "family": "explicit-adult-breast-anatomy",
+      "group": "adult-fantasy.anatomy.breasts",
+      "traits": ["participants:one", "consent:not-applicable", "anatomy:breasts", "anatomy:explicit"],
+      "template": "{shape} with {nipple_detail}, explicit adult breast anatomy",
+      "axes": {
+        "nipple_detail": [
+          "small pale areolae",
+          "large dark areolae",
+          "medium warm-toned areolae",
+          "puffy areolae",
+          "flat nipples",
+          "protruding nipples",
+          "inverted nipples",
+          "naturally asymmetric nipple projection"
+        ],
+        "shape": [
+          "small round breasts",
+          "medium teardrop breasts",
+          "full round breasts",
+          "wide-set breasts",
+          "close-set breasts",
+          "pendulous breasts",
+          "athletic shallow breasts",
+          "naturally asymmetric breasts",
+          "heavy lower-full breasts",
+          "conical breasts"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "anatomy-explicit-adult-hips-buttocks",
+      "kind": "anatomy",
+      "family": "explicit-adult-hip-buttock-anatomy",
+      "group": "adult-fantasy.anatomy.hips-buttocks",
+      "traits": ["participants:one", "consent:not-applicable", "anatomy:hips", "anatomy:buttocks", "anatomy:explicit"],
+      "template": "{form} with {detail}, explicit adult hip and buttock anatomy",
+      "axes": {
+        "detail": [
+          "deep gluteal crease",
+          "shallow gluteal crease",
+          "visible hip dips",
+          "smooth outer hips",
+          "natural cellulite",
+          "natural stretch marks",
+          "paired lower-back dimples",
+          "pronounced perineal contour"
+        ],
+        "form": [
+          "narrow hips and compact buttocks",
+          "wide hips and full buttocks",
+          "athletic firm buttocks",
+          "soft rounded buttocks",
+          "high-set buttocks",
+          "low-set buttocks",
+          "heart-shaped buttocks",
+          "square-shaped buttocks",
+          "naturally asymmetric buttocks",
+          "muscular buttocks"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "anatomy-explicit-adult-torso-body-hair",
+      "kind": "anatomy",
+      "family": "explicit-adult-torso-body-hair",
+      "group": "adult-fantasy.anatomy.torso",
+      "traits": ["participants:one", "consent:not-applicable", "anatomy:torso", "anatomy:body-hair", "anatomy:explicit"],
+      "template": "{torso} with {hair}, explicit adult torso and body-hair anatomy",
+      "axes": {
+        "hair": [
+          "hairless lower abdomen",
+          "faint navel hair trail",
+          "dense navel hair trail",
+          "full chest hair",
+          "sparse chest hair",
+          "hair around the nipples",
+          "natural lower-back body hair",
+          "pubic hair extending toward the navel"
+        ],
+        "torso": [
+          "flat soft abdomen",
+          "rounded abdomen",
+          "defined lower abdomen",
+          "muscular abdomen",
+          "full abdomen",
+          "narrow-waisted torso",
+          "broad-waisted torso",
+          "visible oblique muscles",
+          "torso with natural abdominal folds",
+          "long-proportioned torso"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "anatomy-fictional-sapient-adult-fantasy",
+      "kind": "anatomy",
+      "family": "fictional-sapient-adult-fantasy-anatomy",
+      "group": "adult-fantasy.anatomy.fantasy-humanoid",
+      "traits": [
+        "participants:one",
+        "consent:not-applicable",
+        "partner:fictional-sapient-adult",
+        "fantasy-humanoid",
+        "anatomy:explicit"
+      ],
+      "template": "fictional sapient adult {lineage} with {feature}, explicit fantasy anatomy",
+      "axes": {
+        "feature": [
+          "bioluminescent erogenous markings",
+          "color-shifting genital markings",
+          "luminous nipples and areolae",
+          "heat-brightened lower-abdominal runes",
+          "elongated prehensile tongue",
+          "magically responsive intimate sigils",
+          "heightened flush across chest and groin",
+          "paired sensory ridges along the inner thighs"
+        ],
+        "lineage": [
+          {"value": "elven humanoid", "traits": ["lineage:elf"]},
+          {"value": "orc humanoid", "traits": ["lineage:orc"]},
+          {"value": "oni humanoid", "traits": ["lineage:oni"]},
+          {"value": "infernal humanoid", "traits": ["lineage:infernal"]},
+          {"value": "draconic humanoid", "traits": ["lineage:draconic"]},
+          {"value": "serpentine humanoid", "traits": ["lineage:serpentine"]},
+          {"value": "merfolk humanoid", "traits": ["lineage:merfolk"]},
+          {"value": "gargoyle humanoid", "traits": ["lineage:gargoyle"]},
+          {"value": "elemental humanoid", "traits": ["lineage:elemental"]},
+          {"value": "slime humanoid", "traits": ["lineage:slime"]},
+          {"value": "tentacled eldritch humanoid", "traits": ["lineage:eldritch"]},
+          {"value": "shadow humanoid", "traits": ["lineage:shadow"]}
+        ]
+      },
+      "maxCombinations": 96
+    },
+    {
+      "id": "action-solo-adult-vulva-contact",
+      "kind": "action",
+      "family": "solo-adult-vulva-masturbation",
+      "group": "adult-fantasy.action.solo-vulva",
+      "traits": ["participants:one", "consent:self-directed", "action:solo-masturbation", "anatomy:vulva"],
+      "template": "{contact} {target} during solo adult masturbation",
+      "axes": {
+        "contact": [
+          "one fingertip circling",
+          "two fingertips circling",
+          "flat fingers stroking",
+          "finger pads rubbing",
+          "a thumb pressing",
+          "two fingers pulsing against",
+          "alternating fingertips tracing",
+          "a cupped palm rocking over",
+          "three fingertips massaging",
+          "one finger tapping",
+          "the palm heel grinding against",
+          "lubricated fingers gliding over"
+        ],
+        "target": [
+          "the clitoral hood",
+          "the clitoral glans",
+          "the outer labia",
+          "the inner labia",
+          "the vaginal opening",
+          "the perineum"
+        ]
+      },
+      "maxCombinations": 72
+    },
+    {
+      "id": "action-solo-adult-penis-stroking",
+      "kind": "action",
+      "family": "solo-adult-penis-masturbation",
+      "group": "adult-fantasy.action.solo-penis",
+      "traits": ["participants:one", "consent:self-directed", "action:solo-masturbation", "anatomy:penis"],
+      "template": "{grip} using {motion}, solo adult penis masturbation",
+      "axes": {
+        "grip": [
+          "one-handed loose grip",
+          "one-handed firm grip",
+          "two-handed stacked grip",
+          "fingertip-focused grip",
+          "palm-and-thumb grip",
+          "foreskin-focused grip",
+          "glans-cupping grip",
+          "one hand anchored around the penis base",
+          "one hand centered around the middle shaft",
+          "lubricated full-hand grip",
+          "dry full-hand grip",
+          "alternating-hand grip"
+        ],
+        "motion": [
+          "long full-length strokes",
+          "short glans-focused strokes",
+          "slow twisting strokes",
+          "steady pumping strokes",
+          "deliberate stop-and-start strokes",
+          "upward base-to-tip strokes"
+        ]
+      },
+      "maxCombinations": 72
+    },
+    {
+      "id": "action-solo-adult-insertable-toy",
+      "kind": "action",
+      "family": "solo-adult-insertable-toy-use",
+      "group": "adult-fantasy.action.solo-toy",
+      "traits": ["participants:one", "consent:self-directed", "action:solo-toy-use", "safety:body-safe"],
+      "template": "body-safe {toy} used with {motion}, solo adult penetration",
+      "axes": {
+        "motion": [
+          "slow controlled insertion",
+          "shallow rocking motion",
+          "deep controlled thrusting",
+          "circular grinding at the entrance",
+          "steady in-and-out strokes",
+          "pause-and-hold pressure"
+        ],
+        "toy": [
+          "straight silicone dildo",
+          "curved G-spot dildo",
+          "bulbous glass dildo",
+          "tapered metal dildo",
+          "ribbed silicone dildo",
+          "smooth double-density dildo",
+          "slim tapered dildo",
+          "thick rounded dildo",
+          "suction-base dildo",
+          "dual-ended dildo",
+          "fantasy-shaped silicone dildo",
+          "gently heated silicone dildo"
+        ]
+      },
+      "maxCombinations": 72
+    },
+    {
+      "id": "interaction-two-adult-vulva-focused",
+      "kind": "interaction",
+      "family": "two-adult-vulva-focused-interaction",
+      "group": "adult-fantasy.interaction.vulva-focused",
+      "traits": ["participants:two", "consent:explicit", "consent:mutual", "anatomy:vulva", "interaction:reciprocal"],
+      "template": "{cue} while two adults {act}",
+      "axes": {
+        "act": [
+          "rub their vulvas together",
+          "finger each other's vulvas",
+          "take turns licking each other's vulvas",
+          "share clitoral vibrator stimulation",
+          "press their clitorises together",
+          "scissor with direct genital contact",
+          "alternate thigh riding for clitoral friction",
+          "massage each other's labia",
+          "alternate oral and manual vulva stimulation",
+          "share a double-ended dildo vaginally",
+          "take turns with G-spot fingering",
+          "take turns sucking each other's clitoris"
+        ],
+        "cue": [
+          "both adults verbally affirming",
+          "both adults actively reciprocating",
+          "the receiving adult guiding the pace",
+          "the giving adult checking in",
+          "both adults sharing control",
+          "both adults using a pause-ready signal"
+        ]
+      },
+      "maxCombinations": 72
+    },
+    {
+      "id": "interaction-two-adult-penis-vulva",
+      "kind": "interaction",
+      "family": "two-adult-penis-vulva-interaction",
+      "group": "adult-fantasy.interaction.penis-vulva",
+      "traits": ["participants:two", "consent:explicit", "consent:mutual", "anatomy:penis", "anatomy:vulva", "interaction:reciprocal"],
+      "template": "{cue}: {act}",
+      "axes": {
+        "act": [
+          "face-to-face vaginal intercourse between two adults",
+          "rear-entry vaginal intercourse between two adults",
+          "vulva-on-top vaginal intercourse between two adults",
+          "penis-on-top vaginal intercourse between two adults",
+          "clitoral-assisted vaginal penetration between two adults",
+          "nipple-assisted vaginal penetration between two adults",
+          "shallow vaginal penetration between two adults",
+          "deep controlled vaginal penetration between two adults",
+          "mid-penetration consent pause between two adults",
+          "hand-guided penis-to-vulva entry between two adults",
+          "pre-penetration genital rubbing between two adults",
+          "alternating manual vulva and penis stimulation between two adults"
+        ],
+        "cue": [
+          "both adults verbally affirming",
+          "both adults actively reciprocating",
+          "the receiving adult guiding the pace",
+          "the giving adult checking in",
+          "both adults sharing control",
+          "both adults using a pause-ready signal"
+        ]
+      },
+      "maxCombinations": 72
+    },
+    {
+      "id": "interaction-fictional-sapient-adult-fantasy-partner",
+      "kind": "interaction",
+      "family": "fictional-sapient-adult-fantasy-interaction",
+      "group": "adult-fantasy.interaction.fantasy-humanoid",
+      "traits": [
+        "participants:two",
+        "consent:explicit",
+        "consent:mutual",
+        "partner:fictional-sapient-adult",
+        "fantasy-humanoid",
+        "interaction:reciprocal"
+      ],
+      "template": "{act} shared by a fictional sapient adult {lineage} and adult partner, explicit mutual consent",
+      "axes": {
+        "act": [
+          "mutual masturbation",
+          "reciprocal oral sex",
+          "manual genital stimulation",
+          "face-to-face penetrative sex",
+          "rear-entry penetrative sex",
+          "toy-assisted genital stimulation"
+        ],
+        "lineage": [
+          {"value": "elven humanoid", "traits": ["lineage:elf"]},
+          {"value": "orc humanoid", "traits": ["lineage:orc"]},
+          {"value": "oni humanoid", "traits": ["lineage:oni"]},
+          {"value": "infernal humanoid", "traits": ["lineage:infernal"]},
+          {"value": "draconic humanoid", "traits": ["lineage:draconic"]},
+          {"value": "serpentine humanoid", "traits": ["lineage:serpentine"]},
+          {"value": "merfolk humanoid", "traits": ["lineage:merfolk"]},
+          {"value": "gargoyle humanoid", "traits": ["lineage:gargoyle"]},
+          {"value": "elemental humanoid", "traits": ["lineage:elemental"]},
+          {"value": "slime humanoid", "traits": ["lineage:slime"]},
+          {"value": "tentacled eldritch humanoid", "traits": ["lineage:eldritch"]},
+          {"value": "shadow humanoid", "traits": ["lineage:shadow"]}
+        ]
+      },
+      "maxCombinations": 72
+    },
+    {
+      "id": "interaction-two-adult-oral-sex",
+      "kind": "interaction",
+      "family": "two-adult-oral-sex-interaction",
+      "group": "adult-fantasy.interaction.oral",
+      "traits": ["participants:two", "consent:explicit", "consent:mutual", "interaction:oral-sex"],
+      "template": "{cue}: {act}",
+      "axes": {
+        "act": [
+          "cunnilingus performed by one adult on another adult",
+          "fellatio performed by one adult on another adult",
+          "reciprocal oral sex shared by two adults",
+          "sixty-nine oral sex arrangement shared by two adults",
+          "clitoral licking performed by one adult on another adult",
+          "penis sucking performed by one adult on another adult",
+          "vulva licking performed by one adult on another adult",
+          "anilingus performed by one adult on another adult",
+          "face-sitting cunnilingus received by one adult",
+          "kneeling penis-focused oral stimulation received by one adult",
+          "tongue-and-finger vulva stimulation between two adults",
+          "mouth-and-hand penis stimulation between two adults",
+          "nipple licking with concurrent genital touching between two adults",
+          "oral-sex-to-kissing alternation between two adults",
+          "dental-dam vulva-focused oral sex between two adults",
+          "condom-protected penis-focused oral sex between two adults"
+        ],
+        "cue": [
+          "both adults verbally affirming",
+          "both adults actively reciprocating",
+          "the receiving adult guiding the pace",
+          "the giving adult checking in",
+          "both adults sharing control",
+          "both adults using a pause-ready signal"
+        ]
+      },
+      "maxCombinations": 96
+    },
+    {
+      "id": "interaction-two-adult-anal",
+      "kind": "interaction",
+      "family": "two-adult-anal-interaction",
+      "group": "adult-fantasy.interaction.anal",
+      "traits": ["participants:two", "consent:explicit", "consent:mutual", "anatomy:anus", "interaction:anal"],
+      "template": "{safety}: {act}",
+      "axes": {
+        "act": [
+          "anal fingering performed by one adult on another adult",
+          "lubricated anal-plug insertion performed by one adult for another adult",
+          "penis-to-anus intercourse between two adults",
+          "strap-on anal intercourse between two adults",
+          "anilingus performed by one adult on another adult",
+          "external anal massage performed by one adult on another adult",
+          "small anal bead play shared by two adults",
+          "tapered-dildo anal penetration shared by two adults",
+          "anal fingering combined with genital stimulation between two adults",
+          "shallow anal penetration between two adults",
+          "deep controlled anal penetration between two adults",
+          "receiver-on-top anal intercourse between two adults"
+        ],
+        "safety": [
+          "with explicit verbal agreement",
+          "with generous body-safe lubricant",
+          "with gradual preparation and check-ins",
+          "with the receiving adult guiding depth",
+          "with a shared stop signal",
+          "with both adults controlling the pace"
+        ]
+      },
+      "maxCombinations": 72
+    },
+    {
+      "id": "interaction-two-adult-toy-strap-on",
+      "kind": "interaction",
+      "family": "two-adult-toy-assisted-interaction",
+      "group": "adult-fantasy.interaction.toy-assisted",
+      "traits": ["participants:two", "consent:explicit", "consent:mutual", "interaction:toy-assisted", "safety:body-safe"],
+      "template": "{cue}: {act}",
+      "axes": {
+        "act": [
+          "vaginal strap-on intercourse between two adults",
+          "anal strap-on intercourse between two adults",
+          "double-ended dildo sharing between two adults",
+          "wand vibration during penetration between two adults",
+          "bullet vibration during genital touching between two adults",
+          "vibrating penis ring use during intercourse between two adults",
+          "partner-directed clitoral suction vibration",
+          "partner-directed manual dildo penetration",
+          "anal plug worn during vaginal intercourse",
+          "wearable vibration during mutual touching",
+          "shared private control of a remote vibrator",
+          "shared use of a fantasy-shaped body-safe dildo"
+        ],
+        "cue": [
+          "after explicit verbal agreement",
+          "with the receiving adult guiding placement",
+          "with the giving adult checking in",
+          "with both adults sharing control",
+          "with a shared stop signal",
+          "with both adults able to pause immediately"
+        ]
+      },
+      "maxCombinations": 72
+    },
+    {
+      "id": "interaction-two-adult-negotiated-sensory-restraint",
+      "kind": "interaction",
+      "family": "two-adult-negotiated-sensory-restraint",
+      "group": "adult-fantasy.interaction.negotiated-restraint",
+      "traits": [
+        "participants:two",
+        "consent:explicit",
+        "consent:mutual",
+        "consent:negotiated",
+        "interaction:sensory-restraint",
+        "safety:pause-ready"
+      ],
+      "template": "{experience}, {safety}",
+      "axes": {
+        "experience": [
+          "soft wrist restraint during genital touching",
+          "soft ankle restraint during oral sex",
+          "blindfolded manual genital stimulation",
+          "blindfolded oral sex",
+          "silk-rope torso restraint during masturbation",
+          "spread-eagle restraint during genital touching",
+          "hands-overhead restraint during kissing and touching",
+          "collared role-play during consensual intercourse",
+          "temperature play with warm wax made for skin",
+          "feather-light sensory teasing across nipples and genitals",
+          "controlled spanking during intercourse",
+          "guided vibrator use under negotiated restraint"
+        ],
+        "safety": [
+          "after explicit boundary negotiation",
+          "with an agreed stop signal",
+          "with continuous verbal check-ins",
+          "with both adults able to pause immediately",
+          "with the receiving adult directing intensity",
+          "followed by a planned comfort check"
+        ]
+      },
+      "maxCombinations": 72
+    },
+    {
+      "id": "interaction-consenting-adult-group",
+      "kind": "interaction",
+      "family": "consenting-adult-group-interaction",
+      "group": "adult-fantasy.interaction.group",
+      "traits": ["participants:three-plus", "consent:explicit", "consent:all-participants", "interaction:group"],
+      "template": "{arrangement}, {consent_structure}",
+      "axes": {
+        "arrangement": [
+          "three adults sharing mutual masturbation",
+          "three adults sharing reciprocal oral sex",
+          "three adults combining oral and manual genital stimulation",
+          "three adults combining vaginal intercourse and clitoral touch",
+          "three adults combining anal intercourse and manual stimulation",
+          "three adults using strap-ons together",
+          "three adults sharing a double-ended dildo",
+          "four adults sharing mutual genital touching",
+          "four adults arranging reciprocal oral sex",
+          "a small adult group sharing toys and manual genital stimulation"
+        ],
+        "consent_structure": [
+          "with every adult verbally affirming",
+          "with all adults actively reciprocating",
+          "with a shared stop signal",
+          "with each adult able to pause the scene",
+          "with roles agreed in advance",
+          "with continuous group check-ins"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "pose-solo-adult-intimate-static",
+      "kind": "pose",
+      "family": "solo-adult-intimate-pose",
+      "group": "adult-fantasy.pose.solo",
+      "traits": ["participants:one", "consent:self-directed", "pose:static", "pose:solo-intimate"],
+      "template": "adult {base}, {arms}, static solo intimate pose",
+      "axes": {
+        "arms": [
+          "one hand resting on a breast",
+          "both hands cupping the breasts",
+          "one hand covering the genitals",
+          "one hand resting between the thighs",
+          "both hands framing the hips",
+          "one hand placed behind the head",
+          "both hands braced beside the body",
+          "one hand resting on the lower abdomen"
+        ],
+        "base": [
+          "reclining on the back",
+          "reclining on one side",
+          "lying prone",
+          "kneeling upright",
+          "kneeling forward",
+          "sitting at a bed edge",
+          "sitting astride a cushion",
+          "standing against a wall",
+          "standing with hips angled",
+          "crouching low",
+          "resting on hands and knees",
+          "arching across a chaise",
+          "seated with torso reclined",
+          "lying diagonally across a bed"
+        ]
+      },
+      "maxCombinations": 112
+    },
+    {
+      "id": "pose-two-consenting-adults-static",
+      "kind": "pose",
+      "family": "two-consenting-adults-intimate-pose",
+      "group": "adult-fantasy.pose.partner",
+      "traits": ["participants:two", "consent:explicit", "consent:mutual", "pose:static", "pose:partner-intimate"],
+      "template": "{connection}; {arrangement} for two consenting adults, static intimate partner pose",
+      "axes": {
+        "arrangement": [
+          "face-to-face lying alignment",
+          "spooning alignment",
+          "face-to-face seated alignment",
+          "rear-aligned seated posture",
+          "chest-to-chest standing alignment",
+          "rear-aligned standing posture",
+          "face-to-face kneeling alignment",
+          "rear-aligned kneeling posture",
+          "reclining-and-kneeling alignment",
+          "lap-straddling seated alignment",
+          "hands-and-knees rear alignment",
+          "supine partner-between-thighs alignment",
+          "side-by-side lying alignment",
+          "chaise-intertwined alignment",
+          "wall-supported close alignment",
+          "bed-edge bent-over rear alignment"
+        ],
+        "connection": [
+          "hands clasped",
+          "arms around shoulders",
+          "arms around waists",
+          "one adult's hand on the other's hip",
+          "both adults touching each other's faces",
+          "one adult holding the other's thighs",
+          "hands resting on each other's chests",
+          "one adult guiding the other's wrist"
+        ]
+      },
+      "maxCombinations": 128
+    },
+    {
+      "id": "pose-consenting-adult-group-static",
+      "kind": "pose",
+      "family": "consenting-adult-group-pose",
+      "group": "adult-fantasy.pose.group",
+      "traits": ["participants:three-plus", "consent:all-participants", "pose:static", "pose:group-intimate"],
+      "template": "{arrangement}, {orientation}, static consenting adult group pose",
+      "axes": {
+        "arrangement": [
+          "three adults reclining together",
+          "three adults kneeling in a close triangle",
+          "three adults seated in a linked row",
+          "three adults spooned in a line",
+          "two adults arranged around one reclining adult",
+          "four adults reclining in a close circle",
+          "four adults kneeling in paired alignment",
+          "a small adult group standing in a close cluster",
+          "a small adult group seated around a bed",
+          "a small adult group intertwined on cushions"
+        ],
+        "orientation": [
+          "with faces turned toward the group center",
+          "with hands linked between participants",
+          "with arms around neighboring waists",
+          "with balanced spacing around the center",
+          "with clear sightlines between adults",
+          "with every adult visibly relaxed"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "expression-solo-adult-pleasure",
+      "kind": "expression",
+      "family": "solo-adult-pleasure-expression",
+      "group": "adult-fantasy.expression.solo",
+      "traits": ["participants:one", "consent:self-directed", "expression:pleasure", "expression:adult"],
+      "template": "{mouth} with {eyes}, explicit adult pleasure expression",
+      "axes": {
+        "eyes": [
+          "eyes softly closed",
+          "eyes half-lidded",
+          "eyes open and focused",
+          "gaze directed downward",
+          "gaze lifted upward",
+          "direct gaze toward the viewer",
+          "eyes squeezed shut",
+          "unfocused pleasure gaze"
+        ],
+        "mouth": [
+          "parted lips",
+          "open mouth with relaxed jaw",
+          "bitten lower lip",
+          "soft closed-lip smile",
+          "broad pleasure smile",
+          "tongue touching the upper lip",
+          "teeth grazing the lower lip",
+          "quiet gasp",
+          "deep exhale through parted lips",
+          "tightened lips during climax",
+          "open-mouthed moan",
+          "subtle lip tremble",
+          "freshly licked lips",
+          "relaxed post-climax smile"
+        ]
+      },
+      "maxCombinations": 112
+    },
+    {
+      "id": "expression-two-adult-mutual-consent",
+      "kind": "expression",
+      "family": "two-adult-mutual-consent-expression",
+      "group": "adult-fantasy.expression.partner",
+      "traits": ["participants:two", "consent:explicit", "consent:mutual", "expression:partner", "expression:consent-readable"],
+      "template": "{cue}, {gaze}, adult intimate expression",
+      "axes": {
+        "cue": [
+          "two adults smiling at each other",
+          "two adults sharing open-mouthed pleasure",
+          "one adult giving an affirming nod",
+          "one adult giving an enthusiastic verbal yes",
+          "one adult checking the other's face",
+          "both adults visibly relaxed before penetration",
+          "both adults breathing together",
+          "both adults laughing softly during intimacy",
+          "the receiving adult guiding with an eager expression",
+          "the giving adult pausing with a questioning expression",
+          "both adults showing post-climax contentment",
+          "both adults showing attentive aftercare expressions"
+        ],
+        "gaze": [
+          "with sustained mutual eye contact",
+          "with soft half-lidded gazes",
+          "with eyes closing during a kiss",
+          "with attention on each other's faces",
+          "with reassuring side glances",
+          "with alternating eye contact and closed eyes"
+        ]
+      },
+      "maxCombinations": 72
+    },
+    {
+      "id": "wardrobe-adult-lingerie-separates",
+      "kind": "wardrobe",
+      "family": "adult-lingerie-separates",
+      "group": "adult-fantasy.wardrobe.lingerie",
+      "traits": ["participants:one", "consent:adult-choice", "wardrobe:lingerie", "wardrobe:explicit"],
+      "template": "{top} with {bottom}, adult intimate wardrobe",
+      "axes": {
+        "bottom": [
+          "matching thong",
+          "high-cut briefs",
+          "open-crotch briefs",
+          "sheer mesh panties",
+          "lace garter belt and stockings",
+          "strappy thong",
+          "silk tap shorts",
+          "high-waisted lace briefs",
+          "side-tie panties",
+          "open-back briefs"
+        ],
+        "top": [
+          "sheer mesh bralette",
+          "lace balconette bra",
+          "silk triangle bra",
+          "open-cup bra",
+          "strappy cage bra",
+          "longline lace bra",
+          "transparent chiffon camisole",
+          "underbust corset",
+          "cupless leather bustier",
+          "embroidered satin bra",
+          "soft harness-style bralette",
+          "deep-plunge satin camisole"
+        ]
+      },
+      "maxCombinations": 120
+    },
+    {
+      "id": "wardrobe-fictional-adult-fantasy-intimate",
+      "kind": "wardrobe",
+      "family": "fictional-adult-fantasy-intimate-wardrobe",
+      "group": "adult-fantasy.wardrobe.fantasy",
+      "traits": [
+        "participants:one",
+        "consent:adult-choice",
+        "partner:fictional-sapient-adult",
+        "wardrobe:fantasy-intimate",
+        "wardrobe:explicit"
+      ],
+      "template": "{garment} {detail}, fictional sapient adult fantasy wardrobe",
+      "axes": {
+        "detail": [
+          "with quick-release clasps",
+          "with open-crotch styling",
+          "with open-chest styling",
+          "with detachable thigh straps",
+          "with waist-framing body chains",
+          "with hip-high side openings",
+          "with breast-framing cutouts",
+          "with a genital-framing front opening",
+          "with removable silk panels",
+          "with adjustable back lacing"
+        ],
+        "garment": [
+          "elven lace harness",
+          "orc-forged leather lingerie",
+          "oni silk loincloth ensemble",
+          "infernal chain-and-velvet lingerie",
+          "draconic scale-pattern bodysuit",
+          "serpentine wrap lingerie",
+          "merfolk pearl-mesh lingerie",
+          "gargoyle stone-gray strap set",
+          "elemental sheer robe",
+          "slime-humanoid translucent wrap",
+          "eldritch rune harness",
+          "shadow-humanoid cutout bodysuit"
+        ]
+      },
+      "maxCombinations": 120
+    },
+    {
+      "id": "wardrobe-adult-intimate-body-adornment",
+      "kind": "wardrobe",
+      "family": "adult-intimate-body-adornment",
+      "group": "adult-fantasy.wardrobe.body-adornment",
+      "traits": ["participants:one", "consent:adult-choice", "wardrobe:body-adornment", "wardrobe:explicit"],
+      "template": "{accessory} {placement}, adult intimate body adornment",
+      "axes": {
+        "accessory": [
+          "gold body chain",
+          "silver body chain",
+          "pearl body chain",
+          "leather harness strap",
+          "silk ribbon harness",
+          "gemmed chain",
+          "rune-etched chain",
+          "velvet choker chain",
+          "crystal strand",
+          "black lace strap",
+          "metallic cord",
+          "glowing magical filament"
+        ],
+        "placement": [
+          "draped beneath the breasts",
+          "circling the waist",
+          "framing the hips",
+          "crossing the lower abdomen",
+          "resting above the pubic area",
+          "looped around one thigh",
+          "running down the spine",
+          "linking chest to waist"
+        ]
+      },
+      "maxCombinations": 96
+    },
+    {
+      "id": "environment-private-adult-intimacy",
+      "kind": "environment",
+      "family": "private-adult-intimacy-environment",
+      "group": "adult-fantasy.environment.private",
+      "traits": ["participants:flexible", "consent:adult-context", "environment:private", "environment:intimate"],
+      "template": "{location} {detail}, private consensual adult intimacy environment",
+      "axes": {
+        "detail": [
+          "with a wide low bed",
+          "with a padded chaise",
+          "with floor cushions and clean linens",
+          "with a mirrored wall beside the bed",
+          "with a private shower beside the bed",
+          "with a sturdy padded bench"
+        ],
+        "location": [
+          "private adult bedroom",
+          "locked hotel suite",
+          "secluded penthouse bedroom",
+          "private spa room",
+          "soundproof studio bedroom",
+          "screened garden pavilion",
+          "curtained loft bedroom",
+          "private dressing room",
+          "firelit cabin bedroom",
+          "secure luxury bathroom"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "environment-private-adult-fantasy-intimacy",
+      "kind": "environment",
+      "family": "private-adult-fantasy-intimacy-environment",
+      "group": "adult-fantasy.environment.fantasy",
+      "traits": [
+        "participants:flexible",
+        "consent:adult-context",
+        "partner:fictional-sapient-adult",
+        "environment:private",
+        "environment:fantasy-intimate"
+      ],
+      "template": "{location} {detail}, private fictional adult fantasy intimacy environment",
+      "axes": {
+        "detail": [
+          "with a rune-lit bed",
+          "with a padded intimacy dais",
+          "with floating silk cushions",
+          "with a private mirrored scrying screen",
+          "with warm enchanted bathing pools",
+          "with a softly glowing pleasure platform"
+        ],
+        "location": [
+          "warded elven moon chamber",
+          "sealed orcish hearth suite",
+          "private oni silk pavilion",
+          "locked infernal velvet chamber",
+          "hidden draconic treasure-room bedroom",
+          "warded serpentine bath chamber",
+          "private merfolk air-dome boudoir",
+          "sealed gargoyle tower bedroom",
+          "private elemental crystal chamber",
+          "warded eldritch star chamber"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "camera-explicit-adult-intimacy",
+      "kind": "camera",
+      "family": "explicit-adult-intimacy-camera",
+      "group": "adult-fantasy.camera",
+      "traits": ["participants:flexible", "consent:adult-context", "camera:adult-intimacy", "camera:explicit"],
+      "template": "{scale} {angle}, explicit adult intimacy camera framing",
+      "axes": {
+        "angle": [
+          "at eye level",
+          "from a low angle",
+          "from a high angle",
+          "from an overhead angle",
+          "from a side angle",
+          "from a rear three-quarter angle"
+        ],
+        "scale": [
+          "complete solo-figure framing",
+          "solo figure cropped from head through thighs",
+          "single-adult waist-up framing",
+          "single-adult hip-level framing",
+          "single-adult torso detail",
+          "single-adult genital detail",
+          "single-adult breast detail",
+          "hands contacting genitals detail",
+          "paired adults shown head to toe",
+          "intimate facial-reaction close-up"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "composition-explicit-adult-intimacy",
+      "kind": "composition",
+      "family": "explicit-adult-intimacy-composition",
+      "group": "adult-fantasy.composition",
+      "traits": ["participants:flexible", "consent:adult-context", "composition:adult-intimacy", "composition:explicit"],
+      "template": "{arrangement} {focus}, explicit adult intimacy composition",
+      "axes": {
+        "arrangement": [
+          "centered solo-adult arrangement",
+          "off-center solo-adult arrangement",
+          "symmetrical two-adult arrangement",
+          "diagonal two-adult arrangement",
+          "intertwined two-adult silhouette",
+          "foreground-background adult layering",
+          "triangular three-adult arrangement",
+          "circular small adult-group arrangement",
+          "mirror-reflected adult arrangement",
+          "bed-edge adult arrangement"
+        ],
+        "focus": [
+          "with face and body language both readable",
+          "with hands leading toward the intimate focal point",
+          "with genitals kept unobscured",
+          "with the torso as the visual anchor",
+          "with negative space around the body silhouettes",
+          "with intimate anatomy centered in the frame"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "motif-explicit-adult-fantasy-intimacy",
+      "kind": "motif",
+      "family": "explicit-adult-fantasy-intimacy-motif",
+      "group": "adult-fantasy.motif",
+      "traits": ["participants:flexible", "consent:adult-context", "motif:adult-intimacy", "motif:fantasy", "motif:explicit"],
+      "template": "{symbol} {arrangement}, explicit adult fantasy intimacy motif",
+      "axes": {
+        "arrangement": [
+          "as a border motif",
+          "as a central medallion",
+          "as a scattered wall pattern",
+          "as embroidered lingerie motifs",
+          "as glowing floor sigils",
+          "as a mirrored background repeat"
+        ],
+        "symbol": [
+          "interlocking adult body silhouettes",
+          "paired crescent vulva symbols",
+          "stylized phallic rune forms",
+          "intertwined pleasure sigils",
+          "linked consent-circle glyphs",
+          "open-lotus genital symbols",
+          "paired handprint intimacy marks",
+          "fantasy erogenous-zone constellations"
+        ]
+      },
+      "maxCombinations": 48
+    },
+    {
+      "id": "effect-explicit-adult-intimacy",
+      "kind": "effect",
+      "family": "explicit-adult-intimacy-effect",
+      "group": "adult-fantasy.effect",
+      "traits": ["participants:flexible", "consent:adult-context", "effect:adult-intimacy", "effect:explicit"],
+      "template": "{effect} {treatment}, explicit adult intimacy effect",
+      "axes": {
+        "effect": [
+          "soft skin flush",
+          "beaded sweat",
+          "body-safe lubricant sheen",
+          "post-climax muscle tremor",
+          "magical pleasure glow",
+          "bioluminescent arousal markings",
+          "shallow-focus breath haze",
+          "subtle motion blur from rhythmic movement"
+        ],
+        "treatment": [
+          "rendered as a close detail",
+          "caught by warm side light",
+          "caught by cool rim light",
+          "isolated against shallow depth of field",
+          "reflected in a nearby mirror",
+          "kept visible at the intimate focal point"
+        ]
+      },
+      "maxCombinations": 48
+    }
+  ]
+}

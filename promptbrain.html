@@ -1,0 +1,608 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PromptBrain</title>
+    <link rel="icon" href="./app-icon.png" />
+    <link rel="stylesheet" href="./promptbrain.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <aside class="sidebar" id="sidebar">
+        <div class="brand compact-brand">
+          <button class="logo-btn" id="homeLogoBtn" type="button" title="Workspace">
+            <img src="./app-icon.png" alt="" />
+          </button>
+          <button class="sidebar-toggle" id="sidebarToggle" type="button" title="Collapse sidebar" aria-label="Collapse sidebar">&#8249;</button>
+        </div>
+
+        <nav class="nav">
+          <button class="nav-btn is-active" data-icon="W" data-view="chatView">Workspace</button>
+          <button class="nav-btn" data-icon="M" data-view="loraView">Models</button>
+          <button class="nav-btn" data-icon="I" data-view="memoryView">Insights</button>
+          <button class="nav-btn" data-icon="P" data-view="trainingView">Prompt Training</button>
+          <button class="nav-btn" data-icon="R" data-view="variationsView">Result Lab</button>
+          <button class="nav-btn" data-icon="G" data-view="galleryView">Image Memory</button>
+          <button class="nav-btn" data-icon="H" data-view="historyView">History</button>
+        </nav>
+
+        <section class="sidebar-sessions">
+          <div class="sidebar-section-title">
+            <span>Sessions</span>
+            <button class="tiny-btn" id="sidebarNewSessionBtn" type="button">+</button>
+          </div>
+          <div id="sidebarSessions"></div>
+        </section>
+
+        <section class="sidebar-card">
+          <span>Learning confidence</span>
+          <strong id="confidenceScore">0%</strong>
+          <div class="mini-meter"><i></i></div>
+        </section>
+
+        <button class="settings-fab" id="openSettingsBtn" type="button" title="Settings" aria-label="Settings">&#9881;</button>
+      </aside>
+
+      <section class="content">
+        <header class="topbar">
+          <div class="top-title">
+            <strong id="activeTitle">Workspace</strong>
+            <span id="brainStats">Loading offline engine...</span>
+          </div>
+          <div class="top-actions">
+            <button class="ghost-btn main-action" id="newChatBtn">New Session</button>
+            <button class="icon-btn" id="exportDataBtn" title="Export data">Export</button>
+            <button class="icon-btn" id="importDataBtn" title="Import data">Import</button>
+            <input hidden id="importDataInput" type="file" accept="application/json" />
+          </div>
+        </header>
+
+        <section class="view is-visible workspace-view" id="chatView">
+          <div class="builder-layout">
+            <section class="builder-main">
+              <div class="builder-heading">
+                <div>
+                  <h2>Build the prompt here.</h2>
+                  <p>Choose checkpoint, LoRAs, vibe, tags, weights, character, and custom notes. The prompt updates live.</p>
+                </div>
+              </div>
+
+              <section class="panel builder-top">
+                <div class="builder-cluster cluster-model">
+                  <h3>Model</h3>
+                <div class="builder-control">
+                  <label>Checkpoint</label>
+                  <select id="checkpointSelect"></select>
+                </div>
+                <div class="builder-control">
+                  <label>Vibe</label>
+                  <select id="vibeSelect"></select>
+                </div>
+                <div class="builder-control">
+                  <label>Content mode</label>
+                  <select id="contentModeSelect">
+                    <option value="sfw">SFW</option>
+                    <option value="adult">Adult 18+</option>
+                  </select>
+                </div>
+                </div>
+                <div class="builder-cluster cluster-character">
+                  <h3>Character</h3>
+                <div class="builder-control">
+                  <label>Character mode</label>
+                  <select id="characterModeSelect">
+                    <option value="female">Female list</option>
+                    <option value="male">Male list</option>
+                    <option value="manual">Manual</option>
+                  </select>
+                </div>
+                <div class="builder-control">
+                  <label>Anime series</label>
+                  <select id="animeSeriesSelect"></select>
+                </div>
+                <div class="builder-control wide-control">
+                  <label>Character search / manual</label>
+                  <input id="characterSearch" placeholder="Search character or type a manual subject" />
+                  <select class="character-list" id="characterList" aria-label="Character"></select>
+                </div>
+                </div>
+                <div class="builder-cluster cluster-loras">
+                  <h3>Style Tokens</h3>
+                  <div class="style-token-picker" id="styleTokenPicker"></div>
+                  <h3>Compatible LoRAs</h3>
+                  <details class="lora-disclosure">
+                    <summary>Choose LoRAs <span id="loraPickerCount">0 available</span></summary>
+                    <div class="lora-picker" id="loraPicker"></div>
+                  </details>
+                </div>
+              </section>
+
+              <section class="builder-category-grid" id="builderCategoryGrid"></section>
+
+              <section class="panel workspace-composer" id="workspaceComposer">
+                <label class="prompt-control" for="userPrompt">What you want</label>
+                <textarea id="userPrompt" rows="3" placeholder="Describe the subject, action, setting, and any details that must be present."></textarea>
+                <div class="composer-footer">
+                  <div class="composer-options">
+                    <select id="learningPull" aria-label="Learning strength">
+                      <option value="strong">Strong learning</option>
+                      <option value="medium">Medium learning</option>
+                      <option value="light">Light learning</option>
+                    </select>
+                    <label class="pill-check"><input id="useLocalAiToggle" type="checkbox" /> Local AI</label>
+                    <label class="pill-check"><input id="useResearchToggle" type="checkbox" /> Research</label>
+                    <label class="pill-check"><input id="useReferenceToggle" type="checkbox" checked /> References</label>
+                  </div>
+                  <button class="primary-btn composer-generate" id="generateBtn">Generate Prompt</button>
+                </div>
+              </section>
+
+              <section class="panel output-dock workspace-output">
+                <div class="section-title-row">
+                  <h2>Session Output</h2>
+                  <span class="status-pill" id="sessionSaveStatus">Saved locally</span>
+                </div>
+                <div class="messages" id="messages"></div>
+              </section>
+            </section>
+
+            <aside class="builder-side">
+              <section class="panel live-prompt-panel">
+                <div class="section-title-row">
+                  <h2>Positive Prompt</h2>
+                  <button class="tiny-btn" id="copyPositiveLive">Copy</button>
+                </div>
+                <pre id="positivePromptOutput"></pre>
+              </section>
+              <section class="panel">
+                <div class="section-title-row">
+                  <h2>Selected LoRAs</h2>
+                  <span class="status-pill">live weights</span>
+                </div>
+                <div class="selected-loras" id="selectedLoras"></div>
+              </section>
+              <section class="panel live-prompt-panel" id="negativePromptPanel" hidden>
+                <div class="section-title-row">
+                  <h2>Negative Prompt</h2>
+                  <button class="tiny-btn" id="copyNegativeLive">Copy</button>
+                </div>
+                <textarea id="customNegativeInput" rows="3" placeholder="Optional additions to your saved negative prompt"></textarea>
+                <pre id="negativePromptOutput"></pre>
+              </section>
+            </aside>
+          </div>
+        </section>
+
+        <section class="view" id="memoryView">
+          <div class="profile-page-head">
+            <div>
+              <h2>Insights</h2>
+              <p>Every number here comes from local prompt usage, ratings, and feedback only.</p>
+            </div>
+            <section class="learning-strength">
+              <label>Learning Strength <span id="realLearningStrength">0%</span></label>
+              <div class="strength-line"><i></i></div>
+              <p id="realLearningNote">No feedback yet.</p>
+            </section>
+          </div>
+
+          <div class="taste-dashboard">
+            <section class="panel span-12">
+              <h2>Usage Overview</h2>
+              <div class="real-analytics-grid" id="usageOverview"></div>
+            </section>
+            <section class="panel span-4">
+              <h2>Favourite Tags</h2>
+              <div class="bar-chart" id="tagScoreChart"></div>
+            </section>
+            <section class="panel span-4">
+              <h2>Vibe Usage</h2>
+              <div class="bar-chart" id="vibeUsageChart"></div>
+            </section>
+            <section class="panel span-4">
+              <h2>Checkpoint Usage</h2>
+              <div class="bar-chart" id="checkpointUsageChart"></div>
+            </section>
+            <section class="panel span-12">
+              <h2>Local Learning History</h2>
+              <div class="history-learning-list" id="historyLearningList"></div>
+            </section>
+            <section class="panel span-3">
+              <h2>Preference Overview</h2>
+              <div class="radar-wrap" id="radarChart"></div>
+              <p class="meta">Based on your rated outputs</p>
+            </section>
+            <section class="panel span-3">
+              <h2>Preferred Styles</h2>
+              <div class="taste-cloud" id="tasteChips"></div>
+              <button class="text-btn">View all</button>
+            </section>
+            <section class="panel span-3">
+              <h2>Disliked / Failure Modes</h2>
+              <div class="failure-list" id="failureModes"></div>
+              <button class="text-btn">View all</button>
+            </section>
+            <section class="panel span-3">
+              <h2>Your Favorite Checkpoints</h2>
+              <div class="checkpoint-list" id="checkpointList"></div>
+              <button class="text-btn">View all checkpoints</button>
+            </section>
+
+            <section class="panel span-9">
+              <div class="section-title-row">
+                <h2>Rating History</h2>
+                <button class="tiny-btn">Last 60 days</button>
+              </div>
+              <div class="trend-chart" id="ratingTrend"></div>
+              <p class="meta">Average rating given to outputs over time</p>
+            </section>
+            <section class="panel span-3">
+              <h2>Confidence Score</h2>
+              <div class="score-ring" id="profileConfidenceRing"></div>
+            </section>
+
+            <section class="panel span-3">
+              <h2>Likes <span>(What to do more of)</span></h2>
+              <div class="signal-list" id="likesList"></div>
+              <button class="text-btn">View all likes</button>
+            </section>
+            <section class="panel span-3">
+              <h2>Dislikes <span>(What to avoid)</span></h2>
+              <div class="signal-list" id="dislikesList"></div>
+              <button class="text-btn">View all dislikes</button>
+            </section>
+            <section class="panel span-3">
+              <h2>Conditional Rules</h2>
+              <div class="rule-list" id="conditionalRules"></div>
+              <button class="text-btn" data-jump-button="trainingView">Manage rules</button>
+            </section>
+            <section class="panel span-3">
+              <h2>Learning Sources</h2>
+              <div class="stat-grid">
+                <div class="stat-card"><strong id="likedCount">0</strong><span>Liked results</span></div>
+                <div class="stat-card"><strong id="referenceCount">0</strong><span>References</span></div>
+                <div class="stat-card"><strong id="profileCount">0</strong><span>Profiles</span></div>
+                <div class="stat-card"><strong id="loraCount">0</strong><span>LoRA presets</span></div>
+              </div>
+            </section>
+            <section class="panel span-12">
+              <h2>What It Learned</h2>
+              <div class="memory-cloud" id="memoryCloud"></div>
+            </section>
+          </div>
+        </section>
+
+        <section class="view" id="trainingView">
+          <div class="page-heading">
+            <h2>Prompt Training</h2>
+            <p>Teach the app what worked, what failed, and how to correct similar requests next time.</p>
+          </div>
+          <div class="training-grid">
+            <section class="panel">
+              <h2>Add Training Rule</h2>
+              <label>When request contains
+                <input id="trainingTriggerInput" placeholder="catgirl, cyberpunk, portrait, forest" />
+              </label>
+              <label>What to avoid
+                <textarea id="trainingAvoidInput" rows="4" placeholder="too furry, wrong pose, flat lighting, boring background"></textarea>
+              </label>
+              <label>What to prefer instead
+                <textarea id="trainingPreferInput" rows="4" placeholder="human anime girl with cat ears and tail, playful pose, cinematic light"></textarea>
+              </label>
+              <button class="primary-btn" id="saveTrainingBtn">Save Training Rule</button>
+            </section>
+            <section class="panel wide">
+              <h2>Active Training Rules</h2>
+              <div class="training-list" id="trainingList"></div>
+            </section>
+          </div>
+        </section>
+
+        <section class="view" id="variationsView">
+          <div class="result-head">
+            <span class="breadcrumb">Back / Result Lab</span>
+            <div class="section-title-row">
+              <div>
+                <h2>Compare 3 prompt variants</h2>
+                <p>Review, rate, and learn from your results to improve future prompts.</p>
+              </div>
+              <div class="top-actions">
+                <button class="ghost-btn" id="makeCompareBtn">Add Variant</button>
+                <button class="icon-btn">More</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="result-lab-board">
+            <section class="compare-grid" id="compareGrid"></section>
+            <section class="panel change-panel">
+              <h2>What changed between versions</h2>
+              <div class="change-list" id="changeList"></div>
+            </section>
+            <section class="panel insight-panel">
+              <div class="section-title-row">
+                <h2>AI Learning Insights</h2>
+                <span class="status-pill">Based on your rating</span>
+              </div>
+              <div class="insight-list" id="learningInsights"></div>
+            </section>
+
+            <section class="panel tool-panel">
+              <h2>One-Click Variations</h2>
+              <textarea id="variationBaseInput" rows="7" placeholder="Paste a prompt or use the latest generated prompt."></textarea>
+              <div class="variation-grid">
+                <button class="ghost-btn" data-variation="more cinematic">More cinematic</button>
+                <button class="ghost-btn" data-variation="more detailed">More detailed</button>
+                <button class="ghost-btn" data-variation="change pose">Change pose</button>
+                <button class="ghost-btn" data-variation="change outfit">Change outfit</button>
+                <button class="ghost-btn" data-variation="stronger lighting">Stronger lighting</button>
+                <button class="ghost-btn" data-variation="less busy">Less busy</button>
+                <button class="ghost-btn" data-variation="more realistic">More realistic</button>
+                <button class="ghost-btn" data-variation="anime tag style">Anime tag style</button>
+              </div>
+            </section>
+            <section class="panel tool-panel">
+              <h2>Pose Builder</h2>
+              <div class="field-grid compact-fields">
+                <select id="poseBodyInput"><option>standing contrapposto</option><option>sitting on edge</option><option>kneeling pose</option><option>leaning against wall</option><option>walking forward</option><option>crouched ready stance</option></select>
+                <select id="poseCameraInput"><option>eye level camera</option><option>low angle shot</option><option>high angle shot</option><option>three quarter view</option><option>profile view</option><option>close-up portrait</option></select>
+                <select id="poseHeadInput"><option>looking at viewer</option><option>looking over shoulder</option><option>chin slightly raised</option><option>head tilted down</option><option>side glance</option></select>
+                <select id="poseHandsInput"><option>one hand on hip</option><option>hands relaxed</option><option>holding weapon</option><option>adjusting glove</option><option>arms crossed</option><option>reaching toward camera</option></select>
+              </div>
+              <input id="poseExpressionInput" placeholder="Expression: quiet smile, angry stare, shy glance" />
+              <button class="primary-btn" id="buildPoseBtn">Add Pose To Workspace</button>
+              <pre class="tool-output" id="poseOutput"></pre>
+            </section>
+            <section class="panel tool-panel">
+              <h2>Prompt Cleanup</h2>
+              <textarea id="cleanupInput" rows="8" placeholder="Paste messy duplicated prompt tags here."></textarea>
+              <button class="primary-btn" id="cleanupBtn">Clean Prompt</button>
+              <pre class="tool-output" id="cleanupOutput"></pre>
+              <div class="copy-row">
+                <button class="tiny-btn" id="copyCleanupBtn">Copy</button>
+                <button class="tiny-btn" id="useCleanupBtn">Use In Workspace</button>
+              </div>
+            </section>
+            <section class="panel versions-panel">
+              <h2>Prompt Versions</h2>
+              <div class="version-list" id="versionList"></div>
+            </section>
+          </div>
+        </section>
+
+        <section class="view" id="galleryView">
+          <div class="image-memory-detail" id="imageMemoryDetail"></div>
+
+          <div class="memory-grid lower-memory">
+            <section class="panel">
+              <h2>Upload Results</h2>
+              <input id="galleryImageInput" type="file" accept="image/*" multiple />
+              <textarea id="galleryPromptInput" rows="5" placeholder="Shared prompt or notes for these outputs."></textarea>
+              <button class="primary-btn" id="saveGalleryPromptBtn">Attach Notes</button>
+            </section>
+            <section class="panel">
+              <h2>Liked Result</h2>
+              <input id="likedImageInput" type="file" accept="image/*" />
+              <div class="image-preview" id="likedPreview">No image yet</div>
+              <textarea id="likedPromptInput" rows="4" placeholder="Prompt, notes, or why you liked it"></textarea>
+              <div class="field-grid">
+                <input id="likedTagsInput" placeholder="style tags" />
+                <select id="likedRatingInput"><option value="5">5 - loved it</option><option value="4">4 - good</option><option value="3">3 - useful</option></select>
+              </div>
+              <button class="primary-btn" id="saveLikedBtn">Save To Memory</button>
+            </section>
+            <section class="panel">
+              <h2>Reference Analysis</h2>
+              <input id="referenceImageInput" type="file" accept="image/*" />
+              <div class="image-preview" id="referencePreview">No image yet</div>
+              <textarea id="referenceNotesInput" rows="4" placeholder="Pose, face, clothing, vibe, composition..."></textarea>
+              <button class="primary-btn" id="saveReferenceBtn">Save Reference</button>
+            </section>
+            <section class="panel wide">
+              <h2>Rate Results</h2>
+              <div class="library-grid" id="galleryGrid"></div>
+            </section>
+            <section class="panel wide">
+              <h2>Liked Library</h2>
+              <div class="library-grid" id="likedGrid"></div>
+            </section>
+            <section class="panel wide">
+              <h2>Saved References</h2>
+              <div class="library-grid" id="referenceGrid"></div>
+            </section>
+          </div>
+        </section>
+
+        <section class="view" id="loraView">
+          <div class="page-heading">
+            <h2>Models</h2>
+            <p>Choose generation checkpoints and compatible LoRAs. PromptBrain uses each model's rules to structure prompts correctly.</p>
+          </div>
+          <div class="model-library-layout">
+            <section class="panel checkpoint-library-panel">
+              <div class="section-title-row">
+                <h2>Checkpoint Library</h2>
+                <span class="status-pill">17 built in</span>
+              </div>
+              <div id="checkpointLibrary"></div>
+            </section>
+            <section class="panel lora-library-panel">
+              <div class="section-title-row">
+                <h2>Compatible LoRA Library</h2>
+                <span class="status-pill">filtered by checkpoint</span>
+              </div>
+              <div class="lora-library" id="loraLibrary"></div>
+            </section>
+            <section class="panel">
+              <h2>Selected Checkpoint Rules</h2>
+              <div id="modelRuleDetails"></div>
+            </section>
+            <section class="panel">
+              <div class="section-title-row">
+                <h2>Selected LoRAs</h2>
+                <span class="status-pill">slider writes prompt</span>
+              </div>
+              <div class="selected-loras" id="modelSelectedLoras"></div>
+            </section>
+            <section class="panel wide">
+              <h2>Prompt Style Tokens</h2>
+              <div class="style-token-library" id="styleTokenLibrary"></div>
+            </section>
+            <section class="panel hidden-settings">
+              <h2>AI Backend</h2>
+              <label>Ollama model<input id="ollamaModelInput" placeholder="qwen2.5:7b" /></label>
+              <label>Workflow type<select id="workflowTypeInput"><option value="basic">Basic text workflow</option><option value="sdxl">SDXL-style text workflow</option></select></label>
+            </section>
+            <section class="panel hidden-settings">
+              <h2>Custom LoRA Preset</h2>
+              <input id="loraNameInput" placeholder="Preset name" />
+              <textarea id="loraTagsInput" rows="5" placeholder="<lora:name:0.8>, trigger words"></textarea>
+              <textarea id="loraNotesInput" rows="3" placeholder="When to use it"></textarea>
+              <button class="primary-btn" id="saveLoraBtn">Save Preset</button>
+            </section>
+            <section class="panel hidden-settings">
+              <h2>Character/Profile Vault</h2>
+              <input id="profileNameInput" placeholder="Character or profile name" />
+              <textarea id="profileDescInput" rows="5" placeholder="Appearance, personality, outfit rules"></textarea>
+              <input id="profileTagsInput" placeholder="tags" />
+              <button class="primary-btn" id="saveProfileBtn">Save Profile</button>
+            </section>
+            <section class="panel hidden-settings">
+              <h2>OC Builder</h2>
+              <textarea id="ocSeedInput" rows="5" placeholder="Seed prompt"></textarea>
+              <div class="field-grid">
+                <input id="ocWorldInput" placeholder="world" />
+                <select id="ocStyleInput"><option value="balanced">Balanced</option><option value="anime">Anime</option><option value="realistic">Realistic</option><option value="game">Game sheet</option></select>
+              </div>
+              <button class="primary-btn" id="buildOcBtn">Build OC</button>
+            </section>
+            <section class="panel wide hidden-settings"><h2>Presets</h2><div class="library-grid" id="loraGrid"></div></section>
+            <section class="panel wide hidden-settings"><h2>Profiles</h2><div class="library-grid" id="profileGrid"></div></section>
+            <section class="panel wide hidden-settings"><h2>OC Sheet</h2><div class="oc-output" id="ocOutput"></div></section>
+          </div>
+        </section>
+
+        <section class="view" id="historyView">
+          <div class="page-heading">
+            <h2>History</h2>
+            <p>Saved chats and prompt versions live here.</p>
+          </div>
+          <div class="history-grid">
+            <section class="panel"><h2>Saved Chats</h2><div id="historyChatList"></div></section>
+            <section class="panel wide"><h2>Versions</h2><div class="version-list" id="historyVersionList"></div></section>
+          </div>
+        </section>
+
+        <div class="modal-backdrop" id="settingsModal" hidden>
+          <section class="settings-modal">
+            <div class="modal-head">
+              <div>
+                <h2>Settings</h2>
+                <p>Local-only controls for prompt behavior, layout, data, and research memory.</p>
+              </div>
+              <button class="icon-btn" id="closeSettingsBtn" type="button">Close</button>
+            </div>
+          <div class="settings-layout">
+            <section class="panel">
+              <h2>Prompt Engine</h2>
+              <label class="check-row"><input id="enableNegativePromptToggle" type="checkbox" /> Generate a negative prompt</label>
+              <label class="check-row"><input id="useBreakToggle" type="checkbox" /> Use BREAK between subject and scene direction</label>
+              <label>Default negative prompt<textarea id="negativeInput" rows="6"></textarea></label>
+              <label>Personal rules<textarea id="rulesInput" rows="8" placeholder="Always include camera, pose, lighting, outfit..."></textarea></label>
+              <button class="primary-btn" id="saveSettingsBtn">Save Settings</button>
+            </section>
+            <section class="panel">
+              <h2>Workspace</h2>
+              <label>Theme
+                <select id="themeSelect">
+                  <option value="night-cyan">Night Cyan</option>
+                  <option value="graphite">Graphite</option>
+                  <option value="deep-purple">Deep Purple</option>
+                  <option value="oled-black">OLED Black</option>
+                  <option value="daylight">Light / Day</option>
+                </select>
+              </label>
+              <label class="check-row"><input id="compactModeToggle" type="checkbox" /> Compact cards</label>
+              <label class="check-row"><input id="reduceMotionToggle" type="checkbox" /> Reduce motion</label>
+              <label class="check-row"><input id="denseSidebarToggle" type="checkbox" /> Dense sidebar</label>
+              <label class="check-row"><input id="sidebarCollapsedToggle" type="checkbox" /> Start with collapsed sidebar</label>
+            </section>
+            <section class="panel">
+              <h2>AI Defaults</h2>
+              <label class="check-row"><input id="defaultAiToggle" type="checkbox" /> Start new sessions with local AI enabled</label>
+              <label class="check-row"><input id="defaultResearchToggle" type="checkbox" /> Start with research enabled</label>
+              <label class="check-row"><input id="autoTrainingToggle" type="checkbox" /> Auto-apply matching training rules</label>
+              <label>Prompt strictness
+                <select id="promptStrictnessInput">
+                  <option value="balanced">Balanced</option>
+                  <option value="taggy">Tag-heavy</option>
+                  <option value="natural">Natural language</option>
+                  <option value="minimal">Clean/minimal</option>
+                </select>
+              </label>
+            </section>
+            <section class="panel">
+              <h2>Runtime Paths</h2>
+              <label>Ollama endpoint<input id="ollamaEndpointInput" placeholder="http://127.0.0.1:11434" /></label>
+              <label>Model folder<input id="modelFolderInput" placeholder="E:\PromptBrain\models" /></label>
+              <label>App folder<input id="appFolderInput" placeholder="E:\PromptBrain" /></label>
+              <div class="runtime-status-list">
+                <p><span>Offline catalog</span><strong id="engineCatalogStatus">Loading...</strong></p>
+                <p><span>Memory file</span><strong id="memoryPathStatus">Checking...</strong></p>
+              </div>
+            </section>
+            <section class="panel">
+              <h2>Learning Controls</h2>
+              <label>Max training rules used per prompt<input id="maxTrainingRulesInput" type="number" min="1" max="30" /></label>
+              <label>Minimum gallery rating to learn<input id="minGalleryRatingInput" type="number" min="1" max="5" /></label>
+              <label class="check-row"><input id="learnFromChatsToggle" type="checkbox" /> Learn from highly rated chats</label>
+              <label class="check-row"><input id="learnFromResearchToggle" type="checkbox" /> Learn from research notes</label>
+            </section>
+            <section class="panel wide">
+              <h2>Research</h2>
+              <input id="researchQuery" placeholder="pose, outfit, art style, lighting, era, camera angle" />
+              <button class="primary-btn" id="researchBtn">Search And Extract Ideas</button>
+              <textarea id="manualResearchNotes" rows="5" placeholder="Paste manual research notes"></textarea>
+              <button class="ghost-btn" id="saveResearchNotesBtn">Save Notes To Memory</button>
+              <div id="researchResults"></div>
+            </section>
+            <section class="panel wide">
+              <h2>Local Data</h2>
+              <p class="meta">Sessions, feedback, references, images, ratings, and settings are stored in the portable app data folder.</p>
+              <div class="copy-row">
+                <button class="ghost-btn" id="settingsExportBtn" type="button">Export memory</button>
+                <button class="ghost-btn" id="settingsImportBtn" type="button">Import memory</button>
+                <button class="ghost-btn danger-btn" id="resetMemoryBtn" type="button">Reset memory</button>
+              </div>
+            </section>
+          </div>
+          </section>
+        </div>
+
+        <section class="view utility-hidden" id="likedView"></section>
+        <section class="view utility-hidden" id="referenceView"></section>
+        <section class="view utility-hidden" id="ocView"></section>
+        <section class="view utility-hidden" id="vaultView"></section>
+        <section class="view utility-hidden" id="researchView"></section>
+        <section class="view utility-hidden" id="poseView"></section>
+        <section class="view utility-hidden" id="cleanupView"></section>
+      </section>
+    </main>
+
+    <div class="toast" id="toast"></div>
+    <script src="./engine/state-store.js"></script>
+    <!--
+      Offline engine. Load order is a real dependency: contracts and the knowledge
+      modules attach globals that art-director and prompt-engine read at construction.
+    -->
+    <script src="./engine/contracts.js"></script>
+    <script src="./engine/seed-knowledge.js"></script>
+    <script src="./engine/curated-knowledge.js"></script>
+    <script src="./engine/art-director.js"></script>
+    <script src="./engine/prompt-engine.js"></script>
+    <script src="./engine/catalog-store.js"></script>
+    <script src="./engine/learning-bridge.js"></script>
+    <script src="./promptbrain.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1832 @@
+{
+  "count": 24,
+  "familyId": "phase9.staging.combat-stance",
+  "fingerprint": "d4362f01edbb02afe097dfec7350135301c90ef14d88d72dbfccf2bff1636b24",
+  "recipes": [
+    {
+      "aliases": [
+        "combat ready stance featuring left-edge entry into a rising diagonal path composition, burgundy shadows with coral highlights cinematic palette, slightly low angle, left-offset view, for heightened scale 02c4673ebdc5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.02c4673ebdc5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-left-offset-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.left-edge-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.geometric-energy-with-coiling-motion-abstract-energy-effect",
+          "phase8.visual-language.effect.spiral-energy-with-upward-surge-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.a-centered-square-stance-elbows-tucked-with-fists-near-the-sternum-stati"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.balanced-pauldrons-and-articulated-elbows-overlapping-scale-armor-comple"
+        ]
+      },
+      "name": "Combat Ready Stance 14",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring left-edge entry into a rising diagonal path composition, burgundy shadows with coral highlights cinematic palette, slightly low angle, left-offset view, for heightened scale 02c4673ebdc5"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring background entry into a spiral inward path composition, violet shadows with cyan highlights cinematic palette, slightly low angle, transverse view, for spatial clarity 03ea6990fb6a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.03ea6990fb6a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-transverse-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.background-entry-into-a-spiral-inward-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.smoke-like-energy-with-orbiting-motion-abstract-energy-effect",
+          "phase8.visual-language.effect.petal-shaped-energy-with-expanding-pulse-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-shadows-with-cyan-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.a-wide-grounded-stance-both-hands-held-low-in-a-cautious-guard-static-un"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.compact-travel-configuration-with-tied-plates-layered-lamellar-armor-com"
+        ]
+      },
+      "name": "Combat Ready Stance 9",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring background entry into a spiral inward path composition, violet shadows with cyan highlights cinematic palette, slightly low angle, transverse view, for spatial clarity 03ea6990fb6a"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring lower-left entry into a S-curve path composition, burgundy shadows with pearl highlights cinematic palette, slightly low angle, front diagonal view, for dramatic tension 108e406db4f5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.108e406db4f5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-front-diagonal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-left-entry-into-a-s-curve-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.arc-energy-with-orbiting-motion-abstract-energy-effect",
+          "phase8.visual-language.effect.constellation-energy-with-quiet-suspended-motion-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-shadows-with-pearl-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.a-rear-weighted-stance-both-hands-held-low-in-a-cautious-guard-static-un"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.brushed-brass-accents-and-navy-underlayers-boiled-leather-scout-armor-co"
+        ]
+      },
+      "name": "Combat Ready Stance 8",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring lower-left entry into a S-curve path composition, burgundy shadows with pearl highlights cinematic palette, slightly low angle, front diagonal view, for dramatic tension 108e406db4f5"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring bottom-center entry into a rising diagonal path composition, violet shadows with coral highlights cinematic palette, slightly low angle, right-offset view, for dramatic tension 120efeba9683"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.120efeba9683",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-right-offset-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bottom-center-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.constellation-energy-with-downward-cascade-abstract-energy-effect",
+          "phase8.visual-language.effect.threadlike-energy-with-expanding-pulse-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-knee-held-near-the-floor-one-forearm-shielding-the-temple-and-one-ha"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.weatherproof-leather-edging-and-waxed-ties-brigandine-and-mail-armor-com"
+        ]
+      },
+      "name": "Combat Ready Stance 12",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring bottom-center entry into a rising diagonal path composition, violet shadows with coral highlights cinematic palette, slightly low angle, right-offset view, for dramatic tension 120efeba9683"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring upper-right entry into a spiral inward path composition, umber shadows with amber highlights cinematic palette, slightly low angle, longitudinal view, for spatial clarity 189ee2f2ec35"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.189ee2f2ec35",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-longitudinal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-right-entry-into-a-spiral-inward-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.threadlike-energy-with-downward-cascade-abstract-energy-effect",
+          "phase8.visual-language.effect.constellation-energy-with-coiling-motion-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.umber-shadows-with-amber-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.feet-staggered-with-the-left-foot-forward-forearms-crossed-in-a-protecti"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.heraldic-geometric-etching-without-sacred-symbols-ceremonial-guard-armor"
+        ]
+      },
+      "name": "Combat Ready Stance 3",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring upper-right entry into a spiral inward path composition, umber shadows with amber highlights cinematic palette, slightly low angle, longitudinal view, for spatial clarity 189ee2f2ec35"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring left-edge entry into a S-curve path composition, teal shadows with amber highlights cinematic palette, pronounced low angle, cross-corner view, for spatial clarity 2d506a2c8d11"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.2d506a2c8d11",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-cross-corner-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.left-edge-entry-into-a-s-curve-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.ring-energy-with-cross-frame-sweep-abstract-energy-effect",
+          "phase8.visual-language.effect.ribbon-energy-with-orbiting-motion-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-amber-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.a-forward-weighted-stance-elbows-tucked-with-fists-near-the-sternum-stat"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.reinforced-gauntlets-and-forearm-guards-lightweight-chain-mail-armor-com"
+        ]
+      },
+      "name": "Combat Ready Stance 23",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring left-edge entry into a S-curve path composition, teal shadows with amber highlights cinematic palette, pronounced low angle, cross-corner view, for spatial clarity 2d506a2c8d11"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring off-frame entry into a staggered step path composition, olive shadows with amber highlights cinematic palette, pronounced low angle, rear diagonal view, for spatial clarity 3cb66e334b2a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.3cb66e334b2a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-rear-diagonal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-staggered-step-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.geometric-energy-with-converging-flow-abstract-energy-effect",
+          "phase8.visual-language.effect.constellation-energy-with-cross-frame-sweep-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-shadows-with-amber-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.both-knees-softly-flexed-forearms-crossed-in-a-protective-guard-static-u"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.brushed-brass-accents-and-navy-underlayers-cavalry-cuirass-and-vambrace-"
+        ]
+      },
+      "name": "Combat Ready Stance 16",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring off-frame entry into a staggered step path composition, olive shadows with amber highlights cinematic palette, pronounced low angle, rear diagonal view, for spatial clarity 3cb66e334b2a"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring bottom-center entry into a S-curve path composition, olive shadows with copper highlights cinematic palette, slightly low angle, center-axis view, for heightened scale 3f713ac6b7c0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.3f713ac6b7c0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-center-axis-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bottom-center-entry-into-a-s-curve-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.spiral-energy-with-downward-cascade-abstract-energy-effect",
+          "phase8.visual-language.effect.calligraphic-energy-with-cross-frame-sweep-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.both-knees-deeply-flexed-both-hands-held-low-in-a-cautious-guard-static-"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.balanced-pauldrons-and-articulated-elbows-tournament-half-plate-armor-co"
+        ]
+      },
+      "name": "Combat Ready Stance 15",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring bottom-center entry into a S-curve path composition, olive shadows with copper highlights cinematic palette, slightly low angle, center-axis view, for heightened scale 3f713ac6b7c0"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring off-frame entry into a sweeping curve path composition, cobalt shadows with lemon highlights cinematic palette, pronounced low angle, front diagonal view, for dramatic tension 41f63c708eec"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.41f63c708eec",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-front-diagonal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.petal-shaped-energy-with-quiet-suspended-motion-abstract-energy-effect",
+          "phase8.visual-language.effect.grid-energy-with-converging-flow-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-shadows-with-lemon-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.feet-staggered-with-the-left-foot-forward-elbows-tucked-with-fists-near-"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.fitted-greaves-and-flexible-knee-cops-ceremonial-guard-armor-complete-ar"
+        ]
+      },
+      "name": "Combat Ready Stance 6",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring off-frame entry into a sweeping curve path composition, cobalt shadows with lemon highlights cinematic palette, pronounced low angle, front diagonal view, for dramatic tension 41f63c708eec"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring upper-left entry into a radial path composition, slate-blue shadows with coral highlights cinematic palette, pronounced low angle, cross-corner view, for dramatic tension 475f09aed2b7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.475f09aed2b7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-cross-corner-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-left-entry-into-a-radial-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.constellation-energy-with-converging-flow-abstract-energy-effect",
+          "phase8.visual-language.effect.petal-shaped-energy-with-quiet-suspended-motion-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.feet-staggered-with-the-right-foot-forward-elbows-tucked-with-fists-near"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.closed-visor-with-narrow-sight-line-boiled-leather-scout-armor-complete-"
+        ]
+      },
+      "name": "Combat Ready Stance 18",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring upper-left entry into a radial path composition, slate-blue shadows with coral highlights cinematic palette, pronounced low angle, cross-corner view, for dramatic tension 475f09aed2b7"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring left-edge entry into a zigzag path composition, burgundy shadows with mint highlights cinematic palette, pronounced low angle, front diagonal view, for heightened scale 478729322fda"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.478729322fda",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-front-diagonal-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.left-edge-entry-into-a-zigzag-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.ring-energy-with-quiet-suspended-motion-abstract-energy-effect",
+          "phase8.visual-language.effect.ribbon-energy-with-downward-cascade-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.a-forward-weighted-stance-one-hand-extended-and-one-held-near-the-ribs-s"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.asymmetric-reinforced-sword-arm-layered-lamellar-armor-complete-armor-se"
+        ]
+      },
+      "name": "Combat Ready Stance 1",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring left-edge entry into a zigzag path composition, burgundy shadows with mint highlights cinematic palette, pronounced low angle, front diagonal view, for heightened scale 478729322fda"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring bottom-center entry into a zigzag path composition, charcoal shadows with amber highlights cinematic palette, slightly low angle, transverse view, for dramatic tension 556d7f7add83"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.556d7f7add83",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-transverse-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bottom-center-entry-into-a-zigzag-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.ribbon-energy-with-converging-flow-abstract-energy-effect",
+          "phase8.visual-language.effect.grid-energy-with-expanding-pulse-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-shadows-with-amber-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.a-centered-square-stance-elbows-tucked-with-fists-near-the-sternum-stati"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.weatherproof-leather-edging-and-waxed-ties-overlapping-scale-armor-compl"
+        ]
+      },
+      "name": "Combat Ready Stance 24",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring bottom-center entry into a zigzag path composition, charcoal shadows with amber highlights cinematic palette, slightly low angle, transverse view, for dramatic tension 556d7f7add83"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring off-frame entry into a falling diagonal path composition, olive shadows with amber highlights cinematic palette, slightly low angle, cross-corner view, for dramatic tension 718625c1112b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.718625c1112b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-cross-corner-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-falling-diagonal-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.threadlike-energy-with-upward-surge-abstract-energy-effect",
+          "phase8.visual-language.effect.petal-shaped-energy-with-expanding-pulse-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-shadows-with-amber-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.both-knees-deeply-flexed-both-hands-open-at-shoulder-height-static-unarm"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.broad-utility-belt-and-secure-scabbard-loops-brigandine-and-mail-armor-c"
+        ]
+      },
+      "name": "Combat Ready Stance 17",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring off-frame entry into a falling diagonal path composition, olive shadows with amber highlights cinematic palette, slightly low angle, cross-corner view, for dramatic tension 718625c1112b"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring off-frame entry into a spiral inward path composition, olive shadows with cyan highlights cinematic palette, pronounced low angle, cross-corner view, for heightened scale 88fcbaadab16"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.88fcbaadab16",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-cross-corner-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-spiral-inward-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.arc-energy-with-downward-cascade-abstract-energy-effect",
+          "phase8.visual-language.effect.grid-energy-with-coiling-motion-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-shadows-with-cyan-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-knee-held-near-the-floor-a-closed-fist-guard-near-the-jaw-static-una"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.asymmetric-reinforced-sword-arm-brigandine-and-mail-armor-complete-armor"
+        ]
+      },
+      "name": "Combat Ready Stance 4",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring off-frame entry into a spiral inward path composition, olive shadows with cyan highlights cinematic palette, pronounced low angle, cross-corner view, for heightened scale 88fcbaadab16"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring near-center entry into a radial path composition, umber shadows with mint highlights cinematic palette, pronounced low angle, rear diagonal view, for heightened scale 9462d931db18"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.9462d931db18",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-rear-diagonal-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.near-center-entry-into-a-radial-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.constellation-energy-with-expanding-pulse-abstract-energy-effect",
+          "phase8.visual-language.effect.constellation-energy-with-orbiting-motion-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.umber-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.a-rear-weighted-stance-an-open-palm-guard-before-the-chest-static-unarme"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.fitted-greaves-and-flexible-knee-cops-tournament-half-plate-armor-comple"
+        ]
+      },
+      "name": "Combat Ready Stance 10",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring near-center entry into a radial path composition, umber shadows with mint highlights cinematic palette, pronounced low angle, rear diagonal view, for heightened scale 9462d931db18"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring background entry into a sweeping curve path composition, olive shadows with mint highlights cinematic palette, pronounced low angle, transverse view, for spatial clarity 9fceea013fd7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.9fceea013fd7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-transverse-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.background-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.spiral-energy-with-converging-flow-abstract-energy-effect",
+          "phase8.visual-language.effect.ribbon-energy-with-cross-frame-sweep-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.a-forward-weighted-stance-an-open-palm-guard-before-the-chest-static-una"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.closed-visor-with-narrow-sight-line-brigandine-and-mail-armor-complete-a"
+        ]
+      },
+      "name": "Combat Ready Stance 22",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring background entry into a sweeping curve path composition, olive shadows with mint highlights cinematic palette, pronounced low angle, transverse view, for spatial clarity 9fceea013fd7"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring foreground entry into a rising diagonal path composition, indigo shadows with rose highlights cinematic palette, slightly low angle, transverse view, for dramatic tension a73804f9f964"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.a73804f9f964",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-transverse-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.ring-energy-with-coiling-motion-abstract-energy-effect",
+          "phase8.visual-language.effect.spiral-energy-with-converging-flow-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.a-narrow-side-on-stance-both-hands-held-low-in-a-cautious-guard-static-u"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.segmented-tassets-protecting-the-hips-lightweight-chain-mail-armor-compl"
+        ]
+      },
+      "name": "Combat Ready Stance 19",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring foreground entry into a rising diagonal path composition, indigo shadows with rose highlights cinematic palette, slightly low angle, transverse view, for dramatic tension a73804f9f964"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring upper-right entry into a staggered step path composition, cobalt shadows with amber highlights cinematic palette, slightly low angle, rear diagonal view, for spatial clarity c5d9371edffc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.c5d9371edffc",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-rear-diagonal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-right-entry-into-a-staggered-step-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.threadlike-energy-with-cross-frame-sweep-abstract-energy-effect",
+          "phase8.visual-language.effect.constellation-energy-with-converging-flow-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-shadows-with-amber-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.a-wide-grounded-stance-elbows-tucked-with-fists-near-the-sternum-static-"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.segmented-tassets-protecting-the-hips-articulated-plate-armor-complete-a"
+        ]
+      },
+      "name": "Combat Ready Stance 5",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring upper-right entry into a staggered step path composition, cobalt shadows with amber highlights cinematic palette, slightly low angle, rear diagonal view, for spatial clarity c5d9371edffc"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring off-frame entry into a staggered step path composition, indigo shadows with copper highlights cinematic palette, slightly low angle, longitudinal view, for heightened scale c62092f0d04f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.c62092f0d04f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-longitudinal-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-staggered-step-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.spiral-energy-with-converging-flow-abstract-energy-effect",
+          "phase8.visual-language.effect.petal-shaped-energy-with-expanding-pulse-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.feet-staggered-with-the-right-foot-forward-both-hands-held-low-in-a-caut"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.asymmetric-reinforced-sword-arm-quilted-gambeson-armor-complete-armor-se"
+        ]
+      },
+      "name": "Combat Ready Stance 13",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring off-frame entry into a staggered step path composition, indigo shadows with copper highlights cinematic palette, slightly low angle, longitudinal view, for heightened scale c62092f0d04f"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring left-edge entry into a sweeping curve path composition, black-cherry shadows with amber highlights cinematic palette, pronounced low angle, left-offset view, for heightened scale d0b385fe930c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.d0b385fe930c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-left-offset-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.left-edge-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.wavefront-energy-with-quiet-suspended-motion-abstract-energy-effect",
+          "phase8.visual-language.effect.ribbon-energy-with-downward-cascade-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.black-cherry-shadows-with-amber-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.a-narrow-side-on-stance-elbows-tucked-with-fists-near-the-sternum-static"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.broad-utility-belt-and-secure-scabbard-loops-overlapping-scale-armor-com"
+        ]
+      },
+      "name": "Combat Ready Stance 2",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring left-edge entry into a sweeping curve path composition, black-cherry shadows with amber highlights cinematic palette, pronounced low angle, left-offset view, for heightened scale d0b385fe930c"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring off-frame entry into a sweeping curve path composition, indigo shadows with rose highlights cinematic palette, slightly low angle, longitudinal view, for dramatic tension d4f73b81fe68"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.d4f73b81fe68",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-longitudinal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.ring-energy-with-expanding-pulse-abstract-energy-effect",
+          "phase8.visual-language.effect.smoke-like-energy-with-downward-cascade-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.one-knee-held-near-the-floor-forearms-crossed-in-a-protective-guard-stat"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.compact-travel-configuration-with-tied-plates-layered-lamellar-armor-com"
+        ]
+      },
+      "name": "Combat Ready Stance 21",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring off-frame entry into a sweeping curve path composition, indigo shadows with rose highlights cinematic palette, slightly low angle, longitudinal view, for dramatic tension d4f73b81fe68"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring lower-left entry into a rising diagonal path composition, cobalt shadows with coral highlights cinematic palette, pronounced low angle, center-axis view, for spatial clarity dd32127a310f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.dd32127a310f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.pronounced-low-angle-center-axis-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-left-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.petal-shaped-energy-with-orbiting-motion-abstract-energy-effect",
+          "phase8.visual-language.effect.ribbon-energy-with-expanding-pulse-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cobalt-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.a-rear-weighted-stance-forearms-crossed-in-a-protective-guard-static-una"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.asymmetric-reinforced-sword-arm-cavalry-cuirass-and-vambrace-armor-compl"
+        ]
+      },
+      "name": "Combat Ready Stance 20",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring lower-left entry into a rising diagonal path composition, cobalt shadows with coral highlights cinematic palette, pronounced low angle, center-axis view, for spatial clarity dd32127a310f"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring bottom-center entry into a falling diagonal path composition, plum shadows with lemon highlights cinematic palette, slightly low angle, longitudinal view, for neutral observation e67a22384ba0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.e67a22384ba0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-longitudinal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bottom-center-entry-into-a-falling-diagonal-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.geometric-energy-with-expanding-pulse-abstract-energy-effect",
+          "phase8.visual-language.effect.ring-energy-with-converging-flow-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-shadows-with-lemon-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.both-knees-deeply-flexed-one-forearm-shielding-the-temple-and-one-hand-n"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.quilted-arming-jacket-beneath-hard-plates-boiled-leather-scout-armor-com"
+        ]
+      },
+      "name": "Combat Ready Stance 7",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring bottom-center entry into a falling diagonal path composition, plum shadows with lemon highlights cinematic palette, slightly low angle, longitudinal view, for neutral observation e67a22384ba0"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "combat ready stance featuring upper-left entry into a sweeping curve path composition, teal shadows with coral highlights cinematic palette, slightly low angle, rear diagonal view, for neutral observation fa87685d28a4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase9.staging.combat-stance",
+      "familyTriggers": [
+        "combat stance",
+        "battle ready",
+        "fight scene staging",
+        "combat ready staging"
+      ],
+      "id": "phase9.staging.combat-stance.fa87685d28a4",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.slightly-low-angle-rear-diagonal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-left-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "effects": [
+          "phase8.visual-language.effect.spiral-energy-with-orbiting-motion-abstract-energy-effect",
+          "phase8.visual-language.effect.arc-energy-with-expanding-pulse-abstract-energy-effect"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "pose": [
+          "phase8.character-performance.pose.both-knees-softly-flexed-both-hands-held-low-in-a-cautious-guard-static-"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.balanced-pauldrons-and-articulated-elbows-brigandine-and-mail-armor-comp"
+        ]
+      },
+      "name": "Combat Ready Stance 11",
+      "optionalSlots": [],
+      "priority": 40,
+      "provenance": {
+        "family": "phase9.staging.combat-stance",
+        "packId": "phase8.character-staging-recipes",
+        "source": "phase-9-authored-character-staging"
+      },
+      "requiredSlots": [
+        "pose",
+        "wardrobe",
+        "camera",
+        "composition",
+        "palette",
+        "effects"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "effects": 2,
+        "palette": 1,
+        "pose": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "weighted stance",
+        "committed guard",
+        "readable threat line"
+      ],
+      "triggers": [
+        "combat ready stance featuring upper-left entry into a sweeping curve path composition, teal shadows with coral highlights cinematic palette, slightly low angle, rear diagonal view, for neutral observation fa87685d28a4"
+      ],
+      "variantIndex": 10
+    }
+  ],
+  "schemaVersion": 2
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "packId": "phase8.artistic-richness",
+  "source": "phase-8-authored-artistic-richness",
+  "defaults": {
+    "contentMode": "sfw",
+    "priority": 12,
+    "traits": ["artistic-richness", "phase-8", "authored"]
+  },
+  "entries": [
+    {
+      "id": "phase8.rich.palette.jet-bone-blood",
+      "kind": "palette",
+      "prompt": "limited palette, jet black, bone white, blood red, no other colors",
+      "aliases": ["jet black bone white blood red", "black white red palette", "strict three-colour palette"],
+      "group": "palette.graphic-horror",
+      "family": "graphic-horror",
+      "traits": ["palette", "limited", "graphic"]
+    },
+    {
+      "id": "phase8.rich.effect.graphic-flatness",
+      "kind": "effect",
+      "prompt": "high contrast, graphic flatness",
+      "aliases": ["graphic flatness", "flat graphic rendering"],
+      "group": "effect.graphic-horror",
+      "family": "graphic-horror",
+      "traits": ["effect", "graphic"]
+    },
+    {
+      "id": "phase8.rich.motif.fractured-red-panel",
+      "kind": "motif",
+      "prompt": "(fractured red panel:1.3)",
+      "aliases": ["broken red panel"],
+      "group": "motif.graphic-horror",
+      "family": "graphic-horror",
+      "traits": ["motif", "graphic", "weighted"]
+    },
+    {
+      "id": "phase8.rich.motif.misaligned-red-shards",
+      "kind": "motif",
+      "prompt": "floating misaligned red shards",
+      "aliases": ["misaligned shards", "floating red shards"],
+      "group": "motif.graphic-horror",
+      "family": "graphic-horror",
+      "traits": ["motif", "graphic"]
+    },
+    {
+      "id": "phase8.rich.motif.newspaper-collage",
+      "kind": "motif",
+      "prompt": "grayscale newspaper collage",
+      "aliases": ["newspaper collage", "grayscale collage"],
+      "group": "motif.graphic-horror",
+      "family": "graphic-horror",
+      "traits": ["motif", "collage"]
+    },
+    {
+      "id": "phase8.rich.motif.warped-spiraling-text",
+      "kind": "motif",
+      "prompt": "warped spiraling japanese text",
+      "aliases": ["warped spiraling text", "spiraling text"],
+      "group": "motif.graphic-horror",
+      "family": "graphic-horror",
+      "traits": ["motif", "typography"]
+    },
+    {
+      "id": "phase8.rich.motif.thin-red-threads",
+      "kind": "motif",
+      "prompt": "thin red threads, conspiracy board",
+      "aliases": ["thin red threads", "conspiracy board", "red string board"],
+      "group": "motif.graphic-horror",
+      "family": "graphic-horror",
+      "traits": ["motif", "graphic"]
+    },
+    {
+      "id": "phase8.rich.motif.floating-geometry",
+      "kind": "motif",
+      "prompt": "floating geometric shapes",
+      "aliases": ["floating geometry", "geometric shapes"],
+      "group": "motif.graphic-horror",
+      "family": "graphic-horror",
+      "traits": ["motif", "graphic"]
+    },
+    {
+      "id": "phase8.rich.lighting.red-rim-on-cheek",
+      "kind": "lighting",
+      "prompt": "red rim light on cheek",
+      "aliases": ["rim light on cheek", "crimson rim light on cheek"],
+      "group": "lighting.graphic-horror",
+      "family": "graphic-horror",
+      "traits": ["lighting", "rim"]
+    },
+    {
+      "id": "phase8.rich.lighting.specular-chains",
+      "kind": "lighting",
+      "prompt": "specular highlights on chains",
+      "aliases": ["specular highlights on chains", "highlights on chains"],
+      "group": "lighting.graphic-horror",
+      "family": "graphic-horror",
+      "traits": ["lighting", "specular"]
+    },
+    {
+      "id": "phase8.rich.lighting.deep-black-shadows",
+      "kind": "lighting",
+      "prompt": "deep black shadows",
+      "aliases": ["crushed blacks", "deep shadows"],
+      "group": "lighting.graphic-horror",
+      "family": "graphic-horror",
+      "traits": ["lighting", "shadow"]
+    }
+  ]
+}

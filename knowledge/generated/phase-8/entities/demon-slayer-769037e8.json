@@ -1,0 +1,247 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Giyu Tomioka",
+        "Giyu Tomioka (Demon Slayer)"
+      ],
+      "id": "character.demon-slayer.giyu-tomioka",
+      "kind": "named-character",
+      "name": "Giyu Tomioka",
+      "namespace": "Demon Slayer",
+      "promptTags": [
+        "Giyu Tomioka",
+        "Demon Slayer",
+        "male",
+        "Hashira swordsman"
+      ],
+      "provenance": {
+        "groupId": "demon-slayer",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "hashira",
+        "swordsman"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Inosuke Hashibira",
+        "Inosuke Hashibira (Demon Slayer)"
+      ],
+      "id": "character.demon-slayer.inosuke-hashibira",
+      "kind": "named-character",
+      "name": "Inosuke Hashibira",
+      "namespace": "Demon Slayer",
+      "promptTags": [
+        "Inosuke Hashibira",
+        "Demon Slayer",
+        "male"
+      ],
+      "provenance": {
+        "groupId": "demon-slayer",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "demon-slayer"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kyojuro Rengoku",
+        "Kyojuro Rengoku (Demon Slayer)"
+      ],
+      "id": "character.demon-slayer.kyojuro-rengoku",
+      "kind": "named-character",
+      "name": "Kyojuro Rengoku",
+      "namespace": "Demon Slayer",
+      "promptTags": [
+        "Kyojuro Rengoku",
+        "Demon Slayer",
+        "male",
+        "Hashira swordsman"
+      ],
+      "provenance": {
+        "groupId": "demon-slayer",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "hashira",
+        "swordsman"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Nezuko Kamado",
+        "Nezuko Kamado (Demon Slayer)"
+      ],
+      "id": "character.demon-slayer.nezuko-kamado",
+      "kind": "named-character",
+      "name": "Nezuko Kamado",
+      "namespace": "Demon Slayer",
+      "promptTags": [
+        "Nezuko Kamado",
+        "Demon Slayer",
+        "female",
+        "demon"
+      ],
+      "provenance": {
+        "groupId": "demon-slayer",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "demon"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Shinobu Kocho",
+        "Shinobu Kocho (Demon Slayer)"
+      ],
+      "id": "character.demon-slayer.shinobu-kocho",
+      "kind": "named-character",
+      "name": "Shinobu Kocho",
+      "namespace": "Demon Slayer",
+      "promptTags": [
+        "Shinobu Kocho",
+        "Demon Slayer",
+        "female",
+        "Hashira swordswoman"
+      ],
+      "provenance": {
+        "groupId": "demon-slayer",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "hashira",
+        "swordswoman"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Tanjiro Kamado",
+        "Tanjiro Kamado (Demon Slayer)"
+      ],
+      "id": "character.demon-slayer.tanjiro-kamado",
+      "kind": "named-character",
+      "name": "Tanjiro Kamado",
+      "namespace": "Demon Slayer",
+      "promptTags": [
+        "Tanjiro Kamado",
+        "Demon Slayer",
+        "male"
+      ],
+      "provenance": {
+        "groupId": "demon-slayer",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "demon-slayer"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Zenitsu Agatsuma",
+        "Zenitsu Agatsuma (Demon Slayer)"
+      ],
+      "id": "character.demon-slayer.zenitsu-agatsuma",
+      "kind": "named-character",
+      "name": "Zenitsu Agatsuma",
+      "namespace": "Demon Slayer",
+      "promptTags": [
+        "Zenitsu Agatsuma",
+        "Demon Slayer",
+        "male"
+      ],
+      "provenance": {
+        "groupId": "demon-slayer",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "demon-slayer"
+      ]
+    }
+  ],
+  "fingerprint": "6eeaa379911aa115256b8313e56e4713847a25c8d4bcd6619940adf4abb7566e",
+  "namespace": "Demon Slayer",
+  "schemaVersion": 2
+}

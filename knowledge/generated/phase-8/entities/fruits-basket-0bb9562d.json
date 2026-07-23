@@ -1,0 +1,214 @@
+{
+  "count": 6,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Arisa Uotani",
+        "Arisa Uotani (Fruits Basket)"
+      ],
+      "id": "character.fruits-basket.arisa-uotani",
+      "kind": "named-character",
+      "name": "Arisa Uotani",
+      "namespace": "Fruits Basket",
+      "promptTags": [
+        "Arisa Uotani",
+        "Fruits Basket",
+        "female",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "fruits-basket",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kyo Sohma",
+        "Kyo Sohma (Fruits Basket)"
+      ],
+      "id": "character.fruits-basket.kyo-sohma",
+      "kind": "named-character",
+      "name": "Kyo Sohma",
+      "namespace": "Fruits Basket",
+      "promptTags": [
+        "Kyo Sohma",
+        "Fruits Basket",
+        "male",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "fruits-basket",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Saki Hanajima",
+        "Saki Hanajima (Fruits Basket)"
+      ],
+      "id": "character.fruits-basket.saki-hanajima",
+      "kind": "named-character",
+      "name": "Saki Hanajima",
+      "namespace": "Fruits Basket",
+      "promptTags": [
+        "Saki Hanajima",
+        "Fruits Basket",
+        "female",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "fruits-basket",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Shigure Sohma",
+        "Shigure Sohma (Fruits Basket)"
+      ],
+      "id": "character.fruits-basket.shigure-sohma",
+      "kind": "named-character",
+      "name": "Shigure Sohma",
+      "namespace": "Fruits Basket",
+      "promptTags": [
+        "Shigure Sohma",
+        "Fruits Basket",
+        "male",
+        "novelist"
+      ],
+      "provenance": {
+        "groupId": "fruits-basket",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "novelist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Tohru Honda",
+        "Tohru Honda (Fruits Basket)"
+      ],
+      "id": "character.fruits-basket.tohru-honda",
+      "kind": "named-character",
+      "name": "Tohru Honda",
+      "namespace": "Fruits Basket",
+      "promptTags": [
+        "Tohru Honda",
+        "Fruits Basket",
+        "female",
+        "student"
+      ],
+      "provenance": {
+        "groupId": "fruits-basket",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "protagonist",
+        "student"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Yuki Sohma",
+        "Yuki Sohma (Fruits Basket)"
+      ],
+      "id": "character.fruits-basket.yuki-sohma",
+      "kind": "named-character",
+      "name": "Yuki Sohma",
+      "namespace": "Fruits Basket",
+      "promptTags": [
+        "Yuki Sohma",
+        "Fruits Basket",
+        "male",
+        "student council president"
+      ],
+      "provenance": {
+        "groupId": "fruits-basket",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "student",
+        "president"
+      ]
+    }
+  ],
+  "fingerprint": "48a0784a26c8bd5f6b4fc768c741e1f2a5d8c9ff6fe9d93c57cd7df57508e1e3",
+  "namespace": "Fruits Basket",
+  "schemaVersion": 2
+}

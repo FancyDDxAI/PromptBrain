@@ -1,0 +1,249 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Itaru Hashida",
+        "Itaru Hashida (Steins;Gate)"
+      ],
+      "id": "character.steins-gate.itaru-hashida",
+      "kind": "named-character",
+      "name": "Itaru Hashida",
+      "namespace": "Steins;Gate",
+      "promptTags": [
+        "Itaru Hashida",
+        "Steins;Gate",
+        "male",
+        "hacker"
+      ],
+      "provenance": {
+        "groupId": "steins-gate",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "hacker"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kurisu Makise",
+        "Kurisu Makise (Steins;Gate)"
+      ],
+      "id": "character.steins-gate.kurisu-makise",
+      "kind": "named-character",
+      "name": "Kurisu Makise",
+      "namespace": "Steins;Gate",
+      "promptTags": [
+        "Kurisu Makise",
+        "Steins;Gate",
+        "female",
+        "neuroscientist"
+      ],
+      "provenance": {
+        "groupId": "steins-gate",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "scientist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Mayuri Shiina",
+        "Mayuri Shiina (Steins;Gate)"
+      ],
+      "id": "character.steins-gate.mayuri-shiina",
+      "kind": "named-character",
+      "name": "Mayuri Shiina",
+      "namespace": "Steins;Gate",
+      "promptTags": [
+        "Mayuri Shiina",
+        "Steins;Gate",
+        "female",
+        "laboratory member"
+      ],
+      "provenance": {
+        "groupId": "steins-gate",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "laboratory-member"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Moeka Kiryu",
+        "Moeka Kiryu (Steins;Gate)"
+      ],
+      "id": "character.steins-gate.moeka-kiryu",
+      "kind": "named-character",
+      "name": "Moeka Kiryu",
+      "namespace": "Steins;Gate",
+      "promptTags": [
+        "Moeka Kiryu",
+        "Steins;Gate",
+        "female",
+        "journalist"
+      ],
+      "provenance": {
+        "groupId": "steins-gate",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "journalist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Rintaro Okabe",
+        "Rintaro Okabe (Steins;Gate)"
+      ],
+      "id": "character.steins-gate.rintaro-okabe",
+      "kind": "named-character",
+      "name": "Rintaro Okabe",
+      "namespace": "Steins;Gate",
+      "promptTags": [
+        "Rintaro Okabe",
+        "Steins;Gate",
+        "male",
+        "laboratory founder"
+      ],
+      "provenance": {
+        "groupId": "steins-gate",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "scientist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Rumiho Akiha",
+        "Rumiho Akiha (Steins;Gate)",
+        "Faris NyanNyan (Steins;Gate)"
+      ],
+      "id": "character.steins-gate.rumiho-akiha",
+      "kind": "named-character",
+      "name": "Rumiho Akiha",
+      "namespace": "Steins;Gate",
+      "promptTags": [
+        "Rumiho Akiha",
+        "Steins;Gate",
+        "female",
+        "cafe owner"
+      ],
+      "provenance": {
+        "groupId": "steins-gate",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "cafe-owner",
+        "laboratory-member"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Suzuha Amane",
+        "Suzuha Amane (Steins;Gate)"
+      ],
+      "id": "character.steins-gate.suzuha-amane",
+      "kind": "named-character",
+      "name": "Suzuha Amane",
+      "namespace": "Steins;Gate",
+      "promptTags": [
+        "Suzuha Amane",
+        "Steins;Gate",
+        "female",
+        "time traveler"
+      ],
+      "provenance": {
+        "groupId": "steins-gate",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "time-traveler"
+      ]
+    }
+  ],
+  "fingerprint": "cc199b4ab8bb5bf3cb74fd61e887446778a03ff2a0104143985cb38169115577",
+  "namespace": "Steins;Gate",
+  "schemaVersion": 2
+}

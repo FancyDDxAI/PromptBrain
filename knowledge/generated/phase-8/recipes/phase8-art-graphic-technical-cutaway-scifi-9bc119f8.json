@@ -1,0 +1,1784 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+  "fingerprint": "2573dbc99753e0e4ccccbc0e75b573e2cd4f2c39e1fd49d62be20d89b92cf63a",
+  "recipes": [
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with bold silhouette overlays visual style, contact-sheet with repeated silhouette composition, charcoal ink on warm ivory print palette, gentle atmospheric bloom from fluorescent practicals, spilling into the background 13ce6e0f1b16"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.13ce6e0f1b16",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-center-axis-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.contact-sheet-with-repeated-silhouette-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-pressurized-access-corridors-clean-high-tec"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-spilling-into-the-b"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-ink-on-warm-ivory-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-bold-silhouette-overlays-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with bold silhouette overlays visual style, contact-sheet with repeated silhouette composition, charcoal ink on warm ivory print palette, gentle atmospheric bloom from fluorescent practicals, spilling into the background 13ce6e0f1b16"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with bold silhouette overlays visual style, comic-strip with matched horizon composition, charcoal ink on light kraft paper print palette, crisp shadow edges from fluorescent practicals, spilling into the background 2f01ccd63855"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.2f01ccd63855",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-transverse-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.comic-strip-with-matched-horizon-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-holographic-navigation-panels-clean-high-te"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-fluorescent-practicals-spilling-into-the-backgro"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-ink-on-light-kraft-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-bold-silhouette-overlays-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with bold silhouette overlays visual style, comic-strip with matched horizon composition, charcoal ink on light kraft paper print palette, crisp shadow edges from fluorescent practicals, spilling into the background 2f01ccd63855"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with aged paper texture visual style, horizontal split with central hinge composition, sepia ink on pale sky paper print palette, crisp shadow edges from fluorescent practicals, spilling into the background 314fb78b2a0e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.314fb78b2a0e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-cross-corner-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.horizontal-split-with-central-hinge-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-magnetic-transit-rails-clean-high-technolog"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-fluorescent-practicals-spilling-into-the-backgro"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-ink-on-pale-sky-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-aged-paper-texture-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with aged paper texture visual style, horizontal split with central hinge composition, sepia ink on pale sky paper print palette, crisp shadow edges from fluorescent practicals, spilling into the background 314fb78b2a0e"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with bold silhouette overlays visual style, before-and-after with cross-panel motion composition, rust ink on pale mint paper print palette, gentle atmospheric bloom from fluorescent practicals, reflected from nearby surfaces 33ee9bb31fb8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.33ee9bb31fb8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-center-axis-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.before-and-after-with-cross-panel-motion-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-layered-maintenance-gantries-weathered-util"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-reflected-from-near"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.rust-ink-on-pale-mint-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-bold-silhouette-overlays-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with bold silhouette overlays visual style, before-and-after with cross-panel motion composition, rust ink on pale mint paper print palette, gentle atmospheric bloom from fluorescent practicals, reflected from nearby surfaces 33ee9bb31fb8"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with precise labeled details visual style, horizontal split with alternating rhythm composition, teal ink on cream paper print palette, controlled high contrast from fluorescent practicals, spilling into the background 344b1fffda94"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.344b1fffda94",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-front-diagonal-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.horizontal-split-with-alternating-rhythm-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-holographic-navigation-panels-credible-near"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-spilling-into-the-b"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-ink-on-cream-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with precise labeled details visual style, horizontal split with alternating rhythm composition, teal ink on cream paper print palette, controlled high contrast from fluorescent practicals, spilling into the background 344b1fffda94"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with soft graphite shading visual style, before-and-after with matched horizon composition, teal ink on cream paper print palette, crisp shadow edges from fluorescent practicals, contained in a localized pool 36f10e6648d9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.36f10e6648d9",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-rear-diagonal-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.before-and-after-with-matched-horizon-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-robotic-fabrication-arms-weathered-utilitar"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-fluorescent-practicals-contained-in-a-localized-"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-ink-on-cream-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-soft-graphite-shading-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with soft graphite shading visual style, before-and-after with matched horizon composition, teal ink on cream paper print palette, crisp shadow edges from fluorescent practicals, contained in a localized pool 36f10e6648d9"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with selective color coding visual style, diagonal split with cross-panel motion composition, mustard ink on cool white print palette, crisp shadow edges from fluorescent practicals, creating a luminous frame 3b1285da6f1e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.3b1285da6f1e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-right-offset-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.diagonal-split-with-cross-panel-motion-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-exposed-modular-conduits-weathered-utilitar"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-fluorescent-practicals-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mustard-ink-on-cool-white-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-selective-color-coding-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with selective color coding visual style, diagonal split with cross-panel motion composition, mustard ink on cool white print palette, crisp shadow edges from fluorescent practicals, creating a luminous frame 3b1285da6f1e"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with soft graphite shading visual style, vertical split with central hinge composition, indigo ink on blush paper print palette, controlled high contrast from fluorescent practicals, spilling into the background 3e3836847013"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.3e3836847013",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-right-offset-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.vertical-split-with-central-hinge-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-holographic-navigation-panels-credible-near"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-spilling-into-the-b"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-ink-on-blush-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-soft-graphite-shading-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with soft graphite shading visual style, vertical split with central hinge composition, indigo ink on blush paper print palette, controlled high contrast from fluorescent practicals, spilling into the background 3e3836847013"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with precise labeled details visual style, before-and-after with central hinge composition, forest ink on pale gray print palette, controlled high contrast from fluorescent practicals, reflected from nearby surfaces 4ce382032907"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.4ce382032907",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-front-diagonal-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.before-and-after-with-central-hinge-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-layered-maintenance-gantries-weathered-util"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-reflected-from-near"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-ink-on-pale-gray-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with precise labeled details visual style, before-and-after with central hinge composition, forest ink on pale gray print palette, controlled high contrast from fluorescent practicals, reflected from nearby surfaces 4ce382032907"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with aged paper texture visual style, contact-sheet with matched horizon composition, burgundy ink on pale mint paper print palette, crisp shadow edges from fluorescent practicals, reflected from nearby surfaces 5ed10e1fe079"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.5ed10e1fe079",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-left-offset-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.contact-sheet-with-matched-horizon-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-holographic-navigation-panels-credible-near"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-fluorescent-practicals-reflected-from-nearby-sur"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-ink-on-pale-mint-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-aged-paper-texture-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with aged paper texture visual style, contact-sheet with matched horizon composition, burgundy ink on pale mint paper print palette, crisp shadow edges from fluorescent practicals, reflected from nearby surfaces 5ed10e1fe079"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with selective color coding visual style, mirrored panel with shared color bridge composition, burgundy ink on light kraft paper print palette, soft diffusion from fluorescent practicals, reflected from nearby surfaces 5f9cec570eae"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.5f9cec570eae",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-cross-corner-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.mirrored-panel-with-shared-color-bridge-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-volumetric-status-displays-clean-high-techn"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-reflected-from-nearby-surface"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-ink-on-light-kraft-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-selective-color-coding-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with selective color coding visual style, mirrored panel with shared color bridge composition, burgundy ink on light kraft paper print palette, soft diffusion from fluorescent practicals, reflected from nearby surfaces 5f9cec570eae"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with muted wash accents visual style, contact-sheet with cross-panel motion composition, rust ink on pale gray print palette, controlled high contrast from fluorescent practicals, falling off into shadow 64d1e7d3e92c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.64d1e7d3e92c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-rear-diagonal-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.contact-sheet-with-cross-panel-motion-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-holographic-navigation-panels-clean-high-te"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-falling-off-into-sh"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.rust-ink-on-pale-gray-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-muted-wash-accents-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with muted wash accents visual style, contact-sheet with cross-panel motion composition, rust ink on pale gray print palette, controlled high contrast from fluorescent practicals, falling off into shadow 64d1e7d3e92c"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with muted wash accents visual style, nested panel with continuous eyeline composition, forest ink on cool white print palette, controlled high contrast from fluorescent practicals, broken by foreground shapes 69f512ae2941"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.69f512ae2941",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-cross-corner-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.nested-panel-with-continuous-eyeline-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-volumetric-status-displays-credible-near-fu"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-broken-by-foregroun"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-ink-on-cool-white-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-muted-wash-accents-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with muted wash accents visual style, nested panel with continuous eyeline composition, forest ink on cool white print palette, controlled high contrast from fluorescent practicals, broken by foreground shapes 69f512ae2941"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with muted wash accents visual style, contact-sheet with cross-panel motion composition, mustard ink on blush paper print palette, controlled high contrast from fluorescent practicals, broken by foreground shapes 888153d0597a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.888153d0597a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-rear-diagonal-view-for-heightened-scale"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.contact-sheet-with-cross-panel-motion-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-layered-maintenance-gantries-credible-near-"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-broken-by-foregroun"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mustard-ink-on-blush-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-muted-wash-accents-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with muted wash accents visual style, contact-sheet with cross-panel motion composition, mustard ink on blush paper print palette, controlled high contrast from fluorescent practicals, broken by foreground shapes 888153d0597a"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with bold silhouette overlays visual style, diptych with central hinge composition, indigo ink on cool white print palette, soft diffusion from fluorescent practicals, broken by foreground shapes 89cddfb7b5ae"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.89cddfb7b5ae",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-longitudinal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.diptych-with-central-hinge-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-magnetic-transit-rails-weathered-utilitaria"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-ink-on-cool-white-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-bold-silhouette-overlays-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with bold silhouette overlays visual style, diptych with central hinge composition, indigo ink on cool white print palette, soft diffusion from fluorescent practicals, broken by foreground shapes 89cddfb7b5ae"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with selective color coding visual style, nested panel with shared color bridge composition, plum ink on pale mint paper print palette, controlled high contrast from fluorescent practicals, focused on the subject plane 8a1a760642dc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.8a1a760642dc",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-left-offset-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.nested-panel-with-shared-color-bridge-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-holographic-navigation-panels-clean-high-te"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-focused-on-the-subj"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-ink-on-pale-mint-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-selective-color-coding-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with selective color coding visual style, nested panel with shared color bridge composition, plum ink on pale mint paper print palette, controlled high contrast from fluorescent practicals, focused on the subject plane 8a1a760642dc"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with selective color coding visual style, window-grid with matched horizon composition, slate ink on light kraft paper print palette, soft diffusion from fluorescent practicals, grazing textured surfaces 8e6b79995536"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.8e6b79995536",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-longitudinal-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.window-grid-with-matched-horizon-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-stacked-utility-modules-credible-near-futur"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-ink-on-light-kraft-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-selective-color-coding-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with selective color coding visual style, window-grid with matched horizon composition, slate ink on light kraft paper print palette, soft diffusion from fluorescent practicals, grazing textured surfaces 8e6b79995536"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with bold silhouette overlays visual style, comic-strip with repeated silhouette composition, indigo ink on blush paper print palette, soft diffusion from fluorescent practicals, creating a luminous frame a9c4b4084706"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.a9c4b4084706",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-front-diagonal-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.comic-strip-with-repeated-silhouette-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-magnetic-transit-rails-clean-high-technolog"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-ink-on-blush-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-bold-silhouette-overlays-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with bold silhouette overlays visual style, comic-strip with repeated silhouette composition, indigo ink on blush paper print palette, soft diffusion from fluorescent practicals, creating a luminous frame a9c4b4084706"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with fine ink notation visual style, diptych with central hinge composition, ultramarine ink on blush paper print palette, controlled high contrast from fluorescent practicals, reflected from nearby surfaces b5bd97977ecc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.b5bd97977ecc",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-right-offset-view-for-spatial-clarity"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.diptych-with-central-hinge-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-stacked-utility-modules-clean-high-technolo"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-fluorescent-practicals-reflected-from-near"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ultramarine-ink-on-blush-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-fine-ink-notation-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with fine ink notation visual style, diptych with central hinge composition, ultramarine ink on blush paper print palette, controlled high contrast from fluorescent practicals, reflected from nearby surfaces b5bd97977ecc"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with precise labeled details visual style, window-grid with alternating rhythm composition, plum ink on pale gray print palette, soft diffusion from fluorescent practicals, contained in a localized pool cd7dbfccec21"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.cd7dbfccec21",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-left-offset-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.window-grid-with-alternating-rhythm-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-autonomous-service-drones-credible-near-fut"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-fluorescent-practicals-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-ink-on-pale-gray-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-precise-labeled-details-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with precise labeled details visual style, window-grid with alternating rhythm composition, plum ink on pale gray print palette, soft diffusion from fluorescent practicals, contained in a localized pool cd7dbfccec21"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with soft graphite shading visual style, before-and-after with contrasting scale composition, charcoal ink on light kraft paper print palette, gentle atmospheric bloom from fluorescent practicals, falling off into shadow d7f7aa4d0025"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.d7f7aa4d0025",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-center-axis-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.before-and-after-with-contrasting-scale-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-stacked-utility-modules-credible-near-futur"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-falling-off-into-sh"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.charcoal-ink-on-light-kraft-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-soft-graphite-shading-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with soft graphite shading visual style, before-and-after with contrasting scale composition, charcoal ink on light kraft paper print palette, gentle atmospheric bloom from fluorescent practicals, falling off into shadow d7f7aa4d0025"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with soft graphite shading visual style, mirrored panel with alternating rhythm composition, mustard ink on pale sky paper print palette, crisp shadow edges from fluorescent practicals, focused on the subject plane e98b5a00bb50"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.e98b5a00bb50",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-cross-corner-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.mirrored-panel-with-alternating-rhythm-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-stacked-utility-modules-weathered-utilitari"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-fluorescent-practicals-focused-on-the-subject-pl"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mustard-ink-on-pale-sky-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-soft-graphite-shading-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with soft graphite shading visual style, mirrored panel with alternating rhythm composition, mustard ink on pale sky paper print palette, crisp shadow edges from fluorescent practicals, focused on the subject plane e98b5a00bb50"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with bold silhouette overlays visual style, contact-sheet with alternating rhythm composition, ultramarine ink on pale sky paper print palette, crisp shadow edges from fluorescent practicals, layered across depth planes f66b6ab5ff43"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.f66b6ab5ff43",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-left-offset-view-for-dramatic-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.contact-sheet-with-alternating-rhythm-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-robotic-fabrication-arms-credible-near-futu"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-fluorescent-practicals-layered-across-depth-plan"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ultramarine-ink-on-pale-sky-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-bold-silhouette-overlays-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with bold silhouette overlays visual style, contact-sheet with alternating rhythm composition, ultramarine ink on pale sky paper print palette, crisp shadow edges from fluorescent practicals, layered across depth planes f66b6ab5ff43"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "technical cutaway sci-fi featuring isometric cutaway with soft graphite shading visual style, comic-strip with cross-panel motion composition, sepia ink on pale mint paper print palette, gentle atmospheric bloom from fluorescent practicals, focused on the subject plane fce2ceaa1d20"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.technical-cutaway-scifi",
+      "familyTriggers": [
+        "technical cutaway scifi direction",
+        "isometric habitat diagram",
+        "science-fiction systems plate"
+      ],
+      "id": "phase8.art.graphic.technical-cutaway-scifi.fce2ceaa1d20",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.overhead-oblique-angle-rear-diagonal-view-for-neutral-observation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.comic-strip-with-cross-panel-motion-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.asteroid-mining-habitat-with-pressurized-access-corridors-clean-high-tec"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-fluorescent-practicals-focused-on-the-subj"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sepia-ink-on-pale-mint-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-cutaway-with-soft-graphite-shading-visual-style"
+        ]
+      },
+      "name": "Technical Cutaway Sci-Fi 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.technical-cutaway-scifi",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "cutaway infrastructure logic",
+        "isometric technical clarity",
+        "panelled habitat annotation"
+      ],
+      "triggers": [
+        "technical cutaway sci-fi featuring isometric cutaway with soft graphite shading visual style, comic-strip with cross-panel motion composition, sepia ink on pale mint paper print palette, gentle atmospheric bloom from fluorescent practicals, focused on the subject plane fce2ceaa1d20"
+      ],
+      "variantIndex": 10
+    }
+  ],
+  "schemaVersion": 2
+}

@@ -1,0 +1,1784 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.environment.rainwashed-blue-hour",
+  "fingerprint": "2b4f148021cca7c7a635518fb17ba06182caff711b60e1f4d7e1e5b8fb241ffd",
+  "recipes": [
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with careful studio staging photographic style, upper-right entry into a sweeping curve path composition, sea-glass green with golden haze coastal palette, soft diffusion from streetlamp pool, creating a luminous frame 15cd6cbd43eb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.15cd6cbd43eb",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-stopped-down-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-right-entry-into-a-sweeping-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-village-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sea-glass-green-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with careful studio staging photographic style, upper-right entry into a sweeping curve path composition, sea-glass green with golden haze coastal palette, soft diffusion from streetlamp pool, creating a luminous frame 15cd6cbd43eb"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with soft edge falloff photographic style, bottom-center entry into a rising diagonal path composition, slate blue with peach dawn coastal palette, crisp shadow edges from streetlamp pool, grazing textured surfaces 2920811d26fe"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.2920811d26fe",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-stopped-down-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bottom-center-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-shoreline-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-with-peach-dawn-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with soft edge falloff photographic style, bottom-center entry into a rising diagonal path composition, slate blue with peach dawn coastal palette, crisp shadow edges from streetlamp pool, grazing textured surfaces 2920811d26fe"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with soft edge falloff photographic style, left-edge entry into a S-curve path composition, harbor navy with coral sunset coastal palette, controlled high contrast from streetlamp pool, focused on the subject plane 2ac3d926cdc1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.2ac3d926cdc1",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-stopped-down-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.left-edge-entry-into-a-s-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.open-countryside-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-streetlamp-pool-focused-on-the-subject-pla"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.harbor-navy-with-coral-sunset-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with soft edge falloff photographic style, left-edge entry into a S-curve path composition, harbor navy with coral sunset coastal palette, controlled high contrast from streetlamp pool, focused on the subject plane 2ac3d926cdc1"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with luminous highlights photographic style, top-center entry into a spiral inward path composition, stormwater gray with fog white coastal palette, soft diffusion from streetlamp pool, falling off into shadow 3b1daccf0db8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.3b1daccf0db8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.top-center-entry-into-a-spiral-inward-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-shoreline-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.stormwater-gray-with-fog-white-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-luminous-highlights-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with luminous highlights photographic style, top-center entry into a spiral inward path composition, stormwater gray with fog white coastal palette, soft diffusion from streetlamp pool, falling off into shadow 3b1daccf0db8"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with careful studio staging photographic style, left-edge entry into a spiral inward path composition, foam white with overcast silver coastal palette, soft diffusion from streetlamp pool, contained in a localized pool 3cb5042b6304"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.3cb5042b6304",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.left-edge-entry-into-a-spiral-inward-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.mountain-pass-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.foam-white-with-overcast-silver-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with careful studio staging photographic style, left-edge entry into a spiral inward path composition, foam white with overcast silver coastal palette, soft diffusion from streetlamp pool, contained in a localized pool 3cb5042b6304"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with fine surface grain photographic style, right-edge entry into a staggered step path composition, tidal teal with moonlit pearl coastal palette, controlled high contrast from streetlamp pool, broken by foreground shapes 4357e69e395e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.4357e69e395e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.right-edge-entry-into-a-staggered-step-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.open-countryside-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-streetlamp-pool-broken-by-foreground-shape"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tidal-teal-with-moonlit-pearl-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with fine surface grain photographic style, right-edge entry into a staggered step path composition, tidal teal with moonlit pearl coastal palette, controlled high contrast from streetlamp pool, broken by foreground shapes 4357e69e395e"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with toned highlight bloom photographic style, foreground entry into a rising diagonal path composition, slate blue with golden haze coastal palette, crisp shadow edges from streetlamp pool, layered across depth planes 542c386958ce"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.542c386958ce",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.city-boulevard-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-toned-highlight-bloom-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with toned highlight bloom photographic style, foreground entry into a rising diagonal path composition, slate blue with golden haze coastal palette, crisp shadow edges from streetlamp pool, layered across depth planes 542c386958ce"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with fine surface grain photographic style, near-center entry into a spiral inward path composition, slate blue with moonlit pearl coastal palette, soft diffusion from streetlamp pool, spilling into the background 5969e0fc0faf"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.5969e0fc0faf",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.near-center-entry-into-a-spiral-inward-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-shoreline-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-with-moonlit-pearl-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with fine surface grain photographic style, near-center entry into a spiral inward path composition, slate blue with moonlit pearl coastal palette, soft diffusion from streetlamp pool, spilling into the background 5969e0fc0faf"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with muted tonal range photographic style, lower-right entry into a spiral inward path composition, tidal teal with overcast silver coastal palette, soft diffusion from streetlamp pool, falling off into shadow 6946850b7d2c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.6946850b7d2c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-right-entry-into-a-spiral-inward-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.suburban-neighborhood-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tidal-teal-with-overcast-silver-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with muted tonal range photographic style, lower-right entry into a spiral inward path composition, tidal teal with overcast silver coastal palette, soft diffusion from streetlamp pool, falling off into shadow 6946850b7d2c"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with deep shadow detail photographic style, top-center entry into a rising diagonal path composition, arctic blue with coral sunset coastal palette, gentle atmospheric bloom from streetlamp pool, grazing textured surfaces 86f2c17f9a93"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.86f2c17f9a93",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-stopped-down-aperture-controlled-highlight-bl"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.top-center-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.mountain-pass-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-streetlamp-pool-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.arctic-blue-with-coral-sunset-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with deep shadow detail photographic style, top-center entry into a rising diagonal path composition, arctic blue with coral sunset coastal palette, gentle atmospheric bloom from streetlamp pool, grazing textured surfaces 86f2c17f9a93"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with deep shadow detail photographic style, bottom-center entry into a S-curve path composition, arctic blue with overcast silver coastal palette, crisp shadow edges from streetlamp pool, spilling into the background 95fce7d56410"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.95fce7d56410",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-mid-range-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bottom-center-entry-into-a-s-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.desert-highway-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.arctic-blue-with-overcast-silver-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with deep shadow detail photographic style, bottom-center entry into a S-curve path composition, arctic blue with overcast silver coastal palette, crisp shadow edges from streetlamp pool, spilling into the background 95fce7d56410"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with deep shadow detail photographic style, bottom-center entry into a falling diagonal path composition, stormwater gray with moonlit pearl coastal palette, controlled high contrast from streetlamp pool, contained in a localized pool 9b5e5b22a1cf"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.9b5e5b22a1cf",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bottom-center-entry-into-a-falling-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.suburban-neighborhood-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-streetlamp-pool-contained-in-a-localized-p"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.stormwater-gray-with-moonlit-pearl-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with deep shadow detail photographic style, bottom-center entry into a falling diagonal path composition, stormwater gray with moonlit pearl coastal palette, controlled high contrast from streetlamp pool, contained in a localized pool 9b5e5b22a1cf"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with toned highlight bloom photographic style, off-frame entry into a S-curve path composition, moonlit indigo with coral sunset coastal palette, soft diffusion from streetlamp pool, focused on the subject plane a75e66d67af8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.a75e66d67af8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.off-frame-entry-into-a-s-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-village-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.moonlit-indigo-with-coral-sunset-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-toned-highlight-bloom-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with toned highlight bloom photographic style, off-frame entry into a S-curve path composition, moonlit indigo with coral sunset coastal palette, soft diffusion from streetlamp pool, focused on the subject plane a75e66d67af8"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with deep shadow detail photographic style, background entry into a rising diagonal path composition, sea-glass green with storm violet coastal palette, controlled high contrast from streetlamp pool, broken by foreground shapes ab102fa1d2c0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.ab102fa1d2c0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-mid-range-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.background-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.open-countryside-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-streetlamp-pool-broken-by-foreground-shape"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sea-glass-green-with-storm-violet-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with deep shadow detail photographic style, background entry into a rising diagonal path composition, sea-glass green with storm violet coastal palette, controlled high contrast from streetlamp pool, broken by foreground shapes ab102fa1d2c0"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with muted tonal range photographic style, upper-right entry into a radial path composition, deep ocean blue with fog white coastal palette, soft diffusion from streetlamp pool, spilling into the background b2b52e58a5c4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.b2b52e58a5c4",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.upper-right-entry-into-a-radial-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-village-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-ocean-blue-with-fog-white-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with muted tonal range photographic style, upper-right entry into a radial path composition, deep ocean blue with fog white coastal palette, soft diffusion from streetlamp pool, spilling into the background b2b52e58a5c4"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with soft edge falloff photographic style, foreground entry into a radial path composition, stormwater gray with peach dawn coastal palette, controlled high contrast from streetlamp pool, contained in a localized pool bc470787d6ea"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.bc470787d6ea",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-entry-into-a-radial-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.river-valley-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-streetlamp-pool-contained-in-a-localized-p"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.stormwater-gray-with-peach-dawn-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with soft edge falloff photographic style, foreground entry into a radial path composition, stormwater gray with peach dawn coastal palette, controlled high contrast from streetlamp pool, contained in a localized pool bc470787d6ea"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with fine surface grain photographic style, bottom-center entry into a falling diagonal path composition, stormwater gray with fog white coastal palette, soft diffusion from streetlamp pool, spilling into the background bc9710d4d793"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.bc9710d4d793",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bottom-center-entry-into-a-falling-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.river-valley-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.stormwater-gray-with-fog-white-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with fine surface grain photographic style, bottom-center entry into a falling diagonal path composition, stormwater gray with fog white coastal palette, soft diffusion from streetlamp pool, spilling into the background bc9710d4d793"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with fine surface grain photographic style, background entry into a staggered step path composition, deep ocean blue with coral sunset coastal palette, crisp shadow edges from streetlamp pool, creating a luminous frame caedccc81cc0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.caedccc81cc0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-mid-range-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.background-entry-into-a-staggered-step-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.city-boulevard-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-ocean-blue-with-coral-sunset-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with fine surface grain photographic style, background entry into a staggered step path composition, deep ocean blue with coral sunset coastal palette, crisp shadow edges from streetlamp pool, creating a luminous frame caedccc81cc0"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with soft edge falloff photographic style, foreground entry into a S-curve path composition, kelp green with clear cerulean coastal palette, soft diffusion from streetlamp pool, focused on the subject plane d9c44a9844a0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.d9c44a9844a0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-wide-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-entry-into-a-s-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-village-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.kelp-green-with-clear-cerulean-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with soft edge falloff photographic style, foreground entry into a S-curve path composition, kelp green with clear cerulean coastal palette, soft diffusion from streetlamp pool, focused on the subject plane d9c44a9844a0"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with deep shadow detail photographic style, near-center entry into a S-curve path composition, reef cyan with moonlit pearl coastal palette, soft diffusion from streetlamp pool, broken by foreground shapes dcb3c219d8e8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.dcb3c219d8e8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-stopped-down-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.near-center-entry-into-a-s-curve-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.desert-highway-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.reef-cyan-with-moonlit-pearl-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with deep shadow detail photographic style, near-center entry into a S-curve path composition, reef cyan with moonlit pearl coastal palette, soft diffusion from streetlamp pool, broken by foreground shapes dcb3c219d8e8"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with centered period framing photographic style, lower-right entry into a spiral inward path composition, tidal teal with overcast silver coastal palette, crisp shadow edges from streetlamp pool, focused on the subject plane de99bbcab945"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.de99bbcab945",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.lower-right-entry-into-a-spiral-inward-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.desert-highway-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.tidal-teal-with-overcast-silver-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with centered period framing photographic style, lower-right entry into a spiral inward path composition, tidal teal with overcast silver coastal palette, crisp shadow edges from streetlamp pool, focused on the subject plane de99bbcab945"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with careful studio staging photographic style, left-edge entry into a staggered step path composition, moonlit indigo with storm violet coastal palette, controlled high contrast from streetlamp pool, creating a luminous frame ec8e4fed32a3"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.ec8e4fed32a3",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-stopped-down-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.left-edge-entry-into-a-staggered-step-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-village-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-streetlamp-pool-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.moonlit-indigo-with-storm-violet-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with careful studio staging photographic style, left-edge entry into a staggered step path composition, moonlit indigo with storm violet coastal palette, controlled high contrast from streetlamp pool, creating a luminous frame ec8e4fed32a3"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with soft edge falloff photographic style, right-edge entry into a rising diagonal path composition, sea-glass green with golden haze coastal palette, soft diffusion from streetlamp pool, contained in a localized pool f87582c98cf2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.f87582c98cf2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-moderate-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.right-edge-entry-into-a-rising-diagonal-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.harbor-district-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-streetlamp-pool-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.sea-glass-green-with-golden-haze-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with soft edge falloff photographic style, right-edge entry into a rising diagonal path composition, sea-glass green with golden haze coastal palette, soft diffusion from streetlamp pool, contained in a localized pool f87582c98cf2"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "rainwashed blue hour featuring cross-processed film with fine surface grain photographic style, foreground entry into a staggered step path composition, harbor navy with storm violet coastal palette, crisp shadow edges from streetlamp pool, falling off into shadow ff3f81ec05db"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.rainwashed-blue-hour",
+      "familyTriggers": [
+        "rainwashed blue hour direction",
+        "blue-hour rain atmosphere",
+        "wet twilight street treatment"
+      ],
+      "id": "phase8.art.environment.rainwashed-blue-hour.ff3f81ec05db",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.35mm-documentary-lens-at-a-mid-range-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.foreground-entry-into-a-staggered-step-path-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-shoreline-under-light-rain-at-blue-hour"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-streetlamp-pool-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.harbor-navy-with-storm-violet-coastal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.cross-processed-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Rainwashed Blue Hour 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.rainwashed-blue-hour",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "rain-blue-hour reflections",
+        "wet twilight color",
+        "streetlamp rainfall depth"
+      ],
+      "triggers": [
+        "rainwashed blue hour featuring cross-processed film with fine surface grain photographic style, foreground entry into a staggered step path composition, harbor navy with storm violet coastal palette, crisp shadow edges from streetlamp pool, falling off into shadow ff3f81ec05db"
+      ],
+      "variantIndex": 14
+    }
+  ],
+  "schemaVersion": 2
+}

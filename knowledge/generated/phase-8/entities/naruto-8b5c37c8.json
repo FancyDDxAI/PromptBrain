@@ -1,0 +1,251 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Gaara",
+        "Gaara (Naruto)"
+      ],
+      "id": "character.naruto.gaara",
+      "kind": "named-character",
+      "name": "Gaara",
+      "namespace": "Naruto",
+      "promptTags": [
+        "Gaara",
+        "Naruto",
+        "male",
+        "shinobi leader"
+      ],
+      "provenance": {
+        "groupId": "naruto",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "shinobi",
+        "leader"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Hinata Hyuga",
+        "Hinata Hyuga (Naruto)"
+      ],
+      "id": "character.naruto.hinata-hyuga",
+      "kind": "named-character",
+      "name": "Hinata Hyuga",
+      "namespace": "Naruto",
+      "promptTags": [
+        "Hinata Hyuga",
+        "Naruto",
+        "female",
+        "ninja"
+      ],
+      "provenance": {
+        "groupId": "naruto",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "ninja"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Itachi Uchiha",
+        "Itachi Uchiha (Naruto)"
+      ],
+      "id": "character.naruto.itachi-uchiha",
+      "kind": "named-character",
+      "name": "Itachi Uchiha",
+      "namespace": "Naruto",
+      "promptTags": [
+        "Itachi Uchiha",
+        "Naruto",
+        "male",
+        "shinobi"
+      ],
+      "provenance": {
+        "groupId": "naruto",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "shinobi"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kakashi Hatake",
+        "Kakashi Hatake (Naruto)"
+      ],
+      "id": "character.naruto.kakashi-hatake",
+      "kind": "named-character",
+      "name": "Kakashi Hatake",
+      "namespace": "Naruto",
+      "promptTags": [
+        "Kakashi Hatake",
+        "Naruto",
+        "male",
+        "ninja mentor"
+      ],
+      "provenance": {
+        "groupId": "naruto",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "ninja",
+        "mentor"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Naruto Uzumaki",
+        "Naruto Uzumaki (Naruto)"
+      ],
+      "id": "character.naruto.naruto-uzumaki",
+      "kind": "named-character",
+      "name": "Naruto Uzumaki",
+      "namespace": "Naruto",
+      "promptTags": [
+        "Naruto Uzumaki",
+        "Naruto",
+        "male",
+        "ninja"
+      ],
+      "provenance": {
+        "groupId": "naruto",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "ninja"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Sakura Haruno",
+        "Sakura Haruno (Naruto)"
+      ],
+      "id": "character.naruto.sakura-haruno",
+      "kind": "named-character",
+      "name": "Sakura Haruno",
+      "namespace": "Naruto",
+      "promptTags": [
+        "Sakura Haruno",
+        "Naruto",
+        "female",
+        "medical ninja"
+      ],
+      "provenance": {
+        "groupId": "naruto",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "ninja",
+        "medic"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Sasuke Uchiha",
+        "Sasuke Uchiha (Naruto)"
+      ],
+      "id": "character.naruto.sasuke-uchiha",
+      "kind": "named-character",
+      "name": "Sasuke Uchiha",
+      "namespace": "Naruto",
+      "promptTags": [
+        "Sasuke Uchiha",
+        "Naruto",
+        "male",
+        "ninja"
+      ],
+      "provenance": {
+        "groupId": "naruto",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "ninja",
+        "rival"
+      ]
+    }
+  ],
+  "fingerprint": "86ead0513fffb57a97ca71402749d821ad213b5001e8a1c0c0a4dd4aa9cc4a74",
+  "namespace": "Naruto",
+  "schemaVersion": 2
+}

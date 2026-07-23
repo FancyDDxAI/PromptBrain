@@ -1,0 +1,1784 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.environment.untouched-highland-expanse",
+  "fingerprint": "c5660a518557d062bea22b8ef4292f496fa6f954ac6860c1d7ca40004edee772",
+  "recipes": [
+    {
+      "aliases": [
+        "untouched highland expanse featuring digital impasto with precise small brushes painting style, reflective pool foreground with broken horizon landscape composition, loam olive with malachite green mineral-earth palette, diffused overcast light 029ac0c70233"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.029ac0c70233",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-stopped-down-aperture-controlled-highlight-blo"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflective-pool-foreground-with-broken-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-interlocking-terrain-layers-windswept-expansive-atmos"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.loam-olive-with-malachite-green-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring digital impasto with precise small brushes painting style, reflective pool foreground with broken horizon landscape composition, loam olive with malachite green mineral-earth palette, diffused overcast light 029ac0c70233"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring casein paint with broad flat strokes painting style, reflective pool foreground with tilted horizon landscape composition, raw umber with azurite blue mineral-earth palette, diffused overcast light 182b89ab0613"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.182b89ab0613",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-stopped-down-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflective-pool-foreground-with-tilted-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-an-elevated-overlook-crisp-documentary-atmosphere"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.raw-umber-with-azurite-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.casein-paint-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring casein paint with broad flat strokes painting style, reflective pool foreground with tilted horizon landscape composition, raw umber with azurite blue mineral-earth palette, diffused overcast light 182b89ab0613"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring casein paint with dry textured strokes painting style, shoreline stones foreground with hidden horizon landscape composition, chalk white with malachite green mineral-earth palette, diffused overcast light 1de555d8a64d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.1de555d8a64d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.shoreline-stones-foreground-with-hidden-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-foreground-native-vegetation-quiet-untouched-atmosphe"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.chalk-white-with-malachite-green-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.casein-paint-with-dry-textured-strokes-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring casein paint with dry textured strokes painting style, shoreline stones foreground with hidden horizon landscape composition, chalk white with malachite green mineral-earth palette, diffused overcast light 1de555d8a64d"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring transparent watercolor with scumbled highlights painting style, snow bank foreground with broken horizon landscape composition, loam olive with fluorite violet mineral-earth palette, diffused overcast light 27f7f022f1a7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.27f7f022f1a7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-wide-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.snow-bank-foreground-with-broken-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-an-uninterrupted-sky-corridor-quiet-untouched-atmosph"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.loam-olive-with-fluorite-violet-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring transparent watercolor with scumbled highlights painting style, snow bank foreground with broken horizon landscape composition, loam olive with fluorite violet mineral-earth palette, diffused overcast light 27f7f022f1a7"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring digital impasto with visible underpainting painting style, rooftop edge foreground with low horizon landscape composition, peat brown with pyrite gold mineral-earth palette, diffused overcast light 396b9657bfcc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.396b9657bfcc",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-mid-range-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.rooftop-edge-foreground-with-low-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-layered-midground-landforms-quiet-untouched-atmospher"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peat-brown-with-pyrite-gold-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring digital impasto with visible underpainting painting style, rooftop edge foreground with low horizon landscape composition, peat brown with pyrite gold mineral-earth palette, diffused overcast light 396b9657bfcc"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring encaustic wax with graphic shape blocking painting style, flower cluster foreground with tilted horizon landscape composition, raw umber with turquoise blue mineral-earth palette, diffused overcast light 4a7b136619af"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.4a7b136619af",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-stopped-down-aperture-neutral-optical-renderin"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.flower-cluster-foreground-with-tilted-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-distant-horizon-ridges-windswept-expansive-atmosphere"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.raw-umber-with-turquoise-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.encaustic-wax-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring encaustic wax with graphic shape blocking painting style, flower cluster foreground with tilted horizon landscape composition, raw umber with turquoise blue mineral-earth palette, diffused overcast light 4a7b136619af"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring transparent watercolor with graphic shape blocking painting style, wild grass foreground with low horizon landscape composition, chalk white with azurite blue mineral-earth palette, diffused overcast light 500989678d4e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.500989678d4e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-wide-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wild-grass-foreground-with-low-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-an-open-central-clearing-quiet-untouched-atmosphere"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.chalk-white-with-azurite-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring transparent watercolor with graphic shape blocking painting style, wild grass foreground with low horizon landscape composition, chalk white with azurite blue mineral-earth palette, diffused overcast light 500989678d4e"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring matte airbrush with precise small brushes painting style, ruin fragment foreground with low horizon landscape composition, red sandstone with cinnabar red mineral-earth palette, diffused overcast light 505c6f7691fc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.505c6f7691fc",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-wide-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.ruin-fragment-foreground-with-low-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-an-open-central-clearing-quiet-untouched-atmosphere"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.red-sandstone-with-cinnabar-red-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.matte-airbrush-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring matte airbrush with precise small brushes painting style, ruin fragment foreground with low horizon landscape composition, red sandstone with cinnabar red mineral-earth palette, diffused overcast light 505c6f7691fc"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring opaque gouache with graphic shape blocking painting style, wild grass foreground with low horizon landscape composition, terracotta with malachite green mineral-earth palette, diffused overcast light 6202b8a1f5e5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.6202b8a1f5e5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-stopped-down-aperture-controlled-highlight-blo"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wild-grass-foreground-with-low-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-distant-horizon-ridges-quiet-untouched-atmosphere"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.terracotta-with-malachite-green-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring opaque gouache with graphic shape blocking painting style, wild grass foreground with low horizon landscape composition, terracotta with malachite green mineral-earth palette, diffused overcast light 6202b8a1f5e5"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring egg tempera with layered translucent marks painting style, ruin fragment foreground with low horizon landscape composition, peat brown with malachite green mineral-earth palette, diffused overcast light 63d78b10bf06"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.63d78b10bf06",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-stopped-down-aperture-neutral-optical-renderin"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.ruin-fragment-foreground-with-low-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-broad-foreground-terrain-crisp-documentary-atmosphere"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peat-brown-with-malachite-green-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring egg tempera with layered translucent marks painting style, ruin fragment foreground with low horizon landscape composition, peat brown with malachite green mineral-earth palette, diffused overcast light 63d78b10bf06"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring fresco pigment with layered translucent marks painting style, fence line foreground with centered horizon landscape composition, chalk white with cinnabar red mineral-earth palette, diffused overcast light 697ec66b5c1f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.697ec66b5c1f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-wide-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.fence-line-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-an-elevated-overlook-crisp-documentary-atmosphere"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.chalk-white-with-cinnabar-red-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fresco-pigment-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring fresco pigment with layered translucent marks painting style, fence line foreground with centered horizon landscape composition, chalk white with cinnabar red mineral-earth palette, diffused overcast light 697ec66b5c1f"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring opaque gouache with scumbled highlights painting style, reflective pool foreground with tilted horizon landscape composition, volcanic black with cinnabar red mineral-earth palette, diffused overcast light 747f507861c7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.747f507861c7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-moderate-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflective-pool-foreground-with-tilted-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-distant-horizon-ridges-quiet-untouched-atmosphere"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.volcanic-black-with-cinnabar-red-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring opaque gouache with scumbled highlights painting style, reflective pool foreground with tilted horizon landscape composition, volcanic black with cinnabar red mineral-earth palette, diffused overcast light 747f507861c7"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring fresco pigment with precise small brushes painting style, ruin fragment foreground with layered horizon landscape composition, ochre clay with malachite green mineral-earth palette, diffused overcast light 8398cfd6f8ad"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.8398cfd6f8ad",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-mid-range-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.ruin-fragment-foreground-with-layered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-interlocking-terrain-layers-crisp-documentary-atmosph"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ochre-clay-with-malachite-green-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fresco-pigment-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring fresco pigment with precise small brushes painting style, ruin fragment foreground with layered horizon landscape composition, ochre clay with malachite green mineral-earth palette, diffused overcast light 8398cfd6f8ad"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring acrylic wash with scumbled highlights painting style, archway foreground with hidden horizon landscape composition, loam olive with quartz white mineral-earth palette, diffused overcast light 93c74aef5250"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.93c74aef5250",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-wide-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.archway-foreground-with-hidden-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-winding-natural-leading-lines-windswept-expansive-atm"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.loam-olive-with-quartz-white-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.acrylic-wash-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring acrylic wash with scumbled highlights painting style, archway foreground with hidden horizon landscape composition, loam olive with quartz white mineral-earth palette, diffused overcast light 93c74aef5250"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring poster paint with precise small brushes painting style, fence line foreground with high horizon landscape composition, chalk white with malachite green mineral-earth palette, diffused overcast light a04a6cc906c8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.a04a6cc906c8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-mid-range-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.fence-line-foreground-with-high-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-interlocking-terrain-layers-quiet-untouched-atmospher"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.chalk-white-with-malachite-green-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.poster-paint-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring poster paint with precise small brushes painting style, fence line foreground with high horizon landscape composition, chalk white with malachite green mineral-earth palette, diffused overcast light a04a6cc906c8"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring digital impasto with layered translucent marks painting style, fence line foreground with broken horizon landscape composition, red sandstone with mica silver mineral-earth palette, diffused overcast light a76dd5222d42"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.a76dd5222d42",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-wide-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.fence-line-foreground-with-broken-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-scattered-rock-accents-quiet-untouched-atmosphere"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.red-sandstone-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring digital impasto with layered translucent marks painting style, fence line foreground with broken horizon landscape composition, red sandstone with mica silver mineral-earth palette, diffused overcast light a76dd5222d42"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring egg tempera with precise small brushes painting style, fence line foreground with broken horizon landscape composition, basalt gray with mica silver mineral-earth palette, diffused overcast light b944936c2a69"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.b944936c2a69",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-wide-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.fence-line-foreground-with-broken-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-scattered-rock-accents-crisp-documentary-atmosphere"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.basalt-gray-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring egg tempera with precise small brushes painting style, fence line foreground with broken horizon landscape composition, basalt gray with mica silver mineral-earth palette, diffused overcast light b944936c2a69"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring encaustic wax with graphic shape blocking painting style, reflective pool foreground with layered horizon landscape composition, adobe orange with quartz white mineral-earth palette, diffused overcast light c1adea653ab9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.c1adea653ab9",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-moderate-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflective-pool-foreground-with-layered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-distant-horizon-ridges-crisp-documentary-atmosphere"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.adobe-orange-with-quartz-white-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.encaustic-wax-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring encaustic wax with graphic shape blocking painting style, reflective pool foreground with layered horizon landscape composition, adobe orange with quartz white mineral-earth palette, diffused overcast light c1adea653ab9"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring opaque gouache with graphic shape blocking painting style, fence line foreground with hidden horizon landscape composition, loam olive with pyrite gold mineral-earth palette, diffused overcast light c50711ce1670"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.c50711ce1670",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-stopped-down-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.fence-line-foreground-with-hidden-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-an-open-central-clearing-crisp-documentary-atmosphere"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.loam-olive-with-pyrite-gold-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring opaque gouache with graphic shape blocking painting style, fence line foreground with hidden horizon landscape composition, loam olive with pyrite gold mineral-earth palette, diffused overcast light c50711ce1670"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring casein paint with scumbled highlights painting style, fence line foreground with centered horizon landscape composition, peat brown with turquoise blue mineral-earth palette, diffused overcast light c6e802e0602a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.c6e802e0602a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-stopped-down-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.fence-line-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-interlocking-terrain-layers-windswept-expansive-atmos"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peat-brown-with-turquoise-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.casein-paint-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring casein paint with scumbled highlights painting style, fence line foreground with centered horizon landscape composition, peat brown with turquoise blue mineral-earth palette, diffused overcast light c6e802e0602a"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring opaque gouache with soft blended edges painting style, snow bank foreground with hidden horizon landscape composition, loam olive with azurite blue mineral-earth palette, diffused overcast light df05ca68e9de"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.df05ca68e9de",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-stopped-down-aperture-neutral-optical-renderin"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.snow-bank-foreground-with-hidden-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-interlocking-terrain-layers-crisp-documentary-atmosph"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.loam-olive-with-azurite-blue-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.opaque-gouache-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring opaque gouache with soft blended edges painting style, snow bank foreground with hidden horizon landscape composition, loam olive with azurite blue mineral-earth palette, diffused overcast light df05ca68e9de"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring digital impasto with dry textured strokes painting style, fence line foreground with mist-softened horizon landscape composition, adobe orange with mica silver mineral-earth palette, diffused overcast light f024d5c119a2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.f024d5c119a2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-wide-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.fence-line-foreground-with-mist-softened-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-interlocking-terrain-layers-crisp-documentary-atmosph"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.adobe-orange-with-mica-silver-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.digital-impasto-with-dry-textured-strokes-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring digital impasto with dry textured strokes painting style, fence line foreground with mist-softened horizon landscape composition, adobe orange with mica silver mineral-earth palette, diffused overcast light f024d5c119a2"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring egg tempera with dry textured strokes painting style, path bend foreground with tilted horizon landscape composition, basalt gray with quartz white mineral-earth palette, diffused overcast light fc42a12e502c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.fc42a12e502c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-mid-range-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.path-bend-foreground-with-tilted-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-foreground-native-vegetation-crisp-documentary-atmosp"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.basalt-gray-with-quartz-white-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-dry-textured-strokes-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring egg tempera with dry textured strokes painting style, path bend foreground with tilted horizon landscape composition, basalt gray with quartz white mineral-earth palette, diffused overcast light fc42a12e502c"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "untouched highland expanse featuring poster paint with soft blended edges painting style, snow bank foreground with layered horizon landscape composition, adobe orange with quartz white mineral-earth palette, diffused overcast light fea0ebabe41d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.untouched-highland-expanse",
+      "familyTriggers": [
+        "untouched highland expanse direction",
+        "windswept moor panorama",
+        "open highland wilderness treatment"
+      ],
+      "id": "phase8.art.environment.untouched-highland-expanse.fea0ebabe41d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.21mm-wide-angle-lens-at-a-wide-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.snow-bank-foreground-with-layered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-moor-with-distant-horizon-ridges-crisp-documentary-atmosphere"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.adobe-orange-with-quartz-white-mineral-earth-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.poster-paint-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Untouched Highland Expanse 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.untouched-highland-expanse",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "moorland horizon breadth",
+        "mineral highland color",
+        "untouched wide-terrain scale"
+      ],
+      "triggers": [
+        "untouched highland expanse featuring poster paint with soft blended edges painting style, snow bank foreground with layered horizon landscape composition, adobe orange with quartz white mineral-earth palette, diffused overcast light fea0ebabe41d"
+      ],
+      "variantIndex": 18
+    }
+  ],
+  "schemaVersion": 2
+}

@@ -1,0 +1,213 @@
+{
+  "count": 6,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Eisen",
+        "Eisen (Frieren: Beyond Journey's End)"
+      ],
+      "id": "character.frieren.eisen",
+      "kind": "named-character",
+      "name": "Eisen",
+      "namespace": "Frieren: Beyond Journey's End",
+      "promptTags": [
+        "Eisen",
+        "Frieren: Beyond Journey's End",
+        "male",
+        "dwarf warrior"
+      ],
+      "provenance": {
+        "groupId": "frieren",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "dwarf",
+        "warrior"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Fern (Frieren: Beyond Journey's End)"
+      ],
+      "id": "character.frieren.fern",
+      "kind": "named-character",
+      "name": "Fern (Frieren: Beyond Journey's End)",
+      "namespace": "Frieren: Beyond Journey's End",
+      "promptTags": [
+        "Fern",
+        "Frieren: Beyond Journey's End",
+        "female",
+        "mage"
+      ],
+      "provenance": {
+        "groupId": "frieren",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "mage"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Frieren",
+        "Frieren (Beyond Journey's End)"
+      ],
+      "id": "character.frieren.frieren",
+      "kind": "named-character",
+      "name": "Frieren",
+      "namespace": "Frieren: Beyond Journey's End",
+      "promptTags": [
+        "Frieren",
+        "Frieren: Beyond Journey's End",
+        "female",
+        "elf mage"
+      ],
+      "provenance": {
+        "groupId": "frieren",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "protagonist",
+        "elf",
+        "mage"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Heiter",
+        "Heiter (Frieren: Beyond Journey's End)"
+      ],
+      "id": "character.frieren.heiter",
+      "kind": "named-character",
+      "name": "Heiter",
+      "namespace": "Frieren: Beyond Journey's End",
+      "promptTags": [
+        "Heiter",
+        "Frieren: Beyond Journey's End",
+        "male",
+        "priest"
+      ],
+      "provenance": {
+        "groupId": "frieren",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "priest"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Himmel",
+        "Himmel (Frieren: Beyond Journey's End)"
+      ],
+      "id": "character.frieren.himmel",
+      "kind": "named-character",
+      "name": "Himmel",
+      "namespace": "Frieren: Beyond Journey's End",
+      "promptTags": [
+        "Himmel",
+        "Frieren: Beyond Journey's End",
+        "male",
+        "hero"
+      ],
+      "provenance": {
+        "groupId": "frieren",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "hero"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Stark (Frieren: Beyond Journey's End)"
+      ],
+      "id": "character.frieren.stark",
+      "kind": "named-character",
+      "name": "Stark (Frieren: Beyond Journey's End)",
+      "namespace": "Frieren: Beyond Journey's End",
+      "promptTags": [
+        "Stark",
+        "Frieren: Beyond Journey's End",
+        "male",
+        "warrior"
+      ],
+      "provenance": {
+        "groupId": "frieren",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "warrior"
+      ]
+    }
+  ],
+  "fingerprint": "f904a5d6a2b986bc647b904c4629c69fdc8c045a5ba871545b7fbf243384c7e0",
+  "namespace": "Frieren: Beyond Journey's End",
+  "schemaVersion": 2
+}

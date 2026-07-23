@@ -1,0 +1,1904 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+  "fingerprint": "67c06c4e64aa8f0e9699abdba21fbb14af756e4f069ce62903e73358844ac5ab",
+  "recipes": [
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with cinematic layout design style, full-length portrait with upper negative space composition, black-cherry shadows with coral highlights cinematic palette, crisp shadow edges from softbox array, creating a luminous frame 04ab527fa157"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.04ab527fa157",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-left-weighted-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-upper-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-layered-furniture-arrangement-calm-inhabited-atmosph"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.black-cherry-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-cinematic-layout-design-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-deep-red-mohair-blend-double-breasted-two-pi"
+        ]
+      },
+      "name": "Tailored Studio Authority 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with cinematic layout design style, full-length portrait with upper negative space composition, black-cherry shadows with coral highlights cinematic palette, crisp shadow edges from softbox array, creating a luminous frame 04ab527fa157"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with rough expressive lines style, full-length portrait with off-axis tension composition, olive shadows with lemon highlights cinematic palette, gentle atmospheric bloom from softbox array, falling off into shadow 223807f04f37"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.223807f04f37",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-centered-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-repeating-structural-rhythm-polished-editorial-atmos"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-shadows-with-lemon-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-rough-expressive-lines-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-brown-cotton-twill-relaxed-unstructured-summ"
+        ]
+      },
+      "name": "Tailored Studio Authority 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with rough expressive lines style, full-length portrait with off-axis tension composition, olive shadows with lemon highlights cinematic palette, gentle atmospheric bloom from softbox array, falling off into shadow 223807f04f37"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with bold shape language style, full-length portrait with diagonal counterweight composition, slate-blue shadows with rose highlights cinematic palette, controlled high contrast from softbox array, falling off into shadow 318bce1bf8de"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.318bce1bf8de",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-frame-within-frame-composition-with-observational-distanc"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-diagonal-counterweight-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-balanced-functional-clutter-calm-inhabited-atmospher"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-bold-shape-language-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-brown-cotton-twill-double-breasted-two-piece"
+        ]
+      },
+      "name": "Tailored Studio Authority 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with bold shape language style, full-length portrait with diagonal counterweight composition, slate-blue shadows with rose highlights cinematic palette, controlled high contrast from softbox array, falling off into shadow 318bce1bf8de"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with bold shape language style, full-length portrait with left-weighted balance composition, umber shadows with coral highlights cinematic palette, gentle atmospheric bloom from softbox array, spilling into the background 36ac4dd17d08"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.36ac4dd17d08",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-right-weighted-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-left-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-repeating-structural-rhythm-warm-observational-atmos"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.umber-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-bold-shape-language-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-forest-green-flannel-cropped-jacket-and-wide"
+        ]
+      },
+      "name": "Tailored Studio Authority 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with bold shape language style, full-length portrait with left-weighted balance composition, umber shadows with coral highlights cinematic palette, gentle atmospheric bloom from softbox array, spilling into the background 36ac4dd17d08"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with cinematic layout design style, full-length portrait with upper negative space composition, burgundy shadows with cyan highlights cinematic palette, gentle atmospheric bloom from softbox array, falling off into shadow 4e8f86636b38"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.4e8f86636b38",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-foreground-framed-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-upper-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-an-intimate-corner-composition-calm-inhabited-atmosp"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-shadows-with-cyan-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-cinematic-layout-design-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-silver-gray-recycled-suiting-double-breasted"
+        ]
+      },
+      "name": "Tailored Studio Authority 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with cinematic layout design style, full-length portrait with upper negative space composition, burgundy shadows with cyan highlights cinematic palette, gentle atmospheric bloom from softbox array, falling off into shadow 4e8f86636b38"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with bold shape language style, full-length portrait with left-weighted balance composition, teal shadows with copper highlights cinematic palette, crisp shadow edges from softbox array, broken by foreground shapes 51356420b528"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.51356420b528",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-centered-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-left-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-repeating-structural-rhythm-polished-editorial-atmos"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-bold-shape-language-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-warm-gray-sharkskin-wool-collarless-jacket-a"
+        ]
+      },
+      "name": "Tailored Studio Authority 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with bold shape language style, full-length portrait with left-weighted balance composition, teal shadows with copper highlights cinematic palette, crisp shadow edges from softbox array, broken by foreground shapes 51356420b528"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with delicate color accents style, full-length portrait with right-weighted balance composition, teal shadows with coral highlights cinematic palette, controlled high contrast from softbox array, creating a luminous frame 5487232a854a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.5487232a854a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-right-weighted-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-right-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-an-intimate-corner-composition-warm-observational-at"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-delicate-color-accents-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-midnight-navy-barathea-safari-jacket-and-ple"
+        ]
+      },
+      "name": "Tailored Studio Authority 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with delicate color accents style, full-length portrait with right-weighted balance composition, teal shadows with coral highlights cinematic palette, controlled high contrast from softbox array, creating a luminous frame 5487232a854a"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with bold shape language style, full-length portrait with diagonal counterweight composition, forest-green shadows with mint highlights cinematic palette, soft diffusion from softbox array, layered across depth planes 719b2925f787"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.719b2925f787",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-foreground-framed-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-diagonal-counterweight-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-a-clear-central-walkway-warm-observational-atmospher"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-green-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-bold-shape-language-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-ivory-linen-blend-safari-jacket-and-pleated-"
+        ]
+      },
+      "name": "Tailored Studio Authority 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with bold shape language style, full-length portrait with diagonal counterweight composition, forest-green shadows with mint highlights cinematic palette, soft diffusion from softbox array, layered across depth planes 719b2925f787"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with rough expressive lines style, full-length portrait with centered balance composition, burgundy shadows with mint highlights cinematic palette, gentle atmospheric bloom from softbox array, creating a luminous frame 7bb20f4224e1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.7bb20f4224e1",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-left-weighted-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-centered-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-balanced-functional-clutter-calm-inhabited-atmospher"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-rough-expressive-lines-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-warm-gray-sharkskin-wool-safari-jacket-and-p"
+        ]
+      },
+      "name": "Tailored Studio Authority 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with rough expressive lines style, full-length portrait with centered balance composition, burgundy shadows with mint highlights cinematic palette, gentle atmospheric bloom from softbox array, creating a luminous frame 7bb20f4224e1"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with clean key poses style, full-length portrait with diagonal counterweight composition, violet shadows with rose highlights cinematic palette, gentle atmospheric bloom from softbox array, grazing textured surfaces 7e54de5b1ede"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.7e54de5b1ede",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-centered-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-diagonal-counterweight-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-foreground-object-framing-calm-inhabited-atmosphere"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-clean-key-poses-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-silver-gray-recycled-suiting-three-piece-sui"
+        ]
+      },
+      "name": "Tailored Studio Authority 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with clean key poses style, full-length portrait with diagonal counterweight composition, violet shadows with rose highlights cinematic palette, gentle atmospheric bloom from softbox array, grazing textured surfaces 7e54de5b1ede"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with flat painted shadows style, full-length portrait with lower visual anchor composition, forest-green shadows with lemon highlights cinematic palette, controlled high contrast from softbox array, contained in a localized pool 859ffe848021"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.859ffe848021",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-left-weighted-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-lower-visual-anchor-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-deep-room-perspective-warm-observational-atmosphere"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-contained-in-a-localized-poo"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-green-shadows-with-lemon-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-flat-painted-shadows-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-plum-velvet-relaxed-unstructured-summer-suit"
+        ]
+      },
+      "name": "Tailored Studio Authority 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with flat painted shadows style, full-length portrait with lower visual anchor composition, forest-green shadows with lemon highlights cinematic palette, controlled high contrast from softbox array, contained in a localized pool 859ffe848021"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with bold shape language style, full-length portrait with mirrored side balance composition, indigo shadows with pearl highlights cinematic palette, controlled high contrast from softbox array, contained in a localized pool 887045f0cdea"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.887045f0cdea",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-layered-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-mirrored-side-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-deep-room-perspective-polished-editorial-atmosphere"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-contained-in-a-localized-poo"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-shadows-with-pearl-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-bold-shape-language-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-black-and-white-micro-check-wool-relaxed-uns"
+        ]
+      },
+      "name": "Tailored Studio Authority 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with bold shape language style, full-length portrait with mirrored side balance composition, indigo shadows with pearl highlights cinematic palette, controlled high contrast from softbox array, contained in a localized pool 887045f0cdea"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with rough expressive lines style, full-length portrait with upper negative space composition, forest-green shadows with copper highlights cinematic palette, crisp shadow edges from softbox array, broken by foreground shapes 8f293ae6b18e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.8f293ae6b18e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-centered-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-upper-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-balanced-functional-clutter-polished-editorial-atmos"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-green-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-rough-expressive-lines-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-black-wool-with-satin-facing-boxy-jacket-and"
+        ]
+      },
+      "name": "Tailored Studio Authority 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with rough expressive lines style, full-length portrait with upper negative space composition, forest-green shadows with copper highlights cinematic palette, crisp shadow edges from softbox array, broken by foreground shapes 8f293ae6b18e"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with rough expressive lines style, full-length portrait with diagonal counterweight composition, plum shadows with rose highlights cinematic palette, soft diffusion from softbox array, focused on the subject plane 9dafbd017a32"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.9dafbd017a32",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-frame-within-frame-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-diagonal-counterweight-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-repeating-structural-rhythm-warm-observational-atmos"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-rough-expressive-lines-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-cobalt-tropical-wool-safari-jacket-and-pleat"
+        ]
+      },
+      "name": "Tailored Studio Authority 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with rough expressive lines style, full-length portrait with diagonal counterweight composition, plum shadows with rose highlights cinematic palette, soft diffusion from softbox array, focused on the subject plane 9dafbd017a32"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with cinematic layout design style, full-length portrait with lower visual anchor composition, slate-blue shadows with pearl highlights cinematic palette, gentle atmospheric bloom from softbox array, spilling into the background b0262a331437"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.b0262a331437",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-negative-space-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-lower-visual-anchor-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-an-intimate-corner-composition-warm-observational-at"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-blue-shadows-with-pearl-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-cinematic-layout-design-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-warm-gray-sharkskin-wool-cropped-jacket-and-"
+        ]
+      },
+      "name": "Tailored Studio Authority 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with cinematic layout design style, full-length portrait with lower visual anchor composition, slate-blue shadows with pearl highlights cinematic palette, gentle atmospheric bloom from softbox array, spilling into the background b0262a331437"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with bold shape language style, full-length portrait with off-axis tension composition, plum shadows with copper highlights cinematic palette, controlled high contrast from softbox array, layered across depth planes b9c20ba09a92"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.b9c20ba09a92",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-negative-space-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-a-window-framed-focal-area-calm-inhabited-atmosphere"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-bold-shape-language-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-silver-gray-recycled-suiting-single-breasted"
+        ]
+      },
+      "name": "Tailored Studio Authority 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with bold shape language style, full-length portrait with off-axis tension composition, plum shadows with copper highlights cinematic palette, controlled high contrast from softbox array, layered across depth planes b9c20ba09a92"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with soft atmospheric backgrounds style, full-length portrait with centered balance composition, olive shadows with rose highlights cinematic palette, crisp shadow edges from softbox array, contained in a localized pool b9ce54a7a96e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.b9ce54a7a96e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-negative-space-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-centered-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-an-intimate-corner-composition-calm-inhabited-atmosp"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.olive-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-soft-atmospheric-backgrounds-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-cream-herringbone-linen-three-piece-suit-wit"
+        ]
+      },
+      "name": "Tailored Studio Authority 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with soft atmospheric backgrounds style, full-length portrait with centered balance composition, olive shadows with rose highlights cinematic palette, crisp shadow edges from softbox array, contained in a localized pool b9ce54a7a96e"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with soft atmospheric backgrounds style, full-length portrait with centered balance composition, burgundy shadows with coral highlights cinematic palette, controlled high contrast from softbox array, contained in a localized pool c1fddfb23934"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.c1fddfb23934",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-left-weighted-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-centered-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-an-intimate-corner-composition-polished-editorial-at"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-contained-in-a-localized-poo"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-soft-atmospheric-backgrounds-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-charcoal-pinstriped-worsted-wool-longline-bl"
+        ]
+      },
+      "name": "Tailored Studio Authority 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with soft atmospheric backgrounds style, full-length portrait with centered balance composition, burgundy shadows with coral highlights cinematic palette, controlled high contrast from softbox array, contained in a localized pool c1fddfb23934"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with delicate color accents style, full-length portrait with lower visual anchor composition, umber shadows with pearl highlights cinematic palette, controlled high contrast from softbox array, reflected from nearby surfaces c64513c158b7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.c64513c158b7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-symmetrical-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-lower-visual-anchor-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-strong-architectural-symmetry-calm-inhabited-atmosph"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-reflected-from-nearby-surfac"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.umber-shadows-with-pearl-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-delicate-color-accents-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-slate-blue-hopsack-double-breasted-two-piece"
+        ]
+      },
+      "name": "Tailored Studio Authority 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with delicate color accents style, full-length portrait with lower visual anchor composition, umber shadows with pearl highlights cinematic palette, controlled high contrast from softbox array, reflected from nearby surfaces c64513c158b7"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with flat painted shadows style, full-length portrait with centered balance composition, forest-green shadows with copper highlights cinematic palette, controlled high contrast from softbox array, falling off into shadow c6ccb41e9a8d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.c6ccb41e9a8d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-frame-within-frame-composition-with-observational-distanc"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-centered-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-deep-room-perspective-warm-observational-atmosphere"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-softbox-array-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-green-shadows-with-copper-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-flat-painted-shadows-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-sand-seersucker-collarless-jacket-and-straig"
+        ]
+      },
+      "name": "Tailored Studio Authority 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with flat painted shadows style, full-length portrait with centered balance composition, forest-green shadows with copper highlights cinematic palette, controlled high contrast from softbox array, falling off into shadow c6ccb41e9a8d"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with cinematic layout design style, full-length portrait with diagonal counterweight composition, burgundy shadows with rose highlights cinematic palette, crisp shadow edges from softbox array, layered across depth planes cc57096ec6a5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.cc57096ec6a5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-centered-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-diagonal-counterweight-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-layered-furniture-arrangement-polished-editorial-atm"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-shadows-with-rose-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-cinematic-layout-design-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-black-wool-with-satin-facing-collarless-jack"
+        ]
+      },
+      "name": "Tailored Studio Authority 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with cinematic layout design style, full-length portrait with diagonal counterweight composition, burgundy shadows with rose highlights cinematic palette, crisp shadow edges from softbox array, layered across depth planes cc57096ec6a5"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with cinematic layout design style, full-length portrait with mirrored side balance composition, teal shadows with coral highlights cinematic palette, gentle atmospheric bloom from softbox array, spilling into the background dca9ae60f246"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.dca9ae60f246",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-left-weighted-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-mirrored-side-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-a-clear-central-walkway-warm-observational-atmospher"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-softbox-array-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-coral-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-cinematic-layout-design-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-ivory-linen-blend-single-breasted-two-piece-"
+        ]
+      },
+      "name": "Tailored Studio Authority 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with cinematic layout design style, full-length portrait with mirrored side balance composition, teal shadows with coral highlights cinematic palette, gentle atmospheric bloom from softbox array, spilling into the background dca9ae60f246"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with soft atmospheric backgrounds style, full-length portrait with diagonal counterweight composition, teal shadows with lemon highlights cinematic palette, crisp shadow edges from softbox array, layered across depth planes e7c256899fb2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.e7c256899fb2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-layered-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-diagonal-counterweight-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-ceiling-to-floor-detail-polished-editorial-atmospher"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-softbox-array-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-shadows-with-lemon-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-soft-atmospheric-backgrounds-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-teal-wool-silk-blend-relaxed-unstructured-su"
+        ]
+      },
+      "name": "Tailored Studio Authority 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with soft atmospheric backgrounds style, full-length portrait with diagonal counterweight composition, teal shadows with lemon highlights cinematic palette, crisp shadow edges from softbox array, layered across depth planes e7c256899fb2"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "tailored studio authority featuring fashion editorial drawing with clean key poses style, full-length portrait with centered balance composition, violet shadows with mint highlights cinematic palette, soft diffusion from softbox array, creating a luminous frame eb73706af4a9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.wardrobe.tailored-studio-authority",
+      "familyTriggers": [
+        "tailored studio authority direction",
+        "suiting editorial command",
+        "museum-gallery tailoring story"
+      ],
+      "id": "phase8.art.wardrobe.tailored-studio-authority.eb73706af4a9",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.full-body-shot-symmetrical-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-centered-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.museum-gallery-with-a-window-framed-focal-area-calm-inhabited-atmosphere"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-softbox-array-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.violet-shadows-with-mint-highlights-cinematic-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.fashion-editorial-drawing-with-clean-key-poses-style"
+        ],
+        "wardrobe": [
+          "phase8.wardrobe.wardrobe.tailored-complete-outfit-in-cobalt-tropical-wool-tuxedo-dinner-suit-with"
+        ]
+      },
+      "name": "Tailored Studio Authority 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.wardrobe.tailored-studio-authority",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "wardrobe"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1,
+        "wardrobe": 1
+      },
+      "signals": [
+        "tailored full-look authority",
+        "softbox suiting polish",
+        "gallery editorial posture"
+      ],
+      "triggers": [
+        "tailored studio authority featuring fashion editorial drawing with clean key poses style, full-length portrait with centered balance composition, violet shadows with mint highlights cinematic palette, soft diffusion from softbox array, creating a luminous frame eb73706af4a9"
+      ],
+      "variantIndex": 23
+    }
+  ],
+  "schemaVersion": 2
+}

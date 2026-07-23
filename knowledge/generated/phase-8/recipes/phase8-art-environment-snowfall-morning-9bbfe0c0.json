@@ -1,0 +1,1784 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.environment.snowfall-morning",
+  "fingerprint": "b5232d5fa7c69cd0b4e062e8e12f7841364edafbaff78aaadcfb8effbbac6b9a",
+  "recipes": [
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with scumbled highlights painting style, ruin fragment foreground with centered horizon landscape composition, midwinter blue-gray with pearl highlight seasonal palette, diffused overcast light 05920f3a3704"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.05920f3a3704",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-wide-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.ruin-fragment-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.mountain-pass-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.midwinter-blue-gray-with-pearl-highlight-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with scumbled highlights painting style, ruin fragment foreground with centered horizon landscape composition, midwinter blue-gray with pearl highlight seasonal palette, diffused overcast light 05920f3a3704"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with graphic shape blocking painting style, fence line foreground with centered horizon landscape composition, dry-season ochre with hearth amber seasonal palette, diffused overcast light 0a250eef22fe"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.0a250eef22fe",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-wide-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.fence-line-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-shoreline-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dry-season-ochre-with-hearth-amber-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with graphic shape blocking painting style, fence line foreground with centered horizon landscape composition, dry-season ochre with hearth amber seasonal palette, diffused overcast light 0a250eef22fe"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with dry textured strokes painting style, shoreline stones foreground with layered horizon landscape composition, late-summer gold with leaf green seasonal palette, diffused overcast light 0b7e872a5b59"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.0b7e872a5b59",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.shoreline-stones-foreground-with-layered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.forest-clearing-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.late-summer-gold-with-leaf-green-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-dry-textured-strokes-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with dry textured strokes painting style, shoreline stones foreground with layered horizon landscape composition, late-summer gold with leaf green seasonal palette, diffused overcast light 0b7e872a5b59"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with graphic shape blocking painting style, rooftop edge foreground with low horizon landscape composition, dry-season ochre with sunlight yellow seasonal palette, diffused overcast light 116c99802be5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.116c99802be5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.rooftop-edge-foreground-with-low-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.harbor-district-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dry-season-ochre-with-sunlight-yellow-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with graphic shape blocking painting style, rooftop edge foreground with low horizon landscape composition, dry-season ochre with sunlight yellow seasonal palette, diffused overcast light 116c99802be5"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with soft blended edges painting style, reflective pool foreground with low horizon landscape composition, late-summer gold with berry red seasonal palette, diffused overcast light 1864fe0b67f8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.1864fe0b67f8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-mid-range-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflective-pool-foreground-with-low-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.city-boulevard-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.late-summer-gold-with-berry-red-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with soft blended edges painting style, reflective pool foreground with low horizon landscape composition, late-summer gold with berry red seasonal palette, diffused overcast light 1864fe0b67f8"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with visible underpainting painting style, wild grass foreground with hidden horizon landscape composition, early-spring green with hearth amber seasonal palette, diffused overcast light 1fbcdf30f0c0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.1fbcdf30f0c0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wild-grass-foreground-with-hidden-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.harbor-district-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.early-spring-green-with-hearth-amber-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with visible underpainting painting style, wild grass foreground with hidden horizon landscape composition, early-spring green with hearth amber seasonal palette, diffused overcast light 1fbcdf30f0c0"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with layered translucent marks painting style, reflective pool foreground with centered horizon landscape composition, early-autumn russet with snow white seasonal palette, diffused overcast light 356b3dc1ec07"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.356b3dc1ec07",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-neutral-optical-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflective-pool-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.forest-clearing-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.early-autumn-russet-with-snow-white-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with layered translucent marks painting style, reflective pool foreground with centered horizon landscape composition, early-autumn russet with snow white seasonal palette, diffused overcast light 356b3dc1ec07"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with precise small brushes painting style, snow bank foreground with low horizon landscape composition, late-spring blossom with hearth amber seasonal palette, diffused overcast light 3657931dc1f2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.3657931dc1f2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-mid-range-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.snow-bank-foreground-with-low-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.mountain-pass-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.late-spring-blossom-with-hearth-amber-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with precise small brushes painting style, snow bank foreground with low horizon landscape composition, late-spring blossom with hearth amber seasonal palette, diffused overcast light 3657931dc1f2"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with scumbled highlights painting style, wild grass foreground with hidden horizon landscape composition, late-autumn plum with berry red seasonal palette, diffused overcast light 39e38edfe148"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.39e38edfe148",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-mid-range-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wild-grass-foreground-with-hidden-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.harbor-district-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.late-autumn-plum-with-berry-red-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with scumbled highlights painting style, wild grass foreground with hidden horizon landscape composition, late-autumn plum with berry red seasonal palette, diffused overcast light 39e38edfe148"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with visible underpainting painting style, tree branch foreground with centered horizon landscape composition, late-spring blossom with twilight violet seasonal palette, diffused overcast light 3c0ce80489c3"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.3c0ce80489c3",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-mid-range-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.tree-branch-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.harbor-district-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.late-spring-blossom-with-twilight-violet-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with visible underpainting painting style, tree branch foreground with centered horizon landscape composition, late-spring blossom with twilight violet seasonal palette, diffused overcast light 3c0ce80489c3"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with broad flat strokes painting style, rooftop edge foreground with layered horizon landscape composition, monsoon teal with berry red seasonal palette, diffused overcast light 4563163a4662"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.4563163a4662",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.rooftop-edge-foreground-with-layered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-village-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.monsoon-teal-with-berry-red-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with broad flat strokes painting style, rooftop edge foreground with layered horizon landscape composition, monsoon teal with berry red seasonal palette, diffused overcast light 4563163a4662"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with scumbled highlights painting style, shoreline stones foreground with mist-softened horizon landscape composition, frost-season lavender with pearl highlight seasonal palette, diffused overcast light 5924d8bbd641"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.5924d8bbd641",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.shoreline-stones-foreground-with-mist-softened-horizon-landscape-composi"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.city-boulevard-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.frost-season-lavender-with-pearl-highlight-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with scumbled highlights painting style, shoreline stones foreground with mist-softened horizon landscape composition, frost-season lavender with pearl highlight seasonal palette, diffused overcast light 5924d8bbd641"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with graphic shape blocking painting style, wild grass foreground with centered horizon landscape composition, midsummer blue with snow white seasonal palette, diffused overcast light 887ac58e2bf0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.887ac58e2bf0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-mid-range-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wild-grass-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.harbor-district-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.midsummer-blue-with-snow-white-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with graphic shape blocking painting style, wild grass foreground with centered horizon landscape composition, midsummer blue with snow white seasonal palette, diffused overcast light 887ac58e2bf0"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with layered translucent marks painting style, rooftop edge foreground with broken horizon landscape composition, late-spring blossom with leaf green seasonal palette, diffused overcast light 92622b325563"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.92622b325563",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-wide-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.rooftop-edge-foreground-with-broken-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-village-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.late-spring-blossom-with-leaf-green-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with layered translucent marks painting style, rooftop edge foreground with broken horizon landscape composition, late-spring blossom with leaf green seasonal palette, diffused overcast light 92622b325563"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with dry textured strokes painting style, reflective pool foreground with hidden horizon landscape composition, early-autumn russet with pearl highlight seasonal palette, diffused overcast light 942e5214c795"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.942e5214c795",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-wide-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflective-pool-foreground-with-hidden-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.mountain-pass-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.early-autumn-russet-with-pearl-highlight-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-dry-textured-strokes-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with dry textured strokes painting style, reflective pool foreground with hidden horizon landscape composition, early-autumn russet with pearl highlight seasonal palette, diffused overcast light 942e5214c795"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with soft blended edges painting style, path bend foreground with broken horizon landscape composition, thaw-season brown with berry red seasonal palette, diffused overcast light 9ae52a925222"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.9ae52a925222",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-mid-range-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.path-bend-foreground-with-broken-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.suburban-neighborhood-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.thaw-season-brown-with-berry-red-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with soft blended edges painting style, path bend foreground with broken horizon landscape composition, thaw-season brown with berry red seasonal palette, diffused overcast light 9ae52a925222"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with visible underpainting painting style, wild grass foreground with broken horizon landscape composition, frost-season lavender with leaf green seasonal palette, diffused overcast light abf65a1bd77a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.abf65a1bd77a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wild-grass-foreground-with-broken-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-shoreline-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.frost-season-lavender-with-leaf-green-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with visible underpainting painting style, wild grass foreground with broken horizon landscape composition, frost-season lavender with leaf green seasonal palette, diffused overcast light abf65a1bd77a"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with scumbled highlights painting style, tree branch foreground with centered horizon landscape composition, midwinter blue-gray with rain silver seasonal palette, diffused overcast light acb2d6419c92"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.acb2d6419c92",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.tree-branch-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.mountain-pass-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.midwinter-blue-gray-with-rain-silver-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with scumbled highlights painting style, tree branch foreground with centered horizon landscape composition, midwinter blue-gray with rain silver seasonal palette, diffused overcast light acb2d6419c92"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with scumbled highlights painting style, reflective pool foreground with mist-softened horizon landscape composition, frost-season lavender with rain silver seasonal palette, diffused overcast light bee47d8555f9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.bee47d8555f9",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-mid-range-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflective-pool-foreground-with-mist-softened-horizon-landscape-composit"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.coastal-shoreline-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.frost-season-lavender-with-rain-silver-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with scumbled highlights painting style, reflective pool foreground with mist-softened horizon landscape composition, frost-season lavender with rain silver seasonal palette, diffused overcast light bee47d8555f9"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with scumbled highlights painting style, ruin fragment foreground with layered horizon landscape composition, dry-season ochre with twilight violet seasonal palette, diffused overcast light c7ab4bf5963a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.c7ab4bf5963a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.ruin-fragment-foreground-with-layered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-village-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dry-season-ochre-with-twilight-violet-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with scumbled highlights painting style, ruin fragment foreground with layered horizon landscape composition, dry-season ochre with twilight violet seasonal palette, diffused overcast light c7ab4bf5963a"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with broad flat strokes painting style, path bend foreground with tilted horizon landscape composition, early-spring green with berry red seasonal palette, diffused overcast light d8483ec0070c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.d8483ec0070c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-mid-range-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.path-bend-foreground-with-tilted-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.mountain-pass-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.early-spring-green-with-berry-red-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with broad flat strokes painting style, path bend foreground with tilted horizon landscape composition, early-spring green with berry red seasonal palette, diffused overcast light d8483ec0070c"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with layered translucent marks painting style, fence line foreground with broken horizon landscape composition, harvest orange with leaf green seasonal palette, diffused overcast light eac85b86a6bf"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.eac85b86a6bf",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.fence-line-foreground-with-broken-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.river-valley-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.harvest-orange-with-leaf-green-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with layered translucent marks painting style, fence line foreground with broken horizon landscape composition, harvest orange with leaf green seasonal palette, diffused overcast light eac85b86a6bf"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with soft blended edges painting style, tree branch foreground with tilted horizon landscape composition, late-spring blossom with pearl highlight seasonal palette, diffused overcast light fc82c25fc064"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.fc82c25fc064",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.tree-branch-foreground-with-tilted-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.open-countryside-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.late-spring-blossom-with-pearl-highlight-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with soft blended edges painting style, tree branch foreground with tilted horizon landscape composition, late-spring blossom with pearl highlight seasonal palette, diffused overcast light fc82c25fc064"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "snowfall morning featuring transparent watercolor with precise small brushes painting style, path bend foreground with centered horizon landscape composition, dry-season ochre with rain silver seasonal palette, diffused overcast light fe8f7bd7386e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.environment.snowfall-morning",
+      "familyTriggers": [
+        "snowfall morning direction",
+        "fresh-snow dawn atmosphere",
+        "watercolor winter morning"
+      ],
+      "id": "phase8.art.environment.snowfall-morning.fe8f7bd7386e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.path-bend-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.highland-village-during-fresh-snowfall-in-early-morning"
+        ],
+        "lighting": [
+          "curated.lighting.diffused-overcast-light"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dry-season-ochre-with-rain-silver-seasonal-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.transparent-watercolor-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Snowfall Morning 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.environment.snowfall-morning",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "morning snowfall softness",
+        "winter depth hush",
+        "snow-lit watercolor air"
+      ],
+      "triggers": [
+        "snowfall morning featuring transparent watercolor with precise small brushes painting style, path bend foreground with centered horizon landscape composition, dry-season ochre with rain silver seasonal palette, diffused overcast light fe8f7bd7386e"
+      ],
+      "variantIndex": 4
+    }
+  ],
+  "schemaVersion": 2
+}

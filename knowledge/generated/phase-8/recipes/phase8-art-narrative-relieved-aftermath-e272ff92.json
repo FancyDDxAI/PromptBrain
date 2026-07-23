@@ -1,0 +1,1904 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.narrative.relieved-aftermath",
+  "fingerprint": "eaeefd3ef17d61488a433b9008a10f45aa48efdcacddfefb04dbb1217ce15fed",
+  "recipes": [
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with scumbled highlights painting style, reclining portrait with left-weighted balance composition, cloud lavender with marigold accent soft-color palette, controlled high contrast from table lamp practical, creating a luminous frame 0f513820b97b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.0f513820b97b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reclining-portrait-with-left-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-balanced-functional-clutter-warm-observation"
+        ],
+        "expression": [
+          "curated.expression.quietly-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-table-lamp-practical-creating-a-luminous-f"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cloud-lavender-with-marigold-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with scumbled highlights painting style, reclining portrait with left-weighted balance composition, cloud lavender with marigold accent soft-color palette, controlled high contrast from table lamp practical, creating a luminous frame 0f513820b97b"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with dry textured strokes painting style, over-shoulder portrait with diagonal counterweight composition, lilac mist with raspberry accent soft-color palette, controlled high contrast from table lamp practical, layered across depth planes 14a09e144e49"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.14a09e144e49",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-mid-range-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.over-shoulder-portrait-with-diagonal-counterweight-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-strong-architectural-symmetry-calm-inhabited"
+        ],
+        "expression": [
+          "curated.expression.coldly-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-table-lamp-practical-layered-across-depth-"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lilac-mist-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-dry-textured-strokes-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with dry textured strokes painting style, over-shoulder portrait with diagonal counterweight composition, lilac mist with raspberry accent soft-color palette, controlled high contrast from table lamp practical, layered across depth planes 14a09e144e49"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with layered translucent marks painting style, walking portrait with right-weighted balance composition, soft pistachio with cobalt accent soft-color palette, gentle atmospheric bloom from table lamp practical, contained in a localized pool 1b2f13bf9967"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.1b2f13bf9967",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-wide-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.walking-portrait-with-right-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-an-intimate-corner-composition-polished-edit"
+        ],
+        "expression": [
+          "curated.expression.subtly-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-table-lamp-practical-contained-in-a-locali"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.soft-pistachio-with-cobalt-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with layered translucent marks painting style, walking portrait with right-weighted balance composition, soft pistachio with cobalt accent soft-color palette, gentle atmospheric bloom from table lamp practical, contained in a localized pool 1b2f13bf9967"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with broad flat strokes painting style, walking portrait with right-weighted balance composition, soft pistachio with marigold accent soft-color palette, controlled high contrast from table lamp practical, grazing textured surfaces 1d0e6ed0bfa5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.1d0e6ed0bfa5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.walking-portrait-with-right-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-ceiling-to-floor-detail-calm-inhabited-atmos"
+        ],
+        "expression": [
+          "curated.expression.warmly-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-table-lamp-practical-grazing-textured-surf"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.soft-pistachio-with-marigold-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with broad flat strokes painting style, walking portrait with right-weighted balance composition, soft pistachio with marigold accent soft-color palette, controlled high contrast from table lamp practical, grazing textured surfaces 1d0e6ed0bfa5"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with graphic shape blocking painting style, face close-up with right-weighted balance composition, dusty rose with teal accent soft-color palette, controlled high contrast from table lamp practical, spilling into the background 32597bb22bc2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.32597bb22bc2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.face-close-up-with-right-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-an-intimate-corner-composition-polished-edit"
+        ],
+        "expression": [
+          "curated.expression.coldly-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-table-lamp-practical-spilling-into-the-bac"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dusty-rose-with-teal-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with graphic shape blocking painting style, face close-up with right-weighted balance composition, dusty rose with teal accent soft-color palette, controlled high contrast from table lamp practical, spilling into the background 32597bb22bc2"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with visible underpainting painting style, bust portrait with upper negative space composition, dusty rose with moss accent soft-color palette, gentle atmospheric bloom from table lamp practical, grazing textured surfaces 39727f49e104"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.39727f49e104",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bust-portrait-with-upper-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-a-clear-central-walkway-polished-editorial-a"
+        ],
+        "expression": [
+          "curated.expression.warmly-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-table-lamp-practical-grazing-textured-surf"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dusty-rose-with-moss-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with visible underpainting painting style, bust portrait with upper negative space composition, dusty rose with moss accent soft-color palette, gentle atmospheric bloom from table lamp practical, grazing textured surfaces 39727f49e104"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with layered translucent marks painting style, head-and-shoulders with off-axis tension composition, blush pink with apricot accent soft-color palette, gentle atmospheric bloom from table lamp practical, spilling into the background 41c0989a9c41"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.41c0989a9c41",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-repeating-structural-rhythm-polished-editori"
+        ],
+        "expression": [
+          "curated.expression.subtly-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-table-lamp-practical-spilling-into-the-bac"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.blush-pink-with-apricot-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with layered translucent marks painting style, head-and-shoulders with off-axis tension composition, blush pink with apricot accent soft-color palette, gentle atmospheric bloom from table lamp practical, spilling into the background 41c0989a9c41"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with soft blended edges painting style, reclining portrait with mirrored side balance composition, dove gray with apricot accent soft-color palette, gentle atmospheric bloom from table lamp practical, layered across depth planes 4df54fc121b1"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.4df54fc121b1",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-wide-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reclining-portrait-with-mirrored-side-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-a-window-framed-focal-area-warm-observationa"
+        ],
+        "expression": [
+          "curated.expression.fearlessly-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-table-lamp-practical-layered-across-depth-"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dove-gray-with-apricot-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with soft blended edges painting style, reclining portrait with mirrored side balance composition, dove gray with apricot accent soft-color palette, gentle atmospheric bloom from table lamp practical, layered across depth planes 4df54fc121b1"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with scumbled highlights painting style, bust portrait with off-axis tension composition, cloud lavender with marigold accent soft-color palette, soft diffusion from table lamp practical, broken by foreground shapes 5051f4288ece"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.5051f4288ece",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-mid-range-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.bust-portrait-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-balanced-functional-clutter-warm-observation"
+        ],
+        "expression": [
+          "curated.expression.subtly-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-table-lamp-practical-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cloud-lavender-with-marigold-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with scumbled highlights painting style, bust portrait with off-axis tension composition, cloud lavender with marigold accent soft-color palette, soft diffusion from table lamp practical, broken by foreground shapes 5051f4288ece"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with layered translucent marks painting style, profile portrait with upper negative space composition, mint cream with coral accent soft-color palette, controlled high contrast from table lamp practical, grazing textured surfaces 67f0515a2ea7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.67f0515a2ea7",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.profile-portrait-with-upper-negative-space-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-foreground-object-framing-warm-observational"
+        ],
+        "expression": [
+          "curated.expression.quietly-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-table-lamp-practical-grazing-textured-surf"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mint-cream-with-coral-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with layered translucent marks painting style, profile portrait with upper negative space composition, mint cream with coral accent soft-color palette, controlled high contrast from table lamp practical, grazing textured surfaces 67f0515a2ea7"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with broad flat strokes painting style, head-and-shoulders with left-weighted balance composition, blush pink with coral accent soft-color palette, gentle atmospheric bloom from table lamp practical, focused on the subject plane 821b90e02a6c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.821b90e02a6c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-left-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-deep-room-perspective-warm-observational-atm"
+        ],
+        "expression": [
+          "curated.expression.barely-restrained-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-table-lamp-practical-focused-on-the-subjec"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.blush-pink-with-coral-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-broad-flat-strokes-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with broad flat strokes painting style, head-and-shoulders with left-weighted balance composition, blush pink with coral accent soft-color palette, gentle atmospheric bloom from table lamp practical, focused on the subject plane 821b90e02a6c"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with layered translucent marks painting style, face close-up with right-weighted balance composition, seafoam with teal accent soft-color palette, soft diffusion from table lamp practical, reflected from nearby surfaces 85e07c905f22"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.85e07c905f22",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-subtle-halation"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.face-close-up-with-right-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-layered-furniture-arrangement-calm-inhabited"
+        ],
+        "expression": [
+          "curated.expression.gently-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-table-lamp-practical-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.seafoam-with-teal-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-layered-translucent-marks-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with layered translucent marks painting style, face close-up with right-weighted balance composition, seafoam with teal accent soft-color palette, soft diffusion from table lamp practical, reflected from nearby surfaces 85e07c905f22"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with graphic shape blocking painting style, walking portrait with lower visual anchor composition, butter yellow with teal accent soft-color palette, crisp shadow edges from table lamp practical, broken by foreground shapes 94c841c5b15b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.94c841c5b15b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-mid-range-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.walking-portrait-with-lower-visual-anchor-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-a-clear-central-walkway-polished-editorial-a"
+        ],
+        "expression": [
+          "curated.expression.coldly-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-table-lamp-practical-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.butter-yellow-with-teal-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with graphic shape blocking painting style, walking portrait with lower visual anchor composition, butter yellow with teal accent soft-color palette, crisp shadow edges from table lamp practical, broken by foreground shapes 94c841c5b15b"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with scumbled highlights painting style, extreme close-up with centered balance composition, soft pistachio with marigold accent soft-color palette, soft diffusion from table lamp practical, broken by foreground shapes a17cb5466cef"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.a17cb5466cef",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.extreme-close-up-with-centered-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-an-intimate-corner-composition-calm-inhabite"
+        ],
+        "expression": [
+          "curated.expression.fiercely-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-table-lamp-practical-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.soft-pistachio-with-marigold-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with scumbled highlights painting style, extreme close-up with centered balance composition, soft pistachio with marigold accent soft-color palette, soft diffusion from table lamp practical, broken by foreground shapes a17cb5466cef"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with visible underpainting painting style, full-length portrait with lower visual anchor composition, cloud lavender with plum accent soft-color palette, gentle atmospheric bloom from table lamp practical, spilling into the background a18fa61590a6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.a18fa61590a6",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-high-microcontrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.full-length-portrait-with-lower-visual-anchor-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-a-clear-central-walkway-warm-observational-a"
+        ],
+        "expression": [
+          "curated.expression.subtly-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-table-lamp-practical-spilling-into-the-bac"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cloud-lavender-with-plum-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with visible underpainting painting style, full-length portrait with lower visual anchor composition, cloud lavender with plum accent soft-color palette, gentle atmospheric bloom from table lamp practical, spilling into the background a18fa61590a6"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with scumbled highlights painting style, reclining portrait with centered balance composition, seafoam with moss accent soft-color palette, soft diffusion from table lamp practical, focused on the subject plane ad9f99fc93d3"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.ad9f99fc93d3",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reclining-portrait-with-centered-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-an-intimate-corner-composition-polished-edit"
+        ],
+        "expression": [
+          "curated.expression.barely-restrained-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-table-lamp-practical-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.seafoam-with-moss-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with scumbled highlights painting style, reclining portrait with centered balance composition, seafoam with moss accent soft-color palette, soft diffusion from table lamp practical, focused on the subject plane ad9f99fc93d3"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with visible underpainting painting style, walking portrait with left-weighted balance composition, dusty rose with apricot accent soft-color palette, crisp shadow edges from table lamp practical, reflected from nearby surfaces b4e6bdcf2b08"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.b4e6bdcf2b08",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.walking-portrait-with-left-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-layered-furniture-arrangement-calm-inhabited"
+        ],
+        "expression": [
+          "curated.expression.intensely-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-table-lamp-practical-reflected-from-nearby-surfa"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dusty-rose-with-apricot-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with visible underpainting painting style, walking portrait with left-weighted balance composition, dusty rose with apricot accent soft-color palette, crisp shadow edges from table lamp practical, reflected from nearby surfaces b4e6bdcf2b08"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with visible underpainting painting style, seated portrait with diagonal counterweight composition, soft pistachio with raspberry accent soft-color palette, controlled high contrast from table lamp practical, falling off into shadow ba9bf1db61cb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.ba9bf1db61cb",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-low-contrast-glass"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.seated-portrait-with-diagonal-counterweight-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-ceiling-to-floor-detail-warm-observational-a"
+        ],
+        "expression": [
+          "curated.expression.warmly-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-table-lamp-practical-falling-off-into-shad"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.soft-pistachio-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with visible underpainting painting style, seated portrait with diagonal counterweight composition, soft pistachio with raspberry accent soft-color palette, controlled high contrast from table lamp practical, falling off into shadow ba9bf1db61cb"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with visible underpainting painting style, extreme close-up with mirrored side balance composition, pale aqua with cobalt accent soft-color palette, crisp shadow edges from table lamp practical, layered across depth planes c4c22a10bd52"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.c4c22a10bd52",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-mid-range-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.extreme-close-up-with-mirrored-side-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-foreground-object-framing-warm-observational"
+        ],
+        "expression": [
+          "curated.expression.gently-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-table-lamp-practical-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.pale-aqua-with-cobalt-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-visible-underpainting-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with visible underpainting painting style, extreme close-up with mirrored side balance composition, pale aqua with cobalt accent soft-color palette, crisp shadow edges from table lamp practical, layered across depth planes c4c22a10bd52"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with graphic shape blocking painting style, reclining portrait with off-axis tension composition, dusty rose with cobalt accent soft-color palette, gentle atmospheric bloom from table lamp practical, focused on the subject plane c99fa4611efe"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.c99fa4611efe",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-stopped-down-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reclining-portrait-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-layered-furniture-arrangement-warm-observati"
+        ],
+        "expression": [
+          "curated.expression.dreamily-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-table-lamp-practical-focused-on-the-subjec"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dusty-rose-with-cobalt-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-graphic-shape-blocking-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with graphic shape blocking painting style, reclining portrait with off-axis tension composition, dusty rose with cobalt accent soft-color palette, gentle atmospheric bloom from table lamp practical, focused on the subject plane c99fa4611efe"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with scumbled highlights painting style, seated portrait with off-axis tension composition, mint cream with moss accent soft-color palette, crisp shadow edges from table lamp practical, layered across depth planes d308a17550d3"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.d308a17550d3",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-mid-range-aperture-soft-vintage-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.seated-portrait-with-off-axis-tension-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-deep-room-perspective-polished-editorial-atm"
+        ],
+        "expression": [
+          "curated.expression.dreamily-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-table-lamp-practical-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mint-cream-with-moss-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with scumbled highlights painting style, seated portrait with off-axis tension composition, mint cream with moss accent soft-color palette, crisp shadow edges from table lamp practical, layered across depth planes d308a17550d3"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with soft blended edges painting style, extreme close-up with left-weighted balance composition, cloud lavender with raspberry accent soft-color palette, controlled high contrast from table lamp practical, reflected from nearby surfaces dc5040787a6e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.dc5040787a6e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-mid-range-aperture-gentle-edge-softness"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.extreme-close-up-with-left-weighted-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-deep-room-perspective-polished-editorial-atm"
+        ],
+        "expression": [
+          "curated.expression.subtly-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-table-lamp-practical-reflected-from-nearby"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cloud-lavender-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-soft-blended-edges-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with soft blended edges painting style, extreme close-up with left-weighted balance composition, cloud lavender with raspberry accent soft-color palette, controlled high contrast from table lamp practical, reflected from nearby surfaces dc5040787a6e"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with precise small brushes painting style, head-and-shoulders with mirrored side balance composition, pale aqua with raspberry accent soft-color palette, crisp shadow edges from table lamp practical, falling off into shadow eb9913789440"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.eb9913789440",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-wide-aperture-clean-modern-rendering"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-mirrored-side-balance-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-repeating-structural-rhythm-calm-inhabited-a"
+        ],
+        "expression": [
+          "curated.expression.fearlessly-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-table-lamp-practical-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.pale-aqua-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-precise-small-brushes-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with precise small brushes painting style, head-and-shoulders with mirrored side balance composition, pale aqua with raspberry accent soft-color palette, crisp shadow edges from table lamp practical, falling off into shadow eb9913789440"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "relieved aftermath featuring egg tempera with scumbled highlights painting style, over-shoulder portrait with diagonal counterweight composition, cloud lavender with apricot accent soft-color palette, soft diffusion from table lamp practical, grazing textured surfaces f79563cf6db5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.narrative.relieved-aftermath",
+      "familyTriggers": [
+        "relieved aftermath narrative direction",
+        "safe-arrival train quiet",
+        "gentle release after tension"
+      ],
+      "id": "phase8.art.narrative.relieved-aftermath.f79563cf6db5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.50mm-standard-lens-at-a-moderate-aperture-controlled-highlight-bloom"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.over-shoulder-portrait-with-diagonal-counterweight-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.vintage-train-carriage-with-strong-architectural-symmetry-polished-edito"
+        ],
+        "expression": [
+          "curated.expression.quietly-relieved-smile"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-table-lamp-practical-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cloud-lavender-with-apricot-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.egg-tempera-with-scumbled-highlights-painting-style"
+        ]
+      },
+      "name": "Relieved Aftermath 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.narrative.relieved-aftermath",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment",
+        "expression"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "expression": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "relieved softened expression",
+        "lamplit journey aftermath",
+        "settled emotional release"
+      ],
+      "triggers": [
+        "relieved aftermath featuring egg tempera with scumbled highlights painting style, over-shoulder portrait with diagonal counterweight composition, cloud lavender with apricot accent soft-color palette, soft diffusion from table lamp practical, grazing textured surfaces f79563cf6db5"
+      ],
+      "variantIndex": 2
+    }
+  ],
+  "schemaVersion": 2
+}

@@ -1,0 +1,1784 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.graphic.retro-pixel-quest",
+  "fingerprint": "37d25b021d7faca6c235c1fa1a80b74ca214f3de56b95dd8958be36464ef202d",
+  "recipes": [
+    {
+      "aliases": [
+        "retro pixel quest featuring 16-bit console pixel art with ordered dithering digital style, reflective pool foreground with broken horizon landscape composition, graphite with signal orange neon-night palette, golden-hour backlight 05cbfdb497bc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.05cbfdb497bc",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.wide-shot-left-weighted-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflective-pool-foreground-with-broken-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-levitating-stone-fragments-serene-mythical-a"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.graphite-with-signal-orange-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.16-bit-console-pixel-art-with-ordered-dithering-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring 16-bit console pixel art with ordered dithering digital style, reflective pool foreground with broken horizon landscape composition, graphite with signal orange neon-night palette, golden-hour backlight 05cbfdb497bc"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring arcade sprite art with limited color logic digital style, rock ledge foreground with layered horizon landscape composition, smoky violet with signal orange neon-night palette, golden-hour backlight 0ae3687e8820"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.0ae3687e8820",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.extreme-wide-shot-frame-within-frame-composition-with-observational-dist"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.rock-ledge-foreground-with-layered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-levitating-stone-fragments-serene-mythical-a"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.smoky-violet-with-signal-orange-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.arcade-sprite-art-with-limited-color-logic-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring arcade sprite art with limited color logic digital style, rock ledge foreground with layered horizon landscape composition, smoky violet with signal orange neon-night palette, golden-hour backlight 0ae3687e8820"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring demoscene pixel art with layered parallax depth digital style, fence line foreground with broken horizon landscape composition, ink black with hot pink neon-night palette, golden-hour backlight 10cb8c24abd6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.10cb8c24abd6",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.extreme-wide-shot-centered-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.fence-line-foreground-with-broken-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-layered-magical-landmarks-serene-mythical-at"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ink-black-with-hot-pink-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.demoscene-pixel-art-with-layered-parallax-depth-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring demoscene pixel art with layered parallax depth digital style, fence line foreground with broken horizon landscape composition, ink black with hot pink neon-night palette, golden-hour backlight 10cb8c24abd6"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring 16-bit console pixel art with ordered dithering digital style, path bend foreground with hidden horizon landscape composition, deep plum with hot pink neon-night palette, golden-hour backlight 16e999d86e69"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.16e999d86e69",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.wide-shot-centered-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.path-bend-foreground-with-hidden-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-weathered-relic-formations-serene-mythical-a"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-plum-with-hot-pink-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.16-bit-console-pixel-art-with-ordered-dithering-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring 16-bit console pixel art with ordered dithering digital style, path bend foreground with hidden horizon landscape composition, deep plum with hot pink neon-night palette, golden-hour backlight 16e999d86e69"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring pixel workstation art with layered parallax depth digital style, snow bank foreground with centered horizon landscape composition, midnight navy with plasma blue neon-night palette, golden-hour backlight 1c5aaae74c89"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.1c5aaae74c89",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.extreme-wide-shot-layered-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.snow-bank-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-levitating-stone-fragments-wonder-filled-epi"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.midnight-navy-with-plasma-blue-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.pixel-workstation-art-with-layered-parallax-depth-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring pixel workstation art with layered parallax depth digital style, snow bank foreground with centered horizon landscape composition, midnight navy with plasma blue neon-night palette, golden-hour backlight 1c5aaae74c89"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring demoscene pixel art with scanline texture digital style, archway foreground with mist-softened horizon landscape composition, petrol blue with hot pink neon-night palette, golden-hour backlight 1e1e3a476d84"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.1e1e3a476d84",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.wide-shot-layered-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.archway-foreground-with-mist-softened-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-impossible-suspended-bridges-mysterious-stor"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.petrol-blue-with-hot-pink-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.demoscene-pixel-art-with-scanline-texture-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring demoscene pixel art with scanline texture digital style, archway foreground with mist-softened horizon landscape composition, petrol blue with hot pink neon-night palette, golden-hour backlight 1e1e3a476d84"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring isometric pixel art with graphic silhouettes digital style, snow bank foreground with tilted horizon landscape composition, petrol blue with acid lime neon-night palette, golden-hour backlight 1ebfe2062809"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.1ebfe2062809",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.wide-shot-foreground-framed-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.snow-bank-foreground-with-tilted-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-glowing-botanical-accents-wonder-filled-epic"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.petrol-blue-with-acid-lime-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.isometric-pixel-art-with-graphic-silhouettes-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring isometric pixel art with graphic silhouettes digital style, snow bank foreground with tilted horizon landscape composition, petrol blue with acid lime neon-night palette, golden-hour backlight 1ebfe2062809"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring pixel workstation art with selective highlights digital style, path bend foreground with broken horizon landscape composition, deep plum with phosphor yellow neon-night palette, golden-hour backlight 239c179bb1cb"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.239c179bb1cb",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.extreme-wide-shot-left-weighted-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.path-bend-foreground-with-broken-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-levitating-stone-fragments-serene-mythical-a"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-plum-with-phosphor-yellow-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.pixel-workstation-art-with-selective-highlights-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring pixel workstation art with selective highlights digital style, path bend foreground with broken horizon landscape composition, deep plum with phosphor yellow neon-night palette, golden-hour backlight 239c179bb1cb"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring demoscene pixel art with crisp modular shapes digital style, tree branch foreground with hidden horizon landscape composition, aubergine with hot pink neon-night palette, golden-hour backlight 2e98823e7540"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.2e98823e7540",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.wide-shot-negative-space-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.tree-branch-foreground-with-hidden-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-ornate-guardian-statues-wonder-filled-epic-a"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.aubergine-with-hot-pink-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.demoscene-pixel-art-with-crisp-modular-shapes-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring demoscene pixel art with crisp modular shapes digital style, tree branch foreground with hidden horizon landscape composition, aubergine with hot pink neon-night palette, golden-hour backlight 2e98823e7540"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring 32-bit sprite art with scanline texture digital style, flower cluster foreground with centered horizon landscape composition, deep teal with phosphor yellow neon-night palette, golden-hour backlight 3089ad8d56e8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.3089ad8d56e8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.extreme-wide-shot-frame-within-frame-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.flower-cluster-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-layered-magical-landmarks-mysterious-storybo"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.deep-teal-with-phosphor-yellow-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.32-bit-sprite-art-with-scanline-texture-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring 32-bit sprite art with scanline texture digital style, flower cluster foreground with centered horizon landscape composition, deep teal with phosphor yellow neon-night palette, golden-hour backlight 3089ad8d56e8"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring tile-map pixel art with crisp modular shapes digital style, wild grass foreground with mist-softened horizon landscape composition, black cherry with signal orange neon-night palette, golden-hour backlight 7c7e248c388e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.7c7e248c388e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.wide-shot-frame-within-frame-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wild-grass-foreground-with-mist-softened-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-spiraling-monumental-stairs-wonder-filled-ep"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.black-cherry-with-signal-orange-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.tile-map-pixel-art-with-crisp-modular-shapes-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring tile-map pixel art with crisp modular shapes digital style, wild grass foreground with mist-softened horizon landscape composition, black cherry with signal orange neon-night palette, golden-hour backlight 7c7e248c388e"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring one-bit pixel art with scanline texture digital style, flower cluster foreground with layered horizon landscape composition, smoky violet with laser magenta neon-night palette, golden-hour backlight 7ca3a23ad43a"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.7ca3a23ad43a",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.extreme-wide-shot-foreground-framed-composition-with-observational-dista"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.flower-cluster-foreground-with-layered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-glowing-botanical-accents-mysterious-storybo"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.smoky-violet-with-laser-magenta-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.one-bit-pixel-art-with-scanline-texture-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring one-bit pixel art with scanline texture digital style, flower cluster foreground with layered horizon landscape composition, smoky violet with laser magenta neon-night palette, golden-hour backlight 7ca3a23ad43a"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring pre-rendered sprite art with graphic silhouettes digital style, tree branch foreground with broken horizon landscape composition, oxblood red with laser magenta neon-night palette, golden-hour backlight 7d4807d468d6"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.7d4807d468d6",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.extreme-wide-shot-foreground-framed-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.tree-branch-foreground-with-broken-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-ornate-guardian-statues-serene-mythical-atmo"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.oxblood-red-with-laser-magenta-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.pre-rendered-sprite-art-with-graphic-silhouettes-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring pre-rendered sprite art with graphic silhouettes digital style, tree branch foreground with broken horizon landscape composition, oxblood red with laser magenta neon-night palette, golden-hour backlight 7d4807d468d6"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring handheld pixel art with ordered dithering digital style, ruin fragment foreground with tilted horizon landscape composition, black cherry with signal orange neon-night palette, golden-hour backlight 88971d884ff2"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.88971d884ff2",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.wide-shot-foreground-framed-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.ruin-fragment-foreground-with-tilted-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-impossible-suspended-bridges-mysterious-stor"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.black-cherry-with-signal-orange-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.handheld-pixel-art-with-ordered-dithering-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring handheld pixel art with ordered dithering digital style, ruin fragment foreground with tilted horizon landscape composition, black cherry with signal orange neon-night palette, golden-hour backlight 88971d884ff2"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring pre-rendered sprite art with crisp modular shapes digital style, archway foreground with hidden horizon landscape composition, smoky violet with plasma blue neon-night palette, golden-hour backlight ab20fedb9a3b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.ab20fedb9a3b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.wide-shot-frame-within-frame-composition-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.archway-foreground-with-hidden-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-weathered-relic-formations-wonder-filled-epi"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.smoky-violet-with-plasma-blue-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.pre-rendered-sprite-art-with-crisp-modular-shapes-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring pre-rendered sprite art with crisp modular shapes digital style, archway foreground with hidden horizon landscape composition, smoky violet with plasma blue neon-night palette, golden-hour backlight ab20fedb9a3b"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring handheld pixel art with scanline texture digital style, reflective pool foreground with low horizon landscape composition, petrol blue with phosphor yellow neon-night palette, golden-hour backlight b6be3faaa041"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.b6be3faaa041",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.wide-shot-layered-composition-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.reflective-pool-foreground-with-low-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-layered-magical-landmarks-wonder-filled-epic"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.petrol-blue-with-phosphor-yellow-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.handheld-pixel-art-with-scanline-texture-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring handheld pixel art with scanline texture digital style, reflective pool foreground with low horizon landscape composition, petrol blue with phosphor yellow neon-night palette, golden-hour backlight b6be3faaa041"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring 32-bit sprite art with chunky edge stepping digital style, rooftop edge foreground with low horizon landscape composition, graphite with laser magenta neon-night palette, golden-hour backlight bc09fdda3173"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.bc09fdda3173",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.extreme-wide-shot-left-weighted-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.rooftop-edge-foreground-with-low-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-glowing-botanical-accents-wonder-filled-epic"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.graphite-with-laser-magenta-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.32-bit-sprite-art-with-chunky-edge-stepping-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring 32-bit sprite art with chunky edge stepping digital style, rooftop edge foreground with low horizon landscape composition, graphite with laser magenta neon-night palette, golden-hour backlight bc09fdda3173"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring pre-rendered sprite art with limited color logic digital style, tree branch foreground with centered horizon landscape composition, bottle green with acid lime neon-night palette, golden-hour backlight bcea262c1fdf"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.bcea262c1fdf",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.extreme-wide-shot-right-weighted-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.tree-branch-foreground-with-centered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-colossal-ceremonial-arches-serene-mythical-a"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.bottle-green-with-acid-lime-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.pre-rendered-sprite-art-with-limited-color-logic-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring pre-rendered sprite art with limited color logic digital style, tree branch foreground with centered horizon landscape composition, bottle green with acid lime neon-night palette, golden-hour backlight bcea262c1fdf"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring tile-map pixel art with chunky edge stepping digital style, wild grass foreground with high horizon landscape composition, smoky violet with electric cyan neon-night palette, golden-hour backlight cef1a3ac1307"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.cef1a3ac1307",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.extreme-wide-shot-layered-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wild-grass-foreground-with-high-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-spiraling-monumental-stairs-wonder-filled-ep"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.smoky-violet-with-electric-cyan-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.tile-map-pixel-art-with-chunky-edge-stepping-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring tile-map pixel art with chunky edge stepping digital style, wild grass foreground with high horizon landscape composition, smoky violet with electric cyan neon-night palette, golden-hour backlight cef1a3ac1307"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring one-bit pixel art with limited color logic digital style, rock ledge foreground with hidden horizon landscape composition, petrol blue with phosphor yellow neon-night palette, golden-hour backlight da0dcf2e281b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.da0dcf2e281b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.extreme-wide-shot-frame-within-frame-composition-with-calm-visual-balanc"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.rock-ledge-foreground-with-hidden-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-layered-magical-landmarks-wonder-filled-epic"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.petrol-blue-with-phosphor-yellow-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.one-bit-pixel-art-with-limited-color-logic-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring one-bit pixel art with limited color logic digital style, rock ledge foreground with hidden horizon landscape composition, petrol blue with phosphor yellow neon-night palette, golden-hour backlight da0dcf2e281b"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring pre-rendered sprite art with chunky edge stepping digital style, wild grass foreground with tilted horizon landscape composition, bottle green with signal orange neon-night palette, golden-hour backlight f17864c9769b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.f17864c9769b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.wide-shot-left-weighted-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wild-grass-foreground-with-tilted-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-ancient-rune-pathways-serene-mythical-atmosp"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.bottle-green-with-signal-orange-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.pre-rendered-sprite-art-with-chunky-edge-stepping-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring pre-rendered sprite art with chunky edge stepping digital style, wild grass foreground with tilted horizon landscape composition, bottle green with signal orange neon-night palette, golden-hour backlight f17864c9769b"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring 8-bit console pixel art with selective highlights digital style, ruin fragment foreground with hidden horizon landscape composition, ink black with phosphor yellow neon-night palette, golden-hour backlight f479a9a73a0d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.f479a9a73a0d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.extreme-wide-shot-symmetrical-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.ruin-fragment-foreground-with-hidden-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-spiraling-monumental-stairs-mysterious-story"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ink-black-with-phosphor-yellow-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.8-bit-console-pixel-art-with-selective-highlights-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring 8-bit console pixel art with selective highlights digital style, ruin fragment foreground with hidden horizon landscape composition, ink black with phosphor yellow neon-night palette, golden-hour backlight f479a9a73a0d"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring handheld pixel art with layered parallax depth digital style, wild grass foreground with broken horizon landscape composition, smoky violet with laser magenta neon-night palette, golden-hour backlight f8ca054a895b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.f8ca054a895b",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.wide-shot-layered-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.wild-grass-foreground-with-broken-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-impossible-suspended-bridges-mysterious-stor"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.smoky-violet-with-laser-magenta-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.handheld-pixel-art-with-layered-parallax-depth-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring handheld pixel art with layered parallax depth digital style, wild grass foreground with broken horizon landscape composition, smoky violet with laser magenta neon-night palette, golden-hour backlight f8ca054a895b"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "retro pixel quest featuring pixel workstation art with crisp modular shapes digital style, ruin fragment foreground with layered horizon landscape composition, smoky violet with laser magenta neon-night palette, golden-hour backlight fdf17d8b4466"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.graphic.retro-pixel-quest",
+      "familyTriggers": [
+        "retro pixel quest direction",
+        "sprite-era fantasy adventure",
+        "pixel game landscape treatment"
+      ],
+      "id": "phase8.art.graphic.retro-pixel-quest.fdf17d8b4466",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.extreme-wide-shot-symmetrical-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.ruin-fragment-foreground-with-layered-horizon-landscape-composition"
+        ],
+        "environment": [
+          "phase8.scene-craft.environment.wandering-tower-valley-with-weathered-relic-formations-mysterious-storyb"
+        ],
+        "lighting": [
+          "curated.lighting.golden-hour-backlight"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.smoky-violet-with-laser-magenta-neon-night-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.pixel-workstation-art-with-crisp-modular-shapes-digital-style"
+        ]
+      },
+      "name": "Retro Pixel Quest 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.graphic.retro-pixel-quest",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera",
+        "environment"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "environment": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "pixel-grid worldbuilding",
+        "quest-screen depth",
+        "retro-digital fantasy color"
+      ],
+      "triggers": [
+        "retro pixel quest featuring pixel workstation art with crisp modular shapes digital style, ruin fragment foreground with layered horizon landscape composition, smoky violet with laser magenta neon-night palette, golden-hour backlight fdf17d8b4466"
+      ],
+      "variantIndex": 23
+    }
+  ],
+  "schemaVersion": 2
+}

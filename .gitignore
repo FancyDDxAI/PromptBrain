@@ -1,6 +1,11 @@
 package/
 *.zip
 *.pdb
+**/bin/
+**/obj/
+.vs/
+output/
+dist/
 data/
 models/
 backups/

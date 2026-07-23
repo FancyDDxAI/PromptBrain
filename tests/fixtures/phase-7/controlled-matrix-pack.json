@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "packId": "phase7.controlled-matrix",
+  "source": "phase-7-fixture",
+  "defaults": {
+    "bases": ["SDXL"],
+    "contentMode": "sfw",
+    "group": "phase-7-controlled",
+    "priority": 7
+  },
+  "entries": [],
+  "matrices": [
+    {
+      "id": "controlled-lighting",
+      "kind": "lighting",
+      "template": "{color} light over {setting} at {time}",
+      "aliasTemplates": [
+        "phase seven {color} {setting} {time}"
+      ],
+      "axes": {
+        "setting": [
+          {
+            "value": "forest",
+            "traits": ["outdoor"]
+          },
+          {
+            "value": "studio",
+            "traits": ["indoor"]
+          },
+          {
+            "value": "city",
+            "traits": ["urban"]
+          }
+        ],
+        "time": ["dawn", "night"],
+        "color": ["amber", "blue"]
+      },
+      "include": [
+        {
+          "setting": "forest",
+          "color": ["amber", "blue"]
+        },
+        {
+          "setting": "studio",
+          "color": "amber"
+        },
+        {
+          "setting": "studio",
+          "color": "blue",
+          "time": "dawn"
+        },
+        {
+          "setting": "city",
+          "color": "blue"
+        }
+      ],
+      "exclude": [
+        {
+          "setting": "studio",
+          "color": "amber"
+        }
+      ],
+      "constraints": [
+        {
+          "when": {
+            "time": "night"
+          },
+          "require": {
+            "color": "blue"
+          }
+        },
+        {
+          "when": {
+            "setting": "city"
+          },
+          "forbid": {
+            "time": "dawn"
+          }
+        }
+      ]
+    }
+  ]
+}

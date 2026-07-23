@@ -1,0 +1,1544 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.media.paper-relief-atelier",
+  "fingerprint": "fdc806c3ac323bbacc4a4e5aa6e39979f60297b0d0385f728c0e58c3d2591ae2",
+  "recipes": [
+    {
+      "aliases": [
+        "paper relief atelier featuring paper mosaic with delicate edge detail style, triptych with matched horizon composition, vermilion ink on pale sky paper print palette, crisp shadow edges from projector beam, contained in a localized pool 05b30115cee3"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.05b30115cee3",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.triptych-with-matched-horizon-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-projector-beam-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.vermilion-ink-on-pale-sky-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.paper-mosaic-with-delicate-edge-detail-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring paper mosaic with delicate edge detail style, triptych with matched horizon composition, vermilion ink on pale sky paper print palette, crisp shadow edges from projector beam, contained in a localized pool 05b30115cee3"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring quilled paper with bold planar layering style, inset panel with contrasting scale composition, rust ink on warm ivory print palette, crisp shadow edges from projector beam, reflected from nearby surfaces 0e526fefd90c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.0e526fefd90c",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.inset-panel-with-contrasting-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-projector-beam-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.rust-ink-on-warm-ivory-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.quilled-paper-with-bold-planar-layering-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring quilled paper with bold planar layering style, inset panel with contrasting scale composition, rust ink on warm ivory print palette, crisp shadow edges from projector beam, reflected from nearby surfaces 0e526fefd90c"
+      ],
+      "variantIndex": 2
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring layered paper-cut with soft backlit translucency style, diagonal split with matched horizon composition, vermilion ink on cream paper print palette, controlled high contrast from projector beam, reflected from nearby surfaces 205226cf3db3"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.205226cf3db3",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.diagonal-split-with-matched-horizon-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-projector-beam-reflected-from-nearby-surfa"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.vermilion-ink-on-cream-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.layered-paper-cut-with-soft-backlit-translucency-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring layered paper-cut with soft backlit translucency style, diagonal split with matched horizon composition, vermilion ink on cream paper print palette, controlled high contrast from projector beam, reflected from nearby surfaces 205226cf3db3"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring accordion-book with visible handmade fibers style, horizontal split with shared color bridge composition, ultramarine ink on cool white print palette, soft diffusion from projector beam, focused on the subject plane 25ee6f2e975b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.25ee6f2e975b",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.horizontal-split-with-shared-color-bridge-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-projector-beam-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.ultramarine-ink-on-cool-white-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.accordion-book-with-visible-handmade-fibers-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring accordion-book with visible handmade fibers style, horizontal split with shared color bridge composition, ultramarine ink on cool white print palette, soft diffusion from projector beam, focused on the subject plane 25ee6f2e975b"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring layered paper-cut with bold planar layering style, window-grid with alternating rhythm composition, burgundy ink on pale mint paper print palette, crisp shadow edges from projector beam, falling off into shadow 27b751d871ee"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.27b751d871ee",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.window-grid-with-alternating-rhythm-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-projector-beam-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-ink-on-pale-mint-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.layered-paper-cut-with-bold-planar-layering-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring layered paper-cut with bold planar layering style, window-grid with alternating rhythm composition, burgundy ink on pale mint paper print palette, crisp shadow edges from projector beam, falling off into shadow 27b751d871ee"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring paper mosaic with shallow shadowbox depth style, inset panel with matched horizon composition, mustard ink on pale mint paper print palette, soft diffusion from projector beam, falling off into shadow 30cf8931d347"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.30cf8931d347",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.inset-panel-with-matched-horizon-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-projector-beam-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mustard-ink-on-pale-mint-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.paper-mosaic-with-shallow-shadowbox-depth-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring paper mosaic with shallow shadowbox depth style, inset panel with matched horizon composition, mustard ink on pale mint paper print palette, soft diffusion from projector beam, falling off into shadow 30cf8931d347"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring accordion-book with precise folded geometry style, diagonal split with shared color bridge composition, plum ink on pale sky paper print palette, soft diffusion from projector beam, layered across depth planes 32a29f382b85"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.32a29f382b85",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.diagonal-split-with-shared-color-bridge-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-projector-beam-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-ink-on-pale-sky-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.accordion-book-with-precise-folded-geometry-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring accordion-book with precise folded geometry style, diagonal split with shared color bridge composition, plum ink on pale sky paper print palette, soft diffusion from projector beam, layered across depth planes 32a29f382b85"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring marbled paper with narrative panel staging style, comic-strip with shared color bridge composition, mustard ink on warm ivory print palette, gentle atmospheric bloom from projector beam, creating a luminous frame 38f9642e9c2f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.38f9642e9c2f",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.comic-strip-with-shared-color-bridge-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-projector-beam-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mustard-ink-on-warm-ivory-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.marbled-paper-with-narrative-panel-staging-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring marbled paper with narrative panel staging style, comic-strip with shared color bridge composition, mustard ink on warm ivory print palette, gentle atmospheric bloom from projector beam, creating a luminous frame 38f9642e9c2f"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring papier-mache with precise folded geometry style, diptych with continuous eyeline composition, slate ink on cream paper print palette, soft diffusion from projector beam, grazing textured surfaces 43ee9ecc8dbf"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.43ee9ecc8dbf",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.diptych-with-continuous-eyeline-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-projector-beam-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-ink-on-cream-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.papier-mache-with-precise-folded-geometry-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring papier-mache with precise folded geometry style, diptych with continuous eyeline composition, slate ink on cream paper print palette, soft diffusion from projector beam, grazing textured surfaces 43ee9ecc8dbf"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring silhouette cut-paper with shallow shadowbox depth style, window-grid with contrasting scale composition, plum ink on cool white print palette, soft diffusion from projector beam, grazing textured surfaces 47731ecf9871"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.47731ecf9871",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.window-grid-with-contrasting-scale-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-projector-beam-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-ink-on-cool-white-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.silhouette-cut-paper-with-shallow-shadowbox-depth-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring silhouette cut-paper with shallow shadowbox depth style, window-grid with contrasting scale composition, plum ink on cool white print palette, soft diffusion from projector beam, grazing textured surfaces 47731ecf9871"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring torn-paper collage with shallow shadowbox depth style, comic-strip with central hinge composition, slate ink on cream paper print palette, gentle atmospheric bloom from projector beam, broken by foreground shapes 495d87eee6c7"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.495d87eee6c7",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.comic-strip-with-central-hinge-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-projector-beam-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-ink-on-cream-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.torn-paper-collage-with-shallow-shadowbox-depth-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring torn-paper collage with shallow shadowbox depth style, comic-strip with central hinge composition, slate ink on cream paper print palette, gentle atmospheric bloom from projector beam, broken by foreground shapes 495d87eee6c7"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring accordion-book with narrative panel staging style, horizontal split with alternating rhythm composition, teal ink on pale mint paper print palette, soft diffusion from projector beam, layered across depth planes 62ec3dd4f020"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.62ec3dd4f020",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.horizontal-split-with-alternating-rhythm-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-projector-beam-layered-across-depth-planes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-ink-on-pale-mint-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.accordion-book-with-narrative-panel-staging-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring accordion-book with narrative panel staging style, horizontal split with alternating rhythm composition, teal ink on pale mint paper print palette, soft diffusion from projector beam, layered across depth planes 62ec3dd4f020"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring layered paper-cut with bold planar layering style, window-grid with repeated silhouette composition, teal ink on pale mint paper print palette, controlled high contrast from projector beam, spilling into the background 658842350616"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.658842350616",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.window-grid-with-repeated-silhouette-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-projector-beam-spilling-into-the-backgroun"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-ink-on-pale-mint-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.layered-paper-cut-with-bold-planar-layering-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring layered paper-cut with bold planar layering style, window-grid with repeated silhouette composition, teal ink on pale mint paper print palette, controlled high contrast from projector beam, spilling into the background 658842350616"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring tissue-paper collage with soft backlit translucency style, inset panel with matched horizon composition, slate ink on cool white print palette, soft diffusion from projector beam, contained in a localized pool 814c04a4a474"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.814c04a4a474",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.inset-panel-with-matched-horizon-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-projector-beam-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-ink-on-cool-white-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.tissue-paper-collage-with-soft-backlit-translucency-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring tissue-paper collage with soft backlit translucency style, inset panel with matched horizon composition, slate ink on cool white print palette, soft diffusion from projector beam, contained in a localized pool 814c04a4a474"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring quilled paper with delicate edge detail style, diptych with continuous eyeline composition, indigo ink on light kraft paper print palette, soft diffusion from projector beam, grazing textured surfaces 8365ab293503"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.8365ab293503",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.diptych-with-continuous-eyeline-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-projector-beam-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.indigo-ink-on-light-kraft-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.quilled-paper-with-delicate-edge-detail-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring quilled paper with delicate edge detail style, diptych with continuous eyeline composition, indigo ink on light kraft paper print palette, soft diffusion from projector beam, grazing textured surfaces 8365ab293503"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring kirigami with precise folded geometry style, vertical split with central hinge composition, teal ink on cream paper print palette, controlled high contrast from projector beam, grazing textured surfaces 8e60ef1641aa"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.8e60ef1641aa",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.vertical-split-with-central-hinge-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-projector-beam-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.teal-ink-on-cream-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.kirigami-with-precise-folded-geometry-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring kirigami with precise folded geometry style, vertical split with central hinge composition, teal ink on cream paper print palette, controlled high contrast from projector beam, grazing textured surfaces 8e60ef1641aa"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring layered paper-cut with delicate edge detail style, before-and-after with continuous eyeline composition, slate ink on pale gray print palette, soft diffusion from projector beam, focused on the subject plane ab6d4503421b"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.ab6d4503421b",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.before-and-after-with-continuous-eyeline-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-projector-beam-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-ink-on-pale-gray-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.layered-paper-cut-with-delicate-edge-detail-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring layered paper-cut with delicate edge detail style, before-and-after with continuous eyeline composition, slate ink on pale gray print palette, soft diffusion from projector beam, focused on the subject plane ab6d4503421b"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring papier-mache with narrative panel staging style, contact-sheet with alternating rhythm composition, plum ink on cool white print palette, gentle atmospheric bloom from projector beam, spilling into the background b7450339d464"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.b7450339d464",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.contact-sheet-with-alternating-rhythm-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-projector-beam-spilling-into-the-backgroun"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.plum-ink-on-cool-white-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.papier-mache-with-narrative-panel-staging-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring papier-mache with narrative panel staging style, contact-sheet with alternating rhythm composition, plum ink on cool white print palette, gentle atmospheric bloom from projector beam, spilling into the background b7450339d464"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring paper mosaic with bold planar layering style, diptych with matched horizon composition, forest ink on cool white print palette, controlled high contrast from projector beam, falling off into shadow c1bb01253653"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.c1bb01253653",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.diptych-with-matched-horizon-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-projector-beam-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.forest-ink-on-cool-white-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.paper-mosaic-with-bold-planar-layering-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring paper mosaic with bold planar layering style, diptych with matched horizon composition, forest ink on cool white print palette, controlled high contrast from projector beam, falling off into shadow c1bb01253653"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring kirigami with shallow shadowbox depth style, diptych with repeated silhouette composition, burgundy ink on pale sky paper print palette, crisp shadow edges from projector beam, falling off into shadow c428324fabb9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.c428324fabb9",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.diptych-with-repeated-silhouette-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-projector-beam-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-ink-on-pale-sky-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.kirigami-with-shallow-shadowbox-depth-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring kirigami with shallow shadowbox depth style, diptych with repeated silhouette composition, burgundy ink on pale sky paper print palette, crisp shadow edges from projector beam, falling off into shadow c428324fabb9"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring folded cardstock with minimal color blocking style, comic-strip with shared color bridge composition, slate ink on cream paper print palette, crisp shadow edges from projector beam, contained in a localized pool c4799dd5f7f4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.c4799dd5f7f4",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.comic-strip-with-shared-color-bridge-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-projector-beam-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-ink-on-cream-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.folded-cardstock-with-minimal-color-blocking-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring folded cardstock with minimal color blocking style, comic-strip with shared color bridge composition, slate ink on cream paper print palette, crisp shadow edges from projector beam, contained in a localized pool c4799dd5f7f4"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring torn-paper collage with soft backlit translucency style, nested panel with shared color bridge composition, mustard ink on warm ivory print palette, crisp shadow edges from projector beam, creating a luminous frame c734765e57a5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.c734765e57a5",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.nested-panel-with-shared-color-bridge-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-projector-beam-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mustard-ink-on-warm-ivory-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.torn-paper-collage-with-soft-backlit-translucency-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring torn-paper collage with soft backlit translucency style, nested panel with shared color bridge composition, mustard ink on warm ivory print palette, crisp shadow edges from projector beam, creating a luminous frame c734765e57a5"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring torn-paper collage with minimal color blocking style, before-and-after with alternating rhythm composition, burgundy ink on pale gray print palette, crisp shadow edges from projector beam, reflected from nearby surfaces ebe94d14a462"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.ebe94d14a462",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.before-and-after-with-alternating-rhythm-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-projector-beam-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.burgundy-ink-on-pale-gray-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.torn-paper-collage-with-minimal-color-blocking-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring torn-paper collage with minimal color blocking style, before-and-after with alternating rhythm composition, burgundy ink on pale gray print palette, crisp shadow edges from projector beam, reflected from nearby surfaces ebe94d14a462"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "paper relief atelier featuring folded cardstock with delicate edge detail style, triptych with central hinge composition, slate ink on pale mint paper print palette, soft diffusion from projector beam, broken by foreground shapes ef534c8efeb4"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.media.paper-relief-atelier",
+      "familyTriggers": [
+        "paper relief atelier direction",
+        "layered cut-paper staging",
+        "handmade paper depth treatment"
+      ],
+      "id": "phase8.art.media.paper-relief-atelier.ef534c8efeb4",
+      "ingredients": {
+        "composition": [
+          "phase8.visual-language.composition.triptych-with-central-hinge-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-projector-beam-broken-by-foreground-shapes"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.slate-ink-on-pale-mint-paper-print-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.folded-cardstock-with-delicate-edge-detail-style"
+        ]
+      },
+      "name": "Paper Relief Atelier 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.media.paper-relief-atelier",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "paper-edge layering",
+        "fiber-shadow relief",
+        "cut-paper continuity"
+      ],
+      "triggers": [
+        "paper relief atelier featuring folded cardstock with delicate edge detail style, triptych with central hinge composition, slate ink on pale mint paper print palette, soft diffusion from projector beam, broken by foreground shapes ef534c8efeb4"
+      ],
+      "variantIndex": 13
+    }
+  ],
+  "schemaVersion": 2
+}

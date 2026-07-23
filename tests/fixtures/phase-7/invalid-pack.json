@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "packId": "phase7.invalid-pack",
+  "source": "phase-7-fixture",
+  "defaults": {
+    "bases": ["SDXL"],
+    "contentMode": "sfw",
+    "group": "phase-7-invalid",
+    "priority": 0
+  },
+  "entries": [
+    {
+      "id": "phase7.invalid-pack.duplicate",
+      "kind": "lighting",
+      "prompt": "otherwise valid phase seven light",
+      "requires": ["phase7.invalid-pack.missing"]
+    },
+    {
+      "id": "phase7.invalid-pack.duplicate",
+      "kind": "sparkle",
+      "prompt": ""
+    }
+  ],
+  "matrices": []
+}

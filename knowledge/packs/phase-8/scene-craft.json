@@ -1,0 +1,707 @@
+{
+  "schemaVersion": 1,
+  "packId": "phase8.scene-craft",
+  "source": "phase-8-scene-craft",
+  "defaults": {
+    "contentMode": "sfw",
+    "bases": [
+      "SD1.5",
+      "SDXL",
+      "Pony",
+      "FLUX"
+    ],
+    "priority": 7,
+    "traits": [
+      "scene-craft",
+      "phase-8"
+    ]
+  },
+  "entries": [],
+  "matrices": [
+    {
+      "id": "natural-environments",
+      "kind": "environment",
+      "family": "scene-craft-natural",
+      "group": "environment.natural",
+      "traits": [
+        "environment",
+        "natural"
+      ],
+      "template": "{terrain} with {feature}, {atmosphere}",
+      "axes": {
+        "terrain": [
+          "alpine meadow",
+          "ancient redwood forest",
+          "coastal cliff",
+          "desert badlands",
+          "glacial valley",
+          "highland moor",
+          "limestone canyon",
+          "mangrove wetland",
+          "rolling prairie",
+          "temperate rainforest",
+          "tropical lagoon",
+          "volcanic plateau"
+        ],
+        "feature": [
+          "broad foreground terrain",
+          "layered midground landforms",
+          "distant horizon ridges",
+          "winding natural leading lines",
+          "scattered rock accents",
+          "foreground native vegetation",
+          "an open central clearing",
+          "an elevated overlook",
+          "interlocking terrain layers",
+          "an uninterrupted sky corridor"
+        ],
+        "atmosphere": [
+          "quiet untouched atmosphere",
+          "windswept expansive atmosphere",
+          "crisp documentary atmosphere"
+        ]
+      },
+      "maxCombinations": 360
+    },
+    {
+      "id": "urban-environments",
+      "kind": "environment",
+      "family": "scene-craft-urban",
+      "group": "environment.urban",
+      "traits": [
+        "environment",
+        "urban"
+      ],
+      "template": "{district} with {layout}, {atmosphere}",
+      "axes": {
+        "district": [
+          "historic market district",
+          "modern financial district",
+          "dense residential quarter",
+          "waterfront promenade",
+          "industrial rail district",
+          "neon entertainment block",
+          "university neighborhood",
+          "suburban main street",
+          "civic plaza district",
+          "old port neighborhood",
+          "transit hub district",
+          "rooftop cityscape"
+        ],
+        "layout": [
+          "layered street frontage",
+          "a long urban sightline",
+          "pedestrian-scale detail",
+          "repeating facade rhythm",
+          "overhead infrastructure",
+          "reflective street surfaces",
+          "a framed intersection",
+          "a distant skyline backdrop",
+          "foreground street furniture",
+          "crossing traffic lines"
+        ],
+        "atmosphere": [
+          "lived-in urban atmosphere",
+          "orderly architectural atmosphere",
+          "cinematic metropolitan atmosphere"
+        ]
+      },
+      "maxCombinations": 360
+    },
+    {
+      "id": "interior-environments",
+      "kind": "environment",
+      "family": "scene-craft-interior",
+      "group": "environment.interior",
+      "traits": [
+        "environment",
+        "interior"
+      ],
+      "template": "{room} with {layout}, {atmosphere}",
+      "axes": {
+        "room": [
+          "artist studio interior",
+          "boutique hotel lobby",
+          "cozy reading room",
+          "contemporary kitchen",
+          "formal dining room",
+          "glasshouse conservatory",
+          "grand theater foyer",
+          "industrial workshop",
+          "minimalist bedroom",
+          "museum gallery",
+          "public library hall",
+          "vintage train carriage"
+        ],
+        "layout": [
+          "layered furniture arrangement",
+          "a clear central walkway",
+          "strong architectural symmetry",
+          "a window-framed focal area",
+          "foreground object framing",
+          "repeating structural rhythm",
+          "deep room perspective",
+          "an intimate corner composition",
+          "ceiling-to-floor detail",
+          "balanced functional clutter"
+        ],
+        "atmosphere": [
+          "calm inhabited atmosphere",
+          "polished editorial atmosphere",
+          "warm observational atmosphere"
+        ]
+      },
+      "maxCombinations": 360
+    },
+    {
+      "id": "fantasy-environments",
+      "kind": "environment",
+      "family": "scene-craft-fantasy",
+      "group": "environment.fantasy",
+      "traits": [
+        "environment",
+        "fantasy"
+      ],
+      "template": "{realm} with {landmark}, {atmosphere}",
+      "axes": {
+        "realm": [
+          "cloudborne citadel",
+          "crystal cavern kingdom",
+          "enchanted forest court",
+          "floating island sanctuary",
+          "giant tree settlement",
+          "moonlit fae garden",
+          "mythic desert temple",
+          "skybridge mountain realm",
+          "submerged coral palace",
+          "volcanic forge kingdom",
+          "wandering tower valley",
+          "waterfall monastery realm"
+        ],
+        "landmark": [
+          "ancient rune pathways",
+          "colossal ceremonial arches",
+          "glowing botanical accents",
+          "impossible suspended bridges",
+          "layered magical landmarks",
+          "levitating stone fragments",
+          "ornate guardian statues",
+          "a shimmering portal structure",
+          "spiraling monumental stairs",
+          "weathered relic formations"
+        ],
+        "atmosphere": [
+          "wonder-filled epic atmosphere",
+          "serene mythical atmosphere",
+          "mysterious storybook atmosphere"
+        ]
+      },
+      "maxCombinations": 360
+    },
+    {
+      "id": "horror-environments",
+      "kind": "environment",
+      "family": "scene-craft-horror",
+      "group": "environment.horror",
+      "traits": [
+        "environment",
+        "horror",
+        "non-graphic"
+      ],
+      "template": "{setting} with {detail}, {atmosphere}",
+      "axes": {
+        "setting": [
+          "abandoned coastal hotel",
+          "boarded rural farmhouse",
+          "darkened clinic wing",
+          "deserted amusement arcade",
+          "forgotten roadside diner",
+          "forgotten subway station",
+          "isolated forest cabin",
+          "long-vacant schoolhouse",
+          "overgrown manor interior",
+          "silent underground bunker",
+          "storm-battered lighthouse",
+          "vacant department store"
+        ],
+        "detail": [
+          "doors left slightly ajar",
+          "flickering practical lights",
+          "long empty sightlines",
+          "misaligned furnishings",
+          "repeating shadow patterns",
+          "signs of sudden departure",
+          "subtle environmental decay",
+          "unexplained damp footprints",
+          "dark window reflections",
+          "worn personal belongings"
+        ],
+        "atmosphere": [
+          "quiet psychological dread",
+          "restrained supernatural unease",
+          "slow-building suspense"
+        ]
+      },
+      "maxCombinations": 360
+    },
+    {
+      "id": "science-fiction-environments",
+      "kind": "environment",
+      "family": "scene-craft-science-fiction",
+      "group": "environment.science-fiction",
+      "traits": [
+        "environment",
+        "science-fiction"
+      ],
+      "template": "{setting} with {infrastructure}, {atmosphere}",
+      "axes": {
+        "setting": [
+          "asteroid mining habitat",
+          "deep-space observatory",
+          "desert research outpost",
+          "generation ship concourse",
+          "lunar industrial colony",
+          "orbital greenhouse station",
+          "planetary defense hub",
+          "remote android workshop",
+          "submerged science station",
+          "terraforming control center",
+          "vertical megacity transit deck",
+          "zero-gravity cargo terminal"
+        ],
+        "infrastructure": [
+          "autonomous service drones",
+          "exposed modular conduits",
+          "holographic navigation panels",
+          "layered maintenance gantries",
+          "magnetic transit rails",
+          "pressurized access corridors",
+          "robotic fabrication arms",
+          "sealed observation windows",
+          "stacked utility modules",
+          "volumetric status displays"
+        ],
+        "atmosphere": [
+          "credible near-future atmosphere",
+          "clean high-technology atmosphere",
+          "weathered utilitarian atmosphere"
+        ]
+      },
+      "maxCombinations": 360
+    },
+    {
+      "id": "weather-time-environments",
+      "kind": "environment",
+      "family": "scene-craft-weather-time",
+      "group": "environment.weather-time",
+      "traits": [
+        "environment",
+        "weather",
+        "time-of-day"
+      ],
+      "template": "{scene} {weather} {time}",
+      "axes": {
+        "scene": [
+          "open countryside",
+          "mountain pass",
+          "coastal shoreline",
+          "forest clearing",
+          "city boulevard",
+          "suburban neighborhood",
+          "desert highway",
+          "river valley",
+          "harbor district",
+          "highland village"
+        ],
+        "weather": [
+          "under light rain",
+          "under heavy rain",
+          "in low drifting fog",
+          "in gusting wind",
+          "during fresh snowfall",
+          "beneath layered storm clouds",
+          "in humid atmospheric haze",
+          "under clear crisp air",
+          "through airborne dust"
+        ],
+        "time": [
+          "at predawn",
+          "in early morning",
+          "in late afternoon",
+          "at blue hour",
+          "at deep night"
+        ]
+      },
+      "exclude": [
+        {
+          "scene": "coastal shoreline",
+          "weather": "through airborne dust"
+        },
+        {
+          "scene": "harbor district",
+          "weather": "through airborne dust"
+        }
+      ],
+      "constraints": [
+        {
+          "when": {
+            "weather": "during fresh snowfall"
+          },
+          "forbid": {
+            "scene": "desert highway"
+          }
+        }
+      ],
+      "maxCombinations": 450
+    },
+    {
+      "id": "cinematic-light-sources",
+      "kind": "lighting",
+      "family": "scene-craft-cinematic-sources",
+      "group": "lighting.cinematic-source",
+      "traits": [
+        "lighting",
+        "cinematic",
+        "motivated-light"
+      ],
+      "template": "{finish} from {source}, {distribution}",
+      "axes": {
+        "source": [
+          "candle cluster",
+          "ceiling skylight",
+          "doorway spill",
+          "fireplace glow",
+          "fluorescent practicals",
+          "headlight beams",
+          "neon storefront",
+          "projector beam",
+          "softbox array",
+          "streetlamp pool",
+          "table lamp practical",
+          "window daylight"
+        ],
+        "distribution": [
+          "focused on the subject plane",
+          "spilling into the background",
+          "grazing textured surfaces",
+          "broken by foreground shapes",
+          "layered across depth planes",
+          "contained in a localized pool",
+          "reflected from nearby surfaces",
+          "falling off into shadow",
+          "creating a luminous frame"
+        ],
+        "finish": [
+          "soft diffusion",
+          "crisp shadow edges",
+          "gentle atmospheric bloom",
+          "controlled high contrast"
+        ]
+      },
+      "maxCombinations": 432
+    },
+    {
+      "id": "shot-size-camera",
+      "kind": "camera",
+      "family": "scene-craft-shot-size",
+      "group": "camera.shot-size",
+      "traits": [
+        "camera",
+        "shot-size"
+      ],
+      "template": "{size}, {composition}, {intent}",
+      "axes": {
+        "size": [
+          "extreme close-up",
+          "detail insert",
+          "close-up",
+          "medium close-up",
+          "medium shot",
+          "medium full shot",
+          "cowboy shot",
+          "full-body shot",
+          "wide shot",
+          "extreme wide shot"
+        ],
+        "composition": [
+          "centered framing",
+          "left-weighted framing",
+          "right-weighted framing",
+          "symmetrical framing",
+          "negative-space framing",
+          "foreground-framed composition",
+          "layered composition",
+          "frame-within-frame composition"
+        ],
+        "intent": [
+          "with calm visual balance",
+          "with restrained tension",
+          "with intimate emphasis",
+          "with observational distance"
+        ]
+      },
+      "constraints": [
+        {
+          "when": {
+            "size": [
+              "extreme close-up",
+              "detail insert",
+              "close-up"
+            ]
+          },
+          "forbid": {
+            "intent": "with observational distance"
+          }
+        },
+        {
+          "when": {
+            "size": [
+              "wide shot",
+              "extreme wide shot"
+            ]
+          },
+          "forbid": {
+            "intent": "with intimate emphasis"
+          }
+        }
+      ],
+      "maxCombinations": 320
+    },
+    {
+      "id": "angle-camera",
+      "kind": "camera",
+      "family": "scene-craft-angle",
+      "group": "camera.angle",
+      "traits": [
+        "camera",
+        "angle"
+      ],
+      "template": "{elevation}, {orientation}, {intent}",
+      "axes": {
+        "elevation": [
+          "eye-level angle",
+          "chest-height angle",
+          "waist-height angle",
+          "knee-height angle",
+          "ground-level angle",
+          "slightly low angle",
+          "pronounced low angle",
+          "slightly high angle",
+          "pronounced high angle",
+          "elevated balcony angle",
+          "overhead oblique angle",
+          "near-vertical overhead angle"
+        ],
+        "orientation": [
+          "center-axis view",
+          "left-offset view",
+          "right-offset view",
+          "front diagonal view",
+          "rear diagonal view",
+          "cross-corner view",
+          "longitudinal view",
+          "transverse view"
+        ],
+        "intent": [
+          "for neutral observation",
+          "for heightened scale",
+          "for spatial clarity",
+          "for dramatic tension"
+        ]
+      },
+      "maxCombinations": 384
+    },
+    {
+      "id": "lens-camera",
+      "kind": "camera",
+      "family": "scene-craft-lens",
+      "group": "camera.lens",
+      "traits": [
+        "camera",
+        "lens"
+      ],
+      "template": "{lens}, {aperture}, {rendering}",
+      "axes": {
+        "lens": [
+          "14mm rectilinear lens",
+          "18mm ultra-wide lens",
+          "21mm wide-angle lens",
+          "24mm wide-angle lens",
+          "28mm environmental lens",
+          "35mm documentary lens",
+          "40mm natural-perspective lens",
+          "50mm standard lens",
+          "58mm character lens",
+          "65mm portrait lens",
+          "85mm portrait lens",
+          "105mm short-telephoto lens",
+          "135mm telephoto lens",
+          "180mm telephoto lens",
+          "300mm super-telephoto lens"
+        ],
+        "aperture": [
+          "at a wide aperture",
+          "at a moderate aperture",
+          "at a mid-range aperture",
+          "at a stopped-down aperture"
+        ],
+        "rendering": [
+          "clean modern rendering",
+          "soft vintage rendering",
+          "subtle halation",
+          "controlled highlight bloom",
+          "low-contrast glass",
+          "high-microcontrast glass",
+          "gentle edge softness",
+          "neutral optical rendering"
+        ]
+      },
+      "maxCombinations": 480
+    },
+    {
+      "id": "tilt-camera",
+      "kind": "camera",
+      "family": "scene-craft-tilt",
+      "group": "camera.tilt",
+      "traits": [
+        "camera",
+        "tilt",
+        "dutch-angle"
+      ],
+      "template": "{roll}, {intent}, {anchor}",
+      "axes": {
+        "roll": [
+          "subtle clockwise roll",
+          "subtle counterclockwise roll",
+          "moderate clockwise dutch tilt",
+          "moderate counterclockwise dutch tilt",
+          "strong clockwise dutch tilt",
+          "strong counterclockwise dutch tilt",
+          "near-diagonal clockwise tilt",
+          "near-diagonal counterclockwise tilt",
+          "unstable shifting dutch tilt"
+        ],
+        "anchor": [
+          "subject-centered framing",
+          "horizon-led framing",
+          "architecture-led framing",
+          "doorway-framed composition",
+          "foreground-line framing",
+          "vanishing-point framing",
+          "negative-space framing",
+          "corner-to-corner framing"
+        ],
+        "intent": [
+          "with restrained unease",
+          "with kinetic urgency",
+          "with playful imbalance",
+          "with psychological tension"
+        ]
+      },
+      "maxCombinations": 288
+    },
+    {
+      "id": "motion-camera",
+      "kind": "camera",
+      "family": "scene-craft-motion",
+      "group": "camera.motion",
+      "traits": [
+        "camera",
+        "motion"
+      ],
+      "template": "{movement} {pace}, {support}",
+      "axes": {
+        "movement": [
+          "forward dolly",
+          "backward dolly",
+          "leftward truck",
+          "rightward truck",
+          "upward pedestal",
+          "downward pedestal",
+          "rising crane move",
+          "descending crane move",
+          "clockwise orbit",
+          "counterclockwise orbit",
+          "push-through move",
+          "pull-back reveal"
+        ],
+        "pace": [
+          "at an imperceptible pace",
+          "at a slow controlled pace",
+          "at a measured pace",
+          "at a brisk pace",
+          "with steady acceleration",
+          "with steady deceleration",
+          "with a sudden start",
+          "with a lingering finish"
+        ],
+        "support": [
+          "on stabilized support",
+          "with floating gimbal movement",
+          "with precise mechanical movement",
+          "with restrained handheld movement"
+        ]
+      },
+      "constraints": [
+        {
+          "when": {
+            "support": "with restrained handheld movement"
+          },
+          "forbid": {
+            "movement": [
+              "upward pedestal",
+              "downward pedestal",
+              "rising crane move",
+              "descending crane move"
+            ]
+          }
+        }
+      ],
+      "maxCombinations": 384
+    },
+    {
+      "id": "depth-camera",
+      "kind": "camera",
+      "family": "scene-craft-depth",
+      "group": "camera.depth",
+      "traits": [
+        "camera",
+        "depth"
+      ],
+      "template": "{focus}, {layers}, {separation}",
+      "axes": {
+        "focus": [
+          "razor-thin depth of field",
+          "shallow depth of field",
+          "moderate depth of field",
+          "deep depth of field",
+          "deep-focus staging",
+          "selective focus staging",
+          "tilted focus-plane staging",
+          "split-diopter focus staging",
+          "soft background separation",
+          "soft foreground separation"
+        ],
+        "layers": [
+          "foreground framing",
+          "a clear foreground plane",
+          "layered midground planes",
+          "overlapping silhouettes",
+          "receding architecture",
+          "compressed spatial planes",
+          "expansive spatial planes",
+          "deep vanishing-point layers"
+        ],
+        "separation": [
+          "with atmospheric separation",
+          "with tonal separation",
+          "with color separation",
+          "with rim-light separation",
+          "with scale falloff",
+          "with texture falloff"
+        ]
+      },
+      "maxCombinations": 480
+    }
+  ]
+}

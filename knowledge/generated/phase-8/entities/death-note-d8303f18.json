@@ -1,0 +1,248 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "L Lawliet",
+        "L Lawliet (Death Note)"
+      ],
+      "id": "character.death-note.l-lawliet",
+      "kind": "named-character",
+      "name": "L Lawliet",
+      "namespace": "Death Note",
+      "promptTags": [
+        "L Lawliet",
+        "Death Note",
+        "male",
+        "detective"
+      ],
+      "provenance": {
+        "groupId": "death-note",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "detective"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Light Yagami",
+        "Light Yagami (Death Note)"
+      ],
+      "id": "character.death-note.light-yagami",
+      "kind": "named-character",
+      "name": "Light Yagami",
+      "namespace": "Death Note",
+      "promptTags": [
+        "Light Yagami",
+        "Death Note",
+        "male",
+        "student mastermind"
+      ],
+      "provenance": {
+        "groupId": "death-note",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "mastermind"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Mihael Keehl",
+        "Mihael Keehl (Death Note)"
+      ],
+      "id": "character.death-note.mihael-keehl",
+      "kind": "named-character",
+      "name": "Mihael Keehl",
+      "namespace": "Death Note",
+      "promptTags": [
+        "Mihael Keehl",
+        "Death Note",
+        "male",
+        "investigator"
+      ],
+      "provenance": {
+        "groupId": "death-note",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "investigator"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Misa Amane",
+        "Misa Amane (Death Note)"
+      ],
+      "id": "character.death-note.misa-amane",
+      "kind": "named-character",
+      "name": "Misa Amane",
+      "namespace": "Death Note",
+      "promptTags": [
+        "Misa Amane",
+        "Death Note",
+        "female",
+        "idol"
+      ],
+      "provenance": {
+        "groupId": "death-note",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "idol"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Nate River",
+        "Nate River (Death Note)"
+      ],
+      "id": "character.death-note.nate-river",
+      "kind": "named-character",
+      "name": "Nate River",
+      "namespace": "Death Note",
+      "promptTags": [
+        "Nate River",
+        "Death Note",
+        "male",
+        "detective"
+      ],
+      "provenance": {
+        "groupId": "death-note",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "detective"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Ryuk",
+        "Ryuk (Death Note)"
+      ],
+      "id": "character.death-note.ryuk",
+      "kind": "named-character",
+      "name": "Ryuk",
+      "namespace": "Death Note",
+      "promptTags": [
+        "Ryuk",
+        "Death Note",
+        "male",
+        "shinigami"
+      ],
+      "provenance": {
+        "groupId": "death-note",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "shinigami"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Soichiro Yagami",
+        "Soichiro Yagami (Death Note)"
+      ],
+      "id": "character.death-note.soichiro-yagami",
+      "kind": "named-character",
+      "name": "Soichiro Yagami",
+      "namespace": "Death Note",
+      "promptTags": [
+        "Soichiro Yagami",
+        "Death Note",
+        "male",
+        "police chief"
+      ],
+      "provenance": {
+        "groupId": "death-note",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "police",
+        "leader"
+      ]
+    }
+  ],
+  "fingerprint": "c606ac21d679959a5a90f1d147fcaed3b2e6d5f780da858c3953fc611ec7753c",
+  "namespace": "Death Note",
+  "schemaVersion": 2
+}

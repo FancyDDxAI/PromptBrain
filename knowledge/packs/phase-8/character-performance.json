@@ -1,0 +1,2141 @@
+{
+  "schemaVersion": 1,
+  "packId": "phase8.character-performance",
+  "source": "phase-8-character-performance",
+  "defaults": {
+    "contentMode": "sfw",
+    "bases": ["SD1.5", "SDXL", "Pony", "FLUX"],
+    "priority": 6,
+    "group": "character-performance",
+    "traits": ["phase-8", "character-performance", "adult-character", "sfw"]
+  },
+  "entries": [],
+  "matrices": [
+    {
+      "id": "subject-adult-everyday-roles",
+      "kind": "subject",
+      "family": "adult-everyday-roles",
+      "group": "character-performance.subject.adult-generic",
+      "traits": ["adult-generic", "everyday-role"],
+      "template": "{presentation} {build} adult {role}",
+      "axes": {
+        "build": [
+          "slender-built",
+          "lean-built",
+          "athletic-built",
+          "sturdy-built",
+          "broad-built",
+          "stocky-built"
+        ],
+        "presentation": [
+          "feminine-presenting",
+          "masculine-presenting",
+          "androgynous-presenting",
+          "gender-neutral-presenting"
+        ],
+        "role": [
+          "baker",
+          "librarian",
+          "paramedic",
+          "carpenter",
+          "gardener",
+          "office worker",
+          "mechanic",
+          "teacher",
+          "musician",
+          "chef",
+          "postal worker",
+          "shopkeeper",
+          "researcher",
+          "firefighter",
+          "photographer"
+        ]
+      },
+      "maxCombinations": 360
+    },
+    {
+      "id": "subject-fantasy-humanoid-vocations",
+      "kind": "subject",
+      "family": "fantasy-humanoid-vocations",
+      "group": "character-performance.subject.fantasy-humanoid",
+      "traits": ["adult-fantasy", "fantasy-humanoid", "vocation"],
+      "template": "{vocation}, {bearing} {lineage}",
+      "axes": {
+        "bearing": [
+          "young adult",
+          "seasoned adult"
+        ],
+        "lineage": [
+          "pointed-eared woodland humanoid",
+          "moon-pale fae humanoid",
+          "horned ember humanoid",
+          "scaled river humanoid",
+          "stone-skinned mountain humanoid",
+          "feather-crested sky humanoid",
+          "luminous crystal humanoid",
+          "moss-covered forest humanoid",
+          "feline-featured desert humanoid",
+          "amphibious coastal humanoid"
+        ],
+        "vocation": [
+          "healer",
+          "scout",
+          "archivist",
+          "blacksmith",
+          "spell scholar",
+          "caravan guide",
+          "temple keeper",
+          "wilderness ranger",
+          "diplomat",
+          "artisan"
+        ]
+      },
+      "maxCombinations": 200
+    },
+    {
+      "id": "subject-adult-origin-archetypes",
+      "kind": "subject",
+      "family": "adult-origin-archetypes",
+      "group": "character-performance.subject.adult-generic",
+      "traits": ["adult-generic", "origin-archetype"],
+      "template": "{archetype}, {demeanor} adult character from a {origin}",
+      "axes": {
+        "archetype": [
+          "courier",
+          "community guardian",
+          "traveling craftsperson",
+          "local historian",
+          "field naturalist"
+        ],
+        "demeanor": [
+          "calm",
+          "spirited"
+        ],
+        "origin": [
+          "dense urban district",
+          "quiet rural village",
+          "windswept coast",
+          "high mountain settlement",
+          "forest-edge town",
+          "river valley community",
+          "open grassland region",
+          "arid frontier settlement"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "anatomy-adult-body-builds",
+      "kind": "anatomy",
+      "family": "adult-body-builds",
+      "group": "character-performance.anatomy.body-build",
+      "traits": ["body-build", "body-proportion"],
+      "template": "{conditioning}, {frame}, adult body anatomy",
+      "axes": {
+        "conditioning": [
+          "soft rounded build",
+          "lean conditioned build",
+          "toned athletic build",
+          "dense muscular build",
+          "full heavyset build",
+          "wiry build",
+          "sturdy build",
+          "stocky build",
+          "curvy build",
+          "angular build"
+        ],
+        "frame": [
+          "tall balanced frame",
+          "short balanced frame",
+          "average-height frame",
+          "long-limbed frame",
+          "short-limbed frame",
+          "broad skeletal frame",
+          "narrow skeletal frame",
+          "compact proportional frame"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "anatomy-adult-face-shape-nose",
+      "kind": "anatomy",
+      "family": "adult-face-shape-nose",
+      "group": "character-performance.anatomy.face",
+      "traits": ["facial-anatomy", "face-shape", "nose-trait"],
+      "template": "{shape} adult face with {feature_set}",
+      "axes": {
+        "feature_set": [
+          "a straight narrow nose",
+          "a broad rounded nose",
+          "a gently hooked nose",
+          "a short upturned nose",
+          "a long aquiline nose",
+          "a low nose bridge",
+          "a high nose bridge",
+          "a small button nose",
+          "a prominent nose bridge",
+          "softly flared nostrils",
+          "a defined philtrum",
+          "a shallow philtrum",
+          "a wide nose base",
+          "a narrow nose base",
+          "a naturally asymmetric nose",
+          "a softly rounded nose tip"
+        ],
+        "shape": [
+          "oval-shaped",
+          "round-shaped",
+          "square-shaped",
+          "heart-shaped",
+          "oblong-shaped",
+          "diamond-shaped",
+          "triangular-shaped",
+          "rectangular-shaped",
+          "softly tapered",
+          "broad-cheeked"
+        ]
+      },
+      "maxCombinations": 160
+    },
+    {
+      "id": "anatomy-adult-eyes-brows",
+      "kind": "anatomy",
+      "family": "adult-eyes-brows",
+      "group": "character-performance.anatomy.face",
+      "traits": ["facial-anatomy", "eye-shape", "brow-shape"],
+      "template": "{eye_form} with {brow_form}, adult facial anatomy",
+      "axes": {
+        "brow_form": [
+          "straight brows",
+          "gently arched brows",
+          "high arched brows",
+          "low-set brows",
+          "thick natural brows",
+          "fine delicate brows",
+          "bushy brows",
+          "short brows",
+          "long tapered brows",
+          "naturally asymmetric brows"
+        ],
+        "eye_form": [
+          "almond-shaped eyes",
+          "round eyes",
+          "hooded eyes",
+          "deep-set eyes",
+          "wide-set eyes",
+          "close-set eyes",
+          "upturned eyes",
+          "downturned eyes",
+          "monolid eyes",
+          "prominent eyes",
+          "small keen eyes",
+          "large soft eyes"
+        ]
+      },
+      "maxCombinations": 120
+    },
+    {
+      "id": "anatomy-adult-hands-fingers",
+      "kind": "anatomy",
+      "family": "adult-hands-fingers",
+      "group": "character-performance.anatomy.hands",
+      "traits": ["hand-anatomy", "finger-trait"],
+      "template": "{hand_form} with {finger_detail}, adult hand anatomy",
+      "axes": {
+        "finger_detail": [
+          "long tapered fingers",
+          "short sturdy fingers",
+          "blunt fingertips",
+          "rounded fingertips",
+          "prominent knuckles",
+          "subtle knuckles",
+          "callused fingertips",
+          "smooth fingertips",
+          "flexible fingers",
+          "slightly crooked fingers"
+        ],
+        "hand_form": [
+          "broad-palmed hands",
+          "narrow-palmed hands",
+          "square-palmed hands",
+          "long-palmed hands",
+          "compact hands",
+          "bony hands",
+          "soft hands",
+          "strong hands",
+          "weathered hands",
+          "delicate hands",
+          "heavy hands",
+          "sinewy hands"
+        ]
+      },
+      "maxCombinations": 120
+    },
+    {
+      "id": "anatomy-fantasy-ears",
+      "kind": "anatomy",
+      "family": "fantasy-ears",
+      "group": "character-performance.anatomy.fantasy",
+      "traits": ["fantasy-humanoid", "ear-anatomy"],
+      "template": "{ear_form} with {ear_detail}, fantasy humanoid ear anatomy",
+      "axes": {
+        "ear_detail": [
+          "warm inner shading",
+          "cool inner shading",
+          "freckled inner coloring",
+          "faintly luminous inner coloring"
+        ],
+        "ear_form": [
+          "long pointed ears",
+          "short pointed ears",
+          "leaf-shaped ears",
+          "fin-shaped ears",
+          "swept-back ears",
+          "rounded oversized ears",
+          "softly tufted ears",
+          "structurally ridged ears",
+          "translucent ears",
+          "gently drooping ears"
+        ]
+      },
+      "maxCombinations": 40
+    },
+    {
+      "id": "anatomy-fantasy-horns",
+      "kind": "anatomy",
+      "family": "fantasy-horns",
+      "group": "character-performance.anatomy.fantasy",
+      "traits": ["fantasy-humanoid", "horn-anatomy"],
+      "template": "{horn_form} with {horn_surface}, fantasy humanoid horn anatomy",
+      "axes": {
+        "horn_form": [
+          "short swept-back horns",
+          "long swept-back horns",
+          "upright tapered horns",
+          "curled ramlike horns",
+          "branching antlerlike horns",
+          "asymmetric paired horns",
+          "crownlike horn cluster",
+          "brow-ridge horns",
+          "cheekline horns",
+          "spiral horns"
+        ],
+        "horn_surface": [
+          "a smooth keratin surface",
+          "a ringed natural texture",
+          "a stone-like surface",
+          "a translucent crystal surface"
+        ]
+      },
+      "maxCombinations": 40
+    },
+    {
+      "id": "anatomy-fantasy-skin",
+      "kind": "anatomy",
+      "family": "fantasy-skin",
+      "group": "character-performance.anatomy.fantasy",
+      "traits": ["fantasy-humanoid", "skin-trait"],
+      "template": "{skin_trait} with {marking}, fantasy humanoid skin anatomy",
+      "axes": {
+        "marking": [
+          "subtle freckles",
+          "flowing stripe markings",
+          "soft dappled patches",
+          "faint luminous tracery"
+        ],
+        "skin_trait": [
+          "pearl-toned skin",
+          "slate-toned skin",
+          "moss-green skin",
+          "ember-red skin",
+          "moon-blue skin",
+          "bark-brown skin",
+          "lavender-gray skin",
+          "scaled teal skin",
+          "opalescent skin",
+          "golden-ochre skin"
+        ]
+      },
+      "maxCombinations": 40
+    },
+    {
+      "id": "anatomy-fantasy-eyes",
+      "kind": "anatomy",
+      "family": "fantasy-eyes",
+      "group": "character-performance.anatomy.fantasy",
+      "traits": ["fantasy-humanoid", "eye-anatomy"],
+      "template": "{iris_trait} with {pupil_trait}, fantasy humanoid eye anatomy",
+      "axes": {
+        "iris_trait": [
+          "metallic gold irises",
+          "silver irises",
+          "emerald irises",
+          "violet irises",
+          "ember-orange irises",
+          "ice-blue irises",
+          "opalescent irises",
+          "dark sclera and pale irises",
+          "star-speckled irises",
+          "ringed multicolor irises"
+        ],
+        "pupil_trait": [
+          "round pupils",
+          "vertical pupils",
+          "horizontal pupils",
+          "diamond-shaped pupils"
+        ]
+      },
+      "maxCombinations": 40
+    },
+    {
+      "id": "anatomy-adult-mouth-lower-face",
+      "kind": "anatomy",
+      "family": "adult-mouth-lower-face",
+      "group": "character-performance.anatomy.face",
+      "traits": ["facial-anatomy", "mouth-trait", "lower-face-trait"],
+      "template": "{mouth_trait} with {lower_face_trait}, adult facial anatomy",
+      "axes": {
+        "lower_face_trait": [
+          "a rounded chin",
+          "a square chin",
+          "a pointed chin",
+          "a cleft chin",
+          "a prominent chin",
+          "a gently recessed chin",
+          "high cheekbones",
+          "soft full cheeks"
+        ],
+        "mouth_trait": [
+          "full lips",
+          "thin lips",
+          "bow-shaped lips",
+          "a naturally wide mouth",
+          "a naturally small mouth",
+          "a downturned resting mouth",
+          "an upturned resting mouth",
+          "an asymmetric lip line",
+          "a defined cupid's bow",
+          "a soft undefined lip border"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "action-everyday-kitchen",
+      "kind": "action",
+      "family": "everyday-kitchen-actions",
+      "group": "character-performance.action.everyday",
+      "traits": ["everyday-action", "active-task", "kitchen"],
+      "template": "{task} {manner}, active kitchen task by an adult character",
+      "axes": {
+        "manner": [
+          "with careful measured motions",
+          "with quick practiced motions",
+          "with relaxed unhurried motions",
+          "with focused precise motions",
+          "with cheerful energetic motions"
+        ],
+        "task": [
+          "chopping vegetables",
+          "kneading bread dough",
+          "whisking batter",
+          "stirring a simmering pot",
+          "slicing fresh fruit",
+          "grating cheese",
+          "rolling pastry dough",
+          "plating a meal",
+          "washing dishes",
+          "pouring hot tea",
+          "seasoning a dish",
+          "packing a lunch"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "action-everyday-home-garden",
+      "kind": "action",
+      "family": "everyday-home-garden-actions",
+      "group": "character-performance.action.everyday",
+      "traits": ["everyday-action", "active-task", "home-and-garden"],
+      "template": "{task} {manner}, active home or garden task by an adult character",
+      "axes": {
+        "manner": [
+          "methodically",
+          "briskly",
+          "with careful attention",
+          "at an easy steady pace"
+        ],
+        "task": [
+          "sweeping the floor",
+          "folding clean laundry",
+          "making the bed",
+          "watering houseplants",
+          "repotting a plant",
+          "raking fallen leaves",
+          "pruning a hedge",
+          "planting seedlings",
+          "washing a window",
+          "dusting a shelf",
+          "carrying groceries indoors",
+          "organizing a cupboard",
+          "hanging laundry to dry",
+          "shoveling light snow",
+          "mending a garden fence"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "action-everyday-work-craft",
+      "kind": "action",
+      "family": "everyday-work-craft-actions",
+      "group": "character-performance.action.everyday",
+      "traits": ["everyday-action", "active-task", "work-and-craft"],
+      "template": "{task} {manner}, active craft or work task by an adult character",
+      "axes": {
+        "manner": [
+          "with steady concentration",
+          "with practiced precision",
+          "while checking each detail",
+          "in a smooth efficient rhythm"
+        ],
+        "task": [
+          "sketching a design",
+          "measuring a wooden board",
+          "joining wood with a mallet",
+          "shaping wet clay",
+          "threading a sewing needle",
+          "soldering a small circuit",
+          "arranging fresh flowers",
+          "polishing a metal part",
+          "binding a handmade book",
+          "mixing paint colors",
+          "carving a printing stamp",
+          "weaving a basket",
+          "repairing a bicycle",
+          "labeling research samples",
+          "tuning a musical instrument"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "action-everyday-personal-leisure",
+      "kind": "action",
+      "family": "everyday-personal-leisure-actions",
+      "group": "character-performance.action.everyday",
+      "traits": ["everyday-action", "active-task", "personal-routine"],
+      "template": "{task} {manner}, active personal routine by an adult character",
+      "axes": {
+        "manner": [
+          "with calm attention",
+          "in an easy routine rhythm",
+          "with gentle deliberate motions",
+          "without hurry"
+        ],
+        "task": [
+          "brushing their hair",
+          "tying their shoelaces",
+          "stretching their shoulders",
+          "reading a paperback book",
+          "writing in a journal",
+          "knitting a scarf",
+          "strumming an acoustic guitar",
+          "assembling a tabletop puzzle",
+          "tending a small aquarium",
+          "wrapping a gift",
+          "polishing a pair of shoes",
+          "packing a day bag",
+          "adjusting a scarf",
+          "cleaning their eyeglasses",
+          "browsing a market stall"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "action-combat-unarmed",
+      "kind": "action",
+      "family": "unarmed-combat-actions",
+      "group": "character-performance.action.combat",
+      "traits": ["combat-action", "dynamic", "unarmed"],
+      "template": "{maneuver} {tempo}, active unarmed combat movement",
+      "axes": {
+        "maneuver": [
+          "throwing a straight punch",
+          "driving a hook punch",
+          "delivering a palm strike",
+          "launching a front kick",
+          "sweeping with a low kick",
+          "slipping an incoming strike",
+          "ducking under a swing",
+          "pivoting into an elbow strike",
+          "checking a kick with the shin",
+          "stepping into a shoulder check",
+          "circling for an opening",
+          "retreating behind a raised guard"
+        ],
+        "tempo": [
+          "with explosive speed",
+          "with controlled power",
+          "with crisp technical form",
+          "with agile footwork",
+          "with disciplined restraint"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "action-combat-sword",
+      "kind": "action",
+      "family": "sword-combat-actions",
+      "group": "character-performance.action.combat",
+      "traits": ["combat-action", "dynamic", "sword"],
+      "template": "{maneuver} {execution}, active sword combat movement",
+      "axes": {
+        "execution": [
+          "with precise timing",
+          "with grounded footwork",
+          "with swift momentum",
+          "with measured restraint",
+          "with sharp directional intent"
+        ],
+        "maneuver": [
+          "drawing a sword into a rising cut",
+          "delivering a horizontal slash",
+          "executing a descending cut",
+          "thrusting the blade toward a target",
+          "turning into a reverse cut",
+          "advancing behind a sword guard",
+          "retreating with the blade covering",
+          "redirecting the blade into a parry",
+          "sweeping the blade in a low arc",
+          "changing grip for a close cut",
+          "spinning through a controlled slash",
+          "recovering the blade to guard"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "action-combat-polearm",
+      "kind": "action",
+      "family": "polearm-combat-actions",
+      "group": "character-performance.action.combat",
+      "traits": ["combat-action", "dynamic", "polearm"],
+      "template": "{maneuver} {execution}, active staff or spear combat movement",
+      "axes": {
+        "execution": [
+          "with wide controlled leverage",
+          "with compact technical form",
+          "with quick directional changes",
+          "with stable rooted footwork",
+          "with restrained training intensity"
+        ],
+        "maneuver": [
+          "thrusting a spear forward",
+          "sweeping a staff at waist height",
+          "planting a staff and vaulting sideways",
+          "rotating a spear around the body",
+          "bracing a spear against a charge",
+          "snapping a staff into an overhead strike",
+          "sliding both hands into a long-range thrust",
+          "reversing a staff into a backward strike",
+          "hooking a weapon with the shaft",
+          "spinning a spear into a circular guard",
+          "advancing behind the spear point",
+          "withdrawing a staff to close guard"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "action-combat-ranged",
+      "kind": "action",
+      "family": "ranged-combat-actions",
+      "group": "character-performance.action.combat",
+      "traits": ["combat-action", "dynamic", "ranged"],
+      "template": "{maneuver} {execution}, active ranged combat movement",
+      "axes": {
+        "execution": [
+          "in one fluid sequence",
+          "with steady breathing",
+          "with disciplined precision",
+          "under controlled timing",
+          "while staying alert"
+        ],
+        "maneuver": [
+          "drawing a bowstring",
+          "loosing an arrow",
+          "nocking an arrow while moving",
+          "aiming a crossbow",
+          "reloading a crossbow",
+          "casting a sling stone",
+          "hurling a practice javelin",
+          "tossing a throwing disc",
+          "raising a blowpipe toward a target",
+          "tracking a moving target with a bow",
+          "shifting into a kneeling aim",
+          "sidestepping while aiming"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "action-magic-elemental",
+      "kind": "action",
+      "family": "elemental-magic-actions",
+      "group": "character-performance.action.magic",
+      "traits": ["magic-action", "dynamic", "elemental"],
+      "template": "{spell_action}, {casting_motion}, active elemental magic action",
+      "axes": {
+        "casting_motion": [
+          "broad sweeping gestures",
+          "precise fingertip motions",
+          "a focused two-handed gesture",
+          "a forceful forward motion",
+          "a continuous circular motion"
+        ],
+        "spell_action": [
+          "casting a ribbon of flame",
+          "raising a wall of water",
+          "guiding a spiral of wind",
+          "lifting stones from the ground",
+          "shaping an arc of lightning",
+          "cooling the air into frost",
+          "drawing mist across the floor",
+          "compressing sand into a shield",
+          "redirecting falling rain",
+          "warming a frozen surface",
+          "parting smoke with a gust",
+          "sending sparks into the sky"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "action-magic-protective-restorative",
+      "kind": "action",
+      "family": "protective-restorative-magic-actions",
+      "group": "character-performance.action.magic",
+      "traits": ["magic-action", "dynamic", "protective", "restorative"],
+      "template": "{spell_action}, {casting_motion}, active protective or restorative magic action",
+      "axes": {
+        "casting_motion": [
+          "steady two-handed gestures",
+          "slow circular hand motions",
+          "precisely traced symbols",
+          "a firm outward palm motion",
+          "focused palm-to-palm motion"
+        ],
+        "spell_action": [
+          "raising a translucent barrier",
+          "weaving a protective ward",
+          "sealing a cracked shield with light",
+          "guiding healing light over a minor injury",
+          "cleansing dark residue from an object",
+          "stabilizing a fading protective charm",
+          "strengthening a doorway ward",
+          "mending torn fabric through magic",
+          "restoring a wilted plant through magic",
+          "purifying a cup of water",
+          "dissolving a minor curse from a keepsake",
+          "forming a safety sigil on the ground"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "action-magic-utility",
+      "kind": "action",
+      "family": "utility-magic-actions",
+      "group": "character-performance.action.magic",
+      "traits": ["magic-action", "dynamic", "utility"],
+      "template": "{spell_action}, {casting_motion}, active utility magic action",
+      "axes": {
+        "casting_motion": [
+          "small economical gestures",
+          "careful guiding motions",
+          "a sustained open-palm gesture",
+          "quick sequential finger signs",
+          "a measured tracing motion"
+        ],
+        "spell_action": [
+          "levitating a book",
+          "lighting a row of floating lanterns",
+          "opening a locked chest through magic",
+          "sorting papers through telekinesis",
+          "drawing a map in glowing lines",
+          "projecting a distant image",
+          "translating runes through magic",
+          "sending a message as light",
+          "finding a hidden trail with a spell",
+          "mending broken pottery magically",
+          "drying rain-soaked clothes with warmth",
+          "quieting a noisy room with a spell"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "action-magic-illusion-conjuration",
+      "kind": "action",
+      "family": "illusion-conjuration-magic-actions",
+      "group": "character-performance.action.magic",
+      "traits": ["magic-action", "dynamic", "illusion", "conjuration"],
+      "template": "{spell_action}, {casting_motion}, active illusion or conjuration magic action",
+      "axes": {
+        "casting_motion": [
+          "layered hand gestures",
+          "a broad framing motion",
+          "a delicate pinching gesture",
+          "a sweeping reveal motion",
+          "a controlled dismissive motion"
+        ],
+        "spell_action": [
+          "creating a mirror-image double",
+          "shaping an illusory doorway",
+          "summoning a floating practice target",
+          "conjuring a ring of harmless lights",
+          "forming an illusory landscape",
+          "disguising an object with glamour",
+          "creating echoing phantom footsteps",
+          "summoning translucent helper hands",
+          "projecting an illusory costume",
+          "conjuring a temporary bridge of light",
+          "forming a silent decoy silhouette",
+          "dismissing a fading illusion"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "action-movement-ground-locomotion",
+      "kind": "action",
+      "family": "ground-locomotion-actions",
+      "group": "character-performance.action.movement",
+      "traits": ["movement-action", "dynamic", "locomotion"],
+      "template": "{movement} with {quality}, active ground locomotion",
+      "axes": {
+        "movement": [
+          "walking uphill",
+          "jogging along a path",
+          "sprinting from a start",
+          "running around a corner",
+          "sidestepping across a narrow space",
+          "backpedaling while alert",
+          "skipping over shallow puddles",
+          "marching in a steady cadence",
+          "shuffling through a crowded corridor",
+          "tiptoeing across a quiet room",
+          "bounding up short steps",
+          "descending stairs quickly"
+        ],
+        "quality": [
+          "careful foot placement",
+          "fluid coordination",
+          "steady balance",
+          "attention on the route ahead",
+          "controlled momentum"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "action-movement-acrobatics",
+      "kind": "action",
+      "family": "acrobatic-movement-actions",
+      "group": "character-performance.action.movement",
+      "traits": ["movement-action", "dynamic", "acrobatics"],
+      "template": "{movement} with {quality}, active acrobatic movement",
+      "axes": {
+        "movement": [
+          "performing a forward roll",
+          "cartwheeling across the floor",
+          "handspringing over a low obstacle",
+          "landing from a short jump",
+          "vaulting over a low railing",
+          "spinning through an aerial turn",
+          "transitioning through a handstand",
+          "leaping into a split jump",
+          "tucking into a somersault",
+          "kicking into a roundoff",
+          "springing from a crouch into a jump",
+          "twisting through a controlled fall"
+        ],
+        "quality": [
+          "clean gymnastic form",
+          "compact body control",
+          "confident aerial awareness",
+          "precise takeoff and landing",
+          "energetic momentum"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "action-movement-traversal",
+      "kind": "action",
+      "family": "terrain-traversal-actions",
+      "group": "character-performance.action.movement",
+      "traits": ["movement-action", "dynamic", "traversal"],
+      "template": "{movement} with {quality}, active terrain traversal",
+      "axes": {
+        "movement": [
+          "climbing a ladder",
+          "crossing a rope bridge",
+          "scrambling up a rocky slope",
+          "ducking under a low branch",
+          "stepping across stream stones",
+          "squeezing through a narrow passage",
+          "crawling beneath a low opening",
+          "pulling up onto a ledge",
+          "sliding down a gentle embankment",
+          "wading through knee-deep water",
+          "hiking over uneven ground",
+          "descending a fixed rope"
+        ],
+        "quality": [
+          "careful route selection",
+          "measured weight shifts",
+          "steady balance",
+          "calm deliberate progress",
+          "attention to each foothold"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "action-movement-dance-sport",
+      "kind": "action",
+      "family": "dance-sport-actions",
+      "group": "character-performance.action.movement",
+      "traits": ["movement-action", "dynamic", "dance", "sport"],
+      "template": "{movement} with {quality}, active dance or sport movement",
+      "axes": {
+        "movement": [
+          "performing a quick dance turn",
+          "stepping through a ballroom pattern",
+          "moving through a contemporary dance phrase",
+          "swinging a tennis racket",
+          "serving a volleyball",
+          "dribbling a basketball",
+          "passing a football with the instep",
+          "swinging a baseball bat",
+          "skating through a wide turn",
+          "jumping rope in rhythm",
+          "throwing a flying disc",
+          "rowing through a strong stroke"
+        ],
+        "quality": [
+          "lively rhythm",
+          "coordinated whole-body motion",
+          "focused athletic timing",
+          "relaxed confidence",
+          "precise follow-through"
+        ]
+      },
+      "maxCombinations": 60
+    },
+    {
+      "id": "interaction-social-conversation",
+      "kind": "interaction",
+      "family": "social-conversation-interactions",
+      "group": "character-performance.interaction.social",
+      "traits": ["multi-character", "social-interaction", "conversation"],
+      "template": "{quality}: {interaction}, multi-character social interaction",
+      "axes": {
+        "interaction": [
+          "two adults exchanging introductions",
+          "two friends sharing a quiet conversation",
+          "two coworkers discussing plans",
+          "two neighbors chatting across a fence",
+          "two travelers comparing directions",
+          "two adults taking turns telling a story",
+          "two people debating an idea",
+          "two guests making small talk",
+          "two adults sharing good news",
+          "two strangers beginning a respectful conversation"
+        ],
+        "quality": [
+          "warm openness",
+          "attentive turn-taking",
+          "relaxed friendliness",
+          "polite curiosity"
+        ]
+      },
+      "maxCombinations": 40
+    },
+    {
+      "id": "interaction-support-care",
+      "kind": "interaction",
+      "family": "support-care-interactions",
+      "group": "character-performance.interaction.support",
+      "traits": ["multi-character", "support-interaction", "care"],
+      "template": "{quality}: {interaction}, multi-character supportive interaction",
+      "axes": {
+        "interaction": [
+          "one adult comforting another with a hand on the shoulder",
+          "two friends sitting together in quiet support",
+          "one adult helping another stand",
+          "one adult offering a warm drink to an upset companion",
+          "two adults sharing an encouraging hug",
+          "one adult listening while another describes a difficult day",
+          "one adult adjusting another's simple bandage",
+          "one adult guiding a tired companion to a seat",
+          "two adults celebrating a recovery milestone",
+          "one adult reassuring a nervous companion"
+        ],
+        "quality": [
+          "gentle patience",
+          "clear mutual consent",
+          "quiet empathy",
+          "reassuring attentiveness"
+        ]
+      },
+      "maxCombinations": 40
+    },
+    {
+      "id": "interaction-workplace-collaboration",
+      "kind": "interaction",
+      "family": "workplace-collaboration-interactions",
+      "group": "character-performance.interaction.collaboration",
+      "traits": ["multi-character", "collaboration", "workplace"],
+      "template": "{quality}: {interaction}, multi-character workplace interaction",
+      "axes": {
+        "interaction": [
+          "two coworkers reviewing a blueprint",
+          "two researchers comparing notes",
+          "two cooks coordinating meal preparation",
+          "two mechanics inspecting an engine",
+          "two designers arranging material samples",
+          "two teachers planning a lesson",
+          "two office workers organizing a schedule",
+          "two medics checking a supply list",
+          "two builders measuring a doorway together",
+          "two musicians rehearsing a passage"
+        ],
+        "quality": [
+          "clear task sharing",
+          "close mutual attention",
+          "efficient communication",
+          "cooperative focus"
+        ]
+      },
+      "maxCombinations": 40
+    },
+    {
+      "id": "interaction-service-exchange",
+      "kind": "interaction",
+      "family": "service-exchange-interactions",
+      "group": "character-performance.interaction.everyday",
+      "traits": ["multi-character", "service-interaction", "everyday"],
+      "template": "{quality}: {interaction}, multi-character service interaction",
+      "axes": {
+        "interaction": [
+          "a shopkeeper handing a purchase to a customer",
+          "a barista serving a cup to a customer",
+          "a librarian helping a visitor find a book",
+          "a market vendor weighing produce for a shopper",
+          "a receptionist greeting an arriving guest",
+          "a tailor measuring a client for a jacket",
+          "a technician explaining a repaired device to its owner",
+          "a server placing a meal before a diner",
+          "a postal worker handing a parcel to a resident",
+          "a guide pointing out a landmark to a traveler"
+        ],
+        "quality": [
+          "courteous attention",
+          "friendly professionalism",
+          "clear communication",
+          "patient helpfulness"
+        ]
+      },
+      "maxCombinations": 40
+    },
+    {
+      "id": "interaction-cooperative-adventure",
+      "kind": "interaction",
+      "family": "cooperative-adventure-interactions",
+      "group": "character-performance.interaction.adventure",
+      "traits": ["multi-character", "cooperation", "adventure"],
+      "template": "{quality}: {interaction}, multi-character adventure interaction",
+      "axes": {
+        "interaction": [
+          "two explorers reading a map together",
+          "one climber belaying another",
+          "two travelers lifting a fallen branch from the path",
+          "two scouts signaling across a clearing",
+          "two adventurers checking each other's gear",
+          "two companions crossing a stream hand in hand",
+          "one traveler boosting another onto a ledge",
+          "two adults carrying a shared supply crate",
+          "two explorers examining a trail marker",
+          "two companions sheltering together under one cloak"
+        ],
+        "quality": [
+          "coordinated teamwork",
+          "visible mutual trust",
+          "careful communication",
+          "shared situational awareness"
+        ]
+      },
+      "maxCombinations": 40
+    },
+    {
+      "id": "interaction-partner-magic",
+      "kind": "interaction",
+      "family": "partner-magic-interactions",
+      "group": "character-performance.interaction.magic",
+      "traits": ["multi-character", "magic-interaction", "cooperative"],
+      "template": "{quality}: {interaction}, multi-character magic interaction",
+      "axes": {
+        "interaction": [
+          "two adult mages combining protective wards",
+          "one mage stabilizing another's spell",
+          "two spellcasters passing an orb of light between them",
+          "one healer guiding another through a restorative ritual",
+          "two mages tracing a shared magic circle",
+          "two elemental casters balancing opposing currents",
+          "one spellcaster lending energy to a companion",
+          "two mages repairing an enchanted object together",
+          "one mentor correcting an adult student's hand sigil",
+          "two casters dispelling an illusion together"
+        ],
+        "quality": [
+          "synchronized timing",
+          "careful energy control",
+          "mutual concentration",
+          "practiced coordination"
+        ]
+      },
+      "maxCombinations": 40
+    },
+    {
+      "id": "interaction-training-sparring",
+      "kind": "interaction",
+      "family": "training-sparring-interactions",
+      "group": "character-performance.interaction.training",
+      "traits": ["multi-character", "training-interaction", "sparring"],
+      "template": "{quality}: {interaction}, multi-character training interaction",
+      "axes": {
+        "interaction": [
+          "two adults touching gloves before sparring",
+          "two martial artists exchanging controlled practice strikes",
+          "one trainer correcting a partner's guard",
+          "two fencers saluting before a bout",
+          "one adult holding focus pads for another",
+          "two staff fighters practicing distance",
+          "one archer coaching another's stance",
+          "two wrestlers practicing a safe escape",
+          "one trainer spotting a partner during a gymnastic drill",
+          "two adults reviewing a sparring sequence together"
+        ],
+        "quality": [
+          "clear safety awareness",
+          "respectful restraint",
+          "instructional focus",
+          "competitive good humor"
+        ]
+      },
+      "maxCombinations": 40
+    },
+    {
+      "id": "interaction-rescue-assistance",
+      "kind": "interaction",
+      "family": "rescue-assistance-interactions",
+      "group": "character-performance.interaction.rescue",
+      "traits": ["multi-character", "rescue-interaction", "assistance"],
+      "template": "{quality}: {interaction}, multi-character rescue interaction",
+      "axes": {
+        "interaction": [
+          "one adult pulling a companion away from falling debris",
+          "two adults supporting an injured walker",
+          "one rescuer offering a hand from a stable ledge",
+          "two people carrying a stretcher together",
+          "one adult guiding another through light smoke",
+          "two adults forming a human step to reach an exit",
+          "one rescuer securing a safety rope around a companion",
+          "one adult shielding another from loose dust",
+          "two people lifting a trapped beam together",
+          "one adult leading a disoriented companion to safety"
+        ],
+        "quality": [
+          "urgent coordination",
+          "calm communication",
+          "protective attention",
+          "determined teamwork"
+        ]
+      },
+      "maxCombinations": 40
+    },
+    {
+      "id": "interaction-group-planning",
+      "kind": "interaction",
+      "family": "group-planning-interactions",
+      "group": "character-performance.interaction.group",
+      "traits": ["multi-character", "group-interaction", "planning"],
+      "template": "{quality}: {interaction}, small-group planning interaction",
+      "axes": {
+        "interaction": [
+          "three adults gathered around a map",
+          "a small team assigning roles",
+          "three friends planning a shared trip",
+          "a committee reviewing a proposal",
+          "a work crew discussing a schedule",
+          "an adventuring party choosing a route",
+          "volunteers organizing a donation table",
+          "performers coordinating a rehearsal",
+          "neighbors planning a community garden",
+          "a research team comparing findings"
+        ],
+        "quality": [
+          "balanced participation",
+          "focused discussion",
+          "constructive disagreement",
+          "clear shared purpose"
+        ]
+      },
+      "maxCombinations": 40
+    },
+    {
+      "id": "interaction-family-friends",
+      "kind": "interaction",
+      "family": "family-friend-interactions",
+      "group": "character-performance.interaction.relationships",
+      "traits": ["multi-character", "friendship", "adult-family"],
+      "template": "{quality}: {interaction}, familiar multi-character interaction",
+      "axes": {
+        "interaction": [
+          "adult siblings cooking together",
+          "friends playing a tabletop game",
+          "adult relatives looking through a photo album",
+          "two friends exchanging handmade gifts",
+          "friends decorating a room for a celebration",
+          "adult family members setting a table",
+          "two friends repairing an old keepsake",
+          "friends singing together at home",
+          "adult cousins sharing a childhood story",
+          "close friends taking a group photograph"
+        ],
+        "quality": [
+          "easy familiarity",
+          "affectionate warmth",
+          "playful cooperation",
+          "comfortable companionship"
+        ]
+      },
+      "maxCombinations": 40
+    },
+    {
+      "id": "interaction-community-crowd",
+      "kind": "interaction",
+      "family": "community-crowd-interactions",
+      "group": "character-performance.interaction.community",
+      "traits": ["multi-character", "community-interaction", "crowd"],
+      "template": "{quality}: {interaction}, community-scale interaction",
+      "axes": {
+        "interaction": [
+          "neighbors passing supplies along a line",
+          "volunteers serving meals together",
+          "community members planting a public garden",
+          "adults dancing in a town celebration",
+          "an audience applauding a street performer",
+          "a market crowd making room for a handcart",
+          "people raising their hands during a public vote",
+          "festival guests exchanging greetings",
+          "commuters helping lift a heavy suitcase onto a step",
+          "workshop participants comparing projects"
+        ],
+        "quality": [
+          "shared civic spirit",
+          "orderly cooperation",
+          "lively communal energy",
+          "considerate awareness"
+        ]
+      },
+      "maxCombinations": 40
+    },
+    {
+      "id": "interaction-negotiation-deescalation",
+      "kind": "interaction",
+      "family": "negotiation-deescalation-interactions",
+      "group": "character-performance.interaction.negotiation",
+      "traits": ["multi-character", "negotiation", "deescalation"],
+      "template": "{quality}: {interaction}, multi-character negotiation interaction",
+      "axes": {
+        "interaction": [
+          "two adults negotiating a fair trade",
+          "a mediator helping two people find common ground",
+          "two coworkers resolving a disagreement",
+          "a guard and traveler clarifying a misunderstanding",
+          "two neighbors discussing a boundary issue",
+          "two team leads compromising on a schedule",
+          "a merchant and customer resolving a mistaken charge",
+          "two rivals lowering their voices during a tense conversation",
+          "one adult apologizing while another listens",
+          "two people agreeing on shared rules"
+        ],
+        "quality": [
+          "measured patience",
+          "respectful directness",
+          "visible willingness to listen",
+          "calm de-escalating body language"
+        ]
+      },
+      "maxCombinations": 40
+    },
+    {
+      "id": "interaction-paired-movement",
+      "kind": "interaction",
+      "family": "paired-movement-interactions",
+      "group": "character-performance.interaction.movement",
+      "traits": ["multi-character", "paired-movement", "coordination"],
+      "template": "{quality}: {interaction}, paired movement interaction",
+      "axes": {
+        "interaction": [
+          "two adults practicing ballroom steps",
+          "dance partners turning in sync",
+          "two friends learning a folk dance",
+          "two skaters gliding side by side",
+          "two runners matching pace",
+          "two hikers crossing a narrow log with linked hands",
+          "two adults practicing mirrored stretches",
+          "two performers rehearsing a supported lift",
+          "two paddlers coordinating a canoe stroke",
+          "two acrobats timing a safe partner balance"
+        ],
+        "quality": [
+          "synchronized rhythm",
+          "clear nonverbal cues",
+          "mutual balance awareness",
+          "playful confidence"
+        ]
+      },
+      "maxCombinations": 40
+    },
+    {
+      "id": "interaction-team-competition",
+      "kind": "interaction",
+      "family": "team-competition-interactions",
+      "group": "character-performance.interaction.sport",
+      "traits": ["multi-character", "team-sport", "competition"],
+      "template": "{quality}: {interaction}, team competition interaction",
+      "axes": {
+        "interaction": [
+          "two teammates passing a basketball",
+          "volleyball teammates setting up a spike",
+          "doubles partners covering a court",
+          "relay runners exchanging a baton",
+          "two rowers matching stroke timing",
+          "football teammates passing through defenders",
+          "two players defending a goal together",
+          "two climbers racing on parallel walls",
+          "training partners completing an obstacle course",
+          "two dancers competing in a friendly showcase"
+        ],
+        "quality": [
+          "coordinated strategy",
+          "focused communication",
+          "energetic teamwork",
+          "friendly competitive intensity"
+        ]
+      },
+      "maxCombinations": 40
+    },
+    {
+      "id": "pose-standing-neutral",
+      "kind": "pose",
+      "family": "neutral-standing-poses",
+      "group": "character-performance.pose.standing",
+      "traits": ["static-pose", "standing", "readable-silhouette"],
+      "template": "{arm_position}; {stance}, static neutral adult standing pose",
+      "axes": {
+        "arm_position": [
+          "arms relaxed at the sides",
+          "hands loosely clasped in front",
+          "hands folded behind the back",
+          "one hand resting at the hip",
+          "forearms lightly crossed",
+          "one hand holding the opposite wrist",
+          "hands resting at the waist",
+          "fingertips touching at the midline"
+        ],
+        "stance": [
+          "feet shoulder-width apart",
+          "feet close together",
+          "one foot slightly forward",
+          "weight evenly distributed",
+          "weight resting on the left leg",
+          "weight resting on the right leg",
+          "toes turned slightly outward",
+          "heels aligned in a relaxed stance",
+          "legs straight with softly relaxed knees",
+          "one knee gently bent"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "pose-standing-confident",
+      "kind": "pose",
+      "family": "confident-standing-poses",
+      "group": "character-performance.pose.standing",
+      "traits": ["static-pose", "standing", "confident-body-language"],
+      "template": "{upper_body}; {stance}, static confident adult standing pose",
+      "axes": {
+        "stance": [
+          "a wide grounded stance",
+          "a staggered power stance",
+          "a balanced contrapposto stance",
+          "feet planted square to the viewer",
+          "one foot resting on a low step",
+          "legs apart with one knee softened",
+          "an upright stance with the hips angled",
+          "a tall stance with the chest open",
+          "weight settled into the rear leg",
+          "a centered stance with both knees soft"
+        ],
+        "upper_body": [
+          "both hands on the hips",
+          "one fist at the hip and one arm relaxed",
+          "arms crossed at the chest",
+          "one hand at the belt line and one at the side",
+          "hands clasped behind the lower back",
+          "one hand resting over the sternum",
+          "both thumbs hooked at the waistband",
+          "one arm folded while the other hand touches the chin"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "pose-seated-chair",
+      "kind": "pose",
+      "family": "chair-seated-poses",
+      "group": "character-performance.pose.seated",
+      "traits": ["static-pose", "chair-seated", "readable-silhouette"],
+      "template": "{hand_position}; {seat_position}, static adult chair-seated pose",
+      "axes": {
+        "hand_position": [
+          "hands resting on the thighs",
+          "fingers interlaced in the lap",
+          "one hand on an armrest and one in the lap",
+          "both hands resting on the armrests",
+          "one hand lightly supporting the chin",
+          "hands loosely clasped between the knees",
+          "one hand resting over the opposite wrist",
+          "one hand at the collarbone and one in the lap"
+        ],
+        "seat_position": [
+          "sitting upright near the front of a chair",
+          "sitting back against a chair",
+          "sitting sideways on a chair",
+          "sitting with the ankles crossed",
+          "sitting with one ankle over the opposite knee",
+          "sitting with the knees together",
+          "sitting with the feet planted wide",
+          "sitting perched on the chair edge",
+          "sitting with one leg extended slightly",
+          "sitting with both feet tucked near the chair"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "pose-seated-floor",
+      "kind": "pose",
+      "family": "floor-seated-poses",
+      "group": "character-performance.pose.seated",
+      "traits": ["static-pose", "floor-seated", "readable-silhouette"],
+      "template": "{hand_position}; {seat_position}, static adult floor-seated pose",
+      "axes": {
+        "hand_position": [
+          "hands resting in the lap",
+          "palms placed beside the hips",
+          "hands loosely clasped at the midline",
+          "one hand on the floor and one on a thigh",
+          "fingertips touching in front",
+          "arms folded lightly across the torso",
+          "one hand at the cheek and one in the lap",
+          "hands resting near the ankles"
+        ],
+        "seat_position": [
+          "sitting cross-legged on the floor",
+          "sitting with the legs folded to one side",
+          "sitting with one knee raised and the other leg folded",
+          "sitting with both knees raised and feet planted",
+          "sitting with one leg extended and the other bent",
+          "sitting back on the heels",
+          "sitting in a wide relaxed straddle",
+          "sitting with ankles crossed and knees bent",
+          "side-sitting with both feet beside one hip",
+          "sitting with both legs loosely angled"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "pose-kneeling",
+      "kind": "pose",
+      "family": "kneeling-poses",
+      "group": "character-performance.pose.kneeling",
+      "traits": ["static-pose", "kneeling", "readable-silhouette"],
+      "template": "{arm_position}; {knee_position}, static adult kneeling pose",
+      "axes": {
+        "arm_position": [
+          "hands resting on the thighs",
+          "arms relaxed at the sides",
+          "hands clasped behind the back",
+          "palms together at the sternum",
+          "one hand over the heart and one at the side",
+          "forearms crossed lightly",
+          "hands open at waist height",
+          "one hand holding the opposite forearm"
+        ],
+        "knee_position": [
+          "kneeling upright on both knees",
+          "kneeling on one knee with the other foot planted",
+          "resting back on both heels",
+          "holding a high kneel with hips over the knees",
+          "holding a low kneel with the torso upright",
+          "holding a one-knee kneel with the front shin angled outward",
+          "kneeling with both knees together",
+          "kneeling with the knees set slightly apart",
+          "holding a one-knee kneel in three-quarter view",
+          "kneeling formally with the feet tucked behind"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "pose-crouching",
+      "kind": "pose",
+      "family": "crouching-poses",
+      "group": "character-performance.pose.crouching",
+      "traits": ["static-pose", "crouching", "readable-silhouette"],
+      "template": "{arm_position}; {crouch_position}, static adult crouching pose",
+      "axes": {
+        "arm_position": [
+          "hands resting atop the knees",
+          "fingertips touching the floor",
+          "one palm flat on the floor and one hand near the chest",
+          "hands loosely clasped at the midline",
+          "forearms angled between the knees",
+          "one hand at the jaw and one on a thigh",
+          "arms held close to the torso",
+          "hands open beside the knees"
+        ],
+        "crouch_position": [
+          "a deep squat with the heels grounded",
+          "a low crouch on the balls of the feet",
+          "a one-knee crouch with the rear knee hovering",
+          "a wide crouch with the knees apart",
+          "a compact crouch with the knees close",
+          "a side-facing crouch",
+          "a three-quarter crouch with the hips low",
+          "an asymmetric crouch with one heel lifted",
+          "a balanced squat with the back upright",
+          "a protective crouch with the torso slightly curled"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "pose-leaning",
+      "kind": "pose",
+      "family": "leaning-poses",
+      "group": "character-performance.pose.leaning",
+      "traits": ["static-pose", "leaning", "supported-balance"],
+      "template": "{arm_position}; {support_position}, static adult leaning pose",
+      "axes": {
+        "arm_position": [
+          "arms relaxed at the sides",
+          "hands resting in pockets",
+          "arms crossed at the chest",
+          "hands loosely clasped in front",
+          "one hand resting at the hip",
+          "one hand resting at the collarbone",
+          "one hand holding the opposite wrist",
+          "one hand touching the support surface"
+        ],
+        "support_position": [
+          "the left shoulder lightly supported by a wall",
+          "the right shoulder lightly supported by a wall",
+          "the upper back lightly supported by a wall",
+          "the left hip resting against a table edge",
+          "the right hip resting against a table edge",
+          "one side resting against a doorway",
+          "the lower back resting against a counter",
+          "one shoulder resting against a column",
+          "the hips resting against a desk edge",
+          "one side resting against a broad support"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "pose-reclining-sfw",
+      "kind": "pose",
+      "family": "sfw-reclining-poses",
+      "group": "character-performance.pose.reclining",
+      "traits": ["static-pose", "reclining", "sfw"],
+      "template": "{head_direction}; {recline_position}, static SFW adult reclining pose",
+      "axes": {
+        "head_direction": [
+          "head turned gently to the left",
+          "head turned gently to the right",
+          "chin raised slightly",
+          "chin lowered slightly",
+          "gaze directed toward the viewer",
+          "gaze directed away from the viewer",
+          "eyes directed upward",
+          "eyes softly lowered"
+        ],
+        "recline_position": [
+          "reclining on the back with both knees bent",
+          "reclining on one side with the legs softly bent",
+          "reclining on the back with one knee raised",
+          "reclining while propped on both elbows",
+          "reclining on one side supported by a forearm",
+          "reclining in a chaise with the legs extended",
+          "reclining in an armchair with the ankles crossed",
+          "reclining on the floor with the legs extended",
+          "reclining against cushions with the knees drawn up",
+          "reclining on the back with the ankles crossed"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "pose-upper-body-portrait",
+      "kind": "pose",
+      "family": "upper-body-portrait-poses",
+      "group": "character-performance.pose.portrait",
+      "traits": ["static-pose", "upper-body", "portrait"],
+      "template": "{shoulder_position}; {hand_position}, static adult upper-body portrait pose",
+      "axes": {
+        "hand_position": [
+          "one hand lightly touching the chin",
+          "one hand held near the cheek",
+          "fingertips resting at the collarbone",
+          "hands clasped below the chin",
+          "one hand cradling the opposite elbow",
+          "one palm resting over the sternum",
+          "both hands visible near the shoulders",
+          "one open hand held beside the face"
+        ],
+        "shoulder_position": [
+          "front-facing square shoulders",
+          "left-angled shoulders",
+          "right-angled shoulders",
+          "single raised shoulder",
+          "level relaxed shoulders",
+          "left three-quarter torso turn",
+          "right three-quarter torso turn",
+          "left-profile upper body",
+          "right-profile upper body",
+          "front-facing torso with a gentle head tilt"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "pose-combat-ready-unarmed",
+      "kind": "pose",
+      "family": "unarmed-combat-ready-poses",
+      "group": "character-performance.pose.combat-ready",
+      "traits": ["static-pose", "combat-ready", "unarmed"],
+      "template": "{leg_position}; {guard_position}, static unarmed combat-ready adult pose",
+      "axes": {
+        "guard_position": [
+          "a closed-fist guard near the jaw",
+          "an open-palm guard before the chest",
+          "forearms crossed in a protective guard",
+          "one hand extended and one held near the ribs",
+          "both hands open at shoulder height",
+          "elbows tucked with fists near the sternum",
+          "one forearm shielding the temple and one hand near the waist",
+          "both hands held low in a cautious guard"
+        ],
+        "leg_position": [
+          "feet staggered with the left foot forward",
+          "feet staggered with the right foot forward",
+          "a wide grounded stance",
+          "a narrow side-on stance",
+          "a rear-weighted stance",
+          "a forward-weighted stance",
+          "both knees deeply flexed",
+          "both knees softly flexed",
+          "one knee held near the floor",
+          "a centered square stance"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "pose-magic-ready",
+      "kind": "pose",
+      "family": "magic-ready-poses",
+      "group": "character-performance.pose.magic-ready",
+      "traits": ["static-pose", "magic-ready", "hand-sigil"],
+      "template": "{hand_position}; {leg_position}, static magic-ready adult pose",
+      "axes": {
+        "hand_position": [
+          "palms facing around an invisible sphere",
+          "one palm extended and one hand near the sternum",
+          "fingertips touching in a triangular shape",
+          "both hands open at shoulder height",
+          "one hand raised overhead and one held at the waist",
+          "hands cupped together at the chest",
+          "two fingers extended on each hand",
+          "paired fingers held in a precise sigil"
+        ],
+        "leg_position": [
+          "feet shoulder-width apart in a ritual stance",
+          "one foot forward in a casting stance",
+          "feet close together in a centered casting stance",
+          "a wide grounded ritual stance",
+          "a rear-weighted casting stance",
+          "both knees softly bent",
+          "one knee lowered to the floor",
+          "the torso turned three-quarter with both feet planted",
+          "heels aligned with the toes turned outward",
+          "a balanced contrapposto casting stance"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "pose-static-balance",
+      "kind": "pose",
+      "family": "static-balance-poses",
+      "group": "character-performance.pose.balance",
+      "traits": ["static-pose", "balance", "full-body"],
+      "template": "{balance_position}; {arm_position}, static adult balance pose",
+      "axes": {
+        "arm_position": [
+          "arms extended sideways",
+          "hands together at the sternum",
+          "one arm overhead and one extended sideways",
+          "both arms overhead",
+          "arms curved forward at chest level",
+          "one arm forward and one arm back",
+          "hands resting at the hips",
+          "arms held along opposing diagonals"
+        ],
+        "balance_position": [
+          "left-leg knee-lift balance",
+          "right-leg knee-lift balance",
+          "left-leg calf-rest balance",
+          "right-leg calf-rest balance",
+          "rear leg-extension balance",
+          "side leg-extension balance",
+          "heel-to-toe balance along a narrow line",
+          "two-foot tiptoe balance",
+          "one-foot half-squat balance",
+          "toe-supported one-leg balance"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "pose-body-language-silhouette",
+      "kind": "pose",
+      "family": "body-language-silhouette-poses",
+      "group": "character-performance.pose.body-language",
+      "traits": ["static-pose", "body-language", "readable-silhouette"],
+      "template": "{head_or_hand_detail}; {body_arrangement}, static adult body-language pose",
+      "axes": {
+        "body_arrangement": [
+          "an upright open-chested silhouette",
+          "a slightly hunched guarded silhouette",
+          "a silhouette with the shoulders drawn inward",
+          "the chest lifted with the shoulders back",
+          "the torso angled away defensively",
+          "the body folded slightly forward",
+          "the hips shifted with relaxed asymmetry",
+          "a rigid straight-backed silhouette",
+          "a softly rounded relaxed silhouette",
+          "a compact self-contained silhouette"
+        ],
+        "head_or_hand_detail": [
+          "chin tucked toward the chest",
+          "chin raised slightly",
+          "head tilted to the left",
+          "head tilted to the right",
+          "gaze directed downward",
+          "gaze directed sideways",
+          "hands held close to the torso",
+          "arms hanging loosely"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "expression-warmth-joy",
+      "kind": "expression",
+      "family": "warmth-joy-expressions",
+      "group": "character-performance.expression.positive",
+      "traits": ["facial-expression", "warmth", "joy", "nuanced-mood"],
+      "template": "{mood}; {facial_cue}, nuanced adult expression",
+      "axes": {
+        "facial_cue": [
+          "a soft closed-lip smile with bright eyes",
+          "a small open smile and lifted cheeks",
+          "warm eye crinkles and relaxed brows",
+          "a subtle smile with a softened gaze",
+          "lifted mouth corners and attentive eyes",
+          "a gentle grin with a relaxed jaw",
+          "smiling eyes and lightly raised brows",
+          "a restrained smile with a luminous attentive gaze"
+        ],
+        "mood": [
+          "gentle happiness",
+          "quiet delight",
+          "affectionate joy",
+          "grateful warmth",
+          "hopeful happiness",
+          "tender fondness",
+          "bright satisfaction",
+          "peaceful joy",
+          "welcoming warmth",
+          "soft-hearted appreciation"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "expression-amusement-playfulness",
+      "kind": "expression",
+      "family": "amusement-playfulness-expressions",
+      "group": "character-performance.expression.positive",
+      "traits": ["facial-expression", "amusement", "playfulness", "nuanced-mood"],
+      "template": "{mood}; {facial_cue}, nuanced adult expression",
+      "axes": {
+        "facial_cue": [
+          "one eyebrow raised with a crooked smile",
+          "a suppressed grin and sparkling eyes",
+          "a sideways smile with a narrowed playful gaze",
+          "lips pressed as if holding back laughter",
+          "a broad grin with lifted brows",
+          "a small smirk with softened eyes",
+          "the nose slightly scrunched with a bright smile",
+          "an open laughing smile with relaxed brows"
+        ],
+        "mood": [
+          "warm amusement",
+          "playful mischief",
+          "friendly teasing",
+          "wry humor",
+          "cheeky delight",
+          "lighthearted curiosity",
+          "shared-joke amusement",
+          "spirited playfulness",
+          "amused disbelief",
+          "buoyant humor"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "expression-serenity-contentment",
+      "kind": "expression",
+      "family": "serenity-contentment-expressions",
+      "group": "character-performance.expression.calm",
+      "traits": ["facial-expression", "serenity", "contentment", "nuanced-mood"],
+      "template": "{mood}; {facial_cue}, nuanced adult expression",
+      "axes": {
+        "facial_cue": [
+          "relaxed eyelids and a neutral mouth",
+          "a soft half-smile and smooth brows",
+          "a slow attentive gaze and loose jaw",
+          "eyes gently closed and lips at rest",
+          "softened eyes and barely lifted mouth corners",
+          "level brows and relaxed lips",
+          "a lowered gaze with a smooth forehead",
+          "open calm eyes and relaxed cheeks"
+        ],
+        "mood": [
+          "deep contentment",
+          "quiet serenity",
+          "grounded calm",
+          "relieved peace",
+          "meditative stillness",
+          "gentle acceptance",
+          "restful ease",
+          "patient composure",
+          "tranquil confidence",
+          "unhurried satisfaction"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "expression-sadness-grief",
+      "kind": "expression",
+      "family": "sadness-grief-expressions",
+      "group": "character-performance.expression.sadness",
+      "traits": ["facial-expression", "sadness", "grief", "nuanced-mood"],
+      "template": "{mood}; {facial_cue}, nuanced adult expression",
+      "axes": {
+        "facial_cue": [
+          "downturned mouth corners and glossy eyes",
+          "a lowered gaze with the inner brows raised",
+          "tightened lips and damp eyes",
+          "a faint trembling mouth with furrowed inner brows",
+          "heavy eyelids and a slack jaw",
+          "a small pained smile with wet eyes",
+          "brows drawn upward and lips pressed thin",
+          "a distant gaze with softened cheeks"
+        ],
+        "mood": [
+          "quiet sadness",
+          "restrained grief",
+          "tender melancholy",
+          "weary sorrow",
+          "homesick longing",
+          "disappointed sadness",
+          "reflective mourning",
+          "lonely vulnerability",
+          "bittersweet sadness",
+          "subdued heartache"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "expression-worry-anxiety",
+      "kind": "expression",
+      "family": "worry-anxiety-expressions",
+      "group": "character-performance.expression.anxiety",
+      "traits": ["facial-expression", "worry", "anxiety", "nuanced-mood"],
+      "template": "{mood}; {facial_cue}, nuanced adult expression",
+      "axes": {
+        "facial_cue": [
+          "brows pinched upward and lips parted",
+          "the lower lip drawn inward with a sideways gaze",
+          "a creased forehead and tight mouth",
+          "eyes slightly widened and the jaw held tense",
+          "one brow lifted and the mouth compressed",
+          "lips pressed together with worried eye focus",
+          "inner brows raised over a shallow frown",
+          "a lowered gaze and uncertain mouth"
+        ],
+        "mood": [
+          "uneasy concern",
+          "restrained anxiety",
+          "nervous anticipation",
+          "troubled uncertainty",
+          "protective worry",
+          "social unease",
+          "restless apprehension",
+          "cautious concern",
+          "overwhelmed worry",
+          "vigilant unease"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "expression-fear-surprise",
+      "kind": "expression",
+      "family": "fear-surprise-expressions",
+      "group": "character-performance.expression.alarm",
+      "traits": ["facial-expression", "fear", "surprise", "nuanced-mood"],
+      "template": "{mood}; {facial_cue}, nuanced adult expression",
+      "axes": {
+        "facial_cue": [
+          "eyes widened and lips parted",
+          "brows lifted high over an open mouth",
+          "a sharply focused gaze and slightly dropped jaw",
+          "upper eyelids raised over a tense lower face",
+          "a rounded mouth and arched brows",
+          "eyes fixed forward with the lips held apart",
+          "brows drawn high and inward over a tight jaw",
+          "wide eyes with the mouth corners pulled back"
+        ],
+        "mood": [
+          "startled alarm",
+          "sudden shock",
+          "fearful realization",
+          "breathless surprise",
+          "cautious fear",
+          "stunned disbelief",
+          "rising panic",
+          "wary astonishment",
+          "tense surprise",
+          "vulnerable alarm"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "expression-anger-frustration",
+      "kind": "expression",
+      "family": "anger-frustration-expressions",
+      "group": "character-performance.expression.anger",
+      "traits": ["facial-expression", "anger", "frustration", "nuanced-mood"],
+      "template": "{mood}; {facial_cue}, nuanced adult expression",
+      "axes": {
+        "facial_cue": [
+          "brows lowered and lips pressed firm",
+          "a clenched jaw and narrowed eyes",
+          "nostrils slightly flared over a tight mouth",
+          "one brow lowered with a hard side glance",
+          "a deep brow furrow and compressed lips",
+          "eyes fixed forward over a squared jaw",
+          "a tense upper lip and rigid cheeks",
+          "brows pulled together in a controlled scowl"
+        ],
+        "mood": [
+          "controlled anger",
+          "simmering frustration",
+          "righteous indignation",
+          "defensive irritation",
+          "sharp annoyance",
+          "restrained fury",
+          "impatient tension",
+          "offended disbelief",
+          "stern displeasure",
+          "focused outrage"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "expression-determination-courage",
+      "kind": "expression",
+      "family": "determination-courage-expressions",
+      "group": "character-performance.expression.resolve",
+      "traits": ["facial-expression", "determination", "courage", "nuanced-mood"],
+      "template": "{mood}; {facial_cue}, nuanced adult expression",
+      "axes": {
+        "facial_cue": [
+          "brows gently lowered over a steady gaze",
+          "lips set firm and eyes held level",
+          "the chin slightly raised with focused eyes",
+          "a set jaw without strain and level brows",
+          "eyes narrowed slightly over a calm mouth",
+          "a direct gaze and compressed mouth corners",
+          "one brow subtly lifted over firm lips",
+          "clear forward focus with a relaxed forehead"
+        ],
+        "mood": [
+          "steady determination",
+          "quiet resolve",
+          "protective courage",
+          "resilient focus",
+          "defiant confidence",
+          "disciplined intent",
+          "hopeful resolve",
+          "battle-ready composure",
+          "unwavering commitment",
+          "hard-won confidence"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "expression-skepticism-doubt",
+      "kind": "expression",
+      "family": "skepticism-doubt-expressions",
+      "group": "character-performance.expression.doubt",
+      "traits": ["facial-expression", "skepticism", "doubt", "nuanced-mood"],
+      "template": "{mood}; {facial_cue}, nuanced adult expression",
+      "axes": {
+        "facial_cue": [
+          "one eyebrow raised over neutral lips",
+          "uneven brows and a slightly pursed mouth",
+          "eyes gently narrowed over pressed lips",
+          "a sideward gaze with one mouth corner tightened",
+          "inner brows lifted over lips drawn thin",
+          "the lower lip pushed slightly forward beneath a furrowed brow",
+          "half-lidded eyes and a faint frown",
+          "raised brows over a small uncertain mouth"
+        ],
+        "mood": [
+          "measured skepticism",
+          "cautious doubt",
+          "polite disbelief",
+          "analytical suspicion",
+          "restrained distaste",
+          "doubtful curiosity",
+          "guarded questioning",
+          "incredulous restraint",
+          "hesitant disagreement",
+          "wary consideration"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "expression-concentration-curiosity",
+      "kind": "expression",
+      "family": "concentration-curiosity-expressions",
+      "group": "character-performance.expression.thought",
+      "traits": ["facial-expression", "concentration", "curiosity", "nuanced-mood"],
+      "template": "{mood}; {facial_cue}, nuanced adult expression",
+      "axes": {
+        "facial_cue": [
+          "brows gently knit over relaxed lips",
+          "eyes tracking a detail with the mouth slightly open",
+          "one brow lifted over a fixed gaze",
+          "lips pursed lightly beneath focused eyes",
+          "a faintly creased forehead and loose jaw",
+          "eyes narrowed in scrutiny over a neutral mouth",
+          "inner brows lowered while the lips remain still",
+          "bright attentive eyes over a soft frown"
+        ],
+        "mood": [
+          "intense concentration",
+          "absorbed curiosity",
+          "methodical thoughtfulness",
+          "creative focus",
+          "puzzled attention",
+          "investigative interest",
+          "careful calculation",
+          "studious engagement",
+          "reflective analysis",
+          "alert curiosity"
+        ]
+      },
+      "maxCombinations": 80
+    },
+    {
+      "id": "expression-bashful-social-nuance",
+      "kind": "expression",
+      "family": "bashful-social-nuance-expressions",
+      "group": "character-performance.expression.social-nuance",
+      "traits": ["facial-expression", "bashful", "embarrassment", "nuanced-mood"],
+      "template": "{mood}; {facial_cue}, nuanced adult expression",
+      "axes": {
+        "facial_cue": [
+          "a lowered gaze with a small smile",
+          "subtly flushed cheeks and lips pressed together",
+          "a sideward glance with a softened smile",
+          "brows raised inward over a nervous grin",
+          "the lower lip tucked slightly beneath the upper teeth",
+          "a small uneven smile with the eyes averted",
+          "lifted mouth corners beneath uncertain brows",
+          "half-lowered eyes over a restrained smile"
+        ],
+        "mood": [
+          "bashful pleasure",
+          "mild embarrassment",
+          "shy appreciation",
+          "awkward fondness",
+          "self-conscious pride",
+          "apologetic warmth",
+          "flustered gratitude",
+          "modest satisfaction",
+          "tender hesitation",
+          "relieved embarrassment"
+        ]
+      },
+      "maxCombinations": 80
+    }
+  ]
+}

@@ -1,0 +1,1664 @@
+{
+  "count": 24,
+  "familyId": "phase8.art.camera.intimate-close-focus",
+  "fingerprint": "6328511acad9289cf0c8814d61d413286ed062242ccae19e86f382de1d391d43",
+  "recipes": [
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with toned highlight bloom photographic style, head-and-shoulders with upper negative space composition, lilac mist with marigold accent soft-color palette, gentle atmospheric bloom from window daylight, spilling into the background 00d8b08454d8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.00d8b08454d8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-foreground-framed-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-upper-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-spilling-into-the-backgrou"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lilac-mist-with-marigold-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-toned-highlight-bloom-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 16",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with toned highlight bloom photographic style, head-and-shoulders with upper negative space composition, lilac mist with marigold accent soft-color palette, gentle atmospheric bloom from window daylight, spilling into the background 00d8b08454d8"
+      ],
+      "variantIndex": 15
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with soft edge falloff photographic style, head-and-shoulders with off-axis tension composition, blush pink with raspberry accent soft-color palette, controlled high contrast from window daylight, spilling into the background 0cde2011f854"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.0cde2011f854",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-centered-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-off-axis-tension-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-window-daylight-spilling-into-the-backgrou"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.blush-pink-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 23",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with soft edge falloff photographic style, head-and-shoulders with off-axis tension composition, blush pink with raspberry accent soft-color palette, controlled high contrast from window daylight, spilling into the background 0cde2011f854"
+      ],
+      "variantIndex": 22
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with toned highlight bloom photographic style, head-and-shoulders with mirrored side balance composition, dusty rose with plum accent soft-color palette, crisp shadow edges from window daylight, reflected from nearby surfaces 0eb712d01688"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.0eb712d01688",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-symmetrical-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-mirrored-side-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dusty-rose-with-plum-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-toned-highlight-bloom-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 22",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with toned highlight bloom photographic style, head-and-shoulders with mirrored side balance composition, dusty rose with plum accent soft-color palette, crisp shadow edges from window daylight, reflected from nearby surfaces 0eb712d01688"
+      ],
+      "variantIndex": 21
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with muted tonal range photographic style, head-and-shoulders with mirrored side balance composition, lilac mist with moss accent soft-color palette, gentle atmospheric bloom from window daylight, creating a luminous frame 27ac50aa9e38"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.27ac50aa9e38",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-centered-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-mirrored-side-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.lilac-mist-with-moss-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 12",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with muted tonal range photographic style, head-and-shoulders with mirrored side balance composition, lilac mist with moss accent soft-color palette, gentle atmospheric bloom from window daylight, creating a luminous frame 27ac50aa9e38"
+      ],
+      "variantIndex": 11
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with careful studio staging photographic style, head-and-shoulders with upper negative space composition, butter yellow with marigold accent soft-color palette, controlled high contrast from window daylight, reflected from nearby surfaces 280d0893c275"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.280d0893c275",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-foreground-framed-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-upper-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-window-daylight-reflected-from-nearby-surf"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.butter-yellow-with-marigold-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 21",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with careful studio staging photographic style, head-and-shoulders with upper negative space composition, butter yellow with marigold accent soft-color palette, controlled high contrast from window daylight, reflected from nearby surfaces 280d0893c275"
+      ],
+      "variantIndex": 20
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with muted tonal range photographic style, head-and-shoulders with mirrored side balance composition, pale aqua with teal accent soft-color palette, controlled high contrast from window daylight, contained in a localized pool 425ac0e691da"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.425ac0e691da",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-layered-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-mirrored-side-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-window-daylight-contained-in-a-localized-p"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.pale-aqua-with-teal-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 20",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with muted tonal range photographic style, head-and-shoulders with mirrored side balance composition, pale aqua with teal accent soft-color palette, controlled high contrast from window daylight, contained in a localized pool 425ac0e691da"
+      ],
+      "variantIndex": 19
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with deep shadow detail photographic style, head-and-shoulders with right-weighted balance composition, pale aqua with cobalt accent soft-color palette, gentle atmospheric bloom from window daylight, falling off into shadow 459752f65780"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.459752f65780",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-left-weighted-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-right-weighted-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.pale-aqua-with-cobalt-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 9",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with deep shadow detail photographic style, head-and-shoulders with right-weighted balance composition, pale aqua with cobalt accent soft-color palette, gentle atmospheric bloom from window daylight, falling off into shadow 459752f65780"
+      ],
+      "variantIndex": 8
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with careful studio staging photographic style, head-and-shoulders with centered balance composition, seafoam with teal accent soft-color palette, soft diffusion from window daylight, contained in a localized pool 49b7edb8ef6d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.49b7edb8ef6d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-centered-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-centered-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-window-daylight-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.seafoam-with-teal-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-careful-studio-staging-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 2",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with careful studio staging photographic style, head-and-shoulders with centered balance composition, seafoam with teal accent soft-color palette, soft diffusion from window daylight, contained in a localized pool 49b7edb8ef6d"
+      ],
+      "variantIndex": 1
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with soft edge falloff photographic style, head-and-shoulders with diagonal counterweight composition, seafoam with raspberry accent soft-color palette, gentle atmospheric bloom from window daylight, layered across depth planes 580efc651cdc"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.580efc651cdc",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-negative-space-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-diagonal-counterweight-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-layered-across-depth-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.seafoam-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 6",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with soft edge falloff photographic style, head-and-shoulders with diagonal counterweight composition, seafoam with raspberry accent soft-color palette, gentle atmospheric bloom from window daylight, layered across depth planes 580efc651cdc"
+      ],
+      "variantIndex": 5
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with toned highlight bloom photographic style, head-and-shoulders with right-weighted balance composition, peach cream with raspberry accent soft-color palette, crisp shadow edges from window daylight, reflected from nearby surfaces 6f9be1b48b10"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.6f9be1b48b10",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-right-weighted-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-right-weighted-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-reflected-from-nearby-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peach-cream-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-toned-highlight-bloom-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 11",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with toned highlight bloom photographic style, head-and-shoulders with right-weighted balance composition, peach cream with raspberry accent soft-color palette, crisp shadow edges from window daylight, reflected from nearby surfaces 6f9be1b48b10"
+      ],
+      "variantIndex": 10
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with muted tonal range photographic style, head-and-shoulders with right-weighted balance composition, seafoam with plum accent soft-color palette, crisp shadow edges from window daylight, creating a luminous frame 80cbca3ca578"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.80cbca3ca578",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-right-weighted-framing-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-right-weighted-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-creating-a-luminous-frame"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.seafoam-with-plum-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 18",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with muted tonal range photographic style, head-and-shoulders with right-weighted balance composition, seafoam with plum accent soft-color palette, crisp shadow edges from window daylight, creating a luminous frame 80cbca3ca578"
+      ],
+      "variantIndex": 17
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with fine surface grain photographic style, head-and-shoulders with centered balance composition, seafoam with moss accent soft-color palette, controlled high contrast from window daylight, broken by foreground shapes 8fdd997bdc7c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.8fdd997bdc7c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-layered-composition-with-observational-distance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-centered-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-window-daylight-broken-by-foreground-shape"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.seafoam-with-moss-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 13",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with fine surface grain photographic style, head-and-shoulders with centered balance composition, seafoam with moss accent soft-color palette, controlled high contrast from window daylight, broken by foreground shapes 8fdd997bdc7c"
+      ],
+      "variantIndex": 12
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with fine surface grain photographic style, head-and-shoulders with upper negative space composition, dove gray with raspberry accent soft-color palette, gentle atmospheric bloom from window daylight, reflected from nearby surfaces 9550df2c2d06"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.9550df2c2d06",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-symmetrical-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-upper-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-reflected-from-nearby-surf"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dove-gray-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 10",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with fine surface grain photographic style, head-and-shoulders with upper negative space composition, dove gray with raspberry accent soft-color palette, gentle atmospheric bloom from window daylight, reflected from nearby surfaces 9550df2c2d06"
+      ],
+      "variantIndex": 9
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with muted tonal range photographic style, head-and-shoulders with upper negative space composition, butter yellow with raspberry accent soft-color palette, controlled high contrast from window daylight, spilling into the background 966c66c39ef0"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.966c66c39ef0",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-negative-space-framing-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-upper-negative-space-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-window-daylight-spilling-into-the-backgrou"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.butter-yellow-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 15",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with muted tonal range photographic style, head-and-shoulders with upper negative space composition, butter yellow with raspberry accent soft-color palette, controlled high contrast from window daylight, spilling into the background 966c66c39ef0"
+      ],
+      "variantIndex": 14
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with centered period framing photographic style, head-and-shoulders with left-weighted balance composition, powder blue with raspberry accent soft-color palette, crisp shadow edges from window daylight, grazing textured surfaces a568e03f436d"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.a568e03f436d",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-negative-space-framing-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-left-weighted-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-grazing-textured-surfaces"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.powder-blue-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 7",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with centered period framing photographic style, head-and-shoulders with left-weighted balance composition, powder blue with raspberry accent soft-color palette, crisp shadow edges from window daylight, grazing textured surfaces a568e03f436d"
+      ],
+      "variantIndex": 6
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with centered period framing photographic style, head-and-shoulders with right-weighted balance composition, pale aqua with coral accent soft-color palette, gentle atmospheric bloom from window daylight, layered across depth planes a747097e574c"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.a747097e574c",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-centered-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-right-weighted-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.gentle-atmospheric-bloom-from-window-daylight-layered-across-depth-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.pale-aqua-with-coral-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 19",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with centered period framing photographic style, head-and-shoulders with right-weighted balance composition, pale aqua with coral accent soft-color palette, gentle atmospheric bloom from window daylight, layered across depth planes a747097e574c"
+      ],
+      "variantIndex": 18
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with muted tonal range photographic style, head-and-shoulders with left-weighted balance composition, mint cream with coral accent soft-color palette, soft diffusion from window daylight, spilling into the background bb58513d0884"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.bb58513d0884",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-right-weighted-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-left-weighted-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-window-daylight-spilling-into-the-background"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mint-cream-with-coral-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-muted-tonal-range-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 1",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with muted tonal range photographic style, head-and-shoulders with left-weighted balance composition, mint cream with coral accent soft-color palette, soft diffusion from window daylight, spilling into the background bb58513d0884"
+      ],
+      "variantIndex": 0
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with soft edge falloff photographic style, head-and-shoulders with left-weighted balance composition, cloud lavender with cobalt accent soft-color palette, soft diffusion from window daylight, falling off into shadow c544092f95d8"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.c544092f95d8",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-foreground-framed-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-left-weighted-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-window-daylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.cloud-lavender-with-cobalt-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-soft-edge-falloff-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 17",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with soft edge falloff photographic style, head-and-shoulders with left-weighted balance composition, cloud lavender with cobalt accent soft-color palette, soft diffusion from window daylight, falling off into shadow c544092f95d8"
+      ],
+      "variantIndex": 16
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with fine surface grain photographic style, head-and-shoulders with left-weighted balance composition, dove gray with teal accent soft-color palette, soft diffusion from window daylight, focused on the subject plane cd3423b9612e"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.cd3423b9612e",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-layered-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-left-weighted-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.soft-diffusion-from-window-daylight-focused-on-the-subject-plane"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.dove-gray-with-teal-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 14",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with fine surface grain photographic style, head-and-shoulders with left-weighted balance composition, dove gray with teal accent soft-color palette, soft diffusion from window daylight, focused on the subject plane cd3423b9612e"
+      ],
+      "variantIndex": 13
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with deep shadow detail photographic style, head-and-shoulders with mirrored side balance composition, mint cream with plum accent soft-color palette, crisp shadow edges from window daylight, falling off into shadow d2103e0ee96f"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.d2103e0ee96f",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-foreground-framed-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-mirrored-side-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.mint-cream-with-plum-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 4",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with deep shadow detail photographic style, head-and-shoulders with mirrored side balance composition, mint cream with plum accent soft-color palette, crisp shadow edges from window daylight, falling off into shadow d2103e0ee96f"
+      ],
+      "variantIndex": 3
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with centered period framing photographic style, head-and-shoulders with mirrored side balance composition, butter yellow with raspberry accent soft-color palette, crisp shadow edges from window daylight, falling off into shadow e375daa416bf"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.e375daa416bf",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-foreground-framed-composition-with-restrained-tension"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-mirrored-side-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.butter-yellow-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-centered-period-framing-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 5",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with centered period framing photographic style, head-and-shoulders with mirrored side balance composition, butter yellow with raspberry accent soft-color palette, crisp shadow edges from window daylight, falling off into shadow e375daa416bf"
+      ],
+      "variantIndex": 4
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with fine surface grain photographic style, head-and-shoulders with centered balance composition, soft pistachio with cobalt accent soft-color palette, crisp shadow edges from window daylight, contained in a localized pool f18e0931dda5"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.f18e0931dda5",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-negative-space-framing-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-centered-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.soft-pistachio-with-cobalt-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 24",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with fine surface grain photographic style, head-and-shoulders with centered balance composition, soft pistachio with cobalt accent soft-color palette, crisp shadow edges from window daylight, contained in a localized pool f18e0931dda5"
+      ],
+      "variantIndex": 23
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with fine surface grain photographic style, head-and-shoulders with mirrored side balance composition, pale aqua with raspberry accent soft-color palette, crisp shadow edges from window daylight, contained in a localized pool f540b03ea551"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.f540b03ea551",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-layered-composition-with-calm-visual-balance"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-mirrored-side-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.crisp-shadow-edges-from-window-daylight-contained-in-a-localized-pool"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.pale-aqua-with-raspberry-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-fine-surface-grain-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 8",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with fine surface grain photographic style, head-and-shoulders with mirrored side balance composition, pale aqua with raspberry accent soft-color palette, crisp shadow edges from window daylight, contained in a localized pool f540b03ea551"
+      ],
+      "variantIndex": 7
+    },
+    {
+      "aliases": [
+        "intimate close focus featuring instant film with deep shadow detail photographic style, head-and-shoulders with left-weighted balance composition, peach cream with teal accent soft-color palette, controlled high contrast from window daylight, falling off into shadow fe97118e72d9"
+      ],
+      "compatibility": {
+        "bases": [],
+        "checkpointIds": []
+      },
+      "conflicts": [],
+      "contentModes": [
+        "sfw"
+      ],
+      "familyId": "phase8.art.camera.intimate-close-focus",
+      "familyTriggers": [
+        "intimate close focus grammar",
+        "close portrait proximity",
+        "near-camera emotional framing"
+      ],
+      "id": "phase8.art.camera.intimate-close-focus.fe97118e72d9",
+      "ingredients": {
+        "camera": [
+          "phase8.scene-craft.camera.medium-close-up-frame-within-frame-composition-with-intimate-emphasis"
+        ],
+        "composition": [
+          "phase8.visual-language.composition.head-and-shoulders-with-left-weighted-balance-composition"
+        ],
+        "lighting": [
+          "phase8.scene-craft.lighting.controlled-high-contrast-from-window-daylight-falling-off-into-shadow"
+        ],
+        "palette": [
+          "phase8.visual-language.palette.peach-cream-with-teal-accent-soft-color-palette"
+        ],
+        "style": [
+          "phase8.visual-language.style.instant-film-with-deep-shadow-detail-photographic-style"
+        ]
+      },
+      "name": "Intimate Close Focus 3",
+      "optionalSlots": [],
+      "priority": 0,
+      "provenance": {
+        "family": "phase8.art.camera.intimate-close-focus",
+        "packId": "phase8.art-recipes",
+        "source": "phase-8-art-recipes"
+      },
+      "requiredSlots": [
+        "style",
+        "composition",
+        "palette",
+        "lighting",
+        "camera"
+      ],
+      "schemaVersion": 2,
+      "selectionCounts": {
+        "camera": 1,
+        "composition": 1,
+        "lighting": 1,
+        "palette": 1,
+        "style": 1
+      },
+      "signals": [
+        "close-focus intimacy",
+        "portrait crop attention",
+        "soft near-field emphasis"
+      ],
+      "triggers": [
+        "intimate close focus featuring instant film with deep shadow detail photographic style, head-and-shoulders with left-weighted balance composition, peach cream with teal accent soft-color palette, controlled high contrast from window daylight, falling off into shadow fe97118e72d9"
+      ],
+      "variantIndex": 2
+    }
+  ],
+  "schemaVersion": 2
+}

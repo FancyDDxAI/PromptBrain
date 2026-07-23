@@ -1,0 +1,253 @@
+{
+  "count": 7,
+  "entities": [
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Gintoki Sakata",
+        "Gintoki Sakata (Gintama)"
+      ],
+      "id": "character.gintama.gintoki-sakata",
+      "kind": "named-character",
+      "name": "Gintoki Sakata",
+      "namespace": "Gintama",
+      "promptTags": [
+        "Gintoki Sakata",
+        "Gintama",
+        "male",
+        "samurai handyman"
+      ],
+      "provenance": {
+        "groupId": "gintama",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "protagonist",
+        "samurai"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kagura",
+        "Kagura (Gintama)"
+      ],
+      "id": "character.gintama.kagura",
+      "kind": "named-character",
+      "name": "Kagura",
+      "namespace": "Gintama",
+      "promptTags": [
+        "Kagura",
+        "Gintama",
+        "female",
+        "Yorozuya fighter"
+      ],
+      "provenance": {
+        "groupId": "gintama",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "female",
+        "fighter",
+        "handyman"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Kotaro Katsura",
+        "Kotaro Katsura (Gintama)"
+      ],
+      "id": "character.gintama.kotaro-katsura",
+      "kind": "named-character",
+      "name": "Kotaro Katsura",
+      "namespace": "Gintama",
+      "promptTags": [
+        "Kotaro Katsura",
+        "Gintama",
+        "male",
+        "rebel samurai"
+      ],
+      "provenance": {
+        "groupId": "gintama",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "samurai",
+        "rebel"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Shinpachi Shimura",
+        "Shinpachi Shimura (Gintama)"
+      ],
+      "id": "character.gintama.shinpachi-shimura",
+      "kind": "named-character",
+      "name": "Shinpachi Shimura",
+      "namespace": "Gintama",
+      "promptTags": [
+        "Shinpachi Shimura",
+        "Gintama",
+        "male",
+        "samurai handyman"
+      ],
+      "provenance": {
+        "groupId": "gintama",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "samurai",
+        "handyman"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Shinsuke Takasugi",
+        "Shinsuke Takasugi (Gintama)"
+      ],
+      "id": "character.gintama.shinsuke-takasugi",
+      "kind": "named-character",
+      "name": "Shinsuke Takasugi",
+      "namespace": "Gintama",
+      "promptTags": [
+        "Shinsuke Takasugi",
+        "Gintama",
+        "male",
+        "rebel samurai"
+      ],
+      "provenance": {
+        "groupId": "gintama",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "samurai",
+        "antagonist"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Sogo Okita",
+        "Sogo Okita (Gintama)"
+      ],
+      "id": "character.gintama.sogo-okita",
+      "kind": "named-character",
+      "name": "Sogo Okita",
+      "namespace": "Gintama",
+      "promptTags": [
+        "Sogo Okita",
+        "Gintama",
+        "male",
+        "Shinsengumi officer"
+      ],
+      "provenance": {
+        "groupId": "gintama",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "samurai",
+        "officer"
+      ]
+    },
+    {
+      "adultAllowed": false,
+      "adultVerification": {
+        "evidenceRefs": [],
+        "reviewedBy": [],
+        "status": "unknown"
+      },
+      "aliases": [
+        "Toshiro Hijikata",
+        "Toshiro Hijikata (Gintama)"
+      ],
+      "id": "character.gintama.toshiro-hijikata",
+      "kind": "named-character",
+      "name": "Toshiro Hijikata",
+      "namespace": "Gintama",
+      "promptTags": [
+        "Toshiro Hijikata",
+        "Gintama",
+        "male",
+        "Shinsengumi officer"
+      ],
+      "provenance": {
+        "groupId": "gintama",
+        "packId": "phase8.anime-entities",
+        "source": "phase-8-anime-entities"
+      },
+      "traits": [
+        "fictional",
+        "anime",
+        "manga",
+        "male",
+        "samurai",
+        "officer"
+      ]
+    }
+  ],
+  "fingerprint": "0209b0039737392be68f3cd060aff4643494f35890eb35b2014ded6e0847c217",
+  "namespace": "Gintama",
+  "schemaVersion": 2
+}
