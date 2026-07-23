@@ -1,0 +1,10 @@
+# Keep GitHub's language statistics focused on authored application code.
+knowledge/generated/** linguist-generated=true
+reports/** linguist-generated=true
+tests/fixtures/** linguist-generated=true
+
+# Binary release and artwork files.
+PromptBrain.exe binary
+*.ico binary
+*.png binary
+

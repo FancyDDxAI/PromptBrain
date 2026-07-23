@@ -1,5 +1,11 @@
 # PromptBrain
 
+[![Release](https://img.shields.io/github/v/release/FancyDDxAI/PromptBrain?style=flat-square)](https://github.com/FancyDDxAI/PromptBrain/releases/latest)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D4?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square)
+![Engine](https://img.shields.io/badge/engine-local--first-22C55E?style=flat-square)
+[![Repository size](https://img.shields.io/github/repo-size/FancyDDxAI/PromptBrain?style=flat-square)](https://github.com/FancyDDxAI/PromptBrain)
+
 PromptBrain is a local-first Windows prompt studio for ComfyUI. It turns a short idea into a structured, checkpoint-aware image-generation prompt while keeping sessions, preferences, ratings, and learned prompt choices on the user's own computer.
 
 ## What it does
@@ -11,9 +17,30 @@ PromptBrain is a local-first Windows prompt studio for ComfyUI. It turns a short
 - Supports SFW and adult workflows while excluding underage and illegal content.
 - Works without a cloud API or bundled language model. An external local AI backend is optional.
 
+## Technology
+
+| Area | Technology | Purpose |
+| --- | --- | --- |
+| Desktop host | C# 12, .NET 8, Windows Forms | Native Windows executable, window lifecycle, local file access, and application APIs |
+| Desktop rendering | Microsoft Edge WebView2 | Hosts the responsive application interface inside the native shell |
+| Prompt engine | JavaScript | Deterministic intent parsing, checkpoint-aware prompt assembly, art direction, and local learning |
+| Interface | HTML5 and CSS3 | Workspace, model library, insights, prompt training, result lab, image memory, and settings |
+| Knowledge system | Structured JSON catalogs | 26,200 concepts, 330 entities, 1,446 recipes, checkpoint rules, and LoRA metadata |
+| Testing and tooling | Node.js and PowerShell | Deterministic campaigns, stress tests, catalog validation, builds, and deployment checks |
+
+## Repository Statistics
+
+[![Top language](https://img.shields.io/github/languages/top/FancyDDxAI/PromptBrain?style=flat-square)](https://github.com/FancyDDxAI/PromptBrain)
+[![Language count](https://img.shields.io/github/languages/count/FancyDDxAI/PromptBrain?style=flat-square)](https://github.com/FancyDDxAI/PromptBrain)
+[![Code size](https://img.shields.io/github/languages/code-size/FancyDDxAI/PromptBrain?style=flat-square)](https://github.com/FancyDDxAI/PromptBrain)
+[![Last commit](https://img.shields.io/github/last-commit/FancyDDxAI/PromptBrain?style=flat-square)](https://github.com/FancyDDxAI/PromptBrain/commits/main)
+
+GitHub's language bar is calculated from authored source. Generated catalogs, reports, binary releases, and test fixtures are explicitly excluded from language statistics.
+
 ## Download
 
-Download `PromptBrain-v1.0.0-win-x64.zip` from the latest GitHub release, extract it, and run `PromptBrain.exe`.
+- [Download the packaged Windows release](https://github.com/FancyDDxAI/PromptBrain/releases/latest)
+- [Download PromptBrain.exe directly](https://github.com/FancyDDxAI/PromptBrain/raw/refs/heads/main/PromptBrain.exe)
 
 ## Requirements
 
@@ -32,4 +59,3 @@ No AI model is bundled with this release. PromptBrain's deterministic engine wor
 ## Version
 
 Current release: **v1.0.0**
-
