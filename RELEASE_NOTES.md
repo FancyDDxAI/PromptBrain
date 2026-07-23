@@ -9,6 +9,10 @@ PromptBrain helps artists turn rough ideas into deliberate, well-ordered prompts
 ## Highlights
 
 - Offline deterministic prompt engine with 26,200 effective concepts.
+- Semantic intent compiler that separates goals, themes, entities, relationships, explicit requests, and open creative decisions.
+- Scene-graph planning with coherent seeded variation instead of unrelated random tag selection.
+- Semantic conflict repair for camera, pose, participant count, wardrobe state, and prompt block limits.
+- Built-in prompt critic with visible reasoning quality, repair diagnostics, and contextual preference learning.
 - 330 named character/entity records and 1,446 art-direction recipes.
 - Checkpoint-aware prompt ordering and syntax for WAI/Illustrious, SDXL, Pony, SD 1.5, FLUX, anime, and realistic model families.
 - LoRA compatibility filtering, prompt-only style tokens, and live LoRA weight controls.
@@ -38,8 +42,8 @@ PromptBrain helps artists turn rough ideas into deliberate, well-ordered prompts
 
 SHA-256 for `PromptBrain-v1.0.0-win-x64.zip`:
 
-`79A12CCA920151951EC9997B45572E610AEA2CB2978B83511118E64FBEEA996A`
+`A570DDDAB1855CF1F164564D678BFCF5D8E005641AF0D9C1684DE7A95C14C288`
 
 SHA-256 for `PromptBrain.exe`:
 
-`787DEEFE52428CD890CA069738BE0A35D07D6F987604F3205389EFFE27EB7211`
+`8397D223B683D600E559684D38CD83F04D7FE16B4CDC560DD1A12A064A30CD60`

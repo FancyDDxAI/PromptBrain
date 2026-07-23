@@ -160,6 +160,8 @@ All files in `engine/` are **RUNTIME SOURCE**.
   alongside the large catalog.
 - `art-director.js`: scores coherent recipe families against intent, picks a
   deterministic variant, and validates coordinated artistic direction.
+- `reasoning-engine.js`: compiles semantic intent, builds scene graphs, scores
+  coherent seeded variation, repairs contradictions, and critiques prompts.
 - `prompt-engine.js`: normalizes requests, resolves explicit concepts and named
   entities, applies content/checkpoint compatibility, requirements/conflicts,
   builds ScenePlan blocks, and compiles checkpoint-specific prompts.
@@ -168,7 +170,8 @@ All files in `engine/` are **RUNTIME SOURCE**.
   Director first and then concepts/entities/recipes with Prompt Engine, and
   builds compact UI indexes.
 - `learning-bridge.js`: converts persisted feedback scores and training rules
-  into optional ranking boosts/avoids. It cannot override explicit requests.
+  into optional ranking boosts/avoids, including checkpoint/archetype/theme
+  context. It cannot override explicit requests.
 - `state-store.js`: State V2 browser bridge, migrations, serialized saves,
   revision handling, lightweight local backup, and image externalization.
 
@@ -187,15 +190,16 @@ vocabulary. The two layers are complementary, not alternatives.
 4. `src/PromptBrain/Program.cs` safely serves embedded engine scripts under
    `/engine/...` and catalog resources under `/catalog/...`.
 5. `promptbrain.html` loads scripts in dependency order: state store, contracts,
-   seed, curated, Art Director, Prompt Engine, catalog store, learning bridge,
-   and finally `promptbrain.js`.
+   seed, curated, Art Director, Reasoning Engine, Prompt Engine, catalog store,
+   learning bridge, and finally `promptbrain.js`.
 6. `promptbrain.js::ensureEngineCatalog()` fetches `/catalog/manifest.json`,
    loads the listed shards, registers them with the Art Director and Prompt
    Engine, builds the alias index, and marks the engine ready.
 7. Workspace generation calls the engine with the request, selected checkpoint,
    content mode, vibe, explicit selections, LoRAs, and learned memory.
-8. The engine returns intent, scene plan, compiled positive prompt, optional
-   negative output, warnings, token estimate, and decision trace.
+8. The engine returns semantic intent, scene graph, seeded variation,
+   constraint repairs, scene plan, compiled prompt, critic score, warnings,
+   token estimate, and decision trace.
 9. If catalog loading fails, the UI reports the error and stops generation. It
    does not substitute the older tag builder. Optional Ollama failure falls back
    only to the already-loaded deterministic engine, never to legacy generation.
@@ -238,6 +242,10 @@ All files below are **TEST SOURCE**.
 - `prompt-engine.test.js`: intent, compatibility, planning, and compiler cases.
 - `prompt-engine-stress.test.js`: hundreds of deterministic cross-checkpoint
   generations and invariants.
+- `reasoning-engine.test.js`: semantic intent, scene graph, constraints,
+  variation, coherence ranking, and critic behavior.
+- `reasoning-campaign.test.js`: deterministic semantic quality across every
+  checkpoint dialect, including contradictory directions.
 - `art-director.test.js`: recipe scoring, variation, and artistic coherence.
 - `catalog-store.test.js`: manifest/shard loading, registration, and failures.
 - `learning-bridge.test.js`: feedback/training ranking without overriding intent.

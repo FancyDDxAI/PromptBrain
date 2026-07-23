@@ -195,6 +195,20 @@ async function run() {
     assert.equal(await page.locator("#userPrompt").inputValue(), request, "generation cleared the working request");
     await waitForSave(page, beforeGenerate);
     assert.equal(persistedState.usageStats.totalPrompts, 1, "real prompt counter did not increment");
+    const reasoningSummary = page.locator(".message.assistant .reasoning-details summary").last();
+    assert.ok(await reasoningSummary.count(), "generated prompt did not expose scene reasoning");
+    assert.match(await reasoningSummary.innerText(), /Scene reasoning\s+\d+\/100/i);
+    const savedReasoning = persistedState.chats
+      .flatMap((chat) => chat.messages || [])
+      .findLast((message) => message.promptPack)?.promptPack?.engine?.reasoning;
+    assert.ok(savedReasoning?.score >= 80, "reasoning diagnostics were not persisted with the prompt");
+    assert.ok(savedReasoning?.archetype, "saved reasoning has no scene archetype");
+    const feedbackSave = saveCount;
+    await page.locator('.message.assistant [data-rate][data-score="5"]').last().click();
+    await waitForSave(page, feedbackSave);
+    const contextBuckets = Object.keys(persistedState.usageStats.contextTagScores || {});
+    assert.ok(contextBuckets.some((key) => key === `archetype:${savedReasoning.archetype}`), "feedback did not enter contextual memory");
+    assert.ok(contextBuckets.some((key) => key.startsWith("checkpoint:")), "feedback lost its checkpoint context");
 
     await page.locator("#contentModeSelect").selectOption("adult");
     await page.waitForTimeout(100);

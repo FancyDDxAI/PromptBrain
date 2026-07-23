@@ -7,6 +7,34 @@
 
   const SCHEMA_VERSION = 1;
   const PREFER_BOOST = 40;
+  const CONTEXT_WEIGHTS = Object.freeze({
+    checkpoint: 1,
+    archetype: 1.25,
+    theme: 0.8,
+    vibe: 0.6,
+    content: 0.4
+  });
+
+  function contextValue(value) {
+    return String(value || "")
+      .toLowerCase()
+      .replace(/[^a-z0-9._-]+/g, "-")
+      .replace(/^-+|-+$/g, "");
+  }
+
+  function contextKeys(context = {}) {
+    const keys = [];
+    const add = (kind, value) => {
+      const normalized = contextValue(value);
+      if (normalized) keys.push(`${kind}:${normalized}`);
+    };
+    add("checkpoint", context.checkpointId);
+    add("archetype", context.archetype);
+    (context.themes || []).forEach((theme) => add("theme", theme));
+    add("vibe", context.vibe);
+    add("content", context.contentMode);
+    return [...new Set(keys)];
+  }
 
   function toTerms(value, extractTerms) {
     if (typeof extractTerms !== "function") return [];
@@ -28,6 +56,43 @@
       if (conceptId) scores[conceptId] = weight;
     });
     return scores;
+  }
+
+  function recordContextFeedback(buckets, context, terms, delta) {
+    if (!buckets || typeof buckets !== "object" || !Number.isFinite(delta) || delta === 0) return 0;
+    const cleanTerms = [...new Set((terms || []).map((term) => String(term || "").trim()).filter(Boolean))];
+    let writes = 0;
+    contextKeys(context).forEach((key) => {
+      buckets[key] ||= {};
+      cleanTerms.forEach((term) => {
+        buckets[key][term] = (Number(buckets[key][term]) || 0) + delta;
+        if (buckets[key][term] === 0) delete buckets[key][term];
+        writes += 1;
+      });
+    });
+    return writes;
+  }
+
+  function applyContextScores(scores, buckets, context, options = {}) {
+    const resolve = typeof options.resolveConceptId === "function" ? options.resolveConceptId : () => "";
+    const pull = Number.isFinite(options.pull) ? options.pull : 1;
+    const applied = { buckets: 0, terms: 0 };
+    contextKeys(context).forEach((key) => {
+      const [kind] = key.split(":");
+      const weight = Number(CONTEXT_WEIGHTS[kind] || 0) * pull;
+      const entries = buckets?.[key];
+      if (!entries || !weight) return;
+      applied.buckets += 1;
+      Object.entries(entries).forEach(([term, value]) => {
+        const contribution = (Number(value) || 0) * weight;
+        if (!contribution) return;
+        scores[term] = (Number(scores[term]) || 0) + contribution;
+        const conceptId = resolve(term);
+        if (conceptId) scores[conceptId] = (Number(scores[conceptId]) || 0) + contribution;
+        applied.terms += 1;
+      });
+    });
+    return applied;
   }
 
   /**
@@ -74,5 +139,14 @@
     return applied;
   }
 
-  return Object.freeze({ SCHEMA_VERSION, PREFER_BOOST, memoryScoresFrom, applyTraining });
+  return Object.freeze({
+    SCHEMA_VERSION,
+    PREFER_BOOST,
+    CONTEXT_WEIGHTS,
+    contextKeys,
+    memoryScoresFrom,
+    recordContextFeedback,
+    applyContextScores,
+    applyTraining
+  });
 });

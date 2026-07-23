@@ -1038,6 +1038,7 @@ function normalizeState() {
   state.usageStats.feedbackGood ||= 0;
   state.usageStats.feedbackBad ||= 0;
   state.usageStats.tagScores ||= {};
+  state.usageStats.contextTagScores ||= {};
   state.usageStats.vibeUsage ||= {};
   state.usageStats.checkpointUsage ||= {};
   state.usageStats.loraUsage ||= {};
@@ -2143,9 +2144,30 @@ function renderMessages() {
     const item = document.createElement("article");
     item.className = `message ${message.role}`;
     if (message.role === "assistant" && message.promptPack) {
+      const reasoning = message.promptPack.engine?.reasoning;
+      const reasoningDetails = reasoning ? `
+        <details class="reasoning-details">
+          <summary>
+            <span>Scene reasoning</span>
+            <strong>${escapeHtml(String(reasoning.score))}/100</strong>
+            <small>${escapeHtml(reasoning.archetype || "general")}</small>
+          </summary>
+          <div class="reasoning-grid">
+            <span><small>Goals</small>${escapeHtml((reasoning.goals || []).join(", ") || "general")}</span>
+            <span><small>Themes</small>${escapeHtml((reasoning.themes || []).join(", ") || "unrestricted")}</span>
+            <span><small>Actors</small>${escapeHtml(String(reasoning.actors || 1))}</span>
+            <span><small>Variation</small>${escapeHtml(reasoning.variationAxis || "balanced")}</span>
+            <span><small>Repairs</small>${escapeHtml(String(reasoning.repairedDirections || 0))}</span>
+            <span><small>Status</small>${escapeHtml(reasoning.status || "checked")}</span>
+          </div>
+          ${(reasoning.issues || []).length ? `
+            <ul class="reasoning-issues">${reasoning.issues.map((issue) =>
+              `<li>${escapeHtml(issue.message || issue.code || "Review suggested")}</li>`).join("")}</ul>` : ""}
+        </details>` : "";
       item.innerHTML = `
         <strong>PromptBrain</strong>
         <pre>${escapeHtml(message.text)}</pre>
+        ${reasoningDetails}
         <div class="copy-row">
           <button class="tiny-btn" data-copy="${index}" data-part="positive">Copy positive</button>
           <button class="tiny-btn" data-copy="${index}" data-part="negative">Copy negative</button>
@@ -2700,7 +2722,12 @@ const engineRuntime = {
 };
 
 function engineModulesPresent() {
-  return !!(globalThis.PromptBrainEngine && globalThis.PromptBrainArtDirector && globalThis.PromptBrainCatalogStore);
+  return !!(
+    globalThis.PromptBrainEngine
+    && globalThis.PromptBrainReasoning
+    && globalThis.PromptBrainArtDirector
+    && globalThis.PromptBrainCatalogStore
+  );
 }
 
 function engineReady() {
@@ -2785,12 +2812,26 @@ function engineConceptIdForTag(tag) {
 // The engine reads memoryScores by concept id or label, and buildMemory already
 // returns scored terms, so learned preferences map straight across. Memory only
 // reranks optional choices; it can never outrank a locked requirement.
-function engineMemoryScores() {
+function engineMemoryScores(intentModel = {}) {
   const pull = { strong: 1.6, medium: 1, light: 0.5 }[els.learningPull.value] ?? 1;
-  return globalThis.PromptBrainLearningBridge.memoryScoresFrom(buildMemory().slice(0, 120), {
+  const resolveConceptId = engineConceptIdForTag;
+  const scores = globalThis.PromptBrainLearningBridge.memoryScoresFrom(buildMemory().slice(0, 120), {
     pull,
-    resolveConceptId: engineConceptIdForTag
+    resolveConceptId
   });
+  globalThis.PromptBrainLearningBridge.applyContextScores(
+    scores,
+    state.usageStats.contextTagScores,
+    {
+      checkpointId: intentModel.checkpointId,
+      archetype: intentModel.archetype,
+      themes: intentModel.themes,
+      vibe: intentModel.vibe,
+      contentMode: intentModel.contentMode
+    },
+    { pull, resolveConceptId }
+  );
+  return scores;
 }
 
 function applyEngineTraining(input, intent, memoryScores) {
@@ -2893,7 +2934,7 @@ function buildPromptPackEngine(input, buildOptions = {}) {
 
   // Training is applied after explicit selections are locked in, so it can see what
   // the user asked for and stand down on those concepts.
-  const memoryScores = engineMemoryScores();
+  const memoryScores = engineMemoryScores(intent.reasoning?.intentModel);
   const training = applyEngineTraining(input, intent, memoryScores);
 
   const selectedNegative = selectedBuilderTags()
@@ -2951,6 +2992,18 @@ function buildPromptPackEngine(input, buildOptions = {}) {
       rejected: plan.rejected.map((item) => ({ id: item.conceptId, reason: item.reason })),
       warnings: plan.warnings.slice(),
       estimatedTokens: compiled.estimatedTokens,
+      reasoning: {
+        version: globalThis.PromptBrainReasoning.VERSION,
+        archetype: plan.reasoning?.intentModel?.archetype || "general",
+        goals: [...(plan.reasoning?.intentModel?.goals || [])],
+        themes: [...(plan.reasoning?.intentModel?.themes || [])],
+        actors: (plan.reasoning?.sceneGraph?.nodes || []).filter((item) => item.type === "actor").length,
+        variationAxis: plan.reasoning?.variation?.axis || "",
+        repairedDirections: plan.reasoning?.constraints?.changes?.length || 0,
+        score: compiled.critic?.score ?? 0,
+        status: compiled.critic?.status || "",
+        issues: [...(compiled.critic?.issues || [])]
+      },
       training
     }
   };
@@ -3056,6 +3109,21 @@ function recordFeedback(pack, score, historyId = "") {
   if (delta) terms.forEach((tag) => {
     state.usageStats.tagScores[tag] = (state.usageStats.tagScores[tag] || 0) + delta;
   });
+  if (delta) {
+    const reasoning = historyItem?.engine?.reasoning || pack?.engine?.reasoning || {};
+    globalThis.PromptBrainLearningBridge?.recordContextFeedback?.(
+      state.usageStats.contextTagScores,
+      {
+        checkpointId: historyItem?.checkpointId || pack?.checkpointId,
+        archetype: reasoning.archetype,
+        themes: reasoning.themes,
+        vibe: historyItem?.vibe || pack?.vibe,
+        contentMode: historyItem?.builderSnapshot?.contentMode || pack?.builderSnapshot?.contentMode
+      },
+      terms,
+      delta
+    );
+  }
   const latest = historyItem || state.usageStats.history.find((item) => item.prompt === pack?.positive);
   if (latest) latest.rating = next;
   if (key) state.usageStats.feedbackByArtifact[key] = next;

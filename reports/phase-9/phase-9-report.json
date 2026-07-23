@@ -70,7 +70,7 @@
     "fluxSyntaxViolations": 0,
     "gatesPassed": 23,
     "gatesTotal": 23,
-    "generatedWarnings": 91966,
+    "generatedWarnings": 94873,
     "internalAdultEligibilityFailures": 0,
     "ponyHeadViolations": 0,
     "semanticFailures": 0,
@@ -451,7 +451,7 @@
       "passed": true
     },
     {
-      "actual": 217175880,
+      "actual": 199587416,
       "examples": [],
       "expected": "< 1073741824",
       "id": "runtime.heap-budget",
@@ -460,15 +460,15 @@
     }
   ],
   "knownFailures": [],
-  "reproducibleDigest": "fa59ff8301b071359b64f18619f5d437f50de31c170b01f8251675890028d523",
+  "reproducibleDigest": "f4a2a0af3c94202b66375aeb47cd3fbb907f9f165b7a7f297d628af1300257f1",
   "runtime": {
-    "elapsedMs": 74228.8,
-    "heapEndBytes": 176485736,
-    "heapPeakBytes": 217175880,
-    "heapStartBytes": 5148040,
-    "meanGenerationMs": 6.4691,
-    "p50GenerationMs": 6.0626,
-    "p95GenerationMs": 10.0266
+    "elapsedMs": 126299.1,
+    "heapEndBytes": 155835808,
+    "heapPeakBytes": 199587416,
+    "heapStartBytes": 5139152,
+    "meanGenerationMs": 11.1235,
+    "p50GenerationMs": 10.5069,
+    "p95GenerationMs": 18.1733
   },
   "schemaVersion": 1
 }

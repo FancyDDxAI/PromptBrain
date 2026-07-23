@@ -10,7 +10,7 @@ const context = { console };
 context.globalThis = context;
 vm.createContext(context);
 
-["contracts.js", "seed-knowledge.js", "curated-knowledge.js", "art-director.js", "prompt-engine.js"].forEach((file) => {
+["contracts.js", "seed-knowledge.js", "curated-knowledge.js", "art-director.js", "reasoning-engine.js", "prompt-engine.js"].forEach((file) => {
   const source = fs.readFileSync(path.join(root, "engine", file), "utf8");
   vm.runInContext(source, context, { filename: file });
 });
@@ -19,6 +19,7 @@ assert.ok(context.PromptBrainContracts);
 assert.ok(context.PromptBrainSeedKnowledge);
 assert.ok(context.PromptBrainCuratedKnowledge);
 assert.ok(context.PromptBrainArtDirector);
+assert.ok(context.PromptBrainReasoning);
 assert.ok(context.PromptBrainEngine);
 
 const result = context.PromptBrainEngine.generate(
@@ -31,5 +32,6 @@ assert.ok(result.plan.blocks.style.some((entry) => /graphic anime/i.test(entry))
 assert.ok(result.compiled.positive.includes(result.plan.blocks.style[0]));
 assert.ok(result.compiled.positive.includes("oni woman"));
 assert.equal(result.compiled.negative, "");
+assert.ok(result.reasoning.critic.score >= 80);
 
 console.log("PromptBrain browser/WebView engine loading test passed.");

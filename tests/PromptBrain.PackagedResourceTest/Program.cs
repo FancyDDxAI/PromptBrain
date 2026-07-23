@@ -51,6 +51,7 @@ string[] engineScripts =
     "engine/seed-knowledge.js",
     "engine/curated-knowledge.js",
     "engine/art-director.js",
+    "engine/reasoning-engine.js",
     "engine/prompt-engine.js",
     "engine/catalog-store.js"
 ];
@@ -70,6 +71,7 @@ var globals = new Dictionary<string, string>
     ["engine/seed-knowledge.js"] = "PromptBrainSeedKnowledge",
     ["engine/curated-knowledge.js"] = "PromptBrainCuratedKnowledge",
     ["engine/art-director.js"] = "PromptBrainArtDirector",
+    ["engine/reasoning-engine.js"] = "PromptBrainReasoning",
     ["engine/prompt-engine.js"] = "PromptBrainEngine",
     ["engine/catalog-store.js"] = "PromptBrainCatalogStore"
 };

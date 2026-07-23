@@ -44,6 +44,7 @@
     <EmbeddedResource Include="..\..\engine\seed-knowledge.js" LogicalName="engine.seed-knowledge.js" />
     <EmbeddedResource Include="..\..\engine\curated-knowledge.js" LogicalName="engine.curated-knowledge.js" />
     <EmbeddedResource Include="..\..\engine\art-director.js" LogicalName="engine.art-director.js" />
+    <EmbeddedResource Include="..\..\engine\reasoning-engine.js" LogicalName="engine.reasoning-engine.js" />
     <EmbeddedResource Include="..\..\engine\prompt-engine.js" LogicalName="engine.prompt-engine.js" />
     <EmbeddedResource Include="..\..\engine\catalog-store.js" LogicalName="engine.catalog-store.js" />
     <EmbeddedResource Include="..\..\engine\learning-bridge.js" LogicalName="engine.learning-bridge.js" />

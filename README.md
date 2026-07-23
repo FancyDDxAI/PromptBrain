@@ -12,6 +12,7 @@ PromptBrain is a local-first Windows prompt studio for ComfyUI. It turns a short
 
 - Builds structured prompts for WAI/Illustrious, SDXL, Pony, SD 1.5, FLUX, and other checkpoint families.
 - Uses an embedded deterministic prompt engine with 26,200 effective concepts, 330 named entities, and 1,446 art-direction recipes.
+- Compiles requests into semantic intent and a scene graph, resolves conflicting directions, creates coherent seeded variations, and critiques each prompt before delivery.
 - Provides checkpoint rules, compatible LoRA controls, style tokens, character selection, pose and action controls, camera direction, lighting, environments, and weighted tags.
 - Includes prompt training, local preference learning, result comparison, image memory, sessions, history, and real usage insights.
 - Supports SFW and adult workflows while excluding underage and illegal content.
@@ -23,7 +24,7 @@ PromptBrain is a local-first Windows prompt studio for ComfyUI. It turns a short
 | --- | --- | --- |
 | Desktop host | C# 12, .NET 8, Windows Forms | Native Windows executable, window lifecycle, local file access, and application APIs |
 | Desktop rendering | Microsoft Edge WebView2 | Hosts the responsive application interface inside the native shell |
-| Prompt engine | JavaScript | Deterministic intent parsing, checkpoint-aware prompt assembly, art direction, and local learning |
+| Prompt engine | JavaScript | Semantic intent compilation, scene-graph planning, checkpoint-aware prompt assembly, critique, repair, and contextual learning |
 | Interface | HTML5 and CSS3 | Workspace, model library, insights, prompt training, result lab, image memory, and settings |
 | Knowledge system | Structured JSON catalogs | 26,200 concepts, 330 entities, 1,446 recipes, checkpoint rules, and LoRA metadata |
 | Testing and tooling | Node.js and PowerShell | Deterministic campaigns, stress tests, catalog validation, builds, and deployment checks |
@@ -41,13 +42,13 @@ GitHub's language bar is calculated from authored source. Generated catalogs, re
 
 | Language | Files | Lines | Share by source bytes |
 | --- | ---: | ---: | ---: |
-| JavaScript | 36 | 15,240 | 82.7% |
-| CSS | 1 | 3,696 | 7.2% |
-| C# | 3 | 1,360 | 5.9% |
-| HTML | 1 | 582 | 3.3% |
-| MSBuild/XML | 5 | 115 | 0.5% |
+| JavaScript | 39 | 16,285 | 83.4% |
+| CSS | 1 | 3,745 | 7.0% |
+| C# | 3 | 1,362 | 5.6% |
+| HTML | 1 | 583 | 3.1% |
+| MSBuild/XML | 3 | 99 | 0.5% |
 | PowerShell | 2 | 92 | 0.4% |
-| **Total** | **48** | **21,085** | **100%** |
+| **Total** | **49** | **22,166** | **100%** |
 
 This snapshot measures application, engine, test, and build-tool source. It excludes generated knowledge catalogs, reports, fixtures, dependencies, and compiled binaries.
 

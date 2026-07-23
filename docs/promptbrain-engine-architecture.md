@@ -1,6 +1,6 @@
 # PromptBrain Offline Engine Architecture
 
-Architecture version: 2
+Architecture version: 3
 
 ## Objective
 
@@ -40,13 +40,30 @@ Produce a `PromptIntent` contract containing entities, participants, explicit
 requirements, forbidden concepts, requested art direction, content mode,
 checkpoint, vibe, and unresolved ambiguities.
 
-### 3. Resolve Entities
+### 3. Compile Semantic Intent
+
+`engine/reasoning-engine.js` converts the parsed request into a checkpoint-
+independent semantic model. It identifies scene goals, themes, archetype,
+participant count, relationships, explicit slots, open slots, and the policy
+for inference, randomization, identity preservation, and memory.
+
+Words such as `artistic` or `action` become coordinated planning goals rather
+than tags appended to the output.
+
+### 4. Build Scene Graph
+
+The semantic model becomes a graph of actors, relationships, setting, camera,
+and style nodes. Unnamed supporting actors may exist as semantic roles without
+being converted into named characters. A generic fantasy species therefore
+remains generic unless entity resolution has explicit evidence.
+
+### 5. Resolve Entities
 
 Resolve named characters, series, species, clothing, locations, and actions.
 Resolution requires evidence and a confidence score. Namespace-aware matching
 prevents collisions such as `Dragon Ball` versus `dragon girl`.
 
-### 4. Build Constraints
+### 6. Build Constraints
 
 Convert explicit requirements into locks. Derive dependencies and exclusions.
 Examples:
@@ -58,7 +75,7 @@ Examples:
 - A selected checkpoint limits syntax, supported weights, and negative-prompt
   behavior.
 
-### 5. Select Art Direction
+### 7. Select Art Direction
 
 An `ArtRecipe` coordinates medium, rendering, composition, palette, lighting,
 motifs, atmosphere, and finishing effects. A request may lock some ingredients
@@ -71,13 +88,13 @@ Examples of recipe families:
 - Symbolic overhead horror composition
 - Cinematic foreshortened action
 
-### 6. Plan The Scene
+### 8. Plan The Scene
 
 Create a `ScenePlan` with participant roles, action, pose, expression,
 wardrobe, environment, lighting, camera, palette, motifs, and effects. Every
 decision is marked `explicit`, `entity`, `recipe`, `memory`, or `inferred`.
 
-### 7. Rank Knowledge
+### 9. Rank Knowledge
 
 Candidate score:
 
@@ -97,7 +114,12 @@ hard conflict              reject
 Memory influences ties and optional choices. It cannot override explicit
 requirements, identity, hard compatibility, or adult-participant rules.
 
-### 8. Validate
+The reasoning layer adds archetype and theme compatibility to optional
+selection. Kinetic scenes favor motion-compatible poses, camera, and effects;
+quiet scenes favor restrained staging. Variation remains seeded and protects
+every explicitly selected block.
+
+### 10. Repair And Validate
 
 Run semantic validators before rendering:
 
@@ -113,7 +135,12 @@ Run semantic validators before rendering:
 Invalid optional choices are replaced. Invalid explicit combinations are kept
 visible as warnings rather than silently rewritten.
 
-### 9. Compile
+The repair pass also handles literal selections without catalog conflict
+metadata. It resolves incompatible camera direction, shot distance, base pose,
+participant count, and wardrobe state; removes semantic duplicates; and prunes
+overloaded optional blocks. Every repair remains in the reasoning trace.
+
+### 11. Compile
 
 The checkpoint compiler transforms the validated plan into final syntax.
 
@@ -132,6 +159,21 @@ LoRA commands
 
 The exact order is a checkpoint profile setting. FLUX uses natural language;
 tag checkpoints use checkpoint-aware separators and weight syntax.
+
+### 12. Critique
+
+The completed prompt is scored for subject coverage, requested actions and
+relationships, unresolved conflicts, explicit requirement survival, block
+coherence, fallback dependence, and checkpoint token budget. The score,
+issues, metrics, variation axis, and repair trace are saved with the prompt and
+shown in the expandable Scene Reasoning panel.
+
+### 13. Learn In Context
+
+Ratings update global scores and contextual memory buckets for checkpoint,
+scene archetype, theme, vibe, and content mode. Matching context receives the
+strongest signal. Learned preferences still cannot override explicit
+requirements.
 
 ## Contracts
 

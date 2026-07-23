@@ -109,4 +109,51 @@ test("memoryScoresFrom records terms under both label and concept id", () => {
   assert.equal(scores["camera.from-below"], 6);
 });
 
+test("context memory reinforces matching scenes without leaking into unrelated archetypes", () => {
+  const buckets = {};
+  const writes = bridge.recordContextFeedback(
+    buckets,
+    {
+      checkpointId: "waiIllustriousXL",
+      archetype: "kinetic",
+      themes: ["fantasy"],
+      vibe: "Action",
+      contentMode: "sfw"
+    },
+    ["from below"],
+    4
+  );
+  assert.ok(writes >= 5);
+
+  const matching = {};
+  bridge.applyContextScores(
+    matching,
+    buckets,
+    {
+      checkpointId: "waiIllustriousXL",
+      archetype: "kinetic",
+      themes: ["fantasy"],
+      vibe: "Action",
+      contentMode: "sfw"
+    },
+    { resolveConceptId }
+  );
+  assert.ok(matching["camera.from-below"] > 10);
+
+  const unrelated = {};
+  bridge.applyContextScores(
+    unrelated,
+    buckets,
+    {
+      checkpointId: "fluxDev",
+      archetype: "quiet",
+      themes: ["realistic"],
+      vibe: "Portrait",
+      contentMode: "sfw"
+    },
+    { resolveConceptId }
+  );
+  assert.ok((unrelated["camera.from-below"] || 0) < matching["camera.from-below"]);
+});
+
 console.log("PromptBrain learning bridge tests passed.");

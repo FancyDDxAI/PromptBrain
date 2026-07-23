@@ -6,8 +6,8 @@
 - Checkpoints: 17
 - Modes: adult, sfw
 - Gates: 23/23 passed
-- Reproducible digest: `fa59ff8301b071359b64f18619f5d437f50de31c170b01f8251675890028d523`
-- Runtime: 74.23s, p95 10.0266ms, peak heap 207.1 MiB
+- Reproducible digest: `f4a2a0af3c94202b66375aeb47cd3fbb907f9f165b7a7f297d628af1300257f1`
+- Runtime: 126.30s, p95 18.1733ms, peak heap 190.3 MiB
 
 | Status | Gate | Actual | Expected |
 |---|---|---:|---:|
@@ -33,6 +33,6 @@
 | PASS | `loras.installed-coverage` | {"exercised":28,"explicitlyIncompatible":["phase8.installed-loras.lora.anima-masterpiece-v51","phase8.installed-loras.lora.anima-turbo-v0.2","phase8.installed-loras.lora.gpt-image-2-anima-base1-v1","phase8.installed-loras.lora.gpt-image-2-anima-base1-v1-1","phase8.installed-loras.lora.oily-shiny-glossy-skin-v2.1","phase8.installed-loras.lora.zit-splatter-ink-art-v0.1"],"failures":0,"mapped":28,"total":34,"unclassified":[]} | {"exercised":28,"explicitlyIncompatible":["phase8.installed-loras.lora.anima-masterpiece-v51","phase8.installed-loras.lora.anima-turbo-v0.2","phase8.installed-loras.lora.gpt-image-2-anima-base1-v1","phase8.installed-loras.lora.gpt-image-2-anima-base1-v1-1","phase8.installed-loras.lora.oily-shiny-glossy-skin-v2.1","phase8.installed-loras.lora.zit-splatter-ink-art-v0.1"],"failures":0,"mapped":28,"total":34,"unclassified":[]} |
 | PASS | `style-tokens.prompt-only` | {"exercised":17,"failures":0,"profiles":17,"tokens":3} | {"exercised":17,"failures":0,"profiles":17,"tokens":3} |
 | PASS | `learning.memory-influence` | {"baselineRecipe":"phase9.staging.grounded-portrait.7936ea0fcec3","explicitPrecedenceObserved":true,"failures":0,"influenceObserved":true,"learnedRecipe":"phase9.staging.grounded-portrait.1acb8d6cd913"} | {"explicitPrecedenceObserved":true,"failures":0,"influenceObserved":true} |
-| PASS | `runtime.heap-budget` | 217175880 | < 1073741824 |
+| PASS | `runtime.heap-budget` | 199587416 | < 1073741824 |
 
 The JSON report contains capped deterministic failure examples for every failed gate. Runtime metrics are observational and are excluded from the reproducible digest.

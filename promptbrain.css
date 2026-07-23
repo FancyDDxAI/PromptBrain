@@ -1457,6 +1457,65 @@ label {
   background: rgba(94, 221, 240, 0.075);
 }
 
+.reasoning-details {
+  margin-top: 10px;
+  border-top: 1px solid var(--line-soft);
+}
+
+.reasoning-details summary {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  align-items: center;
+  gap: 10px;
+  min-height: 40px;
+  color: var(--text-soft);
+  cursor: pointer;
+  list-style: none;
+}
+
+.reasoning-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.reasoning-details summary strong {
+  color: var(--accent);
+}
+
+.reasoning-details summary small {
+  text-transform: capitalize;
+}
+
+.reasoning-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+  padding: 4px 0 10px;
+}
+
+.reasoning-grid span {
+  min-width: 0;
+  color: var(--text);
+  overflow-wrap: anywhere;
+}
+
+.reasoning-grid small {
+  display: block;
+  margin-bottom: 2px;
+  color: var(--muted);
+}
+
+.reasoning-issues {
+  margin: 0 0 10px;
+  padding-left: 18px;
+  color: var(--gold);
+}
+
+@media (max-width: 680px) {
+  .reasoning-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
 pre,
 .message pre,
 .tool-output {

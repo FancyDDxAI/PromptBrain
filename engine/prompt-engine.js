@@ -11,13 +11,16 @@
   const artDirector = typeof module === "object" && module.exports
     ? require("./art-director.js")
     : root.PromptBrainArtDirector;
-  const api = factory(contracts, seed, curated, artDirector);
+  const reasoning = typeof module === "object" && module.exports
+    ? require("./reasoning-engine.js")
+    : root.PromptBrainReasoning;
+  const api = factory(contracts, seed, curated, artDirector, reasoning);
   if (typeof module === "object" && module.exports) module.exports = api;
   if (root) root.PromptBrainEngine = api;
-})(typeof globalThis !== "undefined" ? globalThis : this, function createPromptEngine(contracts, seed, curated, artDirector) {
+})(typeof globalThis !== "undefined" ? globalThis : this, function createPromptEngine(contracts, seed, curated, artDirector, reasoning) {
   "use strict";
 
-  if (!contracts || !seed || !curated || !artDirector) {
+  if (!contracts || !seed || !curated || !artDirector || !reasoning) {
     throw new Error("PromptBrain engine dependencies are missing.");
   }
 
@@ -463,6 +466,12 @@
     intent.rejectedEntities = entities.rejected.map((item) => item.entity.id);
     intent.artDirection.requested = /\b(artistic|artwork|illustration|painting|poster|graphic|ukiyo|hokusai|sumi|horror|cinematic|fantasy|editorial|surreal|gothic|baroque|cyberpunk|decorative)\b/.test(normalized.matchText);
     intent.artDirection.strength = intent.artDirection.requested ? 1 : 0;
+    const intentModel = reasoning.compileIntent(intent);
+    intent.reasoning = {
+      intentModel,
+      sceneGraph: reasoning.buildSceneGraph(intent, intentModel),
+      variation: reasoning.createVariationProfile(intentModel)
+    };
     return intent;
   }
 
@@ -959,7 +968,16 @@
     const ranked = candidates
       .map((item) => {
         const memory = Number(memoryScores?.[item.id] || memoryScores?.[item.label] || 0);
-        return { item, memory, score: Number(item.priority || 0) * 2 + memory * 12 + random() * 11 };
+        const coherence = reasoning.scoreCandidate(item, {
+          model: selection.plan.reasoning?.intentModel,
+          variation: selection.plan.reasoning?.variation
+        });
+        return {
+          item,
+          memory,
+          coherence,
+          score: Number(item.priority || 0) * 2 + memory * 12 + coherence + random() * 11
+        };
       })
       .filter((entry) => entry.memory > -4)
       .sort((a, b) => b.score - a.score || a.item.id.localeCompare(b.item.id));
@@ -1246,7 +1264,7 @@
     if (intent.rejectedEntities?.length || selection.plan.rejected.some((item) => item.source === "entity")) return;
     const normalized = intent.normalizedText;
     if (!selection.plan.blocks.subject.length) {
-      const subjectPattern = /\b(?:generic\s+)?(?:cyberpunk\s+)?(?:adult\s+)?(?:swordswoman|woman|man|girl|boy|person|character)\b/g;
+      const subjectPattern = /\b(?:(?:generic|adult|anime|fantasy|female|male|masked|armored|cyberpunk|gothic|oni|dragon|demon|mouse|vampire|ice elf|science fiction)\s+){0,3}(?:androids?|archers?|assassins?|characters?|girls?|hero|heroes|knights?|mages?|man|men|mechanics?|ninjas?|people|persons?|pilots?|priestess|priestesses|samurai|soldiers?|sorcerers?|swordsman|swordsmen|swordswoman|swordswomen|vampires?|villains?|warriors?|witch|witches|woman|women)\b/g;
       const subjects = normalized.match(subjectPattern) || [];
       subjects.forEach((subject) => addLiteral(selection, "subject", subject, {
         source: "explicit",
@@ -1264,8 +1282,17 @@
         reason: "parsed an interaction phrase from the request"
       });
     }
+    if (!selection.plan.blocks.action.length) {
+      const action = normalized.match(/\b(?:casting|charging|cooking|drinking|flying|holding|painting|preparing|reading|repairing|running|standing|walking|wielding|writing)(?:\s+(?!(?:at|in|inside|on|through|under|with)\b)[a-z0-9']+){0,4}/)?.[0];
+      if (action) addLiteral(selection, "action", action, {
+        source: "explicit",
+        score: 900,
+        locked: true,
+        reason: "parsed an action phrase from the request"
+      });
+    }
     if (!selection.plan.blocks.environment.length) {
-      const environment = normalized.match(/\b(?:intimate bedroom|private suite|modern apartment|dark studio|quiet interior|moonlit garden|frozen battlefield|ruined city|ancient ruins|candlelit chamber)\b/)?.[0];
+      const environment = normalized.match(/\b(?:(?:ancient|burning|candlelit|cozy|dark|frozen|gothic|intimate|modern|moonlit|neon|quiet|rain-covered|ruined|snowy)\s+){0,2}(?:apartment|battlefield|bridge|cathedral|chamber|city|cottage|courtyard|forest|garden|hotel room|interior|laboratory|rooftop|room|ruins|shrine|spacecraft|studio|suite|temple)\b/)?.[0];
       if (environment) addLiteral(selection, "environment", environment, {
         source: "explicit",
         score: 900,
@@ -1300,6 +1327,13 @@
     ensureAdultParticipants(intent);
     const plan = contracts.createScenePlan(intent);
     plan.warnings.push(...(intent.warnings || []));
+    const intentModel = reasoning.compileIntent(intent);
+    plan.reasoning = {
+      intentModel,
+      sceneGraph: reasoning.buildSceneGraph(intent, intentModel),
+      variation: reasoning.createVariationProfile(intentModel, { seed: intent.seed }),
+      requiredConceptIds: intent.directives.required.map((item) => item.conceptId).filter(Boolean)
+    };
     const forbidden = {
       phrases: intent.directives.forbidden.map((item) => item.phrase).filter(Boolean),
       conceptIds: new Set(intent.directives.forbidden.map((item) => item.conceptId).filter(Boolean))
@@ -1346,6 +1380,7 @@
       .filter((item) => selectedEntityIds.has(item.id) || selection.byId.has(item.id) || (intent.contentMode === "adult" && item.adultVerified))
       .filter((item, index, values) => values.findIndex((other) => other.id === item.id) === index)
       .map((item) => ({ ...item }));
+    reasoning.resolvePlan(plan, { model: intentModel });
     return plan;
   }
 
@@ -1527,6 +1562,14 @@
     if (compiled.estimatedTokens > profile.maxEstimatedTokens) {
       compiled.warnings.push(`Estimated prompt length ${compiled.estimatedTokens} exceeds ${profile.name} target ${profile.maxEstimatedTokens}.`);
     }
+    compiled.critic = reasoning.critique(plan, compiled, {
+      model: plan.reasoning?.intentModel,
+      requiredConceptIds: plan.reasoning?.requiredConceptIds || [],
+      maxEstimatedTokens: profile.maxEstimatedTokens
+    });
+    if (compiled.critic.status === "poor") {
+      compiled.warnings.push(`Prompt reasoning score is ${compiled.critic.score}/100; review the unresolved scene directions.`);
+    }
     const validation = contracts.validateCompiledPrompt(compiled);
     if (!validation.valid) throw new Error(`Invalid CompiledPrompt: ${validation.errors.join("; ")}`);
     return compiled;
@@ -1536,7 +1579,18 @@
     const intent = parseIntent(rawText, options);
     const plan = planScene(intent, options);
     const compiled = compilePrompt(plan, options);
-    return { intent, plan, compiled };
+    return {
+      intent,
+      plan,
+      compiled,
+      reasoning: {
+        intentModel: plan.reasoning?.intentModel,
+        sceneGraph: plan.reasoning?.sceneGraph,
+        variation: plan.reasoning?.variation,
+        constraints: plan.reasoning?.constraints,
+        critic: compiled.critic
+      }
+    };
   }
 
   return Object.freeze({
@@ -1556,6 +1610,7 @@
     checkpointProfile,
     conceptCompatibility,
     cleanCatalogPromptForOutput,
+    reasoning,
     planScene,
     compilePrompt,
     estimateTokens,
